@@ -7,7 +7,9 @@ def fetch_code_time():
 
 readme = "# Overview\n\n"+\
 "📊 Weekly development breakdown\n\n"+\
-  fetch_code_time().text
+"```text\n"+\
+  fetch_code_time().text+\
+"```"
 
 print (readme)
 
