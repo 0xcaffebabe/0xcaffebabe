@@ -19,6 +19,7 @@ jobs:
     - name: Install Python dependencies
       run: |
         pip install httpx
+        pip install beautifulsoup4
     - name: Update README
       env:
         GH_TOKEN: ${{ secrets.GH_TOKEN }}
