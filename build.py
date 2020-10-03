@@ -29,7 +29,7 @@ def fetch_recent_blog():
   return html
 
 readmeTemplate = """
-## Overview!
+## Overview
 
 #### 📖 最近博客
 
