@@ -1,9 +1,13 @@
 
-## Overview!
+## Overview
+
+<table>
+
+<tr>
+<td valign="top" width="50%">
 
 #### 📖 最近博客
 
-<!-- blog starts -->
 
 * <a href="https://ismy.wang/%E7%AE%97%E6%B3%95/2020/09/18/%E8%B0%88%E8%B0%88bitmap%E7%9A%84%E4%BD%BF%E7%94%A8.html" target="_blank"> 谈谈bitmap的使用 </a> - 2020/09/18 
 
@@ -19,19 +23,15 @@
     
 * <a href="https://ismy.wang/spring/2019/11/04/Spring-%E5%9B%9B-%E4%BA%8B%E5%8A%A1%E7%AE%A1%E7%90%86.html" target="_blank"> Spring(四):事务管理 </a> - 2019/11/04 
 
-    
-<!-- blog ends -->
+        
 
 </td>
-</tr>
-<tr>
+
 <td valign="top" width="50%">
 
 #### 📊 最近一周开发时间
 
-<!-- code_time starts -->
-
-```text
+```
 Markdown    18 hrs 34 mins ███████████▋░░░░░░░░░  55.4%
 Java        6 hrs 47 mins  ████▎░░░░░░░░░░░░░░░░  20.3%
 Go          3 hrs 12 mins  ██░░░░░░░░░░░░░░░░░░░   9.6%
@@ -39,9 +39,30 @@ Python      1 hr 3 mins    ▋░░░░░░░░░░░░░░░░�
 JavaScript  59 mins        ▌░░░░░░░░░░░░░░░░░░░░   3.0%
 ```
 
-<!-- code_time ends -->
-
 </td>
 
-  </tr>
-  </table>
+</tr>
+
+<tr>
+
+<td valign="top" width="50%">
+
+#### 📝 最近在做
+
+- [读的书](https://github.com/users/0xcaffebabe/projects/4)
+  - Redis 开发与运维
+  - 深入分析 Java Web 技术内幕
+  - 程序员修炼之道：从小工到专家
+
+
+- [后端在学的东西](https://github.com/users/0xcaffebabe/projects/1)
+  - spring cloud alibaba
+
+
+<td>
+...
+</td>
+
+</tr>
+
+</table>

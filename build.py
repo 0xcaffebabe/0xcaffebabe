@@ -8,7 +8,7 @@ def fetch_code_time():
 
 def fetch_recent_blog():
   text = httpx.get('https://ismy.wang').text
-  soup = BeautifulSoup(text)
+  soup = BeautifulSoup(text,features="html.parser")
   postList = soup.select(".post-list li")
   count = 0
   html = ""
@@ -28,38 +28,31 @@ def fetch_recent_blog():
     count = count + 1
   return html
 
-readmeTemplate = """
-## Overview
+def fetch_inprogrss_book_list():
+  text = httpx.get('https://github.com/users/0xcaffebabe/projects/4/columns/9526532/cards').text
+  soup = BeautifulSoup(text,features="html.parser")
+  taskList = soup.select('.js-task-list-container')
+  html = ""
+  for i in taskList:
+    html += "  - " + i.p.text + "\n"
+  return html
 
-#### 📖 最近博客
+def fetch_inprogrss_backend_task():
+  text = httpx.get('https://github.com/users/0xcaffebabe/projects/1/columns/9443827/cards').text
+  soup = BeautifulSoup(text,features="html.parser")
+  taskList = soup.select('.js-task-list-container')
+  html = ""
+  for i in taskList:
+    html += "  - " + i.p.text + "\n"
+  return html
 
-<!-- blog starts -->
-${recent_blogs}
-<!-- blog ends -->
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-#### 📊 最近一周开发时间
-
-<!-- code_time starts -->
-
-```text
-${code_time}
-```
-
-<!-- code_time ends -->
-
-</td>
-
-  </tr>
-  </table>
-"""
+readmeTemplate = ''.join(open('./template.md','r',encoding="utf8").readlines())
 
 readme = readmeTemplate.replace('${code_time}', fetch_code_time().text)
 readme = readme.replace("${recent_blogs}",fetch_recent_blog())
+readme = readme.replace("${book_list}",fetch_inprogrss_book_list())
+readme = readme.replace("${backend_task}",fetch_inprogrss_backend_task())
+
 print (readme)
 
 open('./README.md','w',encoding="utf8").write(readme)
