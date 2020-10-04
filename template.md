@@ -28,13 +28,16 @@ ${code_time}
 
 <td valign="top" width="50%">
 
-#### 📝 最近在做
+#### 📝 计划
 
-- [读的书](https://github.com/users/0xcaffebabe/projects/4)
+- [书单](https://github.com/users/0xcaffebabe/projects/4)
 ${book_list}
 
-- [后端在学的东西](https://github.com/users/0xcaffebabe/projects/1)
+- [后端学习计划](https://github.com/users/0xcaffebabe/projects/1)
 ${backend_task}
+
+- [其他学习计划](https://github.com/users/0xcaffebabe/projects/3)
+${other_task}
 
 <td>
 ...

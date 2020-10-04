@@ -28,8 +28,8 @@ def fetch_recent_blog():
     count = count + 1
   return html
 
-def fetch_inprogrss_book_list():
-  text = httpx.get('https://github.com/users/0xcaffebabe/projects/4/columns/9526532/cards').text
+def fetch_form_github_cards(url):
+  text = httpx.get(url).text
   soup = BeautifulSoup(text,features="html.parser")
   taskList = soup.select('.js-task-list-container')
   html = ""
@@ -37,14 +37,14 @@ def fetch_inprogrss_book_list():
     html += "  - " + i.p.text + "\n"
   return html
 
+def fetch_inprogrss_book_list():
+  return fetch_form_github_cards('https://github.com/users/0xcaffebabe/projects/4/columns/9526532/cards')
+
 def fetch_inprogrss_backend_task():
-  text = httpx.get('https://github.com/users/0xcaffebabe/projects/1/columns/9443827/cards').text
-  soup = BeautifulSoup(text,features="html.parser")
-  taskList = soup.select('.js-task-list-container')
-  html = ""
-  for i in taskList:
-    html += "  - " + i.p.text + "\n"
-  return html
+  return fetch_form_github_cards('https://github.com/users/0xcaffebabe/projects/1/columns/9443827/cards')
+
+def fetch_inprogress_other_task():
+  return fetch_form_github_cards('https://github.com/users/0xcaffebabe/projects/3/columns/9526508/cards')
 
 readmeTemplate = ''.join(open('./template.md','r',encoding="utf8").readlines())
 
@@ -52,6 +52,7 @@ readme = readmeTemplate.replace('${code_time}', fetch_code_time().text)
 readme = readme.replace("${recent_blogs}",fetch_recent_blog())
 readme = readme.replace("${book_list}",fetch_inprogrss_book_list())
 readme = readme.replace("${backend_task}",fetch_inprogrss_backend_task())
+readme = readme.replace("${other_task}",fetch_inprogress_other_task())
 
 print (readme)
 
