@@ -1,5 +1,6 @@
 import httpx
 from bs4 import BeautifulSoup
+import datetime
 
 def fetch_code_time():
     return httpx.get(
@@ -53,6 +54,7 @@ readme = readme.replace("${recent_blogs}",fetch_recent_blog())
 readme = readme.replace("${book_list}",fetch_inprogrss_book_list())
 readme = readme.replace("${backend_task}",fetch_inprogrss_backend_task())
 readme = readme.replace("${other_task}",fetch_inprogress_other_task())
+readme = readme.replace("${gen_time}",datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
 
 print (readme)
 
