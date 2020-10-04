@@ -60,6 +60,8 @@ Properties  57 mins        ▋░░░░░░░░░░░░░░░░�
 
 
 - [其他学习计划](https://github.com/users/0xcaffebabe/projects/3)
+  - arduino
+  - 人工智能导论
 
 
 <td>
