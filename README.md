@@ -47,19 +47,19 @@ Properties  57 mins        ▋░░░░░░░░░░░░░░░░�
 
 <td valign="top" width="50%">
 
-#### 📝 最近在做
+#### 📝 计划
 
-- [读的书](https://github.com/users/0xcaffebabe/projects/4)
+- [书单](https://github.com/users/0xcaffebabe/projects/4)
   - Redis 开发与运维
   - 深入分析 Java Web 技术内幕
   - 程序员修炼之道：从小工到专家
 
 
-- [后端在学的东西](https://github.com/users/0xcaffebabe/projects/1)
+- [后端学习计划](https://github.com/users/0xcaffebabe/projects/1)
   - memcached
 
 
-- [其他在学](https://github.com/users/0xcaffebabe/projects/3)
+- [其他学习计划](https://github.com/users/0xcaffebabe/projects/3)
 
 
 <td>
