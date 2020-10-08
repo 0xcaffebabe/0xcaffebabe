@@ -1,7 +1,7 @@
 
 ## Overview
 
-由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2020-10-08 06:46:03_
+由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2020-10-08 12:12:26_
 
 <table>
 
@@ -52,8 +52,8 @@ Groovy      40 mins        ▌░░░░░░░░░░░░░░░░�
 #### 📝 计划
 
 - [书单](https://github.com/users/0xcaffebabe/projects/4)
+  - 集体智慧编程
   - Redis 开发与运维
-  - 深入分析 Java Web 技术内幕
   - 程序员修炼之道：从小工到专家
 
 
