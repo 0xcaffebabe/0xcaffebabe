@@ -1,7 +1,7 @@
 
 ## Overview
 
-由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2020-10-13 00:27:20_
+由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2020-10-13 12:12:57_
 
 <table>
 
@@ -53,8 +53,8 @@ HTML        4 mins         ░░░░░░░░░░░░░░░░░�
 
 - [书单](https://github.com/users/0xcaffebabe/projects/4)
   - 集体智慧编程
-  - Redis 开发与运维
-  - 程序员修炼之道：从小工到专家
+  - 深入理解JVM
+  - 大型网站技术架构
 
 
 - [后端学习计划](https://github.com/users/0xcaffebabe/projects/1)
@@ -63,7 +63,6 @@ HTML        4 mins         ░░░░░░░░░░░░░░░░░�
 
 - [其他学习计划](https://github.com/users/0xcaffebabe/projects/3)
   - arduino
-  - 人工智能导论
 
 
 <td>
