@@ -42,7 +42,7 @@ ${code_time}
 
 #### 📝 计划
 
-- [书单](https://github.com/users/0xcaffebabe/projects/4)
+- [进行中的书单](https://github.com/users/0xcaffebabe/projects/4)
 ${book_list}
 
 - [后端学习计划](https://github.com/users/0xcaffebabe/projects/1)
