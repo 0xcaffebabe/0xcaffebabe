@@ -56,7 +56,7 @@ def fetch_inprogress_other_task():
 
 readmeTemplate = ''.join(open('./template.md','r',encoding="utf8").readlines())
 
-readme = readmeTemplate.replace('${code_time}', fetch_code_time().text)
+readme = readmeTemplate.replace('${code_time}', fetch_code_time())
 readme = readme.replace("${recent_blogs}",fetch_recent_blog())
 readme = readme.replace("${book_list}",fetch_inprogrss_book_list())
 readme = readme.replace("${backend_task}",fetch_inprogrss_backend_task())
