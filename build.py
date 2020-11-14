@@ -3,12 +3,19 @@ from bs4 import BeautifulSoup
 import datetime
 
 def fetch_code_time():
-    return httpx.get(
+    return httpGet(
         "https://gist.githubusercontent.com/0xcaffebabe/8ea5a71947543404d826b1a839b29398/raw"
     )
 
+def httpGet(url):
+  client = httpx.Client()
+  try:
+    return client.get(url).text
+  finally:
+    client.close()
+
 def fetch_recent_blog():
-  text = httpx.get('https://ismy.wang').text
+  text = httpGet('https://ismy.wang')
   soup = BeautifulSoup(text,features="html.parser")
   postList = soup.select(".post-list li")
   count = 0
@@ -30,7 +37,7 @@ def fetch_recent_blog():
   return html
 
 def fetch_form_github_cards(url):
-  text = httpx.get(url).text
+  text = httpGet(url)
   soup = BeautifulSoup(text,features="html.parser")
   taskList = soup.select('.js-task-list-container')
   html = ""
