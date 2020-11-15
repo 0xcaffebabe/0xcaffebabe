@@ -1,9 +1,6 @@
 import httpx
-import ssl
 from bs4 import BeautifulSoup
 import datetime
-
-ssl._create_default_https_context = ssl._create_unverified_context
 
 def fetch_code_time():
     return httpGet(
@@ -11,7 +8,7 @@ def fetch_code_time():
     )
 
 def httpGet(url):
-  client = httpx.Client()
+  client = httpx.Client(verify = False)
   try:
     return client.get(url).text
   finally:
