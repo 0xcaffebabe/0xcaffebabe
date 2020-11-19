@@ -11,7 +11,7 @@
 |__| |__||_______||_______||_______||_______||__| |__||_______||___|  |_||_______||______|                        
 ```
 
-由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2020-11-19 22:26:21_
+由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2020-11-19 14:32:53_
 
 <table>
 
@@ -79,6 +79,9 @@ YAML        1 hr 22 mins   ▊░░░░░░░░░░░░░░░░�
 #### 🌴最近提交
 
 
+* <a href="https://github.com/0xcaffebabe/0xcaffebabe" target="_blank"> 调整脚本执行频率为3天一次 </a> - 2020-11-19T14:29:31Z 
+
+    
 * <a href="https://github.com/0xcaffebabe/note" target="_blank"> ✏更新 Erlang </a> - 2020-11-19T09:57:37Z 
 
     
@@ -95,9 +98,6 @@ YAML        1 hr 22 mins   ▊░░░░░░░░░░░░░░░░�
 
     
 * <a href="https://github.com/0xcaffebabe/note" target="_blank"> 🛠优化 统计脚本 </a> - 2020-11-17T13:49:35Z 
-
-    
-* <a href="https://github.com/0xcaffebabe/note" target="_blank"> ✏更新 README </a> - 2020-11-17T09:55:23Z 
 
     
 
