@@ -1,6 +1,8 @@
+from os import removedirs
 import httpx
 from bs4 import BeautifulSoup
 import datetime
+import json
 
 def fetch_code_time():
     return httpGet(
@@ -45,6 +47,31 @@ def fetch_form_github_cards(url):
     html += "  - " + i.p.text + "\n"
   return html
 
+def fetch_commits():
+  text = httpGet('https://api.github.com/users/0xcaffebabe/events/public')
+  data = json.loads(text)
+  ret = ''
+  i = 0
+  for item in data:
+    if i >=7 : break
+
+    msg = item['payload']['commits'][0]['message']
+    time = item['created_at']
+    repo = item['repo']['name']
+
+    if msg == 'update': continue
+    
+    i = i + 1
+    str = """
+* <a href="${link}" target="_blank"> ${title} </a> - ${date} \n
+    """
+    str = str.replace('${link}', 'https://github.com/' + repo)
+    str = str.replace('${title}', msg)
+    str = str.replace('${date}', time)
+    ret += str
+  return ret
+    
+
 def fetch_inprogrss_book_list():
   return fetch_form_github_cards('https://github.com/users/0xcaffebabe/projects/4/columns/9526532/cards')
 
@@ -62,6 +89,7 @@ readme = readme.replace("${book_list}",fetch_inprogrss_book_list())
 readme = readme.replace("${backend_task}",fetch_inprogrss_backend_task())
 readme = readme.replace("${other_task}",fetch_inprogress_other_task())
 readme = readme.replace("${gen_time}",datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
+readme = readme.replace("${commits}",fetch_commits())
 
 print (readme)
 

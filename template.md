@@ -52,7 +52,11 @@ ${backend_task}
 ${other_task}
 
 <td>
-...
+
+#### 🌴最近提交
+
+${commits}
+
 </td>
 
 </tr>
