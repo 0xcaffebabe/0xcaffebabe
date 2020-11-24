@@ -11,7 +11,7 @@
 |__| |__||_______||_______||_______||_______||__| |__||_______||___|  |_||_______||______|                        
 ```
 
-由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2020-11-23 12:09:29_
+由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2020-11-24 12:09:18_
 
 <table>
 
@@ -44,11 +44,11 @@
 #### 📊 最近一周开发时间
 
 ```
-Markdown    13 hrs 33 mins ████████▊░░░░░░░░░░░░  42.3%
-Vue.js      7 hrs          ████▌░░░░░░░░░░░░░░░░  21.8%
-Java        3 hrs 29 mins  ██▎░░░░░░░░░░░░░░░░░░  10.9%
-XML         3 hrs 3 mins   ██░░░░░░░░░░░░░░░░░░░   9.5%
-YAML        1 hr 42 mins   █░░░░░░░░░░░░░░░░░░░░   5.3%
+Markdown    11 hrs 13 mins ████████▎░░░░░░░░░░░░  39.5%
+Vue.js      6 hrs 14 mins  ████▌░░░░░░░░░░░░░░░░  21.9%
+Java        3 hrs 28 mins  ██▌░░░░░░░░░░░░░░░░░░  12.2%
+XML         3 hrs 2 mins   ██▏░░░░░░░░░░░░░░░░░░  10.7%
+JavaScript  1 hr 22 mins   █░░░░░░░░░░░░░░░░░░░░   4.8%
 ```
 
 </td>
@@ -79,6 +79,18 @@ YAML        1 hr 42 mins   █░░░░░░░░░░░░░░░░�
 #### 🌴最近提交
 
 
+* <a href="https://github.com/0xcaffebabe/note" target="_blank"> ➕增加 零信任网络 </a> - 2020-11-24T09:59:19Z 
+
+    
+* <a href="https://github.com/0xcaffebabe/blb" target="_blank"> 删除右下角路由导航 </a> - 2020-11-24T09:49:08Z 
+
+    
+* <a href="https://github.com/0xcaffebabe/note" target="_blank"> ❌删除 项目开发 </a> - 2020-11-24T06:16:05Z 
+
+    
+* <a href="https://github.com/0xcaffebabe/note" target="_blank"> ✏更新 Clojure </a> - 2020-11-23T12:29:36Z 
+
+    
 * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io" target="_blank"> ✏更新博文 ThreadLocal初探 </a> - 2020-11-23T06:45:58Z 
 
     
@@ -86,18 +98,6 @@ YAML        1 hr 42 mins   █░░░░░░░░░░░░░░░░�
 
     
 * <a href="https://github.com/0xcaffebabe/0xcaffebabe" target="_blank"> Update build.yml </a> - 2020-11-19T14:32:20Z 
-
-    
-* <a href="https://github.com/0xcaffebabe/0xcaffebabe" target="_blank"> 调整脚本执行频率为3天一次 </a> - 2020-11-19T14:29:31Z 
-
-    
-* <a href="https://github.com/0xcaffebabe/note" target="_blank"> ✏更新 Erlang </a> - 2020-11-19T09:57:37Z 
-
-    
-* <a href="https://github.com/0xcaffebabe/blb" target="_blank"> 优化订单列表分页组件 </a> - 2020-11-19T09:47:30Z 
-
-    
-* <a href="https://github.com/0xcaffebabe/note" target="_blank"> ➕增加 LeetCode </a> - 2020-11-18T14:35:29Z 
 
     
 
