@@ -11,7 +11,7 @@
 |__| |__||_______||_______||_______||_______||__| |__||_______||___|  |_||_______||______|                        
 ```
 
-由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2020-11-24 12:09:18_
+由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2020-11-26 00:24:25_
 
 <table>
 
@@ -44,11 +44,11 @@
 #### 📊 最近一周开发时间
 
 ```
-Markdown    11 hrs 13 mins ████████▎░░░░░░░░░░░░  39.5%
-Vue.js      6 hrs 14 mins  ████▌░░░░░░░░░░░░░░░░  21.9%
-Java        3 hrs 28 mins  ██▌░░░░░░░░░░░░░░░░░░  12.2%
-XML         3 hrs 2 mins   ██▏░░░░░░░░░░░░░░░░░░  10.7%
-JavaScript  1 hr 22 mins   █░░░░░░░░░░░░░░░░░░░░   4.8%
+Markdown    12 hrs 5 mins  █████████░░░░░░░░░░░░  42.9%
+Vue.js      9 hrs 44 mins  ███████▎░░░░░░░░░░░░░  34.6%
+Java        1 hr 34 mins   █▏░░░░░░░░░░░░░░░░░░░   5.6%
+JavaScript  1 hr 20 mins   █░░░░░░░░░░░░░░░░░░░░   4.8%
+HTML        59 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.5%
 ```
 
 </td>
@@ -79,25 +79,46 @@ JavaScript  1 hr 22 mins   █░░░░░░░░░░░░░░░░�
 #### 🌴最近提交
 
 
-* <a href="https://github.com/0xcaffebabe/note" target="_blank"> ➕增加 零信任网络 </a> - 2020-11-24T09:59:19Z 
+* <a href="https://github.com/0xcaffebabe/0xcaffebabe" target="_blank"> 修复脚本BUG </a> - 2020-11-26T00:24:03Z 
 
     
-* <a href="https://github.com/0xcaffebabe/blb" target="_blank"> 删除右下角路由导航 </a> - 2020-11-24T09:49:08Z 
+* <a href="https://github.com/0xcaffebabe/blb" target="_blank"> 更新banner </a> - 2020-11-25T13:10:47Z 
 
     
-* <a href="https://github.com/0xcaffebabe/note" target="_blank"> ❌删除 项目开发 </a> - 2020-11-24T06:16:05Z 
+* <a href="https://github.com/0xcaffebabe/note" target="_blank"> ✏更新 Clojure </a> - 2020-11-25T09:55:22Z 
 
     
-* <a href="https://github.com/0xcaffebabe/note" target="_blank"> ✏更新 Clojure </a> - 2020-11-23T12:29:36Z 
+* <a href="https://github.com/0xcaffebabe/blb" target="_blank"> 修改开发服务器启动脚本 </a> - 2020-11-25T09:55:11Z 
 
     
-* <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io" target="_blank"> ✏更新博文 ThreadLocal初探 </a> - 2020-11-23T06:45:58Z 
+* <a href="https://github.com/0xcaffebabe/vue-reader" target="_blank"> Bump highlight.js from 9.18.1 to 9.18.5
+
+Bumps [highlight.js](https://github.com/highlightjs/highlight.js) from 9.18.1 to 9.18.5.
+- [Release notes](https://github.com/highlightjs/highlight.js/releases)
+- [Changelog](https://github.com/highlightjs/highlight.js/blob/9.18.5/CHANGES.md)
+- [Commits](https://github.com/highlightjs/highlight.js/compare/9.18.1...9.18.5)
+
+Signed-off-by: dependabot[bot] <support@github.com> </a> - 2020-11-25T06:03:40Z 
 
     
-* <a href="https://github.com/0xcaffebabe/note" target="_blank"> ➕增加 Clojure </a> - 2020-11-23T00:45:21Z 
+* <a href="https://github.com/0xcaffebabe/blb" target="_blank"> Bump highlight.js from 9.18.1 to 9.18.5 in /blb-consumer-frontend
+
+Bumps [highlight.js](https://github.com/highlightjs/highlight.js) from 9.18.1 to 9.18.5.
+- [Release notes](https://github.com/highlightjs/highlight.js/releases)
+- [Changelog](https://github.com/highlightjs/highlight.js/blob/9.18.5/CHANGES.md)
+- [Commits](https://github.com/highlightjs/highlight.js/compare/9.18.1...9.18.5)
+
+Signed-off-by: dependabot[bot] <support@github.com> </a> - 2020-11-25T06:03:27Z 
 
     
-* <a href="https://github.com/0xcaffebabe/0xcaffebabe" target="_blank"> Update build.yml </a> - 2020-11-19T14:32:20Z 
+* <a href="https://github.com/0xcaffebabe/shop-management-system" target="_blank"> Bump highlight.js from 9.18.1 to 9.18.5
+
+Bumps [highlight.js](https://github.com/highlightjs/highlight.js) from 9.18.1 to 9.18.5.
+- [Release notes](https://github.com/highlightjs/highlight.js/releases)
+- [Changelog](https://github.com/highlightjs/highlight.js/blob/9.18.5/CHANGES.md)
+- [Commits](https://github.com/highlightjs/highlight.js/compare/9.18.1...9.18.5)
+
+Signed-off-by: dependabot[bot] <support@github.com> </a> - 2020-11-25T06:03:15Z 
 
     
 
