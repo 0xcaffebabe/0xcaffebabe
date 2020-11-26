@@ -54,7 +54,7 @@ def fetch_commits():
   i = 0
   for item in data:
     if i >=7 : break
-
+    if not 'commits' in item['payload'] : continue
     msg = item['payload']['commits'][0]['message']
     time = item['created_at']
     repo = item['repo']['name']
