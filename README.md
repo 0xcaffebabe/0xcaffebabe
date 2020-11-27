@@ -11,7 +11,7 @@
 |__| |__||_______||_______||_______||_______||__| |__||_______||___|  |_||_______||______|                        
 ```
 
-由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2020-11-26 12:09:45_
+由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2020-11-27 12:10:01_
 
 <table>
 
@@ -44,11 +44,11 @@
 #### 📊 最近一周开发时间
 
 ```
-Markdown    12 hrs 5 mins  █████████░░░░░░░░░░░░  42.9%
-Vue.js      9 hrs 44 mins  ███████▎░░░░░░░░░░░░░  34.6%
-Java        1 hr 34 mins   █▏░░░░░░░░░░░░░░░░░░░   5.6%
-JavaScript  1 hr 20 mins   █░░░░░░░░░░░░░░░░░░░░   4.8%
-HTML        59 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.5%
+Markdown    11 hrs 34 mins ██████████▋░░░░░░░░░░  50.9%
+Vue.js      8 hrs 37 mins  ███████▉░░░░░░░░░░░░░  37.9%
+XML         50 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.7%
+JSON        41 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.0%
+JavaScript  17 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.3%
 ```
 
 </td>
@@ -79,6 +79,15 @@ HTML        59 mins        ▋░░░░░░░░░░░░░░░░�
 #### 🌴最近提交
 
 
+* <a href="https://github.com/0xcaffebabe/blb-consumer-frontend" target="_blank"> 更新使用说明 </a> - 2020-11-27T00:38:26Z 
+
+    
+* <a href="https://github.com/0xcaffebabe/blb-consumer-frontend" target="_blank"> 更新一些说明 </a> - 2020-11-27T00:35:40Z 
+
+    
+* <a href="https://github.com/0xcaffebabe/note" target="_blank"> ➕增加 云原生 </a> - 2020-11-26T12:12:54Z 
+
+    
 * <a href="https://github.com/0xcaffebabe/blb" target="_blank"> 更新README </a> - 2020-11-26T10:01:40Z 
 
     
@@ -89,15 +98,6 @@ HTML        59 mins        ▋░░░░░░░░░░░░░░░░�
 
     
 * <a href="https://github.com/0xcaffebabe/blb" target="_blank"> 更新banner </a> - 2020-11-25T13:10:47Z 
-
-    
-* <a href="https://github.com/0xcaffebabe/note" target="_blank"> ✏更新 Clojure </a> - 2020-11-25T09:55:22Z 
-
-    
-* <a href="https://github.com/0xcaffebabe/blb" target="_blank"> 修改开发服务器启动脚本 </a> - 2020-11-25T09:55:11Z 
-
-    
-* <a href="https://github.com/0xcaffebabe/vue-reader" target="_blank"> Bump highlight.js from 9.18.1 to 9.18.5 </a> - 2020-11-25T06:03:40Z 
 
     
 
