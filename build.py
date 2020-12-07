@@ -3,6 +3,7 @@ import httpx
 from bs4 import BeautifulSoup
 import datetime
 import json
+import datetime
 
 def fetch_code_time():
     return httpGet(
@@ -52,23 +53,39 @@ def fetch_commits():
   data = json.loads(text)
   ret = ''
   i = 0
+  recentCommits = []
   for item in data:
-    if i >=7 : break
+    if item['type'] != 'PushEvent' : continue
+    commitList = item['payload']['commits']
+    if len(commitList) == 1:
+      msg = commitList[0]['message']
+      if msg == 'update': continue
+      time = item['created_at']
+      repo = item['repo']['name']
+      recentCommits.append({'msg': msg, 'time': time, 'repo': repo})
+    else:
+      for commit in commitList:
+        msg = commit['message']
+        if msg == 'update': break
+        time = item['created_at']
+        repo = item['repo']['name']
+        recentCommits.append({'msg': msg, 'time': time, 'repo': repo})
 
-    msg = item['payload']['commits'][0]['message']
-    time = item['created_at']
-    repo = item['repo']['name']
-
-    if msg == 'update': continue
-    
-    i = i + 1
+  for item in recentCommits:
+    if i >= 6 : break
     str = """
-* <a href="${link}" target="_blank"> ${title} </a> - ${date} \n
+  * <a href="${link}" target="_blank"> ${title} </a> - ${date} \n
     """
-    str = str.replace('${link}', 'https://github.com/' + repo)
-    str = str.replace('${title}', msg)
-    str = str.replace('${date}', time)
+
+    UTC_FORMAT = "%Y-%m-%dT%H:%M:%SZ"
+    utc_time = datetime.datetime.strptime(item['time'], UTC_FORMAT)
+    item['time'] = utc_time + datetime.timedelta(hours=8)
+
+    str = str.replace('${link}', 'https://github.com/' + item['repo'])
+    str = str.replace('${title}', item['msg'])
+    str = str.replace('${date}', item['time'].strftime('%Y/%m/%d %H:%M:%S'))
     ret += str
+    i += 1
   return ret
     
 

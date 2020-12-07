@@ -11,7 +11,7 @@
 |__| |__||_______||_______||_______||_______||__| |__||_______||___|  |_||_______||______|                        
 ```
 
-由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2020-11-19 22:26:21_
+由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2020-12-07 22:57:03_
 
 <table>
 
@@ -44,11 +44,11 @@
 #### 📊 最近一周开发时间
 
 ```
-Markdown    12 hrs 15 mins ███████▍░░░░░░░░░░░░░  35.7%
-Vue.js      9 hrs 50 mins  ██████░░░░░░░░░░░░░░░  28.6%
-XML         3 hrs 1 min    █▊░░░░░░░░░░░░░░░░░░░   8.8%
-Java        2 hrs 20 mins  █▍░░░░░░░░░░░░░░░░░░░   6.8%
-YAML        1 hr 22 mins   ▊░░░░░░░░░░░░░░░░░░░░   4.0%
+Markdown    16 hrs 36 mins █████████████████░░░░  81.4%
+HTML        1 hr 39 mins   █▋░░░░░░░░░░░░░░░░░░░   8.1%
+Vue.js      34 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.8%
+Bash        34 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.8%
+XML         21 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.8%
 ```
 
 </td>
@@ -62,9 +62,9 @@ YAML        1 hr 22 mins   ▊░░░░░░░░░░░░░░░░�
 #### 📝 计划
 
 - [进行中的书单](https://github.com/users/0xcaffebabe/projects/4)
-  - Spring微服务实战
-  - 软件架构探索
-  - 七周七语言
+  - 现代前端技术解析
+  - 企业IT架构转型之道
+  - 现代操作系统
 
 
 - [后端学习计划](https://github.com/users/0xcaffebabe/projects/1)
@@ -79,25 +79,22 @@ YAML        1 hr 22 mins   ▊░░░░░░░░░░░░░░░░�
 #### 🌴最近提交
 
 
-* <a href="https://github.com/0xcaffebabe/note" target="_blank"> ✏更新 Erlang </a> - 2020-11-19T09:57:37Z 
+  * <a href="https://github.com/0xcaffebabe/note" target="_blank"> ➕增加 LeetCode </a> - 2020/12/07 22:28:15 
 
     
-* <a href="https://github.com/0xcaffebabe/blb" target="_blank"> 优化订单列表分页组件 </a> - 2020-11-19T09:47:30Z 
+  * <a href="https://github.com/0xcaffebabe/note" target="_blank"> ✏更新 Web前端 </a> - 2020/12/07 17:59:26 
 
     
-* <a href="https://github.com/0xcaffebabe/note" target="_blank"> ➕增加 LeetCode </a> - 2020-11-18T14:35:29Z 
+  * <a href="https://github.com/0xcaffebabe/note" target="_blank"> ✏更新 Web前端 </a> - 2020/12/05 17:43:25 
 
     
-* <a href="https://github.com/0xcaffebabe/note" target="_blank"> ✏更新 Erlang </a> - 2020-11-18T10:01:27Z 
+  * <a href="https://github.com/0xcaffebabe/note" target="_blank"> ➕增加 中台 </a> - 2020/12/05 17:43:25 
 
     
-* <a href="https://github.com/0xcaffebabe/blb" target="_blank"> 实现投诉详情订单信息浮动提示 </a> - 2020-11-18T09:44:17Z 
+  * <a href="https://github.com/0xcaffebabe/note" target="_blank"> ➕增加 参考书籍 </a> - 2020/12/05 17:43:25 
 
     
-* <a href="https://github.com/0xcaffebabe/note" target="_blank"> 🛠优化 统计脚本 </a> - 2020-11-17T13:49:35Z 
-
-    
-* <a href="https://github.com/0xcaffebabe/note" target="_blank"> ✏更新 README </a> - 2020-11-17T09:55:23Z 
+  * <a href="https://github.com/0xcaffebabe/note" target="_blank"> ➕增加 LeetCode </a> - 2020/12/05 17:43:25 
 
     
 
