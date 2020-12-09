@@ -70,7 +70,7 @@ def fetch_commits():
         if msg == 'update': break
         time = item['created_at']
         repo = item['repo']['name']
-        sha = item['sha']
+        sha = commit['sha']
         recentCommits.append({'msg': msg, 'time': time, 'repo': repo, 'sha': sha})
 
   for item in recentCommits:
