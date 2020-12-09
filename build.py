@@ -83,7 +83,7 @@ def fetch_commits():
     utc_time = datetime.datetime.strptime(item['time'], UTC_FORMAT)
     item['time'] = utc_time + datetime.timedelta(hours=8)
 
-    str = str.replace('${link}', 'https://github.com/0xcaffebabe/' + item['repo'] + '/commit/' + item['sha'])
+    str = str.replace('${link}', 'https://github.com/' + item['repo'] + '/commit/' + item['sha'])
     str = str.replace('${title}', item['msg'])
     str = str.replace('${date}', item['time'].strftime('%Y/%m/%d %H:%M:%S'))
     ret += str
