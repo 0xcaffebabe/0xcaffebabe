@@ -62,14 +62,16 @@ def fetch_commits():
       if msg == 'update': continue
       time = item['created_at']
       repo = item['repo']['name']
-      recentCommits.append({'msg': msg, 'time': time, 'repo': repo})
+      sha = commitList[0]['sha']
+      recentCommits.append({'msg': msg, 'time': time, 'repo': repo, 'sha': sha})
     else:
       for commit in commitList:
         msg = commit['message']
         if msg == 'update': break
         time = item['created_at']
         repo = item['repo']['name']
-        recentCommits.append({'msg': msg, 'time': time, 'repo': repo})
+        sha = item['sha']
+        recentCommits.append({'msg': msg, 'time': time, 'repo': repo, 'sha': sha})
 
   for item in recentCommits:
     if i >= 6 : break
@@ -81,7 +83,7 @@ def fetch_commits():
     utc_time = datetime.datetime.strptime(item['time'], UTC_FORMAT)
     item['time'] = utc_time + datetime.timedelta(hours=8)
 
-    str = str.replace('${link}', 'https://github.com/' + item['repo'])
+    str = str.replace('${link}', 'https://github.com/0xcaffebabe/' + item['repo'] + '/commit/' + item['sha'])
     str = str.replace('${title}', item['msg'])
     str = str.replace('${date}', item['time'].strftime('%Y/%m/%d %H:%M:%S'))
     ret += str
