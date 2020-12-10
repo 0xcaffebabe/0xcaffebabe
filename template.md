@@ -13,6 +13,10 @@
 
 由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:${gen_time}_
 
+<p style="text-align:center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xcaffebabe&count_private=true&show_icons=true">
+</p>
+
 <table>
 
 <tr>
@@ -26,11 +30,8 @@ ${recent_blogs}
 
 <td valign="top" width="50%">
 
-#### 📊 最近一周开发时间
-
-```
-${code_time}
-```
+![](https://github-readme-stats.vercel.app/api/wakatime?username=0xcaffebabe&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xcaffebabe&layout=compact&langs_count=8)
 
 </td>
 
