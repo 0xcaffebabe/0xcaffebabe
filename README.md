@@ -11,7 +11,7 @@
 |__| |__||_______||_______||_______||_______||__| |__||_______||___|  |_||_______||______|                        
 ```
 
-由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2020-12-12 12:11:23_
+由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2020-12-13 12:39:18_
 
 <p style="text-align:center">
   <img src="https://github-readme-stats.vercel.app/api?username=0xcaffebabe&count_private=true&show_icons=true">
@@ -38,6 +38,15 @@
 
     
 * <a href="https://ismy.wang/%E6%97%A5%E5%B8%B8/2020/04/16/%E8%B0%83%E8%AF%95%E4%B8%80%E4%B8%AAwsl2+java%E5%BC%95%E5%8F%91%E7%9A%84bug.html" target="_blank"> 调试一个wsl2+java引发的bug </a> - 2020/04/16 
+
+    
+* <a href="https://ismy.wang/spring/2019/11/04/Spring-%E5%9B%9B-%E4%BA%8B%E5%8A%A1%E7%AE%A1%E7%90%86.html" target="_blank"> Spring(四):事务管理 </a> - 2019/11/04 
+
+    
+* <a href="https://ismy.wang/spring/2019/10/28/Spring(%E4%B8%89)-AOP.html" target="_blank"> Spring(三):AOP </a> - 2019/10/28 
+
+    
+* <a href="https://ismy.wang/spring/2019/10/21/Spring(%E4%BA%8C)-Bean%E7%9A%84%E8%A3%85%E9%85%8D.html" target="_blank"> Spring(二):Bean的装配 </a> - 2019/10/21 
 
         
 
@@ -76,6 +85,15 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/0xcaffebabe/commit/9ee6226774c4e232de4c2a779388b047ccadd01c" target="_blank"> 调整博文数量 </a> - 2020/12/13 20:38:59 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/9870484949d9f8b48ae22de5c26907d40730d5f0" target="_blank"> ➕增加 LeetCode </a> - 2020/12/13 20:35:09 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/9cae6428e567946f655200164c5ddbd54a5749bf" target="_blank"> 🛠解决冲突 </a> - 2020/12/13 20:35:09 
+
+    
   * <a href="https://github.com/0xcaffebabe/blogb/commit/0a1e6181196528c90001b4eb57a57f0aa10fcce1" target="_blank"> Bump ini from 1.3.5 to 1.3.8
 
 Bumps [ini](https://github.com/isaacs/ini) from 1.3.5 to 1.3.8.
@@ -91,15 +109,6 @@ Bump ini from 1.3.5 to 1.3.8 </a> - 2020/12/12 18:34:52
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/7575218e9957e92b3e7becdd86a795a5c7e1f76c" target="_blank"> ✏更新 Web前端 </a> - 2020/12/11 18:03:20 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/2ecdc328192283d07f10838272f6a10f4dd2c8bb" target="_blank"> ➕增加 LeetCode </a> - 2020/12/11 18:03:20 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/eeccfe7b4d740fb4f89f69f1244bc65f53f6b786" target="_blank"> ✏更新 操作系统 安全 </a> - 2020/12/11 18:03:20 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/6405f178476cb766da64809b02ef1615ed6fbea3" target="_blank"> ✏更新 Web前端 </a> - 2020/12/10 20:13:20 
 
     
 
