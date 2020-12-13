@@ -24,7 +24,7 @@ def fetch_recent_blog():
   count = 0
   html = ""
   for i in postList:
-    if count >= 5:
+    if count >= 8:
       break
     blogTitle = i.a.text
     blogLink = i.a['href']
