@@ -11,7 +11,7 @@
 |__| |__||_______||_______||_______||_______||__| |__||_______||___|  |_||_______||______|                        
 ```
 
-由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2020-12-13 12:39:18_
+由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2020-12-14 12:12:07_
 
 <p style="text-align:center">
   <img src="https://github-readme-stats.vercel.app/api?username=0xcaffebabe&count_private=true&show_icons=true">
@@ -69,8 +69,8 @@
 
 - [进行中的书单](https://github.com/users/0xcaffebabe/projects/4)
   - 代码的未来
-  - 现代前端技术解析
   - 现代操作系统
+  - 设计模式沉思录
 
 
 - [后端学习计划](https://github.com/users/0xcaffebabe/projects/1)
@@ -85,30 +85,22 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/d288ce705ffb52c3eb1c9721d2b924f7f6aa20fd" target="_blank"> ✏更新 Web前端 </a> - 2020/12/14 18:20:57 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/0897488b763fb8422a564d314ef28e7bca9646fb" target="_blank"> ✏更新 设计模式 单例模式 </a> - 2020/12/14 18:20:57 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/c31174a40e455021a1c00a69ef54e7cb3f9a6f38" target="_blank"> ➕增加 参考书籍 </a> - 2020/12/14 18:20:57 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/33e5d3b0c6b8d71aba120a8be644eafab6a9dc81" target="_blank"> ✏更新 操作系统 安全 </a> - 2020/12/14 18:20:57 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/662bf6900baa0ed19824d0cfb1e3ee76cedc13d4" target="_blank"> Merge branch 'master' of https://github.com/0xcaffebabe/note </a> - 2020/12/14 18:20:57 
+
+    
   * <a href="https://github.com/0xcaffebabe/0xcaffebabe/commit/9ee6226774c4e232de4c2a779388b047ccadd01c" target="_blank"> 调整博文数量 </a> - 2020/12/13 20:38:59 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/9870484949d9f8b48ae22de5c26907d40730d5f0" target="_blank"> ➕增加 LeetCode </a> - 2020/12/13 20:35:09 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/9cae6428e567946f655200164c5ddbd54a5749bf" target="_blank"> 🛠解决冲突 </a> - 2020/12/13 20:35:09 
-
-    
-  * <a href="https://github.com/0xcaffebabe/blogb/commit/0a1e6181196528c90001b4eb57a57f0aa10fcce1" target="_blank"> Bump ini from 1.3.5 to 1.3.8
-
-Bumps [ini](https://github.com/isaacs/ini) from 1.3.5 to 1.3.8.
-- [Release notes](https://github.com/isaacs/ini/releases)
-- [Commits](https://github.com/isaacs/ini/compare/v1.3.5...v1.3.8)
-
-Signed-off-by: dependabot[bot] <support@github.com> </a> - 2020/12/12 18:34:52 
-
-    
-  * <a href="https://github.com/0xcaffebabe/blogb/commit/de3f356464562bfea80d05ba04914782fbb81e3e" target="_blank"> Merge pull request #3 from 0xcaffebabe/dependabot/npm_and_yarn/ini-1.3.8
-
-Bump ini from 1.3.5 to 1.3.8 </a> - 2020/12/12 18:34:52 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/7575218e9957e92b3e7becdd86a795a5c7e1f76c" target="_blank"> ✏更新 Web前端 </a> - 2020/12/11 18:03:20 
 
     
 
