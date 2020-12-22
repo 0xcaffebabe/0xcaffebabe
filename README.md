@@ -11,7 +11,7 @@
 |__| |__||_______||_______||_______||_______||__| |__||_______||___|  |_||_______||______|                        
 ```
 
-由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2020-12-21 12:13:16_
+由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2020-12-22 12:15:41_
 
 <p style="text-align:center">
   <img src="https://github-readme-stats.vercel.app/api?username=0xcaffebabe&count_private=true&show_icons=true">
@@ -68,11 +68,12 @@
 #### 📝 计划
 
 - [进行中的书单](https://github.com/users/0xcaffebabe/projects/4)
-  - 代码的未来
   - 现代操作系统
+  - 设计模式沉思录
 
 
 - [后端学习计划](https://github.com/users/0xcaffebabe/projects/1)
+  - rust
 
 
 - [其他学习计划](https://github.com/users/0xcaffebabe/projects/3)
@@ -84,22 +85,22 @@
 #### 🌴最近提交
 
 
-  * <a href="https://github.com/0xcaffebabe/hello-arduino/commit/69d4f019a124b0d220f3dc208dcc4add4a1c16d1" target="_blank"> add keypad example </a> - 2020/12/20 15:16:17 
+  * <a href="https://github.com/0xcaffebabe/note/commit/6fbf01eed55463e962e8ab48e2432f496b1025c9" target="_blank"> ✏更新 自定义样式 </a> - 2020/12/22 20:06:21 
 
     
-  * <a href="https://github.com/0xcaffebabe/hello-arduino/commit/de419de6e3463204df5e7582788f9f7ca82291a3" target="_blank"> add keypad example </a> - 2020/12/20 15:16:17 
+  * <a href="https://github.com/0xcaffebabe/note/commit/fc24cebded8e3492189258aed325bf5470bd22a6" target="_blank"> ➕增加 参考书籍 </a> - 2020/12/22 20:06:21 
 
     
-  * <a href="https://github.com/0xcaffebabe/note/commit/a80255ca3faa882e43f06545966bf88aed8fe043" target="_blank"> ✏更新 操作系统 安全 </a> - 2020/12/15 20:37:25 
+  * <a href="https://github.com/0xcaffebabe/note/commit/2eb4350a44ed3b2d958af0cf2aa4cce39ddd086f" target="_blank"> ✏更新 自定义样式 </a> - 2020/12/22 20:06:21 
 
     
-  * <a href="https://github.com/0xcaffebabe/note/commit/30423bf886c15b044044589174c1fec8405ff3a7" target="_blank"> ➕增加 LeetCode </a> - 2020/12/14 22:19:36 
+  * <a href="https://github.com/0xcaffebabe/note/commit/11a6d0cc5f958d91fefdf14acbb26ea02a0c40de" target="_blank"> ✏更新 设计模式 </a> - 2020/12/22 20:06:21 
 
     
-  * <a href="https://github.com/0xcaffebabe/note/commit/d288ce705ffb52c3eb1c9721d2b924f7f6aa20fd" target="_blank"> ✏更新 Web前端 </a> - 2020/12/14 18:20:57 
+  * <a href="https://github.com/0xcaffebabe/note/commit/4928645d5b878b39916c4911a4d8322221ca58dc" target="_blank"> ✏更新 编程语言 </a> - 2020/12/22 08:34:18 
 
     
-  * <a href="https://github.com/0xcaffebabe/note/commit/0897488b763fb8422a564d314ef28e7bca9646fb" target="_blank"> ✏更新 设计模式 单例模式 </a> - 2020/12/14 18:20:57 
+  * <a href="https://github.com/0xcaffebabe/note/commit/59724dca30049a0005a436fbb976ed4076b46bc6" target="_blank"> ✏更新 操作系统 安全 </a> - 2020/12/22 08:34:18 
 
     
 
