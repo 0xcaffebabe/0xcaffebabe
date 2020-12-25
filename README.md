@@ -11,7 +11,7 @@
 |__| |__||_______||_______||_______||_______||__| |__||_______||___|  |_||_______||______|                        
 ```
 
-由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2020-12-24 12:15:25_
+由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2020-12-25 12:13:14_
 
 <p style="text-align:center">
   <img src="https://github-readme-stats.vercel.app/api?username=0xcaffebabe&count_private=true&show_icons=true">
@@ -68,8 +68,8 @@
 #### 📝 计划
 
 - [进行中的书单](https://github.com/users/0xcaffebabe/projects/4)
-  - 逆流而上+阿里巴巴技术成长之路
   - 现代操作系统
+  - 七周七并发模型
 
 
 - [后端学习计划](https://github.com/users/0xcaffebabe/projects/1)
@@ -85,22 +85,22 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/7b56a6191ec0460efd9d5c2d629dd6c04c2c12e3" target="_blank"> ➕增加 并发模型 </a> - 2020/12/25 17:58:43 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/f50713cafb6e7da88dc5ddb32974c524df1981ed" target="_blank"> ✏更新 操作系统 多处理机系统 </a> - 2020/12/25 17:58:43 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/0ea8c6126b5b7b5d6e2cc6d70558db1129e591c6" target="_blank"> ➕增加 LeetCode </a> - 2020/12/25 17:58:43 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/33c7ff3c93823c115d4f03deeacfadd5c6cf881c" target="_blank"> ✨调整 渲染样式 </a> - 2020/12/25 17:58:43 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/a466892d19ef13a12446888aa4edb30ee9758b7f" target="_blank"> ➕增加 rust </a> - 2020/12/24 21:55:13 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/963a040688a95a30d4b1771b07ac14ad441617e6" target="_blank"> ✏更新 设计模式 </a> - 2020/12/24 18:12:15 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/4055438ca0a06bedf8bfaffa8d05bf6834157d07" target="_blank"> ✏更新 操作系统 多处理机系统 </a> - 2020/12/24 18:12:15 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/d3364bf6ae9c2a806c93651f3bd2711e1216dc2b" target="_blank"> ➕增加 LeetCode </a> - 2020/12/24 18:12:15 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/6224f1379c2121ce7860a981235f1b17f0794a02" target="_blank"> ✏更新 设计模式 </a> - 2020/12/23 18:10:13 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/6fbf01eed55463e962e8ab48e2432f496b1025c9" target="_blank"> ✏更新 自定义样式 </a> - 2020/12/22 20:06:21 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/fc24cebded8e3492189258aed325bf5470bd22a6" target="_blank"> ➕增加 参考书籍 </a> - 2020/12/22 20:06:21 
 
     
 
