@@ -11,7 +11,7 @@
 |__| |__||_______||_______||_______||_______||__| |__||_______||___|  |_||_______||______|                        
 ```
 
-由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2021-01-04 12:15:49_
+由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2021-01-05 12:15:48_
 
 <p style="text-align:center">
   <img src="https://github-readme-stats.vercel.app/api?username=0xcaffebabe&count_private=true&show_icons=true">
@@ -69,7 +69,6 @@
 
 - [进行中的书单](https://github.com/users/0xcaffebabe/projects/4)
   - 现代操作系统
-  - 七周七并发模型
 
 
 - [后端学习计划](https://github.com/users/0xcaffebabe/projects/1)
@@ -85,6 +84,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/701cddccb25da89037b2cc6e5cf28a01c29b5da3" target="_blank"> ✏更新 Rust vector </a> - 2021/01/04 21:40:51 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/375609bbcf51f95872bddeb86864b3dc66384604" target="_blank"> ✏更新 缓存行 </a> - 2021/01/04 21:40:51 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/d8393d46a789e0e44896fa33ec107716a5b531ef" target="_blank"> ✏更新 Rust 枚举 </a> - 2021/01/03 17:44:52 
 
     
@@ -95,12 +100,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/083639376f5f92db9859ddcafa78d982a8b8b865" target="_blank"> ✏更新 README </a> - 2021/01/02 17:38:36 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/1ed4711b99132299c7f970dec20368f98348e217" target="_blank"> Merge branch 'master' of https://github.com/0xcaffebabe/note </a> - 2021/01/02 17:38:36 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/1b222ea7f56d82a0722d57e8100de1800785b026" target="_blank"> Delete _config.yml </a> - 2021/01/02 11:58:22 
 
     
 
