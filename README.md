@@ -11,7 +11,7 @@
 |__| |__||_______||_______||_______||_______||__| |__||_______||___|  |_||_______||______|                        
 ```
 
-由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2021-01-13 12:31:42_
+由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2021-01-14 12:30:06_
 
 <p style="text-align:center">
   <img src="https://github-readme-stats.vercel.app/api?username=0xcaffebabe&count_private=true&show_icons=true">
@@ -85,6 +85,24 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/a4f2614a46f6c6696b490b9406bebce98aa3e666" target="_blank"> ✏更新 操作系统 输入输出 </a> - 2021/01/14 18:29:17 
+
+    
+  * <a href="https://github.com/0xcaffebabe/distributed-message-push-system/commit/273c25de70670b8361886784d6304d5bda333179" target="_blank"> Bump axios from 0.20.0 to 0.21.1 in /push-clients/push-client-javascript
+
+Bumps [axios](https://github.com/axios/axios) from 0.20.0 to 0.21.1.
+- [Release notes](https://github.com/axios/axios/releases)
+- [Changelog](https://github.com/axios/axios/blob/v0.21.1/CHANGELOG.md)
+- [Commits](https://github.com/axios/axios/compare/v0.20.0...v0.21.1)
+
+Signed-off-by: dependabot[bot] <support@github.com> </a> - 2021/01/14 18:15:11 
+
+    
+  * <a href="https://github.com/0xcaffebabe/distributed-message-push-system/commit/9b50c41983e038d69cd22c029cc13b6874ef2da4" target="_blank"> Merge pull request #3 from 0xcaffebabe/dependabot/npm_and_yarn/push-clients/push-client-javascript/axios-0.21.1
+
+Bump axios from 0.20.0 to 0.21.1 in /push-clients/push-client-javascript </a> - 2021/01/14 18:15:11 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/1951469e04b17fe326e34857078e010b501b4b21" target="_blank"> ✏更新 Nginx </a> - 2021/01/12 19:48:45 
 
     
@@ -92,15 +110,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/30eaf350ec15f2e89231e322c5681e94ed4d9f13" target="_blank"> ➕增加 参考书籍 </a> - 2021/01/12 19:48:45 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/0dc9d4d20118770dcfb84f87070b74f0fbfe4a42" target="_blank"> ✏更新 移动web开发 </a> - 2021/01/12 19:48:45 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/e6977ee6feedd5b30f983d61d584fe4739c7418b" target="_blank"> ✏更新 操作系统 输入输出 </a> - 2021/01/12 19:48:45 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/61fa2e3e10380d4c8d6507b7d7a8715900c7c85c" target="_blank"> ✏更新 Nginx </a> - 2021/01/11 18:26:21 
 
     
 
