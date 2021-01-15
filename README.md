@@ -11,7 +11,7 @@
 |__| |__||_______||_______||_______||_______||__| |__||_______||___|  |_||_______||______|                        
 ```
 
-由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2021-01-14 12:30:06_
+由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2021-01-15 12:29:29_
 
 <p style="text-align:center">
   <img src="https://github-readme-stats.vercel.app/api?username=0xcaffebabe&count_private=true&show_icons=true">
@@ -68,8 +68,8 @@
 #### 📝 计划
 
 - [进行中的书单](https://github.com/users/0xcaffebabe/projects/4)
+  - 微服务架构设计模式
   - 现代操作系统
-  - 深入理解Nginx模块开发与架构解析
 
 
 - [后端学习计划](https://github.com/users/0xcaffebabe/projects/1)
@@ -85,31 +85,22 @@
 #### 🌴最近提交
 
 
-  * <a href="https://github.com/0xcaffebabe/note/commit/a4f2614a46f6c6696b490b9406bebce98aa3e666" target="_blank"> ✏更新 操作系统 输入输出 </a> - 2021/01/14 18:29:17 
+  * <a href="https://github.com/0xcaffebabe/note/commit/87c3bf91c403e715a40c2795549ad3db32fb66e2" target="_blank"> ✏更新 微服务 </a> - 2021/01/15 18:41:14 
 
     
-  * <a href="https://github.com/0xcaffebabe/distributed-message-push-system/commit/273c25de70670b8361886784d6304d5bda333179" target="_blank"> Bump axios from 0.20.0 to 0.21.1 in /push-clients/push-client-javascript
-
-Bumps [axios](https://github.com/axios/axios) from 0.20.0 to 0.21.1.
-- [Release notes](https://github.com/axios/axios/releases)
-- [Changelog](https://github.com/axios/axios/blob/v0.21.1/CHANGELOG.md)
-- [Commits](https://github.com/axios/axios/compare/v0.20.0...v0.21.1)
-
-Signed-off-by: dependabot[bot] <support@github.com> </a> - 2021/01/14 18:15:11 
+  * <a href="https://github.com/0xcaffebabe/note/commit/bc778954a30dc45657d157994b24585c1d416ebe" target="_blank"> ➕增加 参考书籍 </a> - 2021/01/15 18:41:14 
 
     
-  * <a href="https://github.com/0xcaffebabe/distributed-message-push-system/commit/9b50c41983e038d69cd22c029cc13b6874ef2da4" target="_blank"> Merge pull request #3 from 0xcaffebabe/dependabot/npm_and_yarn/push-clients/push-client-javascript/axios-0.21.1
-
-Bump axios from 0.20.0 to 0.21.1 in /push-clients/push-client-javascript </a> - 2021/01/14 18:15:11 
+  * <a href="https://github.com/0xcaffebabe/note/commit/6a57bfe201380b3aaada758a814f998a6e6d1b32" target="_blank"> ✏更新 目录 </a> - 2021/01/15 18:41:14 
 
     
-  * <a href="https://github.com/0xcaffebabe/note/commit/1951469e04b17fe326e34857078e010b501b4b21" target="_blank"> ✏更新 Nginx </a> - 2021/01/12 19:48:45 
+  * <a href="https://github.com/0xcaffebabe/note/commit/cd892f0b70d7fdf2b8ed79daa4ada753773ad877" target="_blank"> ✏更新 操作系统 输入输出 </a> - 2021/01/15 18:41:14 
 
     
-  * <a href="https://github.com/0xcaffebabe/note/commit/7f70f95e51a8295b231fca44b1a46d31475edad2" target="_blank"> ✨调整样式 </a> - 2021/01/12 19:48:45 
+  * <a href="https://github.com/0xcaffebabe/note/commit/64cc21013d7b1b00bf6ef9dd78901392c2e462eb" target="_blank"> Update build_chapter_count.py </a> - 2021/01/15 13:19:18 
 
     
-  * <a href="https://github.com/0xcaffebabe/note/commit/30eaf350ec15f2e89231e322c5681e94ed4d9f13" target="_blank"> ➕增加 参考书籍 </a> - 2021/01/12 19:48:45 
+  * <a href="https://github.com/0xcaffebabe/note/commit/f66a427f915f65694b37adf9055e8794d22328ca" target="_blank"> Update build_chapter_count.py </a> - 2021/01/15 13:01:24 
 
     
 
