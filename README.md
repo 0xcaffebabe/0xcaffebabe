@@ -11,7 +11,7 @@
 |__| |__||_______||_______||_______||_______||__| |__||_______||___|  |_||_______||______|                        
 ```
 
-由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2021-03-22 12:55:10_
+由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2021-03-25 12:37:43_
 
 <p style="text-align:center">
   <img src="https://github-readme-stats.vercel.app/api?username=0xcaffebabe&count_private=true&show_icons=true">
@@ -68,8 +68,8 @@
 #### 📝 计划
 
 - [进行中的书单](https://github.com/users/0xcaffebabe/projects/4)
-  - 设计数据密集型应用
   - 高性能mysql
+  - 图解Java多线程设计模式
 
 
 - [后端学习计划](https://github.com/users/0xcaffebabe/projects/1)
@@ -86,22 +86,22 @@
 #### 🌴最近提交
 
 
-  * <a href="https://github.com/0xcaffebabe/blb-consumer-frontend/commit/fb1913a1d53467e1cc1dbc7b61595d5c77f60bfa" target="_blank"> 调整主布局最小高度 </a> - 2021/03/21 17:57:22 
+  * <a href="https://github.com/0xcaffebabe/note/commit/9c5d6b632e7132d4cbb35d8e701bdadc26516bfd" target="_blank"> ➕增加 并发编程设计模式 </a> - 2021/03/24 18:01:43 
 
     
-  * <a href="https://github.com/0xcaffebabe/note/commit/13dd90b27f7bab38e30f3b439c19e6a7e33fb9df" target="_blank"> ✏更新 分布式 </a> - 2021/03/19 18:23:39 
+  * <a href="https://github.com/0xcaffebabe/note/commit/214ae483ec9a5d92bb6d73a9be2681f6c5401ede" target="_blank"> ➕增加 参考书籍 </a> - 2021/03/24 18:01:43 
 
     
-  * <a href="https://github.com/0xcaffebabe/note/commit/f13b6c0b4ce315864cc940144ebec038e5f8917c" target="_blank"> ✏更新 分布式 </a> - 2021/03/19 18:23:39 
+  * <a href="https://github.com/0xcaffebabe/note/commit/6084d2e8f1cd6af1d39c364011940fe2448fa82e" target="_blank"> ✏更新 MySQL 视图和存储程序 </a> - 2021/03/23 18:28:26 
 
     
-  * <a href="https://github.com/0xcaffebabe/note/commit/6d864df4a511a78b913e04662230a311daa1fa7f" target="_blank"> ✏更新 MySQL 分区表 </a> - 2021/03/17 17:51:03 
+  * <a href="https://github.com/0xcaffebabe/note/commit/62b37081bea0b6e285bc75d2cf0c437a740fb38c" target="_blank"> 📦整理 Kafka 消费者 </a> - 2021/03/23 18:28:26 
 
     
-  * <a href="https://github.com/0xcaffebabe/note/commit/378401ed7ba81da45b44387f6cf3eb7c9af2be8b" target="_blank"> 📦整理 Redis </a> - 2021/03/17 17:51:03 
+  * <a href="https://github.com/0xcaffebabe/note/commit/18cad3988483fbd4dc055a5cfd5a436b7fe910b3" target="_blank"> ✏更新 Kafka 消费者 </a> - 2021/03/23 18:28:26 
 
     
-  * <a href="https://github.com/0xcaffebabe/note/commit/4bdaf047b41bfd74136bca4ac79055ecf91a8392" target="_blank"> 📦整理 软件工程 理论 </a> - 2021/03/17 17:51:03 
+  * <a href="https://github.com/0xcaffebabe/note/commit/b8547bb024b115e9cb235835d108620de223c0ad" target="_blank"> ➕增加 参考文档 </a> - 2021/03/23 18:28:26 
 
     
 
