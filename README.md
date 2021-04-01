@@ -11,7 +11,7 @@
 |__| |__||_______||_______||_______||_______||__| |__||_______||___|  |_||_______||______|                        
 ```
 
-由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2021-03-31 12:42:22_
+由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2021-04-01 12:42:30_
 
 <p style="text-align:center">
   <img src="https://github-readme-stats.vercel.app/api?username=0xcaffebabe&count_private=true&show_icons=true">
@@ -86,6 +86,23 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/blb/commit/3caf42e56839238220a46a087b02a8c226695fda" target="_blank"> Update nodejs.yml </a> - 2021/04/01 14:19:40 
+
+    
+  * <a href="https://github.com/0xcaffebabe/blb/commit/ab0ff3942fc579b32760b4dcc54c40a5ad1e239a" target="_blank"> Bump guava from 28.2-jre to 29.0-jre in /blb-backend/parent
+
+Bumps [guava](https://github.com/google/guava) from 28.2-jre to 29.0-jre.
+- [Release notes](https://github.com/google/guava/releases)
+- [Commits](https://github.com/google/guava/commits)
+
+Signed-off-by: dependabot[bot] <support@github.com> </a> - 2021/04/01 14:18:17 
+
+    
+  * <a href="https://github.com/0xcaffebabe/blb/commit/948ca1e9703c6d680e87d58352adb8da274d11f9" target="_blank"> Merge pull request #8 from 0xcaffebabe/dependabot/maven/blb-backend/parent/com.google.guava-guava-29.0-jre
+
+Bump guava from 28.2-jre to 29.0-jre in /blb-backend/parent </a> - 2021/04/01 14:18:17 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/08eb9dde6f31579b00f833fc2a8174630cc7e2af" target="_blank"> ✏更新 并发编程设计模式 </a> - 2021/03/31 18:54:08 
 
     
@@ -102,15 +119,6 @@ Signed-off-by: dependabot[bot] <support@github.com> </a> - 2021/03/30 10:19:55
   * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/a3da24d9ee77c4704494019faf19c1f9b1e8a2d8" target="_blank"> Merge pull request #20 from 0xcaffebabe/dependabot/bundler/kramdown-2.3.1
 
 Bump kramdown from 2.3.0 to 2.3.1 </a> - 2021/03/30 10:19:55 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/6abbe50853a84d09866212163b0f15d5e6a2396f" target="_blank"> ✏更新 README </a> - 2021/03/28 17:17:16 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/7f69bf40c13d1b1b034ff77e088580231a486695" target="_blank"> ✏更新 JDBC </a> - 2021/03/28 17:17:16 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/ba408ef56453c3de9bbc2dbf7b458612a05103b9" target="_blank"> ✏更新 JVM 内存结构 </a> - 2021/03/28 17:17:16 
 
     
 
