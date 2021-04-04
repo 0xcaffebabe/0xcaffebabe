@@ -11,7 +11,7 @@
 |__| |__||_______||_______||_______||_______||__| |__||_______||___|  |_||_______||______|                        
 ```
 
-由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2021-04-01 12:42:30_
+由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2021-04-04 12:42:15_
 
 <p style="text-align:center">
   <img src="https://github-readme-stats.vercel.app/api?username=0xcaffebabe&count_private=true&show_icons=true">
@@ -70,6 +70,7 @@
 - [进行中的书单](https://github.com/users/0xcaffebabe/projects/4)
   - 高性能mysql
   - 图解Java多线程设计模式
+  - 业务逻辑拆分模式
 
 
 - [后端学习计划](https://github.com/users/0xcaffebabe/projects/1)
@@ -86,6 +87,15 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/51a8881190ac10c06e1f2a87ab2496aa8124a8e3" target="_blank"> ✏更新 并发编程设计模式 </a> - 2021/04/02 18:04:12 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/3fa322c3206080150a5040d84ebed15f1b8eda3e" target="_blank"> ➕增加 leetcode </a> - 2021/04/01 22:12:50 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/a5cf96b34a7b3b270b5fcc07ccb553a687eb37f1" target="_blank"> Merge branch 'master' of https://github.com/0xcaffebabe/note </a> - 2021/04/01 22:12:50 
+
+    
   * <a href="https://github.com/0xcaffebabe/blb/commit/3caf42e56839238220a46a087b02a8c226695fda" target="_blank"> Update nodejs.yml </a> - 2021/04/01 14:19:40 
 
     
@@ -101,24 +111,6 @@ Signed-off-by: dependabot[bot] <support@github.com> </a> - 2021/04/01 14:18:17
   * <a href="https://github.com/0xcaffebabe/blb/commit/948ca1e9703c6d680e87d58352adb8da274d11f9" target="_blank"> Merge pull request #8 from 0xcaffebabe/dependabot/maven/blb-backend/parent/com.google.guava-guava-29.0-jre
 
 Bump guava from 28.2-jre to 29.0-jre in /blb-backend/parent </a> - 2021/04/01 14:18:17 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/08eb9dde6f31579b00f833fc2a8174630cc7e2af" target="_blank"> ✏更新 并发编程设计模式 </a> - 2021/03/31 18:54:08 
-
-    
-  * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/9eed4fc7cd10e80745344e2639c89b7ecf75f809" target="_blank"> Bump kramdown from 2.3.0 to 2.3.1
-
-Bumps [kramdown](https://github.com/gettalong/kramdown) from 2.3.0 to 2.3.1.
-- [Release notes](https://github.com/gettalong/kramdown/releases)
-- [Changelog](https://github.com/gettalong/kramdown/blob/master/doc/news.page)
-- [Commits](https://github.com/gettalong/kramdown/commits)
-
-Signed-off-by: dependabot[bot] <support@github.com> </a> - 2021/03/30 10:19:55 
-
-    
-  * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/a3da24d9ee77c4704494019faf19c1f9b1e8a2d8" target="_blank"> Merge pull request #20 from 0xcaffebabe/dependabot/bundler/kramdown-2.3.1
-
-Bump kramdown from 2.3.0 to 2.3.1 </a> - 2021/03/30 10:19:55 
 
     
 
