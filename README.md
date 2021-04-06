@@ -1,21 +1,9 @@
 
 ## Overview
 
-```
- __   __  _______  ___      ___      _______  _     _  _______  ______    ___      ______  
-|  | |  ||       ||   |    |   |    |       || | _ | ||       ||    _ |  |   |    |      | 
-|  |_|  ||    ___||   |    |   |    |   _   || || || ||   _   ||   | ||  |   |    |  _    |
-|       ||   |___ |   |    |   |    |  | |  ||       ||  | |  ||   |_||_ |   |    | | |   |
-|       ||    ___||   |___ |   |___ |  |_|  ||       ||  |_|  ||    __  ||   |___ | |_|   |
-|   _   ||   |___ |       ||       ||       ||   _   ||       ||   |  | ||       ||       |
-|__| |__||_______||_______||_______||_______||__| |__||_______||___|  |_||_______||______|                        
-```
+由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2021-04-06 09:50:05_
 
-由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2021-04-04 12:42:15_
-
-<p style="text-align:center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xcaffebabe&count_private=true&show_icons=true">
-</p>
+![](https://raw.githubusercontent.com/0xcaffebabe/github-stats/master/generated/overview.svg)![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xcaffebabe&layout=compact&langs_count=8)
 
 <table>
 
@@ -54,8 +42,7 @@
 
 <td valign="top" width="50%">
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=0xcaffebabe&layout=compact)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xcaffebabe&layout=compact&langs_count=8)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=0xcaffebabe)
 
 </td>
 
@@ -69,8 +56,6 @@
 
 - [进行中的书单](https://github.com/users/0xcaffebabe/projects/4)
   - 高性能mysql
-  - 图解Java多线程设计模式
-  - 业务逻辑拆分模式
 
 
 - [后端学习计划](https://github.com/users/0xcaffebabe/projects/1)
@@ -87,30 +72,22 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/github-stats/commit/939651dda5df3f12494e2adf20188a3c8c13b160" target="_blank"> Update README.md </a> - 2021/04/06 17:40:18 
+
+    
+  * <a href="https://github.com/0xcaffebabe/github-stats/commit/27dcc334d5f0cfc7cca0a53ea749811e0a236702" target="_blank"> Update main.yml </a> - 2021/04/06 17:39:31 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/e97db389d18d0da952e528700199b03c6545ebf0" target="_blank"> ✏更新 Mybatis 源码解析 </a> - 2021/04/05 21:59:49 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/9485f755642e86d2fa23e906209ff91d78984840" target="_blank"> ✏更新 并发编程设计模式 </a> - 2021/04/05 21:59:49 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/51a8881190ac10c06e1f2a87ab2496aa8124a8e3" target="_blank"> ✏更新 并发编程设计模式 </a> - 2021/04/02 18:04:12 
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/3fa322c3206080150a5040d84ebed15f1b8eda3e" target="_blank"> ➕增加 leetcode </a> - 2021/04/01 22:12:50 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/a5cf96b34a7b3b270b5fcc07ccb553a687eb37f1" target="_blank"> Merge branch 'master' of https://github.com/0xcaffebabe/note </a> - 2021/04/01 22:12:50 
-
-    
-  * <a href="https://github.com/0xcaffebabe/blb/commit/3caf42e56839238220a46a087b02a8c226695fda" target="_blank"> Update nodejs.yml </a> - 2021/04/01 14:19:40 
-
-    
-  * <a href="https://github.com/0xcaffebabe/blb/commit/ab0ff3942fc579b32760b4dcc54c40a5ad1e239a" target="_blank"> Bump guava from 28.2-jre to 29.0-jre in /blb-backend/parent
-
-Bumps [guava](https://github.com/google/guava) from 28.2-jre to 29.0-jre.
-- [Release notes](https://github.com/google/guava/releases)
-- [Commits](https://github.com/google/guava/commits)
-
-Signed-off-by: dependabot[bot] <support@github.com> </a> - 2021/04/01 14:18:17 
-
-    
-  * <a href="https://github.com/0xcaffebabe/blb/commit/948ca1e9703c6d680e87d58352adb8da274d11f9" target="_blank"> Merge pull request #8 from 0xcaffebabe/dependabot/maven/blb-backend/parent/com.google.guava-guava-29.0-jre
-
-Bump guava from 28.2-jre to 29.0-jre in /blb-backend/parent </a> - 2021/04/01 14:18:17 
 
     
 
