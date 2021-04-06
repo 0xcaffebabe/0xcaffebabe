@@ -18,13 +18,13 @@ def httpGet(url):
     client.close()
 
 def fetch_recent_blog():
-  text = httpGet('https://ismy.wang')
+  text = httpGet('https://0xcaffebabe.github.io')
   soup = BeautifulSoup(text,features="html.parser")
   postList = soup.select(".post-list li")
   count = 0
   html = ""
   for i in postList:
-    if count >= 5:
+    if count >= 8:
       break
     blogTitle = i.a.text
     blogLink = i.a['href']

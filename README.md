@@ -11,7 +11,11 @@
 |__| |__||_______||_______||_______||_______||__| |__||_______||___|  |_||_______||______|                        
 ```
 
-由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2020-12-09 12:11:36_
+由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2021-04-04 12:42:15_
+
+<p style="text-align:center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xcaffebabe&count_private=true&show_icons=true">
+</p>
 
 <table>
 
@@ -35,21 +39,23 @@
     
 * <a href="https://ismy.wang/%E6%97%A5%E5%B8%B8/2020/04/16/%E8%B0%83%E8%AF%95%E4%B8%80%E4%B8%AAwsl2+java%E5%BC%95%E5%8F%91%E7%9A%84bug.html" target="_blank"> 调试一个wsl2+java引发的bug </a> - 2020/04/16 
 
+    
+* <a href="https://ismy.wang/spring/2019/11/04/Spring-%E5%9B%9B-%E4%BA%8B%E5%8A%A1%E7%AE%A1%E7%90%86.html" target="_blank"> Spring(四):事务管理 </a> - 2019/11/04 
+
+    
+* <a href="https://ismy.wang/spring/2019/10/28/Spring(%E4%B8%89)-AOP.html" target="_blank"> Spring(三):AOP </a> - 2019/10/28 
+
+    
+* <a href="https://ismy.wang/spring/2019/10/21/Spring(%E4%BA%8C)-Bean%E7%9A%84%E8%A3%85%E9%85%8D.html" target="_blank"> Spring(二):Bean的装配 </a> - 2019/10/21 
+
         
 
 </td>
 
 <td valign="top" width="50%">
 
-#### 📊 最近一周开发时间
-
-```
-Markdown    17 hrs 53 mins ████████████████▊░░░░  80.0%
-HTML        1 hr 39 mins   █▌░░░░░░░░░░░░░░░░░░░   7.4%
-Bash        34 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.6%
-XML         32 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.4%
-Java        29 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.2%
-```
+![](https://github-readme-stats.vercel.app/api/wakatime?username=0xcaffebabe&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xcaffebabe&layout=compact&langs_count=8)
 
 </td>
 
@@ -62,12 +68,14 @@ Java        29 mins        ▍░░░░░░░░░░░░░░░░�
 #### 📝 计划
 
 - [进行中的书单](https://github.com/users/0xcaffebabe/projects/4)
-  - 现代前端技术解析
-  - 企业IT架构转型之道
-  - 现代操作系统
+  - 高性能mysql
+  - 图解Java多线程设计模式
+  - 业务逻辑拆分模式
 
 
 - [后端学习计划](https://github.com/users/0xcaffebabe/projects/1)
+  - mybatis源码解析
+  - hadoop
 
 
 - [其他学习计划](https://github.com/users/0xcaffebabe/projects/3)
@@ -79,22 +87,30 @@ Java        29 mins        ▍░░░░░░░░░░░░░░░░�
 #### 🌴最近提交
 
 
-  * <a href="https://github.com/0xcaffebabe/note/commit/cbbf81aef24303b3624859abac50da9fe86b0071" target="_blank"> ✏更新 中台 </a> - 2020/12/09 18:09:52 
+  * <a href="https://github.com/0xcaffebabe/note/commit/51a8881190ac10c06e1f2a87ab2496aa8124a8e3" target="_blank"> ✏更新 并发编程设计模式 </a> - 2021/04/02 18:04:12 
 
     
-  * <a href="https://github.com/0xcaffebabe/note/commit/42d4cc8bc0ba10a030855ffc6595c9914645540e" target="_blank"> ✏更新 操作系统 安全 </a> - 2020/12/09 18:09:52 
+  * <a href="https://github.com/0xcaffebabe/note/commit/3fa322c3206080150a5040d84ebed15f1b8eda3e" target="_blank"> ➕增加 leetcode </a> - 2021/04/01 22:12:50 
 
     
-  * <a href="https://github.com/0xcaffebabe/0xcaffebabe/commit/75fdeea3be8884bd444a279e05180bc61deeec32" target="_blank"> 更新链接错误 </a> - 2020/12/09 18:08:20 
+  * <a href="https://github.com/0xcaffebabe/note/commit/a5cf96b34a7b3b270b5fcc07ccb553a687eb37f1" target="_blank"> Merge branch 'master' of https://github.com/0xcaffebabe/note </a> - 2021/04/01 22:12:50 
 
     
-  * <a href="https://github.com/0xcaffebabe/0xcaffebabe/commit/6388db5d7cb7430acd5374304b8c3c36cedfd84c" target="_blank"> Merge branch 'master' of https://github.com/0xcaffebabe/0xcaffebabe </a> - 2020/12/09 18:08:20 
+  * <a href="https://github.com/0xcaffebabe/blb/commit/3caf42e56839238220a46a087b02a8c226695fda" target="_blank"> Update nodejs.yml </a> - 2021/04/01 14:19:40 
 
     
-  * <a href="https://github.com/0xcaffebabe/0xcaffebabe/commit/43917e1d6e474f97c7c7d2600d7ca6c39543bf8c" target="_blank"> 修正脚本错误 </a> - 2020/12/09 18:03:22 
+  * <a href="https://github.com/0xcaffebabe/blb/commit/ab0ff3942fc579b32760b4dcc54c40a5ad1e239a" target="_blank"> Bump guava from 28.2-jre to 29.0-jre in /blb-backend/parent
+
+Bumps [guava](https://github.com/google/guava) from 28.2-jre to 29.0-jre.
+- [Release notes](https://github.com/google/guava/releases)
+- [Commits](https://github.com/google/guava/commits)
+
+Signed-off-by: dependabot[bot] <support@github.com> </a> - 2021/04/01 14:18:17 
 
     
-  * <a href="https://github.com/0xcaffebabe/0xcaffebabe/commit/ae0487aec92c1324cb6117c62fcfad6e0f7c23e7" target="_blank"> 修改脚本commit链接跳转 </a> - 2020/12/09 18:00:57 
+  * <a href="https://github.com/0xcaffebabe/blb/commit/948ca1e9703c6d680e87d58352adb8da274d11f9" target="_blank"> Merge pull request #8 from 0xcaffebabe/dependabot/maven/blb-backend/parent/com.google.guava-guava-29.0-jre
+
+Bump guava from 28.2-jre to 29.0-jre in /blb-backend/parent </a> - 2021/04/01 14:18:17 
 
     
 
