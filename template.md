@@ -1,21 +1,9 @@
 
 ## Overview
 
-```
- __   __  _______  ___      ___      _______  _     _  _______  ______    ___      ______  
-|  | |  ||       ||   |    |   |    |       || | _ | ||       ||    _ |  |   |    |      | 
-|  |_|  ||    ___||   |    |   |    |   _   || || || ||   _   ||   | ||  |   |    |  _    |
-|       ||   |___ |   |    |   |    |  | |  ||       ||  | |  ||   |_||_ |   |    | | |   |
-|       ||    ___||   |___ |   |___ |  |_|  ||       ||  |_|  ||    __  ||   |___ | |_|   |
-|   _   ||   |___ |       ||       ||       ||   _   ||       ||   |  | ||       ||       |
-|__| |__||_______||_______||_______||_______||__| |__||_______||___|  |_||_______||______|                        
-```
-
 由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:${gen_time}_
 
-<p style="text-align:center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xcaffebabe&count_private=true&show_icons=true">
-</p>
+![](https://raw.githubusercontent.com/0xcaffebabe/github-stats/master/generated/overview.svg)![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xcaffebabe&layout=compact&langs_count=8)
 
 <table>
 
@@ -30,8 +18,7 @@ ${recent_blogs}
 
 <td valign="top" width="50%">
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=0xcaffebabe&layout=compact)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xcaffebabe&layout=compact&langs_count=8)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=0xcaffebabe)
 
 </td>
 
