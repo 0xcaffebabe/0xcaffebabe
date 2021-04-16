@@ -1,7 +1,7 @@
 
 ## Overview
 
-由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2021-04-13 12:42:40_
+由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2021-04-16 12:42:36_
 
 ![](https://raw.githubusercontent.com/0xcaffebabe/github-stats/master/generated/overview.svg)![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xcaffebabe&layout=compact&langs_count=8)
 
@@ -55,6 +55,8 @@
 #### 📝 计划
 
 - [进行中的书单](https://github.com/users/0xcaffebabe/projects/4)
+  - 设计模式
+  - 代码大全
   - 高性能mysql
 
 
@@ -64,7 +66,7 @@
 
 
 - [其他学习计划](https://github.com/users/0xcaffebabe/projects/3)
-  - arduino
+  - vue3
 
 
 <td>
@@ -72,22 +74,22 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/eacbfbf07c19218975a5846a34b45956d709427f" target="_blank"> ✏更新 leetcode </a> - 2021/04/16 18:11:46 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/49bdeb677740d9562fde04a433b645a6f1682cde" target="_blank"> ➕增加 leetcode </a> - 2021/04/15 22:08:34 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/0e295b1f448fc83e0600ddae367a343f5eea07ea" target="_blank"> ✏更新 CSS 问题 </a> - 2021/04/15 22:08:34 
+
+    
+  * <a href="https://github.com/0xcaffebabe/zbq-web/commit/42c0ed691ac20b4222256a0a57229e9c3a5bdb1a" target="_blank"> 登录界面初步实现 </a> - 2021/04/15 22:05:02 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/748ae22fc9656d266c25bbd544d380e127f6d6c7" target="_blank"> ✏更新 脚本 </a> - 2021/04/12 18:10:35 
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/f777a3573a8ff514c001f1a43a0b02d3fd04d976" target="_blank"> ✏更新 git </a> - 2021/04/12 18:10:35 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/3fb83f616ee4640a0f8ab70789d11784f58a2be7" target="_blank"> ➕增加 参考文档 </a> - 2021/04/12 18:10:35 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/95d9dfe55e8c3289b722f1e25f9ea412a2c6ae73" target="_blank"> ✏更新 volatile </a> - 2021/04/12 18:10:35 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/3579784105921d2c657d8154801fd41fcee41c05" target="_blank"> ✏更新 synchronized </a> - 2021/04/12 18:10:35 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/1720fdf37bcdbce2911ff0f2cc0efa2e48080caa" target="_blank"> ✏更新 并发编程 CAS </a> - 2021/04/12 18:10:35 
 
     
 
