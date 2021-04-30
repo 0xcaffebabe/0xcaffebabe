@@ -68,6 +68,8 @@ def fetch_commits():
       for commit in commitList:
         msg = commit['message']
         if msg == 'update': break
+        if (len(msg) >= 32):
+          msg = msg[:32] + "..."
         time = item['created_at']
         repo = item['repo']['name']
         sha = commit['sha']
