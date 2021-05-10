@@ -1,7 +1,7 @@
 
 ## Overview
 
-由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2021-05-07 12:58:57_
+由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2021-05-10 12:59:36_
 
 ![](https://raw.githubusercontent.com/0xcaffebabe/github-stats/master/generated/overview.svg)![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xcaffebabe&layout=compact&langs_count=8)
 
@@ -55,7 +55,6 @@
 #### 📝 计划
 
 - [进行中的书单](https://github.com/users/0xcaffebabe/projects/4)
-  - 设计模式
   - 代码大全
   - 高性能mysql
 
@@ -74,6 +73,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/12aaceb455b8276fbea89c876d86f1f31fb3929c" target="_blank"> Create .typo-ci.yml </a> - 2021/05/10 17:02:28 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/7e760cf92336fe3214ac28111e0f1ee5c6ec0e84" target="_blank"> Create CONTRIBUTING.md </a> - 2021/05/10 15:38:10 
+
+    
   * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/338cf3ab4cc84912a6068eabd63dbba97a64f40c" target="_blank"> [ImgBot] Optimize images
 
 *Total... </a> - 2021/05/07 18:17:05 
@@ -88,12 +93,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/9ea595c2f42ad3f9d5d5ee5bbdf112f3bb545263" target="_blank"> Merge pull request #22 from 0xca... </a> - 2021/05/07 18:16:44 
-
-    
-  * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/504bc4cc6ba903bcc124bc64cea76d043a638ecf" target="_blank"> Update README.md </a> - 2021/05/07 18:16:19 
-
-    
-  * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/d52e84af6e5722664a1e13967dfe372daacf7dba" target="_blank"> Update _config.yml </a> - 2021/05/07 18:15:10 
 
     
 
