@@ -1,7 +1,7 @@
 
 ## Overview
 
-由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2021-05-13 13:02:27_
+由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2021-05-19 13:02:55_
 
 ![](https://raw.githubusercontent.com/0xcaffebabe/github-stats/master/generated/overview.svg)![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xcaffebabe&layout=compact&langs_count=8)
 
@@ -55,8 +55,7 @@
 #### 📝 计划
 
 - [进行中的书单](https://github.com/users/0xcaffebabe/projects/4)
-  - 函数式编程思维
-  - 代码大全
+  - 领域驱动设计：软件核心复杂性应对之道
   - 高性能mysql
 
 
@@ -74,24 +73,22 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/7126f5f80d17f5a2d1a3660a0b826c0f88a8ab06" target="_blank"> ✏更新 leetcode </a> - 2021/05/19 18:22:58 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/06dcfc0550c06248d122eed2c0381ec970ef845e" target="_blank"> ✏更新 leetcode </a> - 2021/05/16 16:52:03 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/fa202ca250d6cab39026176f7f3b5265e3d81306" target="_blank"> ✏更新 函数式编程 </a> - 2021/05/14 17:54:19 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/3ba77922003eb764dcadda166ff35f4448465474" target="_blank"> ✏更新 leetcode </a> - 2021/05/14 17:54:19 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/5abd0542bbd9ece398a6ee7ff73badad23560727" target="_blank"> ✏更新 Kafka消费者 auto.offset.reset </a> - 2021/05/13 17:54:03 
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/61302a75ec31c35ae850e3305c50390f4b6fbd28" target="_blank"> ✏更新 函数式编程 </a> - 2021/05/13 17:54:03 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/1e82fb4e4914ceaef80137bbeca12b9ce0f762c2" target="_blank"> ✏更新 leetcode </a> - 2021/05/13 17:54:03 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/ce8247bff530cd83c0b830828c6a3cbd463bf834" target="_blank"> ✏更新 函数式编程 </a> - 2021/05/12 17:13:16 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/9eb0346d46c1f1133e62ed579e9fd8b1443377e7" target="_blank"> [ImgBot] Optimize images
-
-*Total... </a> - 2021/05/12 08:35:12 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/0d26545f892f7bbdc590555f1cbb9dc59141de98" target="_blank"> Merge pull request #148 from 0xc... </a> - 2021/05/12 08:35:12 
 
     
 
