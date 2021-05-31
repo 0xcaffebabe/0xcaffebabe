@@ -1,7 +1,7 @@
 
 ## Overview
 
-由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2021-05-28 13:35:01_
+由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2021-05-31 13:45:55_
 
 ![](https://raw.githubusercontent.com/0xcaffebabe/github-stats/master/generated/overview.svg)![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xcaffebabe&layout=compact&langs_count=8)
 
@@ -55,7 +55,7 @@
 #### 📝 计划
 
 - [进行中的书单](https://github.com/users/0xcaffebabe/projects/4)
-  - 领域驱动设计：软件核心复杂性应对之道
+  - Java 并发编程实战
   - 高性能mysql
 
 
@@ -73,22 +73,22 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/aafc7fa926d77f0f7a77e570c5bc46185fd223c6" target="_blank"> ❌删除 Spring 源码解析 </a> - 2021/05/31 17:58:30 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/b8778fd33941946d7d2f621f202a6e5553f34398" target="_blank"> ✏更新 Spring 事件 </a> - 2021/05/31 17:58:30 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/eaa4c0d4f62d1a802739f25cc9e5578cf61792c3" target="_blank"> ✏更新 Spring Bean注册 </a> - 2021/05/31 17:58:30 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/e5a3f84e6399f2db6e928b1beeabea8694abe84e" target="_blank"> ✏更新 策略模式 </a> - 2021/05/31 17:58:30 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/74e8d889e21c34b7bfff83f388d335c9be52803b" target="_blank"> ✏更新 leetcode </a> - 2021/05/31 17:58:30 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/d5a467618a954fbedc94ed5bf929e4532f9262fd" target="_blank"> ✏更新 Spring AOP </a> - 2021/05/28 19:27:27 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/0143b53ec768bd19f9bb25cf673597aac49f8eff" target="_blank"> ✏更新 Spring 事务 </a> - 2021/05/28 19:27:27 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/0b03ea96663bd8012f3a42bf7f7512a6a9135aee" target="_blank"> ✏更新 线程池 </a> - 2021/05/28 19:27:27 
-
-    
-  * <a href="https://github.com/0xcaffebabe/zbq-bot/commit/5a51b7ee675ca16707bd001df45e39a8a4c11401" target="_blank"> recall resend </a> - 2021/05/27 22:18:30 
-
-    
-  * <a href="https://github.com/0xcaffebabe/zbq-bot/commit/d8166fea8a55c22f18102d4b34c672f74ddb3aa4" target="_blank"> add NeedMuteListener </a> - 2021/05/27 21:33:56 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/9ed0491e858559625df7a1251c85498677a92b35" target="_blank"> ✏更新 责任链模式 </a> - 2021/05/27 18:10:41 
 
     
 
