@@ -1,7 +1,7 @@
 
 ## Overview
 
-由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2021-06-28 12:59:06_
+由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2021-07-01 13:01:24_
 
 ![](https://raw.githubusercontent.com/0xcaffebabe/github-stats/master/generated/overview.svg)![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xcaffebabe&layout=compact&langs_count=8)
 
@@ -55,7 +55,6 @@
 #### 📝 计划
 
 - [进行中的书单](https://github.com/users/0xcaffebabe/projects/4)
-  - Java 并发编程实战
   - 高性能mysql
 
 
@@ -73,6 +72,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/b006abd048303598fb9d1478b5fdb4c442163186" target="_blank"> ✏更新 Java 反射 </a> - 2021/06/29 08:32:38 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/32687d14a5fdca8efc2309eea9d6de1cb0a36439" target="_blank"> ➕增加 leetcode </a> - 2021/06/29 08:32:38 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/e600ebf18347f4646ceefb8b8e4829c828fbbd68" target="_blank"> ✏更新 MySQL Lock wait timeout exce... </a> - 2021/06/23 17:49:57 
 
     
@@ -83,12 +88,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/85e1c422d3f3b42dc694c25383bab9d7a1e73983" target="_blank"> ✏更新 leetcode </a> - 2021/06/23 17:49:57 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/8028aee91d8ba4d61d0849d87991118b370f63e6" target="_blank"> ➕增加 参考书籍 </a> - 2021/06/23 17:49:57 
-
-    
-  * <a href="https://github.com/0xcaffebabe/graduate-design/commit/c8a9ecfc89eca4bf19b3b0d22d525aa54c121734" target="_blank"> Create README.md </a> - 2021/06/22 09:59:37 
 
     
 
