@@ -1,7 +1,7 @@
 
 ## Overview
 
-由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2021-08-01 12:54:58_
+由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2021-08-04 12:58:54_
 
 ![](https://raw.githubusercontent.com/0xcaffebabe/github-stats/master/generated/overview.svg)![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xcaffebabe&layout=compact&langs_count=8)
 
@@ -55,6 +55,7 @@
 #### 📝 计划
 
 - [进行中的书单](https://github.com/users/0xcaffebabe/projects/4)
+  - unix编程艺术
   - 高性能mysql
 
 
@@ -72,22 +73,22 @@
 #### 🌴最近提交
 
 
-  * <a href="https://github.com/0xcaffebabe/note/commit/40dd90253e8325e51c895ed074c37fbef59e06a4" target="_blank"> ✏更新 学习计划 </a> - 2021/07/31 15:49:45 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/e09835fd018770b65189571a3e14f247a8544560" target="_blank"> feat: add java solution to lc probolem: No.747.Largest Number At Least Twice of Others </a> - 2021/08/03 20:36:06 
 
     
-  * <a href="https://github.com/0xcaffebabe/zbq-bot/commit/5d4ccf9636538115144f62cb6ee82236c479ae5f" target="_blank"> 删除回归提示 </a> - 2021/07/31 12:27:14 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/5d82003355cf14b9a58447755dee977927f42ef9" target="_blank"> feat: add java solution to lc problem: No.1342.Number of Steps to Reduce a Number to Zero </a> - 2021/08/03 20:32:33 
 
     
-  * <a href="https://github.com/0xcaffebabe/zbq-bot/commit/ac38effa459e3ce4a4d721128dea40abdd93a49b" target="_blank"> 优化 </a> - 2021/07/31 12:27:14 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/1dc1b66a42305d1f89dade9ed861fab478d0bdf5" target="_blank"> feat: add solutions to lc problem: No.0938.Range Sum of BST </a> - 2021/08/03 20:31:30 
 
     
-  * <a href="https://github.com/0xcaffebabe/zbq-bot/commit/a875d63f39167b500c3752e49ae1f8129ed9888f" target="_blank"> 随机阈值 </a> - 2021/07/30 22:11:00 
+  * <a href="https://github.com/0xcaffebabe/note/commit/027bafd75c49c43dff3428a7989769fd08166ab9" target="_blank"> ✏更新 leetcode </a> - 2021/08/03 20:25:20 
 
     
-  * <a href="https://github.com/0xcaffebabe/zbq-bot/commit/4da413baef912124100608fc4b9715cb4756007a" target="_blank"> 随机表情包 </a> - 2021/07/30 22:01:54 
+  * <a href="https://github.com/0xcaffebabe/note/commit/f636c263d0ee27c4de3d9307d9abed07c2606208" target="_blank"> Merge branch 'master' of https:/... </a> - 2021/08/03 20:25:20 
 
     
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/d6e7f1d6cb1f2036183b75a57d416fc380f312d5" target="_blank"> feat: code format </a> - 2021/07/29 11:31:03 
+  * <a href="https://github.com/0xcaffebabe/note/commit/446903aec718062808b8acdafd18d556450af41c" target="_blank"> ✏更新 学习计划 </a> - 2021/08/03 20:25:20 
 
     
 
