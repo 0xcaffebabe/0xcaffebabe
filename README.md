@@ -1,7 +1,7 @@
 
 ## Overview
 
-由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2021-08-16 13:23:35_
+由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2021-08-19 13:02:22_
 
 ![](https://raw.githubusercontent.com/0xcaffebabe/github-stats/master/generated/overview.svg)![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xcaffebabe&layout=compact&langs_count=8)
 
@@ -55,6 +55,7 @@
 #### 📝 计划
 
 - [进行中的书单](https://github.com/users/0xcaffebabe/projects/4)
+  - 敏捷整洁之道
   - unix编程艺术
   - 高性能mysql
 
@@ -73,22 +74,22 @@
 #### 🌴最近提交
 
 
-  * <a href="https://github.com/0xcaffebabe/zbq-bot/commit/200bab9056b947e3e76188e28a94c1187b53bb9e" target="_blank"> 卖笔关键词 </a> - 2021/08/16 09:17:57 
+  * <a href="https://github.com/0xcaffebabe/note/commit/d9a1e9d5cea3ae0a8c0461c96360fa7304cb11fc" target="_blank"> ✏更新 代码质量 </a> - 2021/08/19 20:28:12 
 
     
-  * <a href="https://github.com/0xcaffebabe/note/commit/77e43d62d2b4e436bcc228b23297211c2a80646a" target="_blank"> ✏更新 目录 </a> - 2021/08/13 21:08:09 
+  * <a href="https://github.com/0xcaffebabe/zbq-bot/commit/bffd947cbee9159a6f856b5e54f3efbf31377008" target="_blank"> 修改卖笔回应策略 </a> - 2021/08/19 17:54:00 
 
     
-  * <a href="https://github.com/0xcaffebabe/note/commit/3216f07659fcd9b30affce1a7bedfa4f0f359013" target="_blank"> ✏更新 Java 泛型 </a> - 2021/08/13 21:08:09 
+  * <a href="https://github.com/0xcaffebabe/note/commit/72ef903971f583db2157da6eecbd0dee910787c9" target="_blank"> 📦整理 代码质量 </a> - 2021/08/18 17:48:36 
 
     
-  * <a href="https://github.com/0xcaffebabe/note/commit/6bff57ec717b3b46da33afc8c9c295571c00f9a3" target="_blank"> ✏更新 leetcode </a> - 2021/08/13 21:08:09 
+  * <a href="https://github.com/0xcaffebabe/note/commit/c60366e90477bc432a9d895581aaaaf3380e19df" target="_blank"> ✏更新 leetcode </a> - 2021/08/17 20:29:20 
 
     
-  * <a href="https://github.com/0xcaffebabe/blb/commit/32f20bd7add6428ff9bcd0b2e925c245c953ba2c" target="_blank"> Bump path-parse from 1.0.6 to 1.... </a> - 2021/08/13 09:41:41 
+  * <a href="https://github.com/0xcaffebabe/note/commit/b13502b17db5dee216dd99dc967a74fedcf02df8" target="_blank"> ✏更新 问题 </a> - 2021/08/17 20:29:20 
 
     
-  * <a href="https://github.com/0xcaffebabe/blb/commit/c7a2dc2c15295947154c0b217dc3162c1b4c016d" target="_blank"> Merge pull request #25 from 0xca... </a> - 2021/08/13 09:41:41 
+  * <a href="https://github.com/0xcaffebabe/zbq-bot/commit/f146b4545fe40900c20f4700f32071a5c8a05d87" target="_blank"> 定时问候 改表情包 </a> - 2021/08/17 16:16:09 
 
     
 
