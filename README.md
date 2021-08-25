@@ -1,7 +1,7 @@
 
 ## Overview
 
-由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2021-08-22 12:55:53_
+由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2021-08-25 13:00:23_
 
 ![](https://raw.githubusercontent.com/0xcaffebabe/github-stats/master/generated/overview.svg)![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xcaffebabe&layout=compact&langs_count=8)
 
@@ -56,7 +56,6 @@
 
 - [进行中的书单](https://github.com/users/0xcaffebabe/projects/4)
   - 敏捷整洁之道
-  - unix编程艺术
   - 高性能mysql
 
 
@@ -74,22 +73,22 @@
 #### 🌴最近提交
 
 
-  * <a href="https://github.com/0xcaffebabe/note/commit/3471184f92b5dc32dd9daa643f268e577d2f818f" target="_blank"> ✏更新 目录 </a> - 2021/08/20 17:57:57 
+  * <a href="https://github.com/0xcaffebabe/note/commit/4824b12b510ef9d47b931b383dbfb9bf6fc5975d" target="_blank"> ➕新增 埋点设计 </a> - 2021/08/25 17:56:49 
 
     
-  * <a href="https://github.com/0xcaffebabe/note/commit/23b340ce44bb15df366cbee5c574afd560f41725" target="_blank"> ✏更新 代码审查 </a> - 2021/08/20 17:57:57 
+  * <a href="https://github.com/0xcaffebabe/note/commit/48a59bac6096b4d96d47dce6dabab96a3723022d" target="_blank"> ✏更新 代码质量 软件测试 </a> - 2021/08/25 17:56:49 
 
     
-  * <a href="https://github.com/0xcaffebabe/note/commit/d9a1e9d5cea3ae0a8c0461c96360fa7304cb11fc" target="_blank"> ✏更新 代码质量 </a> - 2021/08/19 20:28:12 
+  * <a href="https://github.com/0xcaffebabe/note/commit/d3e6edee8ea64d873ea81036f7feea80967fd556" target="_blank"> ✏️更新 学习计划 </a> - 2021/08/24 23:36:25 
 
     
-  * <a href="https://github.com/0xcaffebabe/zbq-bot/commit/bffd947cbee9159a6f856b5e54f3efbf31377008" target="_blank"> 修改卖笔回应策略 </a> - 2021/08/19 17:54:00 
+  * <a href="https://github.com/0xcaffebabe/note/commit/cab5e6880f6a45f583cc486a2d546910930f85bf" target="_blank"> ✏更新 博客链接 </a> - 2021/08/24 22:52:11 
 
     
-  * <a href="https://github.com/0xcaffebabe/note/commit/72ef903971f583db2157da6eecbd0dee910787c9" target="_blank"> 📦整理 代码质量 </a> - 2021/08/18 17:48:36 
+  * <a href="https://github.com/0xcaffebabe/note/commit/e60e2473bb2d09cd57667b66a5459ddd68516a77" target="_blank"> ✏更新 编码规范 </a> - 2021/08/24 22:52:11 
 
     
-  * <a href="https://github.com/0xcaffebabe/note/commit/c60366e90477bc432a9d895581aaaaf3380e19df" target="_blank"> ✏更新 leetcode </a> - 2021/08/17 20:29:20 
+  * <a href="https://github.com/0xcaffebabe/note/commit/f7b1f5faa08394ff52220fce1285598669b29578" target="_blank"> ➕新增 MySQL 设计 </a> - 2021/08/23 22:58:03 
 
     
 
