@@ -1,7 +1,7 @@
 
 ## Overview
 
-由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2021-08-25 13:00:23_
+由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2021-08-28 12:53:37_
 
 ![](https://raw.githubusercontent.com/0xcaffebabe/github-stats/master/generated/overview.svg)![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xcaffebabe&layout=compact&langs_count=8)
 
@@ -73,6 +73,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/9da3cf679e0ae0964e0a9efa877751635b57b24b" target="_blank"> ✏更新 代码质量 设计原则 </a> - 2021/08/26 20:12:30 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/1daff4acde743d0a5e49dbc717868ccd96cc9433" target="_blank"> ✏更新 软件测试 </a> - 2021/08/26 20:12:30 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/4824b12b510ef9d47b931b383dbfb9bf6fc5975d" target="_blank"> ➕新增 埋点设计 </a> - 2021/08/25 17:56:49 
 
     
@@ -83,12 +89,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/cab5e6880f6a45f583cc486a2d546910930f85bf" target="_blank"> ✏更新 博客链接 </a> - 2021/08/24 22:52:11 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/e60e2473bb2d09cd57667b66a5459ddd68516a77" target="_blank"> ✏更新 编码规范 </a> - 2021/08/24 22:52:11 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/f7b1f5faa08394ff52220fce1285598669b29578" target="_blank"> ➕新增 MySQL 设计 </a> - 2021/08/23 22:58:03 
 
     
 
