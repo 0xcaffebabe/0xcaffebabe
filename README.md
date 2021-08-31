@@ -1,7 +1,7 @@
 
 ## Overview
 
-由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2021-08-28 12:53:37_
+由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2021-08-31 13:02:30_
 
 ![](https://raw.githubusercontent.com/0xcaffebabe/github-stats/master/generated/overview.svg)![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xcaffebabe&layout=compact&langs_count=8)
 
@@ -55,7 +55,8 @@
 #### 📝 计划
 
 - [进行中的书单](https://github.com/users/0xcaffebabe/projects/4)
-  - 敏捷整洁之道
+  - web性能实践日志
+  - 代码大全
   - 高性能mysql
 
 
@@ -73,6 +74,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/1d0f753e25b3daa55e235482285d042f98f5265b" target="_blank"> 📦整理 消息队列 </a> - 2021/08/31 17:14:48 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/9da3cf679e0ae0964e0a9efa877751635b57b24b" target="_blank"> ✏更新 代码质量 设计原则 </a> - 2021/08/26 20:12:30 
 
     
@@ -86,9 +90,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/d3e6edee8ea64d873ea81036f7feea80967fd556" target="_blank"> ✏️更新 学习计划 </a> - 2021/08/24 23:36:25 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/cab5e6880f6a45f583cc486a2d546910930f85bf" target="_blank"> ✏更新 博客链接 </a> - 2021/08/24 22:52:11 
 
     
 
