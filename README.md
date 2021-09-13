@@ -1,7 +1,7 @@
 
 ## Overview
 
-由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2021-09-10 12:55:45_
+由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2021-09-13 12:59:48_
 
 ![](https://raw.githubusercontent.com/0xcaffebabe/github-stats/master/generated/overview.svg)![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xcaffebabe&layout=compact&langs_count=8)
 
@@ -55,7 +55,7 @@
 #### 📝 计划
 
 - [进行中的书单](https://github.com/users/0xcaffebabe/projects/4)
-  - 人件
+  - 大型网站技术架构
   - system-design-primer
   - 代码大全
   - 高性能mysql
@@ -75,6 +75,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/d761b3279bf1dfac0daf0682d58232f1fc204d7c" target="_blank"> ✏更新 Vue 数据渲染 </a> - 2021/09/13 18:02:54 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/242c4d1eacf2ea4e04e3fffd4436073bfbd7021a" target="_blank"> ✏️更新 架构 </a> - 2021/09/12 23:56:41 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/f46e45c586d3c4fd71a48eeb86f687259ca00432" target="_blank"> 📦整理 Java 并发工具类 </a> - 2021/09/10 17:45:53 
 
     
@@ -85,12 +91,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/38a99898a4b35a1db75c1e0e87df2defb5ce7525" target="_blank"> 📦整理 Java 线程 </a> - 2021/09/09 17:56:12 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/906379f5bcbfdff6ce9e3dad33d5cb928fd94acd" target="_blank"> 📦整理 Java 线程池 </a> - 2021/09/09 17:56:12 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/30035340f1d2919020a222decca8f3c70399bbdd" target="_blank"> ✏更新 Java ForkJoinPool </a> - 2021/09/09 17:56:12 
 
     
 
