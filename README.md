@@ -1,7 +1,7 @@
 
 ## Overview
 
-由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2021-09-16 12:57:06_
+由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2021-09-19 12:53:57_
 
 ![](https://raw.githubusercontent.com/0xcaffebabe/github-stats/master/generated/overview.svg)![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xcaffebabe&layout=compact&langs_count=8)
 
@@ -55,7 +55,7 @@
 #### 📝 计划
 
 - [进行中的书单](https://github.com/users/0xcaffebabe/projects/4)
-  - 大型网站技术架构
+  - 持续演进的CloudNative
   - system-design-primer
   - 代码大全
   - 高性能mysql
@@ -75,22 +75,22 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/c62cf59d46750bb4f77241a826f325f4fd5517fe" target="_blank"> ✏️更新 架构师 </a> - 2021/09/18 00:02:31 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/2bba18adaf03a02bab3fd6cfa462585c814b5890" target="_blank"> ➕增加 Go 内存模型 </a> - 2021/09/17 18:05:49 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/2a130299e661dbfae6901937051a4e85f1bea027" target="_blank"> ✏️更新 架构设计框架 </a> - 2021/09/17 00:04:07 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/2cffe16d9e93830b15a8738c5e69a6fe779b0698" target="_blank"> ➕新增 架构思维 </a> - 2021/09/17 00:04:07 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/075acf07f51e098a753d272087b6e2bbe7a56120" target="_blank"> ➕新增 架构师 </a> - 2021/09/17 00:04:07 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/ecf5173489120f8f712be243bdf6e5b9989b7372" target="_blank"> ✏更新 Go 函数方法和接口 </a> - 2021/09/16 17:51:51 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/a88d913805a132ee30eec2943530999d2bf0268a" target="_blank"> ✏️更新 架构设计框架 </a> - 2021/09/15 23:56:08 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/8771b3c6c3c43ee16e93db72bfed531f8c5bfadc" target="_blank"> ✏更新 Java 语法糖 </a> - 2021/09/15 09:31:09 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/3801223b6f0d7f0b5a66522dbff1a4c02149a954" target="_blank"> Merge branch 'master' of https:/... </a> - 2021/09/15 09:31:09 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/a0496e60cb458f0d165198b4582df84ec35f0eae" target="_blank"> ✏️更新 架构风格 </a> - 2021/09/14 23:44:48 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/08ca735fff1cf9c9b873c596f6e316d503741c27" target="_blank"> ➕新增 架构设计框架 </a> - 2021/09/14 23:44:48 
 
     
 
