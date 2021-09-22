@@ -1,7 +1,7 @@
 
 ## Overview
 
-由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2021-09-19 12:53:57_
+由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2021-09-22 12:56:43_
 
 ![](https://raw.githubusercontent.com/0xcaffebabe/github-stats/master/generated/overview.svg)![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xcaffebabe&layout=compact&langs_count=8)
 
@@ -55,7 +55,6 @@
 #### 📝 计划
 
 - [进行中的书单](https://github.com/users/0xcaffebabe/projects/4)
-  - 持续演进的CloudNative
   - system-design-primer
   - 代码大全
   - 高性能mysql
@@ -75,6 +74,15 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/21da6c7604beafe84284194c103dfe75b1892839" target="_blank"> 🛠脚本 最后更新时间调整为绝对值 </a> - 2021/09/22 17:48:25 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/93279317eb857cff16bf52d4879d57058f1ceb78" target="_blank"> ➕新增 防御式编程 </a> - 2021/09/22 17:48:25 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/52730c7edfc4c584b11d2820f8c61d6989b413e1" target="_blank"> ✏️更新 架构师 </a> - 2021/09/21 23:48:32 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/c62cf59d46750bb4f77241a826f325f4fd5517fe" target="_blank"> ✏️更新 架构师 </a> - 2021/09/18 00:02:31 
 
     
@@ -82,15 +90,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/2a130299e661dbfae6901937051a4e85f1bea027" target="_blank"> ✏️更新 架构设计框架 </a> - 2021/09/17 00:04:07 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/2cffe16d9e93830b15a8738c5e69a6fe779b0698" target="_blank"> ➕新增 架构思维 </a> - 2021/09/17 00:04:07 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/075acf07f51e098a753d272087b6e2bbe7a56120" target="_blank"> ➕新增 架构师 </a> - 2021/09/17 00:04:07 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/ecf5173489120f8f712be243bdf6e5b9989b7372" target="_blank"> ✏更新 Go 函数方法和接口 </a> - 2021/09/16 17:51:51 
 
     
 
