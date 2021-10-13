@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59)
 
-由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2021-10-13 04:38:16_
+由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2021-10-13 12:55:07_
 
 ![](https://raw.githubusercontent.com/0xcaffebabe/github-stats/master/generated/overview.svg)![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xcaffebabe&layout=compact&langs_count=8)
 
@@ -14,31 +14,7 @@
 
 #### 📖 最近博客
 
-
-* <a href="https://0xcaffebabe.github.io/%E7%AE%97%E6%B3%95/2020/11/09/%E8%B0%88%E8%B0%88%E9%80%92%E5%BD%92%E4%B8%8E%E6%A0%91.html" target="_blank"> 谈谈递归与树 </a> - 2020/11/09 
-
     
-* <a href="https://0xcaffebabe.github.io/%E7%AE%97%E6%B3%95/2020/09/18/%E8%B0%88%E8%B0%88bitmap%E7%9A%84%E4%BD%BF%E7%94%A8.html" target="_blank"> 谈谈bitmap的使用 </a> - 2020/09/18 
-
-    
-* <a href="https://0xcaffebabe.github.io/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/2020/09/11/%E6%A1%A5%E6%8E%A5%E6%A8%A1%E5%BC%8F%E7%9A%84%E5%AE%9E%E9%99%85%E4%BD%BF%E7%94%A8.html" target="_blank"> 桥接模式的实际使用 </a> - 2020/09/11 
-
-    
-* <a href="https://0xcaffebabe.github.io/java/2020/04/16/JAVA%E5%AE%9E%E7%8E%B0%E8%8A%82%E6%B5%81%E9%98%80.html" target="_blank"> java实现节流阀 </a> - 2020/04/16 
-
-    
-* <a href="https://0xcaffebabe.github.io/%E6%97%A5%E5%B8%B8/2020/04/16/%E8%B0%83%E8%AF%95%E4%B8%80%E4%B8%AAwsl2+java%E5%BC%95%E5%8F%91%E7%9A%84bug.html" target="_blank"> 调试一个wsl2+java引发的bug </a> - 2020/04/16 
-
-    
-* <a href="https://0xcaffebabe.github.io/spring/2019/11/04/Spring-%E5%9B%9B-%E4%BA%8B%E5%8A%A1%E7%AE%A1%E7%90%86.html" target="_blank"> Spring(四):事务管理 </a> - 2019/11/04 
-
-    
-* <a href="https://0xcaffebabe.github.io/spring/2019/10/28/Spring(%E4%B8%89)-AOP.html" target="_blank"> Spring(三):AOP </a> - 2019/10/28 
-
-    
-* <a href="https://0xcaffebabe.github.io/spring/2019/10/21/Spring(%E4%BA%8C)-Bean%E7%9A%84%E8%A3%85%E9%85%8D.html" target="_blank"> Spring(二):Bean的装配 </a> - 2019/10/21 
-
-        
 
 </td>
 
@@ -77,22 +53,22 @@
 #### 🌴最近提交
 
 
-  * <a href="https://github.com/0xcaffebabe/0xcaffebabe/commit/d8fdd169e1f8740177b78a3816d2b9869ea98818" target="_blank"> Update template.md </a> - 2021/10/13 12:37:57 
+  * <a href="https://github.com/0xcaffebabe/my-book/commit/33d5b8feb699d79995c6ef681c2f6150f725dfd7" target="_blank"> doc目录优化 </a> - 2021/10/13 18:39:34 
 
     
-  * <a href="https://github.com/0xcaffebabe/0xcaffebabe/commit/67748c196f998ba9894e7134588e80d8e74dfa9c" target="_blank"> Update template.md </a> - 2021/10/13 12:29:07 
+  * <a href="https://github.com/0xcaffebabe/my-book/commit/798270c99b1123b320ed03a28f505ed043fa2408" target="_blank"> 目录项概览功能 </a> - 2021/10/13 18:39:34 
 
     
-  * <a href="https://github.com/0xcaffebabe/my-book/commit/7f4f18b98e80236584beead2f688007cf91a1e27" target="_blank"> 新增代码频率统计 </a> - 2021/10/13 11:47:56 
+  * <a href="https://github.com/0xcaffebabe/my-book/commit/c4a43e9eac62cd1d2372dee1f5fc1cb067fb1901" target="_blank"> 屏幕顶端进度条 </a> - 2021/10/13 18:39:34 
 
     
-  * <a href="https://github.com/0xcaffebabe/my-book/commit/3c747c53288716f00e027d5cbb7e42fd3b1e429c" target="_blank"> AOP缓存实现 </a> - 2021/10/13 11:47:56 
+  * <a href="https://github.com/0xcaffebabe/my-book/commit/a96f59d0f5871ff5ae43389ae381f5bd1ffce952" target="_blank"> 问题修复 </a> - 2021/10/13 18:39:34 
 
     
-  * <a href="https://github.com/0xcaffebabe/note/commit/a70aa0f0c26d82819bd74a475dc228a8906f47f9" target="_blank"> ✏️更新 架构设计 </a> - 2021/10/12 22:36:00 
+  * <a href="https://github.com/0xcaffebabe/my-book/commit/33035fe4918048c9fa28a7743f78d4043cc0f196" target="_blank"> 添加首页目录 </a> - 2021/10/13 18:39:34 
 
     
-  * <a href="https://github.com/0xcaffebabe/note/commit/70ca869d5056b7eaa9c4bf0c5da625a3de477b75" target="_blank"> ✏️更新 软件测试 </a> - 2021/10/12 22:36:00 
+  * <a href="https://github.com/0xcaffebabe/my-book/commit/fee8a25830dd2b62c5ac753b2906fa3a9edcaa42" target="_blank"> 文章内页url跳转 </a> - 2021/10/13 18:39:34 
 
     
 
