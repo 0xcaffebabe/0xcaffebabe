@@ -1,7 +1,9 @@
 
 ## Overview
 
-由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2021-10-10 12:52:40_
+[![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59)
+
+由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2021-10-13 04:29:28_
 
 ![](https://raw.githubusercontent.com/0xcaffebabe/github-stats/master/generated/overview.svg)![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xcaffebabe&layout=compact&langs_count=8)
 
@@ -75,22 +77,22 @@
 #### 🌴最近提交
 
 
-  * <a href="https://github.com/0xcaffebabe/my-book/commit/1eca30e44722042d77f29803eb00eaa72f9a093e" target="_blank"> toc初步实现 </a> - 2021/10/09 18:00:49 
+  * <a href="https://github.com/0xcaffebabe/0xcaffebabe/commit/67748c196f998ba9894e7134588e80d8e74dfa9c" target="_blank"> Update template.md </a> - 2021/10/13 12:29:07 
 
     
-  * <a href="https://github.com/0xcaffebabe/my-book/commit/626946d50c5855465eeef5479113f0b51d58428d" target="_blank"> 词云数据生成 </a> - 2021/10/09 18:00:49 
+  * <a href="https://github.com/0xcaffebabe/my-book/commit/7f4f18b98e80236584beead2f688007cf91a1e27" target="_blank"> 新增代码频率统计 </a> - 2021/10/13 11:47:56 
 
     
-  * <a href="https://github.com/0xcaffebabe/my-book/commit/fcea14a440735bb31d6eb894974712d44c5970d5" target="_blank"> 前端词云生成 </a> - 2021/10/09 18:00:49 
+  * <a href="https://github.com/0xcaffebabe/my-book/commit/3c747c53288716f00e027d5cbb7e42fd3b1e429c" target="_blank"> AOP缓存实现 </a> - 2021/10/13 11:47:56 
 
     
-  * <a href="https://github.com/0xcaffebabe/my-book/commit/9ae65001645b0eb0332cf4713440b76a25fa846d" target="_blank"> doc导航跳转 </a> - 2021/10/09 11:24:58 
+  * <a href="https://github.com/0xcaffebabe/note/commit/a70aa0f0c26d82819bd74a475dc228a8906f47f9" target="_blank"> ✏️更新 架构设计 </a> - 2021/10/12 22:36:00 
 
     
-  * <a href="https://github.com/0xcaffebabe/my-book/commit/ae0e716ab1ba35bee9439123614907099216fcca" target="_blank"> doc样式优化 </a> - 2021/10/09 11:24:58 
+  * <a href="https://github.com/0xcaffebabe/note/commit/70ca869d5056b7eaa9c4bf0c5da625a3de477b75" target="_blank"> ✏️更新 软件测试 </a> - 2021/10/12 22:36:00 
 
     
-  * <a href="https://github.com/0xcaffebabe/note/commit/c08526527cf07a6f938ae57cc8966d7e32daa601" target="_blank"> ✏️更新 架构模式 </a> - 2021/10/08 23:42:42 
+  * <a href="https://github.com/0xcaffebabe/my-book/commit/1ba260b9147fd1dd5acf631d9d3a87f6608b1f02" target="_blank"> 目录角标 </a> - 2021/10/12 17:42:05 
 
     
 
