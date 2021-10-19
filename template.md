@@ -20,7 +20,7 @@ ${recent_blogs}
 
 <td valign="top" width="50%">
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=0xcaffebabe&layout=compact)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=0xcaffebabe&layout=compact&langs_count=12)
 
 </td>
 
