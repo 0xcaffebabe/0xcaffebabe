@@ -18,7 +18,7 @@ def httpGet(url):
     client.close()
 
 def fetch_recent_blog():
-  text = httpGet('https://0xcaffebabe.github.io')
+  text = httpGet('https://ismy.wang')
   soup = BeautifulSoup(text,features="html.parser")
   postList = soup.select(".post-list li")
   count = 0
