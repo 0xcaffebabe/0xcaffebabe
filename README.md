@@ -1,7 +1,7 @@
 
 ## Overview
 
-由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2021-11-05 12:59:30_
+由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2021-11-06 12:57:44_
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59)
 
@@ -77,6 +77,14 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/my-pad-desktop/commit/0e21bce9afc8a7c5fdf7d6b7fea1bb186edcedc2" target="_blank"> Revert "PC cpu监控"
+
+This reverts ... </a> - 2021/11/06 00:04:35 
+
+    
+  * <a href="https://github.com/0xcaffebabe/my-pad-desktop/commit/6eb3297765915318f1c864be6fc1375168ec1055" target="_blank"> bug fix </a> - 2021/11/06 00:04:35 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/e7d8e43f846fe0d9038fd081e889d2fc078ede95" target="_blank"> Deploy to GitHub pages </a> - 2021/11/05 18:08:47 
 
     
@@ -87,12 +95,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/2a3304d5fa4436543aed8815435ebbaa01bbd237" target="_blank"> 🛠优化表格渲染 </a> - 2021/11/05 18:06:45 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/53e0e12af5d450b6d7dd107b886a631509870075" target="_blank"> 🛠代码整理 </a> - 2021/11/05 18:06:45 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/57e9647ce2356498684adaabe74cd3ba9c6ca840" target="_blank"> 🛠样式优化 </a> - 2021/11/05 18:06:45 
 
     
 
