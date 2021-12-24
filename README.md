@@ -1,7 +1,7 @@
 
 ## Overview
 
-由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2021-12-23 13:02:28_
+由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2021-12-24 13:01:52_
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59)
 
@@ -57,6 +57,7 @@
 #### 📝 计划
 
 - [进行中的书单](https://github.com/users/0xcaffebabe/projects/4)
+  - 解析极限编程
   - system-design-primer
   - 代码大全
   - 高性能mysql
@@ -77,22 +78,22 @@
 #### 🌴最近提交
 
 
-  * <a href="https://github.com/0xcaffebabe/note/commit/ac2a4d8ba77037194bc2f87a90d0a36dac474bed" target="_blank"> Deploy to GitHub pages </a> - 2021/12/23 18:25:01 
+  * <a href="https://github.com/0xcaffebabe/note/commit/b16e84f2a433ec2531a96a3b53e22ee800c998b5" target="_blank"> Deploy to GitHub pages </a> - 2021/12/24 18:29:54 
 
     
-  * <a href="https://github.com/0xcaffebabe/note/commit/c6c174f3761328a1bc49048dfaeb4b489e095c6a" target="_blank"> 📦整理 数据库设计 </a> - 2021/12/23 18:22:55 
+  * <a href="https://github.com/0xcaffebabe/note/commit/e77f483a7c091bfdd2f27ed4755248773904d3f9" target="_blank"> 📦整理 数据库 事务 </a> - 2021/12/24 18:27:59 
 
     
-  * <a href="https://github.com/0xcaffebabe/note/commit/441fda99be97f635fd6bc1c08b26924401ca9357" target="_blank"> ✏️更新 数据库设计 </a> - 2021/12/23 18:22:55 
+  * <a href="https://github.com/0xcaffebabe/note/commit/f9c496d56f2ec14fbdfcd065f2d90b10d52727e8" target="_blank"> ✏️更新 MySQL 锁分析 </a> - 2021/12/24 18:27:59 
 
     
-  * <a href="https://github.com/0xcaffebabe/note/commit/a4981ec92e6ef4b137288ce36a221ad9b5e3dffb" target="_blank"> ✏️更新 算法策略 </a> - 2021/12/23 18:22:55 
+  * <a href="https://github.com/0xcaffebabe/note/commit/f59fa3c2af2b88e1361386942e8ed022a776e94c" target="_blank"> ✏️更新 MySQL 复制 </a> - 2021/12/24 18:27:59 
 
     
-  * <a href="https://github.com/0xcaffebabe/note/commit/c1ee6b8a657aee0323a14df3405fabc9955eed26" target="_blank"> ✏️更新 MySQL 查询优化 </a> - 2021/12/23 18:22:55 
+  * <a href="https://github.com/0xcaffebabe/note/commit/156e0690dfc842c8f0ae43eb56449da2fb7f14ae" target="_blank"> Deploy to GitHub pages </a> - 2021/12/23 22:32:38 
 
     
-  * <a href="https://github.com/0xcaffebabe/note/commit/a0d2be69282a4cfeb8ca42a3cfcf7ddb2aea4032" target="_blank"> 📦整理 MySQL 复制 </a> - 2021/12/23 18:22:55 
+  * <a href="https://github.com/0xcaffebabe/note/commit/1af8a73d0560274f5e4ada5cb58215285ba80dde" target="_blank"> ✏️更新 数据库相关 </a> - 2021/12/23 22:30:32 
 
     
 
