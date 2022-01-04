@@ -1,7 +1,7 @@
 
 ## Overview
 
-由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2022-01-03 13:02:31_
+由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2022-01-04 13:02:26_
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59)
 
@@ -57,7 +57,6 @@
 #### 📝 计划
 
 - [进行中的书单](https://github.com/users/0xcaffebabe/projects/4)
-  - 解析极限编程
   - system-design-primer
   - 代码大全
   - 高性能mysql
@@ -78,22 +77,22 @@
 #### 🌴最近提交
 
 
-  * <a href="https://github.com/0xcaffebabe/note/commit/dc90811c599ff36e6859a6e3336da1d7b717e8fa" target="_blank"> Deploy to GitHub pages </a> - 2022/01/02 23:50:03 
+  * <a href="https://github.com/0xcaffebabe/note/commit/de7fd0e73b0a416ec9b3cceac597caac03aa0c4c" target="_blank"> Deploy to GitHub pages </a> - 2022/01/04 18:13:21 
 
     
-  * <a href="https://github.com/0xcaffebabe/note/commit/07de9de2ea4fda0873ca9c0f81b66577b2775efc" target="_blank"> ✏️更新 Git </a> - 2022/01/02 23:47:40 
+  * <a href="https://github.com/0xcaffebabe/note/commit/086a4c105f4e473d80fa2d44e5416a06fd30cc5c" target="_blank"> 📦整理 架构 相关 </a> - 2022/01/04 18:11:22 
 
     
-  * <a href="https://github.com/0xcaffebabe/note/commit/aae085cd22c794d75680b62603a5bc0c98a8948b" target="_blank"> ✏️更新 DevOps 相关 </a> - 2022/01/02 23:47:40 
+  * <a href="https://github.com/0xcaffebabe/note/commit/962f1333943196348c09245905c86029a6716e3e" target="_blank"> ✏️更新 架构 </a> - 2022/01/04 18:11:22 
 
     
-  * <a href="https://github.com/0xcaffebabe/note/commit/49a3750516c9e01e33148575e903ae3209d64634" target="_blank"> Deploy to GitHub pages </a> - 2022/01/02 11:55:08 
+  * <a href="https://github.com/0xcaffebabe/note/commit/ffe911eb89cc564109e14fb4000243fb67524146" target="_blank"> ✏️更新 HTTP </a> - 2022/01/04 18:11:22 
 
     
-  * <a href="https://github.com/0xcaffebabe/note/commit/e17806091a593125bb9ca4228718bb2e39b3a0db" target="_blank"> ✏️更新 DevOps </a> - 2022/01/02 11:52:52 
+  * <a href="https://github.com/0xcaffebabe/note/commit/34c683d23eb48fa94ee303dff248f00aaf280985" target="_blank"> Deploy to GitHub pages </a> - 2022/01/03 23:50:04 
 
     
-  * <a href="https://github.com/0xcaffebabe/note/commit/c03cc4fbeb0e94b7c0626cc5a576eda3bebdf234" target="_blank"> Merge branch 'master' of https:/... </a> - 2022/01/02 11:52:52 
+  * <a href="https://github.com/0xcaffebabe/note/commit/d8d74e8042ac9c47a63f3fa57dd1a5ef175789ce" target="_blank"> ➕新增 质量工程 </a> - 2022/01/03 23:48:16 
 
     
 
