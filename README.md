@@ -1,7 +1,7 @@
 
 ## Overview
 
-由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2022-01-14 13:03:14_
+由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2022-01-15 13:01:45_
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59)
 
@@ -15,6 +15,9 @@
 #### 📖 最近博客
 
 
+* <a href="https://0xcaffebabe.github.io/%E7%94%9F%E6%B6%AF/2022/01/15/%E6%88%91%E7%9A%84%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86%E6%A1%86%E6%9E%B6,%E6%88%91%E7%9A%84%E7%AC%AC%E4%BA%8C%E5%A4%A7%E8%84%91.html" target="_blank"> 我的知识管理框架, 我的第二大脑 </a> - 2022/01/15 
+
+    
 * <a href="https://0xcaffebabe.github.io/%E7%AE%97%E6%B3%95/2020/11/09/%E8%B0%88%E8%B0%88%E9%80%92%E5%BD%92%E4%B8%8E%E6%A0%91.html" target="_blank"> 谈谈递归与树 </a> - 2020/11/09 
 
     
@@ -34,9 +37,6 @@
 
     
 * <a href="https://0xcaffebabe.github.io/spring/2019/10/28/Spring(%E4%B8%89)-AOP.html" target="_blank"> Spring(三):AOP </a> - 2019/10/28 
-
-    
-* <a href="https://0xcaffebabe.github.io/spring/2019/10/21/Spring(%E4%BA%8C)-Bean%E7%9A%84%E8%A3%85%E9%85%8D.html" target="_blank"> Spring(二):Bean的装配 </a> - 2019/10/21 
 
         
 
@@ -77,6 +77,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/70a2c4b7eae850922e04484a1d1bfbccb95a69be" target="_blank"> ✏️修改日期 </a> - 2022/01/15 20:10:58 
+
+    
+  * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/2dfbaa8b94f94d1679f2a1a650f1451bd0067f8c" target="_blank"> ➕新增 我的知识管理框架, 我的第二大脑 </a> - 2022/01/15 20:08:25 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/109d65aa9ffb7a5e681a2183f3e81044f8f382e3" target="_blank"> Deploy to GitHub pages </a> - 2022/01/14 18:04:33 
 
     
@@ -87,12 +93,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/e9a8d5e65ee80c4c92bbab1a8158370db55b43bf" target="_blank"> ✏️更新 CDN </a> - 2022/01/14 18:01:38 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/774d3d4f121c362399c6775feec043015eebdc96" target="_blank"> ✏️更新 HTTP 缓存 </a> - 2022/01/14 18:01:38 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/391661fbe21adc4a55c845b2da81cfb022869a4a" target="_blank"> Deploy to GitHub pages </a> - 2022/01/13 22:15:23 
 
     
 
