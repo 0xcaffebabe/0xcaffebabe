@@ -67,7 +67,7 @@ def fetch_commits():
     else:
       for commit in commitList:
         msg = commit['message']
-        if msg == 'update': break
+        if msg == 'update' or msg == 'Deploy to GitHub pages' or 'Merge pull request' in msg: break
         if (len(msg) >= 32):
           msg = msg[:32] + "..."
         time = item['created_at']
