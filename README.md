@@ -75,6 +75,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/0xcaffebabe/commit/f56fbfe791b7c8713c55531adadc455996638a7e" target="_blank"> Update build.yml </a> - 2022/01/22 22:39:14 
+
+    
   * <a href="https://github.com/0xcaffebabe/0xcaffebabe/commit/ccd0fc8477e6244590cfc3330a02fca8865d4527" target="_blank"> 优化脚本 </a> - 2022/01/22 22:35:54 
 
     
@@ -88,9 +91,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/0xcaffebabe/commit/5f4f8c5cbaad59cb1b9e3c369de1193898a3d5ab" target="_blank"> 修复错误 </a> - 2022/01/22 22:19:19 
-
-    
-  * <a href="https://github.com/0xcaffebabe/0xcaffebabe/commit/2117730511c150fe8e1f6fe0fdad7752cd082b68" target="_blank"> 优化更新策略 </a> - 2022/01/22 22:16:21 
 
     
 
