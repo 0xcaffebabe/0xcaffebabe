@@ -1,8 +1,6 @@
 
 ## Overview
 
-由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2022-01-22 12:54:48_
-
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59)
 
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=0xcaffebabe&layout=compact&langs_count=12)
@@ -77,22 +75,22 @@
 #### 🌴最近提交
 
 
-  * <a href="https://github.com/0xcaffebabe/note/commit/b07fa063e15af894a87b22371b5444b0508c69c4" target="_blank"> 🛠️新增批量 Promise 帮助类 </a> - 2022/01/22 20:51:56 
+  * <a href="https://github.com/0xcaffebabe/0xcaffebabe/commit/80f316a510e2275806b9e9c4fc0866d4a8961d43" target="_blank"> 修复错误 </a> - 2022/01/22 22:20:38 
 
     
-  * <a href="https://github.com/0xcaffebabe/note/commit/10c2fd04ca9bcc3235e570d398b9e6d051a9c73f" target="_blank"> Merge branch 'master' of https:/... </a> - 2022/01/22 20:51:56 
+  * <a href="https://github.com/0xcaffebabe/0xcaffebabe/commit/5f4f8c5cbaad59cb1b9e3c369de1193898a3d5ab" target="_blank"> 修复错误 </a> - 2022/01/22 22:19:19 
 
     
-  * <a href="https://github.com/0xcaffebabe/note/commit/32e8005c232bd079eff6822365a81b5652278122" target="_blank"> 🛠️新增提交总量趋势统计 </a> - 2022/01/22 20:51:56 
+  * <a href="https://github.com/0xcaffebabe/0xcaffebabe/commit/2117730511c150fe8e1f6fe0fdad7752cd082b68" target="_blank"> 优化更新策略 </a> - 2022/01/22 22:16:21 
 
     
-  * <a href="https://github.com/0xcaffebabe/note/commit/1fd21b872e03c299e1ad04bd6a26278fc4012376" target="_blank"> Deploy to GitHub pages </a> - 2022/01/22 20:25:47 
+  * <a href="https://github.com/0xcaffebabe/note/commit/c804a9dfeb6ed083e96d6d11d74d37ca25849c63" target="_blank"> Deploy to GitHub pages </a> - 2022/01/22 22:12:01 
 
     
-  * <a href="https://github.com/0xcaffebabe/note/commit/12342a8760ec3a22947b0302be5fa2563422239d" target="_blank"> ⚒️升级 axios 版本 </a> - 2022/01/22 20:22:32 
+  * <a href="https://github.com/0xcaffebabe/note/commit/e9dc572f6f9dc97c79ad2b895f3b9c1d04aba441" target="_blank"> Deploy to GitHub pages </a> - 2022/01/22 22:11:29 
 
     
-  * <a href="https://github.com/0xcaffebabe/note/commit/bb6e417b02899c8a4a1d91f8ee8cae3ec6427711" target="_blank"> Deploy to GitHub pages </a> - 2022/01/21 20:39:22 
+  * <a href="https://github.com/0xcaffebabe/note/commit/16d975cef3df89da50b5f24a40fbe5ee6200316f" target="_blank"> Update dependency @types/node to... </a> - 2022/01/22 22:08:29 
 
     
 
