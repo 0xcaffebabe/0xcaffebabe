@@ -116,7 +116,7 @@ print (readme)
 
 file = open('./README.md','wr',encoding="utf8")
 
-if (readme == file.read()):
+if (readme == open('./README.md','r',encoding="utf8").read()):
   print("与上次生成相同 不写入提交")
 else:
-  file.write(readme)
+  open('./README.md','w',encoding="utf8").write(readme)
