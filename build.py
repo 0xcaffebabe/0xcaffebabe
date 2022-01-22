@@ -114,8 +114,6 @@ readme = readme.replace("${commits}",fetch_commits())
 
 print (readme)
 
-file = open('./README.md','wr',encoding="utf8")
-
 if (readme == open('./README.md','r',encoding="utf8").read()):
   print("与上次生成相同 不写入提交")
 else:
