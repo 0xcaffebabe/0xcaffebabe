@@ -1,7 +1,7 @@
 
 ## Overview
 
-由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2022-01-21 12:57:02_
+由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2022-01-22 12:54:48_
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59)
 
@@ -77,22 +77,22 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/b07fa063e15af894a87b22371b5444b0508c69c4" target="_blank"> 🛠️新增批量 Promise 帮助类 </a> - 2022/01/22 20:51:56 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/10c2fd04ca9bcc3235e570d398b9e6d051a9c73f" target="_blank"> Merge branch 'master' of https:/... </a> - 2022/01/22 20:51:56 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/32e8005c232bd079eff6822365a81b5652278122" target="_blank"> 🛠️新增提交总量趋势统计 </a> - 2022/01/22 20:51:56 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/1fd21b872e03c299e1ad04bd6a26278fc4012376" target="_blank"> Deploy to GitHub pages </a> - 2022/01/22 20:25:47 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/12342a8760ec3a22947b0302be5fa2563422239d" target="_blank"> ⚒️升级 axios 版本 </a> - 2022/01/22 20:22:32 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/bb6e417b02899c8a4a1d91f8ee8cae3ec6427711" target="_blank"> Deploy to GitHub pages </a> - 2022/01/21 20:39:22 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/a29d316785926ef4faf14ec4827bed54fe9c8927" target="_blank"> ✏️更新 日志 </a> - 2022/01/21 20:36:23 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/8ec3c40f8631fad489f0dab902bc4a46a764c673" target="_blank"> Deploy to GitHub pages </a> - 2022/01/20 22:05:39 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/97c4b45a914e7232b5309695fe9e124366f32e10" target="_blank"> ✏️更新 架构治理 </a> - 2022/01/20 22:02:23 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/923951d76b34c2bd185f8611a25d0775ab043846" target="_blank"> Deploy to GitHub pages </a> - 2022/01/20 19:17:16 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/86eae656a1d3b8dd795e709fce3c06a3d2a74a00" target="_blank"> 🛠️知识回顾新增关键时点回溯 </a> - 2022/01/20 19:13:44 
 
     
 
