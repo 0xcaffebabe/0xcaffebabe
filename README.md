@@ -75,6 +75,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/6a04d0d4d43624936b598141dbf2b758242ef22e" target="_blank"> ⚒️优化提交总量趋势生成脚本 </a> - 2022/01/23 15:47:52 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/f78108ad2280d8b0e0cc0f6ea02080f0a568e2fd" target="_blank"> ⚒️新增提交总量趋势数据生产 </a> - 2022/01/23 13:54:20 
 
     
@@ -88,9 +91,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/9e7272de989a3a8349530c26404f7f3a942e0d20" target="_blank"> Update dependency query-string t... </a> - 2022/01/22 22:59:39 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/79f0a1e1ff7a9d8f8b397df8be6e1e5ec8df7f96" target="_blank"> Update dependency rollup-plugin-... </a> - 2022/01/22 22:42:41 
 
     
 
