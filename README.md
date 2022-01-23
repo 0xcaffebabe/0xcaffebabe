@@ -75,6 +75,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/8bae296ffb63c6d1dd50f6c5746e00dcb93a04ad" target="_blank"> ⚒️新增提交总量趋势渲染展示 </a> - 2022/01/23 17:32:42 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/bf14da53dfb4228256d55fd896dedebf7138f1b4" target="_blank"> ⚒️依赖优化 </a> - 2022/01/23 17:32:42 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/6a04d0d4d43624936b598141dbf2b758242ef22e" target="_blank"> ⚒️优化提交总量趋势生成脚本 </a> - 2022/01/23 15:47:52 
 
     
@@ -85,12 +91,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/9e180bfb20fc5c4f3982f3c504b307d299ab46ad" target="_blank"> Update actions/checkout action t... </a> - 2022/01/23 12:14:59 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/543fab47a3e49f865c4e4c40f939a18ef305fde1" target="_blank"> Update dependency mime to v2.6.0... </a> - 2022/01/22 23:26:50 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/9e7272de989a3a8349530c26404f7f3a942e0d20" target="_blank"> Update dependency query-string t... </a> - 2022/01/22 22:59:39 
 
     
 
