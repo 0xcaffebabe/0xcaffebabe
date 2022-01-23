@@ -75,6 +75,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/f78108ad2280d8b0e0cc0f6ea02080f0a568e2fd" target="_blank"> ⚒️新增提交总量趋势数据生产 </a> - 2022/01/23 13:54:20 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/3312f4320e60ad97f21ac6402ccf9759ab59f321" target="_blank"> ✏️更新 leetcode </a> - 2022/01/23 12:31:02 
 
     
@@ -88,9 +91,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/79f0a1e1ff7a9d8f8b397df8be6e1e5ec8df7f96" target="_blank"> Update dependency rollup-plugin-... </a> - 2022/01/22 22:42:41 
-
-    
-  * <a href="https://github.com/0xcaffebabe/0xcaffebabe/commit/f56fbfe791b7c8713c55531adadc455996638a7e" target="_blank"> Update build.yml </a> - 2022/01/22 22:39:14 
 
     
 
