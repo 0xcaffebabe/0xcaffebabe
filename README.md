@@ -75,6 +75,15 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/5fde03258943d55b5b710e204ee6a961ddbbd8de" target="_blank"> ✏️更新 中台 </a> - 2022/01/23 22:20:55 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/cae08c5e85d97aee78f33814a80aa76417ade86d" target="_blank"> ✏️更新 架构治理 </a> - 2022/01/23 22:20:55 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/f02aa431273444b4a2ee35f7b324554aa5c12cb5" target="_blank"> ➕新增 防错设计 </a> - 2022/01/23 22:20:55 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/8bae296ffb63c6d1dd50f6c5746e00dcb93a04ad" target="_blank"> ⚒️新增提交总量趋势渲染展示 </a> - 2022/01/23 17:32:42 
 
     
@@ -82,15 +91,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/6a04d0d4d43624936b598141dbf2b758242ef22e" target="_blank"> ⚒️优化提交总量趋势生成脚本 </a> - 2022/01/23 15:47:52 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/f78108ad2280d8b0e0cc0f6ea02080f0a568e2fd" target="_blank"> ⚒️新增提交总量趋势数据生产 </a> - 2022/01/23 13:54:20 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/3312f4320e60ad97f21ac6402ccf9759ab59f321" target="_blank"> ✏️更新 leetcode </a> - 2022/01/23 12:31:02 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/9e180bfb20fc5c4f3982f3c504b307d299ab46ad" target="_blank"> Update actions/checkout action t... </a> - 2022/01/23 12:14:59 
 
     
 
