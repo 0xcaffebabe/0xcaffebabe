@@ -75,6 +75,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/7b54405bd7f5fde76dae818456d12206641a870d" target="_blank"> ✏️更新 leetcode </a> - 2022/01/24 19:01:04 
+
+    
   * <a href="https://github.com/0xcaffebabe/0xcaffebabe/commit/598129fa6599d2888acf723d8e5bafb8812aad51" target="_blank"> Update build.py </a> - 2022/01/24 11:38:47 
 
     
@@ -88,9 +91,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/8bae296ffb63c6d1dd50f6c5746e00dcb93a04ad" target="_blank"> ⚒️新增提交总量趋势渲染展示 </a> - 2022/01/23 17:32:42 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/bf14da53dfb4228256d55fd896dedebf7138f1b4" target="_blank"> ⚒️依赖优化 </a> - 2022/01/23 17:32:42 
 
     
 
