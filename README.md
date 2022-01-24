@@ -75,6 +75,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/24b2799d40a457c20b88d595ae87261eb0da01a0" target="_blank"> Update dependency puppeteer to v... </a> - 2022/01/24 09:03:42 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/5fde03258943d55b5b710e204ee6a961ddbbd8de" target="_blank"> ✏️更新 中台 </a> - 2022/01/23 22:20:55 
 
     
@@ -88,9 +91,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/bf14da53dfb4228256d55fd896dedebf7138f1b4" target="_blank"> ⚒️依赖优化 </a> - 2022/01/23 17:32:42 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/6a04d0d4d43624936b598141dbf2b758242ef22e" target="_blank"> ⚒️优化提交总量趋势生成脚本 </a> - 2022/01/23 15:47:52 
 
     
 
