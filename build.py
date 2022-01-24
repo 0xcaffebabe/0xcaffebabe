@@ -59,7 +59,7 @@ def fetch_commits():
     commitList = item['payload']['commits']
     if len(commitList) == 1:
       msg = commitList[0]['message']
-      if msg == 'update' or 'Deploy to GitHub pages' in msg or 'Merge pull request' in msg or 'Merge branch' in msg: continue
+      if msg == 'update' or 'Deploy to GitHub pages' in msg or 'Merge pull request' in msg or 'Merge branch' in msg or 'Update dependency' in msg: continue
       time = item['created_at']
       repo = item['repo']['name']
       sha = commitList[0]['sha']
@@ -67,7 +67,7 @@ def fetch_commits():
     else:
       for commit in commitList:
         msg = commit['message']
-        if msg == 'update' or 'Deploy to GitHub pages' in msg or 'Merge pull request' in msg or 'Merge branch' in msg: break
+        if msg == 'update' or 'Deploy to GitHub pages' in msg or 'Merge pull request' in msg or 'Merge branch' in msg or 'Update dependency' in msg: break
         if (len(msg) >= 32):
           msg = msg[:32] + "..."
         time = item['created_at']
