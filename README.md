@@ -75,6 +75,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/eb5c12da630ee30adac191f3910b20f15b1444af" target="_blank"> 🛠️git 基础服务忽略某些提交 </a> - 2022/01/25 18:14:20 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/ea62253d908f974427565e8be69062e15a58ccae" target="_blank"> ⚒️统计数据总是使用 jsdelivr 数据源 </a> - 2022/01/24 22:28:39 
 
     
@@ -88,9 +91,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/cae08c5e85d97aee78f33814a80aa76417ade86d" target="_blank"> ✏️更新 架构治理 </a> - 2022/01/23 22:20:55 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/f02aa431273444b4a2ee35f7b324554aa5c12cb5" target="_blank"> ➕新增 防错设计 </a> - 2022/01/23 22:20:55 
 
     
 
