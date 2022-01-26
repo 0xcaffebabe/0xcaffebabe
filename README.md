@@ -75,6 +75,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/115eb29b37004a5a989455dde411a1d3e2c1b4ac" target="_blank"> 🛠️git服务优化 最后一次提交记录空数据兜底 </a> - 2022/01/26 10:13:45 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/eb5c12da630ee30adac191f3910b20f15b1444af" target="_blank"> 🛠️git 基础服务忽略某些提交 </a> - 2022/01/25 18:14:20 
 
     
@@ -88,9 +91,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/5fde03258943d55b5b710e204ee6a961ddbbd8de" target="_blank"> ✏️更新 中台 </a> - 2022/01/23 22:20:55 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/cae08c5e85d97aee78f33814a80aa76417ade86d" target="_blank"> ✏️更新 架构治理 </a> - 2022/01/23 22:20:55 
 
     
 
