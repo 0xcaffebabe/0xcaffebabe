@@ -55,6 +55,7 @@
 #### 📝 计划
 
 - [进行中的书单](https://github.com/users/0xcaffebabe/projects/4)
+  - the-craft-of-selfteaching
   - system-design-primer
   - 代码大全
   - 高性能mysql
