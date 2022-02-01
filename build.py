@@ -66,23 +66,16 @@ def fetch_commits():
   for item in data:
     if item['type'] != 'PushEvent' : continue
     commitList = item['payload']['commits']
-    if len(commitList) == 1:
-      msg = commitList[0]['message']
-      if msg == 'update' or 'Deploy to GitHub pages' in msg or 'Merge pull request' in msg or 'Merge branch' in msg or 'Update dependency' in msg: continue
-      time = fetch_commit_datetime(commitList[0]['url'])
+    commitList = reversed(commitList)
+    for commit in commitList:
+      msg = commit['message']
+      if msg == 'update' or 'Deploy to GitHub pages' in msg or 'Merge pull request' in msg or 'Merge branch' in msg or 'Update dependency' in msg: break
+      if (len(msg) >= 32):
+        msg = msg[:32] + "..."
+      time = fetch_commit_datetime(commit['url'])
       repo = item['repo']['name']
-      sha = commitList[0]['sha']
+      sha = commit['sha']
       recentCommits.append({'msg': msg, 'time': time, 'repo': repo, 'sha': sha})
-    else:
-      for commit in commitList:
-        msg = commit['message']
-        if msg == 'update' or 'Deploy to GitHub pages' in msg or 'Merge pull request' in msg or 'Merge branch' in msg or 'Update dependency' in msg: break
-        if (len(msg) >= 32):
-          msg = msg[:32] + "..."
-        time = fetch_commit_datetime(commitList[0]['url'])
-        repo = item['repo']['name']
-        sha = commit['sha']
-        recentCommits.append({'msg': msg, 'time': time, 'repo': repo, 'sha': sha})
 
   for item in recentCommits:
     if i >= 6 : break
