@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59)
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=0xcaffebabe&layout=compact&langs_count=12)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=0xcaffebabe&layout=compact&langs_count=12&theme=dark)
 
 <table>
 
@@ -76,6 +76,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/github-stats/commit/9d40b9c4cab81ad51eb32d45b255eacd48563021" target="_blank"> Update main.yml </a> - 2022/02/01 19:36:20 
+
+    
+  * <a href="https://github.com/0xcaffebabe/github-stats/commit/5143a954938fb742cd8ef914d42fe93705ae49e7" target="_blank"> Update overview.svg </a> - 2022/02/01 19:34:36 
+
+    
   * <a href="https://github.com/0xcaffebabe/0xcaffebabe/commit/b9155571042e16e51426fe01987bde27260f8a7a" target="_blank"> 脚本错误修复 </a> - 2022/02/01 18:50:27 
 
     
@@ -86,12 +92,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/0be9b844c67215d08fb567e04dd232304ac84b52" target="_blank"> 🛠️优化文档目录生成功能 </a> - 2022/02/01 13:27:07 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/87499dda28bd99362eecf950a6918a0b9cd78e87" target="_blank"> 🛠️优化顶部栏样式 </a> - 2022/01/31 23:14:49 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/194876d1891fefdf360e4eced107ac21592746d0" target="_blank"> 🛠️优化稍后阅读列表样式 </a> - 2022/01/31 23:02:51 
 
     
 
