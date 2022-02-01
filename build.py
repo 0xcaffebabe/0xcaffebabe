@@ -4,6 +4,15 @@ from bs4 import BeautifulSoup
 import datetime
 import json
 import datetime
+import os
+
+if (os.environ['LOCAL_MACHINE'] == 'LOCAL_MACHINE') :
+  proxy = 'http://127.0.0.1:54089'
+  os.environ['http_proxy'] = proxy 
+  os.environ['HTTP_PROXY'] = proxy
+  os.environ['https_proxy'] = proxy
+  os.environ['HTTPS_PROXY'] = proxy
+
 
 def fetch_code_time():
     return httpGet(
@@ -60,7 +69,7 @@ def fetch_commits():
     if len(commitList) == 1:
       msg = commitList[0]['message']
       if msg == 'update' or 'Deploy to GitHub pages' in msg or 'Merge pull request' in msg or 'Merge branch' in msg or 'Update dependency' in msg: continue
-      time = item['created_at']
+      time = fetch_commit_datetime(commitList[0]['url'])
       repo = item['repo']['name']
       sha = commitList[0]['sha']
       recentCommits.append({'msg': msg, 'time': time, 'repo': repo, 'sha': sha})
@@ -70,7 +79,7 @@ def fetch_commits():
         if msg == 'update' or 'Deploy to GitHub pages' in msg or 'Merge pull request' in msg or 'Merge branch' in msg or 'Update dependency' in msg: break
         if (len(msg) >= 32):
           msg = msg[:32] + "..."
-        time = item['created_at']
+        time = fetch_commit_datetime(commitList[0]['url'])
         repo = item['repo']['name']
         sha = commit['sha']
         recentCommits.append({'msg': msg, 'time': time, 'repo': repo, 'sha': sha})
@@ -101,6 +110,11 @@ def fetch_inprogrss_backend_task():
 
 def fetch_inprogress_other_task():
   return fetch_form_github_cards('https://github.com/users/0xcaffebabe/projects/3/columns/9526508/cards')
+
+def fetch_commit_datetime(commit_url):
+  text = httpGet(commit_url)
+  data = json.loads(text)
+  return data['commit']['committer']['date']
 
 readmeTemplate = ''.join(open('./template.md','r',encoding="utf8").readlines())
 
