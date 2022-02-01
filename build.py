@@ -6,7 +6,7 @@ import json
 import datetime
 import os
 
-if (os.environ['LOCAL_MACHINE'] == 'LOCAL_MACHINE') :
+if ('LOCAL_MACHINE' in os.environ and os.environ['LOCAL_MACHINE'] == 'LOCAL_MACHINE') :
   proxy = 'http://127.0.0.1:54089'
   os.environ['http_proxy'] = proxy 
   os.environ['HTTP_PROXY'] = proxy
