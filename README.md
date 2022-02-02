@@ -79,6 +79,12 @@
   * <a href="https://github.com/0xcaffebabe/0xcaffebabe/commit/0fc862afb84932c3bbbdf45ac9d09e4df352ebda" target="_blank"> Update build.yml </a> - 2022/02/02 21:07:04 
 
     
+  * <a href="https://github.com/0xcaffebabe/note/commit/619f7b382b75691e72e5329a3b5d4df4d0eb0dc4" target="_blank"> ✏️更新 leetcode </a> - 2022/02/02 13:51:41 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/6635280f21531f49c990e3c8b464a74af23bb0db" target="_blank"> 🛠️新增随手手稿展示 </a> - 2022/02/02 16:03:43 
+
+    
   * <a href="https://github.com/0xcaffebabe/github-stats/commit/9d40b9c4cab81ad51eb32d45b255eacd48563021" target="_blank"> Update main.yml </a> - 2022/02/01 19:36:20 
 
     
@@ -86,12 +92,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/0xcaffebabe/commit/b9155571042e16e51426fe01987bde27260f8a7a" target="_blank"> 脚本错误修复 </a> - 2022/02/01 18:50:27 
-
-    
-  * <a href="https://github.com/0xcaffebabe/0xcaffebabe/commit/4bf791d7a02e35ff5fefcadab78157cfe8baa6ec" target="_blank"> 优化脚本 </a> - 2022/02/01 18:47:56 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/16c488dd48ac70179c07a64129572a9cab215e72" target="_blank"> ✏️更新 leetcode </a> - 2022/02/01 14:42:25 
 
     
 
