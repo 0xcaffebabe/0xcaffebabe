@@ -55,6 +55,10 @@
 #### 📝 计划
 
 - [进行中的书单](https://github.com/users/0xcaffebabe/projects/4)
+  - the-craft-of-selfteaching
+  - system-design-primer
+  - 代码大全
+  - 高性能mysql
 
 
 - [后端学习计划](https://github.com/users/0xcaffebabe/projects/1)
@@ -72,6 +76,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/c075a4a202e0fa9e7227aca179b53e02bbf26493" target="_blank"> ✏️更新 leetcode </a> - 2022/02/06 19:25:27 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/b6937345847293c6a7de56dc9e72fdd417f0086a" target="_blank"> 🛠️优化回源工作流 </a> - 2022/02/02 21:38:40 
 
     
@@ -85,9 +92,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/619f7b382b75691e72e5329a3b5d4df4d0eb0dc4" target="_blank"> ✏️更新 leetcode </a> - 2022/02/02 13:51:41 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/6635280f21531f49c990e3c8b464a74af23bb0db" target="_blank"> 🛠️新增随手手稿展示 </a> - 2022/02/02 16:03:43 
 
     
 
