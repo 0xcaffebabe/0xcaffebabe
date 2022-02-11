@@ -75,22 +75,22 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/981e3ff93d31fad3b0d6a1b4bfc4cfecb0145729" target="_blank"> ✏️更新 事务 </a> - 2022/02/11 11:38:20 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/f9e6d4095f012ca54fbd73025f9684b288e247f1" target="_blank"> 🛠️优化稍后阅读数据实时性 </a> - 2022/02/11 14:33:14 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/dd4127a24f186e9176e7a9bacb5f064cc9d01bc7" target="_blank"> ✏️更新 软件设计 </a> - 2022/02/11 15:56:25 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/74dce226306ce1a6567b32339d77113080338fa4" target="_blank"> ✏️更新 HTTP </a> - 2022/02/11 16:43:03 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/b59da18e45a2b88bb2137689076b6b96bcd5a132" target="_blank"> ✏️更新 全链路压测 </a> - 2022/02/10 21:27:10 
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/9ea896f974ffb3cf2868b2bef8ed8edfccdde000" target="_blank"> 🛠️集成mermaid </a> - 2022/02/10 16:51:52 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/0b5dd8b7144ec0bf1534e66decd1bce37f29fee1" target="_blank"> ✏️更新 事务 </a> - 2022/02/10 18:06:48 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/f4fca01ff6f301256df81809d1f4ea4fa8c18f76" target="_blank"> ✏️更新 全链路压测 </a> - 2022/02/09 21:56:12 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/079eedee3468d92b6a3b6aa9c25c1a35a86981e2" target="_blank"> ✏️更新 leetcode </a> - 2022/02/09 17:58:00 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/b26bcc77543e0cfa05cdb7afc3fa77e72edf7e9b" target="_blank"> ✏️更新 测试相关 </a> - 2022/02/08 23:07:14 
 
     
 
