@@ -55,7 +55,7 @@
 #### 📝 计划
 
 - [进行中的书单](https://github.com/users/0xcaffebabe/projects/4)
-  - system-design-primer
+  - 软件设计哲学
   - 代码大全
   - 高性能mysql
 
