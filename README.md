@@ -75,6 +75,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/265f43ef07765055cbb04655e72e3169c040cde4" target="_blank"> ✏️更新 软件设计 </a> - 2022/02/14 17:42:41 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/daca9550c3f3ce996c5ed932723b63ed827543f9" target="_blank"> Bump follow-redirects from 1.14.... </a> - 2022/02/13 21:13:17 
 
     
@@ -88,9 +91,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/dd4127a24f186e9176e7a9bacb5f064cc9d01bc7" target="_blank"> ✏️更新 软件设计 </a> - 2022/02/11 15:56:25 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/74dce226306ce1a6567b32339d77113080338fa4" target="_blank"> ✏️更新 HTTP </a> - 2022/02/11 16:43:03 
 
     
 
