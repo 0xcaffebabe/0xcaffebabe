@@ -75,6 +75,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/ec635bec8f49e244a2039630a8739d595aaab840" target="_blank"> ✏️更新 质量工程 </a> - 2022/02/14 21:48:34 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/265f43ef07765055cbb04655e72e3169c040cde4" target="_blank"> ✏️更新 软件设计 </a> - 2022/02/14 17:42:41 
 
     
@@ -88,9 +91,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/f9e6d4095f012ca54fbd73025f9684b288e247f1" target="_blank"> 🛠️优化稍后阅读数据实时性 </a> - 2022/02/11 14:33:14 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/dd4127a24f186e9176e7a9bacb5f064cc9d01bc7" target="_blank"> ✏️更新 软件设计 </a> - 2022/02/11 15:56:25 
 
     
 
