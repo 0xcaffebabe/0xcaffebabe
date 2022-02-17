@@ -75,6 +75,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/4acad7c8c4351a0c36836d9a2d56b71211a35765" target="_blank"> ✏️更新 软件设计 </a> - 2022/02/17 17:38:58 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/917d2409c6110489bfa4ace2eab47a7ae01ebd30" target="_blank"> ✏️更新 质量工程 </a> - 2022/02/17 20:07:55 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/62c4a74d3554353c843f3dae6eec4c020429b67f" target="_blank"> 🛠️优化搜索提示获取时机 </a> - 2022/02/17 10:02:01 
 
     
@@ -85,12 +91,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/5d5c91f5df053f2d2f33cfa812cb2ac3d676922a" target="_blank"> 🛠️调整回源工作流node版本 </a> - 2022/02/17 08:59:26 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/89c8d9f96ec04d2283f088c6a6614f4275b005a0" target="_blank"> ✏️更新 中台 </a> - 2022/02/16 21:27:43 
-
-    
-  * <a href="https://github.com/0xcaffebabe/my-pad-desktop/commit/8136793da37f74356d5c3e311ede086454a17822" target="_blank"> 排版优化 </a> - 2022/02/16 21:31:49 
 
     
 
