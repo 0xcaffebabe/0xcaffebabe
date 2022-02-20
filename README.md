@@ -75,6 +75,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/6a3c1fa50df0cc1668e90f5ea46953f73dad90f8" target="_blank"> ➕新增 故障管理 </a> - 2022/02/20 21:34:56 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/d7ced8b5d1830e50b758a1fc28318a0ff60126a8" target="_blank"> ✏️更新 leetcode </a> - 2022/02/18 14:29:35 
 
     
@@ -88,9 +91,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/4acad7c8c4351a0c36836d9a2d56b71211a35765" target="_blank"> ✏️更新 软件设计 </a> - 2022/02/17 17:38:58 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/917d2409c6110489bfa4ace2eab47a7ae01ebd30" target="_blank"> ✏️更新 质量工程 </a> - 2022/02/17 20:07:55 
 
     
 
