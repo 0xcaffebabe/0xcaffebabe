@@ -75,6 +75,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/05b94c1c0da88904019c66b5c0f34d45c900678f" target="_blank"> ✏️更新 故障管理 </a> - 2022/02/22 21:33:58 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/a6091a622f9000d1291c65e2996c2dc54b61772c" target="_blank"> ✏️更新 并发集合 </a> - 2022/02/22 09:45:42 
 
     
@@ -88,9 +91,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/cc6da43d0f086006791fe7e67ea89bd248356bdf" target="_blank"> 🛠️样式优化 </a> - 2022/02/21 14:41:34 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/0fe4a931f1af3817bc58b575425d7784758ee404" target="_blank"> 🛠️部分功能状态配置化 </a> - 2022/02/21 15:22:47 
 
     
 
