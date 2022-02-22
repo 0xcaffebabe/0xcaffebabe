@@ -75,6 +75,15 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/a6091a622f9000d1291c65e2996c2dc54b61772c" target="_blank"> ✏️更新 并发集合 </a> - 2022/02/22 09:45:42 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/4672bdbc7b389afa92bd972231c2873d2ebf1deb" target="_blank"> ✏️更新 leetcode </a> - 2022/02/22 11:36:24 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/da3440781dcdb03761c90cba2887e47210181bc4" target="_blank"> ✏️更新 架构模式 </a> - 2022/02/22 17:41:51 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/8fbd083418e1a09de6664669397e225109ea2e2a" target="_blank"> ✏️更新 故障管理 </a> - 2022/02/21 21:27:45 
 
     
@@ -82,15 +91,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/0fe4a931f1af3817bc58b575425d7784758ee404" target="_blank"> 🛠️部分功能状态配置化 </a> - 2022/02/21 15:22:47 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/ff2f54738d0d50e7918a1feefe0790c97fbdb75f" target="_blank"> 🛠️目录列表样式优化 </a> - 2022/02/21 16:16:07 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/b10812a8cb50603a94a15b48834a9a42b912f6e0" target="_blank"> 🛠️优化PPT页目录列表样式 </a> - 2022/02/21 16:22:17 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/57965032a42f8840236754854bd5f8c4c2d7b756" target="_blank"> 🛠️优化目录导航样式 </a> - 2022/02/21 16:30:35 
 
     
 
