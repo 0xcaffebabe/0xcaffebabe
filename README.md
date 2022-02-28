@@ -75,6 +75,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/39c0df976609d040b2dbd8da6d13681b8bfc31a9" target="_blank"> ✏️更新 架构模式 </a> - 2022/02/28 17:32:08 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/c52ef030af042de7efd6cf98742db1d17f02b485" target="_blank"> ✏️更新 Activity </a> - 2022/02/28 17:42:08 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/941ef07f08c6d72e756b5c670163dd463640baf0" target="_blank"> ➕新增 混沌工程 </a> - 2022/02/27 20:51:32 
 
     
@@ -85,12 +91,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/594a65686f959fced79782adc7d4a1bcd062e944" target="_blank"> ✏️更新 CSRF </a> - 2022/02/24 17:54:27 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/4fafc892b7dc0523ffe259de9790fdca33ff6fa1" target="_blank"> ✏️更新 故障管理 </a> - 2022/02/23 21:12:51 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/05b94c1c0da88904019c66b5c0f34d45c900678f" target="_blank"> ✏️更新 故障管理 </a> - 2022/02/22 21:33:58 
 
     
 
