@@ -51,6 +51,3 @@ ${commits}
 
 </table>
 
-#### 活动
-
-![](https://activity-graph.herokuapp.com/graph?username=0xcaffebabe&hide_border=true&theme=redical)
