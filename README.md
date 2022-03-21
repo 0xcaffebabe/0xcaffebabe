@@ -13,6 +13,9 @@
 #### 📖 最近博客
 
 
+* <a href="https://0xcaffebabe.github.io/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/2022/03/20/%E8%B0%88%E8%B0%88%E6%A8%A1%E6%9D%BF%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F%E5%9C%A8%E5%AE%9E%E9%99%85%E7%94%9F%E4%BA%A7%E7%9A%84%E5%BA%94%E7%94%A8%E5%8F%8A%E4%BB%A3%E7%A0%81%E5%A4%8D%E7%94%A8.html" target="_blank"> 谈谈模板方法模式在实际生产的应用及代码复用 </a> - 2022/03/20 
+
+    
 * <a href="https://0xcaffebabe.github.io/java/2022/03/12/%E7%BA%BF%E7%A8%8B%E6%B1%A0%E7%9A%84%E4%BD%BF%E7%94%A8%E5%8F%8A%E9%81%87%E5%88%B0%E7%9A%84%E4%B8%80%E4%BA%9B%E9%97%AE%E9%A2%98.html" target="_blank"> 线程池的使用及遇到的一些问题 </a> - 2022/03/12 
 
     
@@ -32,9 +35,6 @@
 
     
 * <a href="https://0xcaffebabe.github.io/%E6%97%A5%E5%B8%B8/2020/04/16/%E8%B0%83%E8%AF%95%E4%B8%80%E4%B8%AAwsl2+java%E5%BC%95%E5%8F%91%E7%9A%84bug.html" target="_blank"> 调试一个wsl2+java引发的bug </a> - 2020/04/16 
-
-    
-* <a href="https://0xcaffebabe.github.io/spring/2019/11/04/Spring-%E5%9B%9B-%E4%BA%8B%E5%8A%A1%E7%AE%A1%E7%90%86.html" target="_blank"> Spring(四):事务管理 </a> - 2019/11/04 
 
         
 
@@ -75,6 +75,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/982b3a1cc4e6a2b7e6e8eed435a01e0a1e505946" target="_blank"> ➕新增 谈谈模板方法模式在实际生产的应用及代码复用 </a> - 2022/03/21 14:48:50 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/83c0a67e24abb9b7bd8a7c1084359372c0cc58f5" target="_blank"> ✏️更新 leetcode </a> - 2022/03/17 14:57:40 
 
     
@@ -88,9 +91,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/dd32213c87de1c47eb03ce3f218c8fc99d827b48" target="_blank"> ✏️更新 死锁 </a> - 2022/03/15 16:34:46 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/1c82a1f8cf61fee93f518eedcc38c0190ad11c56" target="_blank"> ✏️更新 JAVA 并发编程 </a> - 2022/03/16 17:11:49 
 
     
 
