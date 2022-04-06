@@ -75,6 +75,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/73a228c5b3d685ee9dc3e048ff9cc5d4ce74a10a" target="_blank"> ✏️更新 leetcode </a> - 2022/04/06 14:25:32 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/f39db71015d86b94a65ea11bcf2be7c4132769b5" target="_blank"> ✏️更新 Swift </a> - 2022/04/06 16:31:13 
+
+    
   * <a href="https://github.com/0xcaffebabe/swift-learning/commit/bb4ac740167fc2bd287f9006212ee5c7cedceab4" target="_blank"> 操作符 </a> - 2022/04/06 18:34:53 
 
     
@@ -85,12 +91,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/d08280db5e9c18d872986a3f2647f8f70b785300" target="_blank"> ⚒️双击导航标题同步目录位置支持 </a> - 2022/04/03 10:13:32 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/5363fe2145cdbb809436589afdbe28ca695d07dc" target="_blank"> ⚒️优化左侧目录同步 </a> - 2022/04/03 10:34:19 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/ee217a84f4b903f7b9db542c7a7befe743aa449e" target="_blank"> ✏️更新 leetcode </a> - 2022/04/03 10:54:57 
 
     
 
