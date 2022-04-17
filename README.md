@@ -75,6 +75,15 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/mobile-note/commit/bede1af3560f41beb78f8b6e3e95de5a8c5039ae" target="_blank"> 图片点击查看 </a> - 2022/04/17 19:10:04 
+
+    
+  * <a href="https://github.com/0xcaffebabe/mobile-note/commit/40e67bded0e4fadb61213a6a07e89e3c052102b6" target="_blank"> 修复查看图片滚动还原问题 </a> - 2022/04/17 20:16:45 
+
+    
+  * <a href="https://github.com/0xcaffebabe/mobile-note/commit/ab029276a7b60e2d9300f78428a5f6dfb3a8bba8" target="_blank"> 图片说明显示 </a> - 2022/04/17 21:01:10 
+
+    
   * <a href="https://github.com/0xcaffebabe/mobile-note/commit/1d18e450acf96a9cb2d64d68d6e22d7b17f1bf32" target="_blank"> 基本功能完善 重新设计 </a> - 2022/04/17 00:28:21 
 
     
@@ -82,15 +91,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/mobile-note/commit/bf5b9c74f2b11a04a2978b71028f0191ca5fba48" target="_blank"> 完成文档渲染展示功能 </a> - 2022/04/15 21:27:23 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/8d3ff9cbd64e434570d56675f996e6421060f0e9" target="_blank"> ✏更新 leetcode </a> - 2022/04/15 14:12:12 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/2797d82fdb684466430eb9380b91fcfa09f8ceb9" target="_blank"> ✏️更新 swift </a> - 2022/04/15 16:19:07 
-
-    
-  * <a href="https://github.com/0xcaffebabe/swift-learning/commit/434fe94ac39c6eea0f6e5caf4ee8f77e2f500ec8" target="_blank"> classes </a> - 2022/04/15 16:18:38 
 
     
 
