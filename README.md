@@ -67,7 +67,7 @@
 
 
 - [其他学习计划](https://github.com/users/0xcaffebabe/projects/3)
-  - vue3
+  - swift/swiftui
 
 
 <td>
