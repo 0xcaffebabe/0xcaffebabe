@@ -76,6 +76,15 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/ed48b0d74c1d7e04901d21cbbd9b79b90453cf35" target="_blank"> ✏️更新 数据挖掘 </a> - 2022/04/22 15:36:59 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/3244096fb63a74a4ad3474a5e5b59ffce8dbe6da" target="_blank"> ✏️更新 kotlin </a> - 2022/04/22 16:23:24 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/e3dcee6eb9ab50943196e3ee68a31a21dbf1d040" target="_blank"> 🛠️代码高亮风格自适应 </a> - 2022/04/22 16:48:22 
+
+    
   * <a href="https://github.com/0xcaffebabe/kotlin-learning/commit/12e9ea718ff174eb41d1cfb3c81055dc22fecaa1" target="_blank"> controls </a> - 2022/04/22 16:22:15 
 
     
@@ -83,15 +92,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/1f12b75ccd1f4e0e9cb6c6f32ee6d23ef194581a" target="_blank"> ✏️更新 swift </a> - 2022/04/21 21:06:59 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/6d519e043ce5f5c1b5056fc4b31d4f505ef355bd" target="_blank"> ➕新增 JSBridge </a> - 2022/04/20 10:19:14 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/139a434842de21a31449bfbf45f1d75ea00bb70d" target="_blank"> ✏️更新 Java 并发编程 </a> - 2022/04/20 14:14:15 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/70e4f77283b8dc4f720cc7d88b5c84d949466539" target="_blank"> ✏️更新 JMM </a> - 2022/04/20 14:24:03 
 
     
 
