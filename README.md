@@ -75,6 +75,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/swift-learning/commit/962cd20eb26c446d1dba48de90d0a2f49e6ed188" target="_blank"> 内存管理 </a> - 2022/04/25 20:58:20 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/17a8af9242140dc82472bc3a70bc31f8c0ca2b2c" target="_blank"> 🛠️修复关键词高亮导致事件失效的问题 </a> - 2022/04/25 11:25:28 
 
     
@@ -88,9 +91,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/ccad2074fb478ec3f39bc7dedaf27e5e6df08c03" target="_blank"> 🛠️代码块新增语言展示 </a> - 2022/04/25 14:26:12 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/c10e959279ed8862f3063003a4c97455ce823684" target="_blank"> ✏️更新 kotlin </a> - 2022/04/25 16:21:55 
 
     
 
