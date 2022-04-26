@@ -75,6 +75,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/eae954e75475748ba562c44b3faa5a75d2c8da4f" target="_blank"> ✏️更新 swift </a> - 2022/04/26 20:59:28 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/c1eeccad8fdcfc82851495510d96fe77f0425dae" target="_blank"> ⚒️更新配置 </a> - 2022/04/26 21:08:21 
 
     
@@ -88,9 +91,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/6d10064b58b1165b0136b0e12f8b2c90144f6d02" target="_blank"> ✏️更新 数据挖掘 </a> - 2022/04/26 16:37:26 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/b5bd71c5ba9592837efdc15ebdf5413cc9108372" target="_blank"> 🛠️提交总量趋势区域缩放 </a> - 2022/04/26 17:10:28 
 
     
 
