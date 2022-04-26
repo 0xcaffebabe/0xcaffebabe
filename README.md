@@ -75,6 +75,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/c1eeccad8fdcfc82851495510d96fe77f0425dae" target="_blank"> ⚒️更新配置 </a> - 2022/04/26 21:08:21 
+
+    
+  * <a href="https://github.com/0xcaffebabe/swift-learning/commit/11d6b5625ded7344831ae1f69dc574aa9b46b560" target="_blank"> types </a> - 2022/04/26 20:39:59 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/4f466dab85f4a4bb95cde99771dafbdd60c55c48" target="_blank"> ✏️更新 leetcode </a> - 2022/04/26 14:57:03 
 
     
@@ -85,12 +91,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/b5bd71c5ba9592837efdc15ebdf5413cc9108372" target="_blank"> 🛠️提交总量趋势区域缩放 </a> - 2022/04/26 17:10:28 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/a5ea7f50e77c12d881949d1898fb93aa7a976466" target="_blank"> 🛠️样式优化 </a> - 2022/04/26 17:51:00 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/289829d99fdedce7a237eff05df3298a7f3762be" target="_blank"> 🛠️样式优化 </a> - 2022/04/26 18:03:37 
 
     
 
