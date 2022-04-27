@@ -55,8 +55,8 @@
 #### 📝 计划
 
 - [进行中的书单](https://github.com/users/0xcaffebabe/projects/4)
+  - Android开发艺术探索
   - 现代操作系统
-  - 集体智慧编程
 
 
 - [后端学习计划](https://github.com/users/0xcaffebabe/projects/1)
