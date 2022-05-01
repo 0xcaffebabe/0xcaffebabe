@@ -75,6 +75,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/d0224b3ab66e34863aac99430b10827fb18097a1" target="_blank"> ⚒️删除测试代码 </a> - 2022/05/01 23:49:58 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/acf3b4ae6987dd7fbfb6953bb4db8e70a4c528ac" target="_blank"> ⚒️新增文档聚类 </a> - 2022/05/01 23:47:54 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/8034468cdf26cd5071420395d69776f306064c29" target="_blank"> ✏️更新 swift </a> - 2022/05/01 14:51:44 
 
     
@@ -85,12 +91,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/e004a4779adc57706c996813a57326edb016655c" target="_blank"> ⚒️新增相似文本检测 </a> - 2022/05/01 20:17:55 
-
-    
-  * <a href="https://github.com/0xcaffebabe/swift-learning/commit/977cd220b2960dc544a44fa44c9aba227bd42c0f" target="_blank"> tuple compare </a> - 2022/04/27 21:02:12 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/627b5ea7a86a530852cf049258b9b3d4b3b884c9" target="_blank"> 🛠️新增构建时间渲染 </a> - 2022/04/29 09:51:50 
 
     
 
