@@ -75,6 +75,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/a99603a7477eff301f311032090b61c61e352818" target="_blank"> ⚒️失效资源检测禁用缓存 </a> - 2022/05/02 21:38:11 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/000e16d513d3fb5ee6e0f59bedb26e7c0e43aaad" target="_blank"> ⚒️优化文档聚类 </a> - 2022/05/02 22:44:45 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/8f746b34fc7141c8ec2dd4357f5dd0ad3ec33c37" target="_blank"> ⚒️文档聚类 删除测试代码 </a> - 2022/05/02 21:30:15 
 
     
@@ -85,12 +91,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/9b01eda2fc17d3637dc08f34b3b6c7116d5dd649" target="_blank"> ⚒️调整文档聚类脚本 </a> - 2022/05/02 13:29:12 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/8327b7b9f0f9cd1659bd30cea2407979f77f5f2d" target="_blank"> ✏️更新 存储器层次结构 </a> - 2022/05/02 15:13:30 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/1a052540aef3702a8768f7a6778004629dc9eef7" target="_blank"> ⚒️文档聚类初步设计 </a> - 2022/05/02 20:26:16 
 
     
 
