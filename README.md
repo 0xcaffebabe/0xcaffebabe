@@ -75,6 +75,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/9177baae37dded4a17fe253e492b7d5b2d6c9f53" target="_blank"> 🛠️新增自建ES索引更新 </a> - 2022/05/05 10:28:24 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/15b035e289fad871e88c9924cc8aa328ea17c27b" target="_blank"> ✏️更新 架构设计 </a> - 2022/05/04 23:12:11 
 
     
@@ -88,9 +91,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/8f746b34fc7141c8ec2dd4357f5dd0ad3ec33c37" target="_blank"> ⚒️文档聚类 删除测试代码 </a> - 2022/05/02 21:30:15 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/6f84492272a08aeb5094be9fe7b250fc832df4c4" target="_blank"> ⚒️文档聚类 </a> - 2022/05/02 21:26:17 
 
     
 
