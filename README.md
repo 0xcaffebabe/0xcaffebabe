@@ -75,6 +75,15 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/ba2c1d34f9df0eff9f6d7509d728470465d9f231" target="_blank"> 🛠️新增自建搜索引擎 </a> - 2022/05/05 11:30:25 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/64cd126007bc960adc4a0be4dc1c8483904ac030" target="_blank"> 🛠️调整定时检查js资源是否有效策略 </a> - 2022/05/05 13:53:12 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/7c9964f93906147a0d6f1185e359b13d011499ce" target="_blank"> ✏️更新 架构设计 </a> - 2022/05/05 17:38:27 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/9177baae37dded4a17fe253e492b7d5b2d6c9f53" target="_blank"> 🛠️新增自建ES索引更新 </a> - 2022/05/05 10:28:24 
 
     
@@ -82,15 +91,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/6fd9e1ee0dc0d30595be0a9691ec375cd5496551" target="_blank"> ✏️更新 架构 </a> - 2022/05/03 16:55:06 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/a99603a7477eff301f311032090b61c61e352818" target="_blank"> ⚒️失效资源检测禁用缓存 </a> - 2022/05/02 21:38:11 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/000e16d513d3fb5ee6e0f59bedb26e7c0e43aaad" target="_blank"> ⚒️优化文档聚类 </a> - 2022/05/02 22:44:45 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/8f746b34fc7141c8ec2dd4357f5dd0ad3ec33c37" target="_blank"> ⚒️文档聚类 删除测试代码 </a> - 2022/05/02 21:30:15 
 
     
 
