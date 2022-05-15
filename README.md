@@ -75,6 +75,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/5e027b1b980518d692738ff7e3b12c9803515ae0" target="_blank"> ✏️更新 消息队列 </a> - 2022/05/15 21:01:56 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/e995151f6a1bc1adfa6cd6bac42d8cabfaecad8f" target="_blank"> ✏️更新 分布式 </a> - 2022/05/15 21:49:18 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/a1a5afb2a97d37ee69fc8e7263cafb725566b9af" target="_blank"> 🛠️知识趋势区域流行度完善 </a> - 2022/05/13 14:34:15 
 
     
@@ -85,12 +91,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/a6b6353eabf0b1f17905b32aa807c46051f0bad2" target="_blank"> 🛠️添加统计图片类型 </a> - 2022/05/13 17:20:33 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/5cb8ea784dce968359c8883eca68986f25d680f1" target="_blank"> 🛠️样式优化 </a> - 2022/05/13 18:14:42 
-
-    
-  * <a href="https://github.com/0xcaffebabe/google-trend-proxy/commit/38c621cee4a3313fd96ed15f7bd8e5b5fafa0961" target="_blank"> 缓存支持 </a> - 2022/05/13 14:31:11 
 
     
 
