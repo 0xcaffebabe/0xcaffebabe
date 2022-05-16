@@ -75,6 +75,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/b820ec8720bdde71a03c2cf7505990c94924ab4d" target="_blank"> ✏️更新 消息队列 </a> - 2022/05/16 21:08:02 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/fda9373ee57b775223d38cda63e4f85a3f162506" target="_blank"> ✏️更新 分布式 </a> - 2022/05/16 22:03:56 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/a8b10144cc8dcba72426b73e4369d56d975e3d91" target="_blank"> ✏️更新 复制 </a> - 2022/05/16 13:50:01 
 
     
@@ -85,12 +91,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/f7eddef99d13ffe1b7e3b5eeb2110426e2f723b5" target="_blank"> ✏️更新 消息队列 </a> - 2022/05/16 16:18:41 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/425123670c62fbcaeaa346ece840a5e868fbe40b" target="_blank"> ✏️更新 分布式数据 </a> - 2022/05/16 16:24:54 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/609399450834fa88477558036a74e3dad7084fd7" target="_blank"> ✏️更新 架构 </a> - 2022/05/16 17:51:56 
 
     
 
