@@ -75,22 +75,22 @@
 #### 🌴最近提交
 
 
-  * <a href="https://github.com/0xcaffebabe/note/commit/b820ec8720bdde71a03c2cf7505990c94924ab4d" target="_blank"> ✏️更新 消息队列 </a> - 2022/05/16 21:08:02 
+  * <a href="https://github.com/0xcaffebabe/note/commit/e70c3a1bae39a4a07030304357f65c503a852535" target="_blank"> 🛠️修复循环依赖造成的初始化问题 </a> - 2022/05/17 09:45:22 
 
     
-  * <a href="https://github.com/0xcaffebabe/note/commit/fda9373ee57b775223d38cda63e4f85a3f162506" target="_blank"> ✏️更新 分布式 </a> - 2022/05/16 22:03:56 
+  * <a href="https://github.com/0xcaffebabe/note/commit/032e77019d8c13ae0329ff4c399eed0731b92ed0" target="_blank"> 🛠️完善标签功能 </a> - 2022/05/17 10:23:42 
 
     
-  * <a href="https://github.com/0xcaffebabe/note/commit/a8b10144cc8dcba72426b73e4369d56d975e3d91" target="_blank"> ✏️更新 复制 </a> - 2022/05/16 13:50:01 
+  * <a href="https://github.com/0xcaffebabe/note/commit/5f6c4e3e3052e383d05261e0d42a704804027ec4" target="_blank"> 🛠️升级依赖及适配 </a> - 2022/05/17 14:06:26 
 
     
-  * <a href="https://github.com/0xcaffebabe/note/commit/d8586924fbbab311af770ba81729d5ebf1cdb9a5" target="_blank"> 🛠️潜在BUG修复 </a> - 2022/05/16 14:30:42 
+  * <a href="https://github.com/0xcaffebabe/note/commit/e9d752f1649710694bce029625856859819a49b8" target="_blank"> 🛠️适配 ElementPlus 暗色模式 </a> - 2022/05/17 14:34:13 
 
     
-  * <a href="https://github.com/0xcaffebabe/note/commit/a08b24d9a9343a104a575ac06d39cb7a4a7a7a96" target="_blank"> 🛠️统一标签列表 </a> - 2022/05/16 14:30:54 
+  * <a href="https://github.com/0xcaffebabe/note/commit/3dff115dde950fc121ae4246fe608a233597ce05" target="_blank"> 🛠️样式优化 </a> - 2022/05/17 14:54:44 
 
     
-  * <a href="https://github.com/0xcaffebabe/note/commit/f7eddef99d13ffe1b7e3b5eeb2110426e2f723b5" target="_blank"> ✏️更新 消息队列 </a> - 2022/05/16 16:18:41 
+  * <a href="https://github.com/0xcaffebabe/note/commit/bc719ef3fb3425cef97be266ef840e086f085675" target="_blank"> 🛠️样式优化 </a> - 2022/05/17 15:22:45 
 
     
 
