@@ -75,6 +75,15 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/32903736c06d729141a2d877eae820842b9eeb60" target="_blank"> 🛠️新增文档质量分数 </a> - 2022/05/18 16:29:56 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/6f91ad1113850eedc98621cd80266ae557438f6e" target="_blank"> 🛠️样式优化 </a> - 2022/05/18 16:36:59 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/b01abda03388773d0184605ca4c2f501f5ce15a4" target="_blank"> 🛠️升级相关工具链依赖 </a> - 2022/05/18 17:01:52 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/a5a88d9c64f98c6122c9e89b6be6435ddbc73ad0" target="_blank"> ✏️更新 netty </a> - 2022/05/17 21:00:48 
 
     
@@ -82,15 +91,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/c42a0f8004a6a45f0596f96c95ebbcddcbe09b53" target="_blank"> ⚒️升级工作流 node 版本 </a> - 2022/05/17 19:07:06 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/e70c3a1bae39a4a07030304357f65c503a852535" target="_blank"> 🛠️修复循环依赖造成的初始化问题 </a> - 2022/05/17 09:45:22 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/032e77019d8c13ae0329ff4c399eed0731b92ed0" target="_blank"> 🛠️完善标签功能 </a> - 2022/05/17 10:23:42 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/5f6c4e3e3052e383d05261e0d42a704804027ec4" target="_blank"> 🛠️升级依赖及适配 </a> - 2022/05/17 14:06:26 
 
     
 
