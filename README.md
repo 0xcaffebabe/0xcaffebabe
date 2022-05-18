@@ -75,6 +75,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/9d05fb5723f7a42c8241a7f72deda806017db91b" target="_blank"> ✏️更新 kafka </a> - 2022/05/18 20:54:23 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/45547e748c176c3294d3a41ad365996d9a2d15ae" target="_blank"> ✏️更新 数据系统 </a> - 2022/05/18 21:46:48 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/db4bafa5c7a0e3a7323dda58eb9f7b6ca7c83d09" target="_blank"> ✏️更新 产品 </a> - 2022/05/18 17:46:26 
 
     
@@ -85,12 +91,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/b01abda03388773d0184605ca4c2f501f5ce15a4" target="_blank"> 🛠️升级相关工具链依赖 </a> - 2022/05/18 17:01:52 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/a5a88d9c64f98c6122c9e89b6be6435ddbc73ad0" target="_blank"> ✏️更新 netty </a> - 2022/05/17 21:00:48 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/29dcc64eb6f470598787576cec3bfed1dced77f4" target="_blank"> ✏️更新 数据系统 </a> - 2022/05/17 21:38:29 
 
     
 
