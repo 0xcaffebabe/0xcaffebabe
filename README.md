@@ -75,6 +75,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/22f435be187d89e3cfda6f215dd1c05ddf56b23b" target="_blank"> ✏️更新 README </a> - 2022/05/19 22:37:51 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/aed461af11ae83c65d04c189418f5bec207f98fe" target="_blank"> Pin dependencies </a> - 2022/05/19 22:08:43 
 
     
@@ -88,9 +91,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/fd20f6aa81000d16a5aa741cff20dd64eafbf98d" target="_blank"> 🛠️优化知识网络只看本节点相关 </a> - 2022/05/19 15:52:12 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/50950509602bea77b3b51f12584a57d39790f668" target="_blank"> 🛠️修复组件组合bug </a> - 2022/05/19 16:40:25 
 
     
 
