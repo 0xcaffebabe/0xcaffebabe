@@ -2,7 +2,6 @@
 ## Overview
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59)
-![](https://gpvc.arturio.dev/0xcaffebabe)
 
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=0xcaffebabe&layout=compact&langs_count=12&theme=dark)
 
@@ -76,6 +75,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/0xcaffebabe/commit/ea274270a69c5741da447b2d912be8fc8b788d8b" target="_blank"> Update README.md </a> - 2022/05/20 10:48:25 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/22f435be187d89e3cfda6f215dd1c05ddf56b23b" target="_blank"> ✏️更新 README </a> - 2022/05/19 22:37:51 
 
     
@@ -89,9 +91,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/11c32886a83ecd95e60e02af7782d2eeb2508bb7" target="_blank"> 🛠️知识回顾 接入文档质量分数 </a> - 2022/05/19 13:56:45 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/fd20f6aa81000d16a5aa741cff20dd64eafbf98d" target="_blank"> 🛠️优化知识网络只看本节点相关 </a> - 2022/05/19 15:52:12 
 
     
 
