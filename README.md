@@ -75,6 +75,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/436e9808a1e845df5e4a1df2ea59c5581f60c497" target="_blank"> 🛠️新增知识冗余渲染 </a> - 2022/05/20 18:03:34 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/2d1ad4a5655e15de3bb244ba2e4f9c11ca99d2d2" target="_blank"> 🛠️文本相似度检测 去除元数据 </a> - 2022/05/20 18:10:13 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/b85f975638c219660c4089037a6cdf1b8ea6e2b6" target="_blank"> 🛠️文本相似度检测 </a> - 2022/05/20 16:19:19 
 
     
@@ -85,12 +91,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/22f435be187d89e3cfda6f215dd1c05ddf56b23b" target="_blank"> ✏️更新 README </a> - 2022/05/19 22:37:51 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/aed461af11ae83c65d04c189418f5bec207f98fe" target="_blank"> Pin dependencies </a> - 2022/05/19 22:08:43 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/8da4a4b883ba8ef19ff1d82f5830985978974aa7" target="_blank"> ✏️更新 消息队列 </a> - 2022/05/19 20:56:42 
 
     
 
