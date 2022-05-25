@@ -76,6 +76,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/nodejieba/commit/ce9811e50c36c481d737dea877bb2058f20c8dd0" target="_blank"> Update node-pre-gyp to 1.0.9 </a> - 2022/05/25 09:33:36 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/ec4ee3cb2c098ed10dd6303586697012c635911f" target="_blank"> Delete sonarcloud.yml </a> - 2022/05/24 23:24:35 
 
     
@@ -89,9 +92,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/0f9236486bec6045000c95430182ef184053f1db" target="_blank"> 🛠️回源优化 </a> - 2022/05/24 13:32:46 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/ff8fc2244f5418995bf3ffc5c469aec08cf027fe" target="_blank"> ✏️更新 产品 </a> - 2022/05/24 14:16:59 
 
     
 
