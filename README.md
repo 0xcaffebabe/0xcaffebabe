@@ -76,22 +76,22 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/79a0cefb3355a294fc72a5105a44ee4cecb3f44a" target="_blank"> 🛠️优化相关书籍渲染 </a> - 2022/05/26 10:32:55 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/3d341e2b9f846c59d21e5db73ff5c301cf90c8c6" target="_blank"> 🛠️移动记录上次阅读位置 </a> - 2022/05/26 10:40:49 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/428f50278ccd972e4171787ae91bb85439af9de9" target="_blank"> 🛠️移动端滑动前进后退支持 </a> - 2022/05/26 11:17:03 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/4dccbf4dce50047670f220682437ba72317fb55f" target="_blank"> ✏️更新 产品 </a> - 2022/05/26 16:03:00 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/34412463a82139a15627d22427a4109427668419" target="_blank"> ✏️更新 组件构建原则 </a> - 2022/05/26 17:10:51 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/54c3d228b9fc02235c11f30990e767bea5614759" target="_blank"> ✏️更新 DDD </a> - 2022/05/25 21:30:51 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/95dc8fcbc8ce613e26cafa4d18d12fdff4d28aff" target="_blank"> ✏️更新 README </a> - 2022/05/25 21:38:43 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/a43da28c2b3a1e10ac7edf0606f7a597744351ff" target="_blank"> 🛠️数据源切换优化 </a> - 2022/05/25 10:59:25 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/d14d7d16e149719828aa96f1d393ee574888a3e6" target="_blank"> 🛠️移动端主页 </a> - 2022/05/25 14:13:39 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/10870d9ec4e20af3cbc62e7eeab80a286363ed44" target="_blank"> 🛠️依赖升级 </a> - 2022/05/25 16:23:04 
-
-    
-  * <a href="https://github.com/0xcaffebabe/nodejieba/commit/ce9811e50c36c481d737dea877bb2058f20c8dd0" target="_blank"> Update node-pre-gyp to 1.0.9 </a> - 2022/05/25 09:33:36 
 
     
 
