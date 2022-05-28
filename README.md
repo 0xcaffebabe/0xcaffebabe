@@ -76,6 +76,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/2b28e463b66f2ce88000e48da5579bc790cf6222" target="_blank"> ⚒️触控事件重新实现 </a> - 2022/05/29 00:34:13 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/1c30955806b36811dc268648c09818107a9d89d0" target="_blank"> ⚒️移动端支持锚点定位 </a> - 2022/05/28 12:03:38 
 
     
@@ -89,9 +92,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/84924932178e96bb8048483b9a2c30fca0cbf821" target="_blank"> ⚒️优化开发服务器健壮性 </a> - 2022/05/27 22:00:03 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/f9fcab1cd81c619014e6e99c0d1c5618f0405d96" target="_blank"> ⚒️优化目录加载渲染性能 </a> - 2022/05/27 22:03:57 
 
     
 
