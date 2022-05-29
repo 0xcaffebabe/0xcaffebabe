@@ -76,6 +76,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/fb707bcbac471d515baace12865031cf0eae7ae1" target="_blank"> ✏️更新 架构师 </a> - 2022/05/29 19:08:33 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/df955b49861c512f800f78b3adc1f5e7e30ab399" target="_blank"> ✏️更新 DDD </a> - 2022/05/29 20:38:33 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/2b28e463b66f2ce88000e48da5579bc790cf6222" target="_blank"> ⚒️触控事件重新实现 </a> - 2022/05/29 00:34:13 
 
     
@@ -86,12 +92,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/b276c7b55491fa97c7d5298865dd37827ca57994" target="_blank"> ⚒️移动端支持当前文档目录定位 </a> - 2022/05/28 13:28:30 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/92d239ddb1a72bc404fe4a343627ba24ffcc87ba" target="_blank"> ⚒️移动端标签页适配 </a> - 2022/05/28 13:42:27 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/84924932178e96bb8048483b9a2c30fca0cbf821" target="_blank"> ⚒️优化开发服务器健壮性 </a> - 2022/05/27 22:00:03 
 
     
 
