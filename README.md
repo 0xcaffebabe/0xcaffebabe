@@ -14,6 +14,9 @@
 #### 📖 最近博客
 
 
+* <a href="https://0xcaffebabe.github.io/java/2022/06/11/%E4%BB%8E%E4%B8%80%E4%B8%AA%E9%9A%8F%E6%9C%BA%E5%87%BA%E7%8E%B0%E7%9A%84%E9%94%99%E8%AF%AF%E5%BC%80%E8%AF%BBMybatis%E6%BA%90%E7%A0%81.html" target="_blank"> 从一个随机出现的错误开读Mybatis源码 </a> - 2022/06/11 
+
+    
 * <a href="https://0xcaffebabe.github.io/%E6%97%A5%E5%B8%B8/2022/04/09/%E6%8A%80%E6%9C%AF%E6%A0%88%E6%97%A0%E5%85%B3doc%E6%96%87%E6%A1%A3%E7%94%9F%E6%88%90%E6%96%B9%E6%A1%88.html" target="_blank"> 技术栈无关doc文档生成方案 </a> - 2022/04/09 
 
     
@@ -33,9 +36,6 @@
 
     
 * <a href="https://0xcaffebabe.github.io/%E7%AE%97%E6%B3%95/2020/09/18/%E8%B0%88%E8%B0%88bitmap%E7%9A%84%E4%BD%BF%E7%94%A8.html" target="_blank"> 谈谈bitmap的使用 </a> - 2020/09/18 
-
-    
-* <a href="https://0xcaffebabe.github.io/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/2020/09/11/%E6%A1%A5%E6%8E%A5%E6%A8%A1%E5%BC%8F%E7%9A%84%E5%AE%9E%E9%99%85%E4%BD%BF%E7%94%A8.html" target="_blank"> 桥接模式的实际使用 </a> - 2020/09/11 
 
         
 
@@ -76,6 +76,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/56ee88b1d3d16baec5296b59dcc1a4b391bdea10" target="_blank"> Add renovate.json </a> - 2022/05/18 16:16:58 
+
+    
+  * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/297bad4e484ca263ee2682acc7ac87b8c90949eb" target="_blank"> ➕新增 从一个随机出现的错误开读Mybatis源码 </a> - 2022/06/11 16:55:17 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/5b0c3ef5aadd486c64ad65af9b9abd792c44ec2c" target="_blank"> Update actions/checkout action t... </a> - 2022/06/10 23:57:18 
 
     
@@ -86,12 +92,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/cd06070000ed3017cc34d1dbde2a97383e88384f" target="_blank"> ✏️更新 RPC </a> - 2022/06/10 18:12:28 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/0c15327c2489b95903ad0d8d9a30805ddd13d1ae" target="_blank"> ✏️更新 网络层 </a> - 2022/06/10 14:40:52 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/e7f7a7e4604b075e4d9033abedaa202b2558d080" target="_blank"> ✏️更新 计算机网络 </a> - 2022/06/09 16:39:07 
 
     
 
