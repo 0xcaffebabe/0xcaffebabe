@@ -76,6 +76,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/5a891e841cb817642d8d4aefc90c520ba584c1e8" target="_blank"> ⚒️修复暗色模式失效 </a> - 2022/06/14 21:38:58 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/83fdac2de13f2374662719d11bf3a29eafd936c3" target="_blank"> 🛠️优化左侧菜单性能 </a> - 2022/06/14 14:03:51 
 
     
@@ -89,9 +92,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/15fefb641d041567d5abbb51209147d58b39b1a6" target="_blank"> 📦整理 网关 </a> - 2022/06/14 17:39:12 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/519594877f62dbb7c424854be4a82e91c438f1e8" target="_blank"> 📦整理 开放平台设计 </a> - 2022/06/14 17:48:54 
 
     
 
