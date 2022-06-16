@@ -76,6 +76,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/3828c7ca3d3480aba76febbec2ae16a63cadfea7" target="_blank"> ✏️更新 时钟轮算法 </a> - 2022/06/16 17:48:10 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/ad67dcd5b9c15c89f493b66da2f43a96896d78f6" target="_blank"> ✏️更新 服务容错 </a> - 2022/06/16 18:23:22 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/3259693b3780b9e95ce0826471ac77260a070b1c" target="_blank"> 🛠️codespace环境支持 </a> - 2022/06/16 10:06:43 
 
     
@@ -86,12 +92,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/77a40655b517527f57f6d8ed7ac25727bc552837" target="_blank"> 🛠️优化 文档概览 </a> - 2022/06/15 11:50:23 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/72f94da3b44306fd7768d1716420231dcda7b6b1" target="_blank"> 📦整理 服务容错 </a> - 2022/06/15 17:47:32 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/63942387629a47393a39a36c653387f8ac4e7e57" target="_blank"> ✏️更新 服务容错 </a> - 2022/06/15 18:18:57 
 
     
 
