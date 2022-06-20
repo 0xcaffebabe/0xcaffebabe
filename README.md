@@ -76,6 +76,15 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/1718927f3311d11f1d3c02f1ecbe51053d9deb2e" target="_blank"> ✏️更新 单元测试 </a> - 2022/06/20 14:44:47 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/6409b9e77578b3aa8538a4192b63142380472e61" target="_blank"> ✏️更新 演进式架构 </a> - 2022/06/20 16:45:40 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/a03588ad31da8202c584cec8130c238d2caf07d3" target="_blank"> ✏️更新 专业素养 </a> - 2022/06/20 18:19:19 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/60599bbbc666cd37d940ccbad758811e78245a3b" target="_blank"> ✏️更新 演进式架构 </a> - 2022/06/17 16:34:11 
 
     
@@ -83,15 +92,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/shopa/commit/ace6adad192098c5990e41a44e7d68a9f7319a10" target="_blank"> Bump fastjson from 1.2.67 to 1.2... </a> - 2022/06/17 11:02:30 
-
-    
-  * <a href="https://github.com/0xcaffebabe/edu/commit/a1613ca3264f1d2d78429fd4de31c11c56351ed1" target="_blank"> Bump fastjson from 1.2.30 to 1.2... </a> - 2022/06/17 10:33:58 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/3828c7ca3d3480aba76febbec2ae16a63cadfea7" target="_blank"> ✏️更新 时钟轮算法 </a> - 2022/06/16 17:48:10 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/ad67dcd5b9c15c89f493b66da2f43a96896d78f6" target="_blank"> ✏️更新 服务容错 </a> - 2022/06/16 18:23:22 
 
     
 
