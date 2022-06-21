@@ -76,6 +76,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/169119761ee2a2637911dce7c04f9b289dc2d794" target="_blank"> 🛠️优化图片渲染 </a> - 2022/06/21 11:06:10 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/21b023fafd9c8d5e311d1f069b7cc0f38b54af1d" target="_blank"> ✏️更新 架构演进&持续集成&DevOps </a> - 2022/06/21 17:19:53 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/1718927f3311d11f1d3c02f1ecbe51053d9deb2e" target="_blank"> ✏️更新 单元测试 </a> - 2022/06/20 14:44:47 
 
     
@@ -86,12 +92,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/60599bbbc666cd37d940ccbad758811e78245a3b" target="_blank"> ✏️更新 演进式架构 </a> - 2022/06/17 16:34:11 
-
-    
-  * <a href="https://github.com/0xcaffebabe/my-rpc/commit/7376a3559b614fad966d86a01d8cfd1c2077f352" target="_blank"> Bump fastjson from 1.2.68 to 1.2... </a> - 2022/06/17 11:08:40 
-
-    
-  * <a href="https://github.com/0xcaffebabe/shopa/commit/ace6adad192098c5990e41a44e7d68a9f7319a10" target="_blank"> Bump fastjson from 1.2.67 to 1.2... </a> - 2022/06/17 11:02:30 
 
     
 
