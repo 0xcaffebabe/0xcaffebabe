@@ -76,6 +76,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/dd8a407d9e17e954526376861d539512ad700daa" target="_blank"> 📦整理 Java </a> - 2022/06/22 16:40:38 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/05a31ac6df29f7c930f6d0114c7a72ede70efa01" target="_blank"> ✏️更新 服务发现 </a> - 2022/06/22 16:52:17 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/810a75eea5bf186333223134886032aa458c0d76" target="_blank"> ✏️更新 计算机系统 </a> - 2022/06/21 21:33:19 
 
     
@@ -86,12 +92,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/1718927f3311d11f1d3c02f1ecbe51053d9deb2e" target="_blank"> ✏️更新 单元测试 </a> - 2022/06/20 14:44:47 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/6409b9e77578b3aa8538a4192b63142380472e61" target="_blank"> ✏️更新 演进式架构 </a> - 2022/06/20 16:45:40 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/a03588ad31da8202c584cec8130c238d2caf07d3" target="_blank"> ✏️更新 专业素养 </a> - 2022/06/20 18:19:19 
 
     
 
