@@ -76,6 +76,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/27081f08669228fd833adf7592ecafb803f76cdc" target="_blank"> ⚒️修复文档质量基准百分比异常 </a> - 2022/06/23 23:13:59 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/f4f40ccc8edd6b4e554c4f373b57704bb126557f" target="_blank"> 📦整理 数据的表示 </a> - 2022/06/23 21:09:40 
 
     
@@ -89,9 +92,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/6f3628ea9726dc8e9ab95921322f829397fbe8c8" target="_blank"> ✏️更新 JavaScript 面向对象 </a> - 2022/06/23 16:34:48 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/6deb2f48c73114bdb30bb2ba86f195a76d56c1b3" target="_blank"> 🛠️文档质量分数基准线调整为中位数 </a> - 2022/06/23 17:21:56 
 
     
 
