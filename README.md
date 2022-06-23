@@ -76,6 +76,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/15ce557eadd992aef58465ca11898cf136e61af1" target="_blank"> Pin dependencies </a> - 2022/06/22 23:11:08 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/f5e2c48a99e9f15b2019fdf9f77373392ceb7dbf" target="_blank"> ✏️更新 指令系统 </a> - 2022/06/22 21:14:39 
 
     
@@ -89,9 +92,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/05a31ac6df29f7c930f6d0114c7a72ede70efa01" target="_blank"> ✏️更新 服务发现 </a> - 2022/06/22 16:52:17 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/810a75eea5bf186333223134886032aa458c0d76" target="_blank"> ✏️更新 计算机系统 </a> - 2022/06/21 21:33:19 
 
     
 
