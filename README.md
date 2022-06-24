@@ -76,6 +76,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/b6acfb9f3d904dd46d667f03e983083d9668ba62" target="_blank"> ✏️更新 JavaScript </a> - 2022/06/24 16:49:12 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/27081f08669228fd833adf7592ecafb803f76cdc" target="_blank"> ⚒️修复文档质量基准百分比异常 </a> - 2022/06/23 23:13:59 
 
     
@@ -89,9 +92,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/b20858909ce1750ade8d4e269b0ac11e819650ef" target="_blank"> ✏️更新 JavaScript </a> - 2022/06/23 15:22:07 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/6f3628ea9726dc8e9ab95921322f829397fbe8c8" target="_blank"> ✏️更新 JavaScript 面向对象 </a> - 2022/06/23 16:34:48 
 
     
 
