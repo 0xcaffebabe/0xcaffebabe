@@ -78,6 +78,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/d6f9cb68841465798d28d0a7b57c0714f1e7b6fc" target="_blank"> ➕新增 技术管理 </a> - 2022/07/17 21:51:33 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/4f0d5e724a36dfcf422a165896c9ec98010a3e98" target="_blank"> ✏️更新 流量控制 </a> - 2022/07/15 17:06:40 
 
     
@@ -91,9 +94,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/081f7677a75e1c7c1a48e528113be65143315ff5" target="_blank"> ➕新增 容量保障 </a> - 2022/07/14 18:04:54 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/c5ae3e1a5f237a591175bfc34198845f5d29b191" target="_blank"> ✏️更新 职场 </a> - 2022/07/13 21:24:47 
 
     
 
