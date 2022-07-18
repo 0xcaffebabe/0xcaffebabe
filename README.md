@@ -78,6 +78,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/eb7eab7a3e0c97647f88ab27da2f7cb31e36b838" target="_blank"> ✏️更新 技术管理 </a> - 2022/07/18 21:50:46 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/2a6b09ba88c0580317376405a58923e002808240" target="_blank"> ✏️更新 全链路压测 </a> - 2022/07/18 14:59:41 
 
     
@@ -91,9 +94,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/b1717efccc28d5bb34a6b81812c1c6b0ec7f5df3" target="_blank"> ✏️更新 全链路压测 </a> - 2022/07/15 17:55:18 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/5016295166392a68eadf45f7eae7e9cf561267a5" target="_blank"> 🛠️升级vite </a> - 2022/07/15 10:13:48 
 
     
 
