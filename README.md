@@ -78,6 +78,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/d203bafca839e5dc16e3c77d52368247b52caa4f" target="_blank"> ✏️更新 分布式 </a> - 2022/07/20 17:37:13 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/846207b2cfad369852087e10c83bea57d1028622" target="_blank"> ✏️更新 技术管理 </a> - 2022/07/19 21:51:00 
 
     
@@ -91,9 +94,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/6a11bbc932886fc5499f116a2ee6146711b8ff2b" target="_blank"> ✏️更新 容量保障 </a> - 2022/07/18 16:02:45 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/d6f9cb68841465798d28d0a7b57c0714f1e7b6fc" target="_blank"> ➕新增 技术管理 </a> - 2022/07/17 21:51:33 
 
     
 
