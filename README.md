@@ -78,6 +78,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/3b66bb658ead44e35ee6d91737054e5d1db998e0" target="_blank"> ✏️更新 技术管理 </a> - 2022/07/20 21:21:25 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/d203bafca839e5dc16e3c77d52368247b52caa4f" target="_blank"> ✏️更新 分布式 </a> - 2022/07/20 17:37:13 
 
     
@@ -91,9 +94,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/2a6b09ba88c0580317376405a58923e002808240" target="_blank"> ✏️更新 全链路压测 </a> - 2022/07/18 14:59:41 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/6a11bbc932886fc5499f116a2ee6146711b8ff2b" target="_blank"> ✏️更新 容量保障 </a> - 2022/07/18 16:02:45 
 
     
 
