@@ -59,7 +59,6 @@
 
 - [进行中的书单](https://github.com/users/0xcaffebabe/projects/4)
   - 数据库系统概念
-  - 代码整洁之道：程序员的职业素养
 
 
 - [后端学习计划](https://github.com/users/0xcaffebabe/projects/1)
