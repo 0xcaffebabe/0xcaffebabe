@@ -16,6 +16,9 @@
 #### 📖 最近博客
 
 
+* <a href="https://0xcaffebabe.github.io/jvm/2022/07/23/%E4%B8%BA%E4%BD%95Class.getMethods%E7%BB%93%E6%9E%9C%E6%97%A0%E5%BA%8F.html" target="_blank"> 为何Class.getMethods结果无序 </a> - 2022/07/23 
+
+    
 * <a href="https://0xcaffebabe.github.io/java/2022/06/11/%E4%BB%8E%E4%B8%80%E4%B8%AA%E9%9A%8F%E6%9C%BA%E5%87%BA%E7%8E%B0%E7%9A%84%E9%94%99%E8%AF%AF%E5%BC%80%E8%AF%BBMybatis%E6%BA%90%E7%A0%81.html" target="_blank"> 从一个随机出现的错误开读Mybatis源码 </a> - 2022/06/11 
 
     
@@ -35,9 +38,6 @@
 
     
 * <a href="https://0xcaffebabe.github.io/%E7%AE%97%E6%B3%95/2020/11/09/%E8%B0%88%E8%B0%88%E9%80%92%E5%BD%92%E4%B8%8E%E6%A0%91.html" target="_blank"> 谈谈递归与树 </a> - 2020/11/09 
-
-    
-* <a href="https://0xcaffebabe.github.io/%E7%AE%97%E6%B3%95/2020/09/18/%E8%B0%88%E8%B0%88bitmap%E7%9A%84%E4%BD%BF%E7%94%A8.html" target="_blank"> 谈谈bitmap的使用 </a> - 2020/09/18 
 
         
 
@@ -77,6 +77,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/45467142bea66fe68591cff984a04da3ce7b9e45" target="_blank"> ✏️更新 为何Class.getMethods结果无序 </a> - 2022/07/23 21:02:44 
+
+    
+  * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/f845f36099c1870b9c4c66c731a36bd52c229c78" target="_blank"> ➕新增 为何Class.getMethods结果无序 </a> - 2022/07/23 21:00:58 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/51823c3b308c7343236ca76e6c854faad81d251c" target="_blank"> ✏️更新 分布式共识算法 </a> - 2022/07/22 17:27:55 
 
     
@@ -87,12 +93,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/3b66bb658ead44e35ee6d91737054e5d1db998e0" target="_blank"> ✏️更新 技术管理 </a> - 2022/07/20 21:21:25 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/d203bafca839e5dc16e3c77d52368247b52caa4f" target="_blank"> ✏️更新 分布式 </a> - 2022/07/20 17:37:13 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/846207b2cfad369852087e10c83bea57d1028622" target="_blank"> ✏️更新 技术管理 </a> - 2022/07/19 21:51:00 
 
     
 
