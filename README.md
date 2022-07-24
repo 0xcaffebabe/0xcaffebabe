@@ -77,6 +77,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/e352132af6f0a208ff4740929a023e89a17782a8" target="_blank"> ✏️更新 技术管理 </a> - 2022/07/24 20:27:54 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/2862f4bf4b10a7850fa0e1880363430041df1fbc" target="_blank"> ✏️更新 职场 </a> - 2022/07/24 21:29:29 
+
+    
   * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/45467142bea66fe68591cff984a04da3ce7b9e45" target="_blank"> ✏️更新 为何Class.getMethods结果无序 </a> - 2022/07/23 21:02:44 
 
     
@@ -87,12 +93,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/599112bf793cb94696c06a8e0d43a4d868f21632" target="_blank"> ✏️更新 技术管理 </a> - 2022/07/21 21:34:31 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/5e7b3c2252e1e04080443a41a9d40522dd8bc3e2" target="_blank"> ✏️更新 分布式共识算法 </a> - 2022/07/21 17:57:45 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/3b66bb658ead44e35ee6d91737054e5d1db998e0" target="_blank"> ✏️更新 技术管理 </a> - 2022/07/20 21:21:25 
 
     
 
