@@ -77,6 +77,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/a952ceef2427ab9ad02cc73fe7f540389ee43360" target="_blank"> 🛠️目录搜索多音字支持 </a> - 2022/07/25 10:34:50 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/e352132af6f0a208ff4740929a023e89a17782a8" target="_blank"> ✏️更新 技术管理 </a> - 2022/07/24 20:27:54 
 
     
@@ -90,9 +93,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/51823c3b308c7343236ca76e6c854faad81d251c" target="_blank"> ✏️更新 分布式共识算法 </a> - 2022/07/22 17:27:55 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/599112bf793cb94696c06a8e0d43a4d868f21632" target="_blank"> ✏️更新 技术管理 </a> - 2022/07/21 21:34:31 
 
     
 
