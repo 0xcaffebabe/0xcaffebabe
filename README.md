@@ -77,6 +77,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/7cbc8e1496234cdd4a76ff6797e3f9e097f1a3af" target="_blank"> 📦整理 职业素养 </a> - 2022/07/26 21:15:42 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/43eb8e4995ea1a42416f279c40975c2ba85e1b8c" target="_blank"> ✏️更新 职场 </a> - 2022/07/26 21:45:45 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/3fa01ca02262eb0933189d8b35d668e831b4fed6" target="_blank"> 🛠️优化思维笔记与导图 </a> - 2022/07/26 09:33:12 
 
     
@@ -87,12 +93,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/419b96364b11d38fe1c59976d716e7b7da61a169" target="_blank"> ✏️更新 leetcode </a> - 2022/07/26 16:13:46 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/a952ceef2427ab9ad02cc73fe7f540389ee43360" target="_blank"> 🛠️目录搜索多音字支持 </a> - 2022/07/25 10:34:50 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/e352132af6f0a208ff4740929a023e89a17782a8" target="_blank"> ✏️更新 技术管理 </a> - 2022/07/24 20:27:54 
 
     
 
