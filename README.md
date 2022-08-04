@@ -77,6 +77,15 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/08d263028cce9477eb29c0b190d771741ed3e25f" target="_blank"> ✏️Web安全 </a> - 2022/08/04 21:34:56 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/364eb58e3562c883bd54a0e75d68227725602dd9" target="_blank"> ✏️项目管理 </a> - 2022/08/04 21:50:33 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/232544b83bda2cc44a7c87a142f46c26646f9f62" target="_blank"> ✏️技术管理 </a> - 2022/08/04 21:50:41 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/06054940536169abb99c87b7cbafb1e6665bd414" target="_blank"> ➕1769 </a> - 2022/08/04 19:22:05 
 
     
@@ -84,15 +93,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/0721a3b8ff6bc2f48dea0abb20caa845fa6780d5" target="_blank"> ➕202 </a> - 2022/08/04 17:36:14 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/775f2b978b74669485e0e0ff0f63c8ba96e5cd77" target="_blank"> ✏️2 </a> - 2022/08/04 14:38:32 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/da2477eb4cfd971183d62e8d3b2c3c140e70da6e" target="_blank"> ➕2 </a> - 2022/08/04 14:37:26 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/78a87b4490cac9c7d22340511aad8ab1625b2fb6" target="_blank"> ➕1 </a> - 2022/08/04 14:30:57 
 
     
 
