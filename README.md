@@ -77,6 +77,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/a5c9fab02127ceaa99c7c96f953a0b8b399c8fa1" target="_blank"> ✏️技术管理 </a> - 2022/08/08 21:11:07 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/85b4c5f94ecc26fd73894475c1314180358dfd66" target="_blank"> ✏️主动面试 </a> - 2022/08/08 21:38:48 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/251ffad79639c3cea598cc007ebebb09475cc43a" target="_blank"> ➕2085 </a> - 2022/08/08 18:35:32 
 
     
@@ -87,12 +93,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/e1d8f8a13734238e8e975fcfe894a13580642e05" target="_blank"> ➕1332 </a> - 2022/08/08 18:17:21 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/1d510684c4fcb20fda805b4a07f8a4e946d56cfc" target="_blank"> ➕2119 </a> - 2022/08/08 18:05:55 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/48da3cd4f4f8f03bbb008ed211dffa3f6e50a052" target="_blank"> ➕1827 </a> - 2022/08/08 17:48:11 
 
     
 
