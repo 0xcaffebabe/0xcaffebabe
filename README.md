@@ -77,6 +77,15 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/40e865b2b934257784631d387437cca5659949e7" target="_blank"> 🛠️修复正常模式部分图标文字不可见 </a> - 2022/09/01 15:20:29 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/903cbc57686cd0cd78a478bbaa3a1f20f6fbc3b1" target="_blank"> 🛠️能力目标初步设计 </a> - 2022/09/01 18:08:09 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/5086c9411bf67e84c8f777c7d79b097f32a2a54e" target="_blank"> ➕neo4j </a> - 2022/09/01 18:08:22 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/b5f7dd0d2af6b4a9315a056a504414ede9578b42" target="_blank"> ➕717 </a> - 2022/09/01 18:17:01 
 
     
@@ -84,15 +93,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/6c858efe708698e8a93bfc88aefb24d09a537dc2" target="_blank"> ➕673 </a> - 2022/09/01 14:03:07 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/a25fb01f608b4092d7de1116ddc1c834520a2c19" target="_blank"> ➕300 </a> - 2022/09/01 09:44:13 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/4ebe8e6970346bcae0ee12899c593b9bc5be4566" target="_blank"> ➕844 </a> - 2022/09/01 08:57:46 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/96b52d04ad859a2c87c3e6f0cb795287397d4f3c" target="_blank"> ➕821 </a> - 2022/08/31 18:15:33 
 
     
 
