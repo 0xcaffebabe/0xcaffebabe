@@ -77,6 +77,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/38db7504798a3d62113fa3b96e17b9d598eafd3d" target="_blank"> ✏️职场 </a> - 2022/09/05 21:24:26 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/1e3de0df55e382289faabf16a4d6be8312416bd7" target="_blank"> 🛠️能力目标集成 </a> - 2022/09/05 17:02:32 
 
     
@@ -90,9 +93,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/05ced0ee1ec7fc0d442f6038eadbc34c94740fd3" target="_blank"> ➕646 </a> - 2022/09/03 12:31:34 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/51246b94fc7a148997a3c1c66dacfa51f80680e0" target="_blank"> [CodeFactor] Apply fixes to comm... </a> - 2022/09/02 18:13:15 
 
     
 
