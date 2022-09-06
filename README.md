@@ -77,6 +77,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/07a80384fa25493d582c4c79a085eb1ab9d08a12" target="_blank"> ➕322 </a> - 2022/09/06 20:06:58 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/9a8954c9fb146b9c504e2b1041913a41a7fc5029" target="_blank"> ➕78 </a> - 2022/09/06 09:28:53 
 
     
@@ -90,9 +93,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/1e3de0df55e382289faabf16a4d6be8312416bd7" target="_blank"> 🛠️能力目标集成 </a> - 2022/09/05 17:02:32 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/2f260068f866dfeda64dc802ed9023ecab457335" target="_blank"> ✏️技术管理 </a> - 2022/09/04 20:23:27 
 
     
 
