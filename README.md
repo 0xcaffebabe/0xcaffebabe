@@ -77,6 +77,15 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/7aec209f7cb81adda9db566783c50f80d5e6c087" target="_blank"> Pin dependencies </a> - 2022/09/08 09:28:53 
+
+    
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/ff48c1cbfe4736fcc9a52a471a30c196cafff519" target="_blank"> ➕201 </a> - 2022/09/08 09:39:45 
+
+    
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/753276b32a40dfcef71ed66a09eff67786f20fa6" target="_blank"> ➕667 </a> - 2022/09/08 09:24:52 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/3f77ec244f46f7f8a5472b7e017750b019c808c7" target="_blank"> ✏️neo4j </a> - 2022/09/07 16:05:15 
 
     
@@ -84,15 +93,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/f088d4c01e690945b573d66f3fa1c08688e6cca2" target="_blank"> ➕1592 </a> - 2022/09/07 09:40:27 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/0147d58111b3deed4cd7113070c7cf391cb022fb" target="_blank"> 🛠️能力组合默认值修正 </a> - 2022/09/06 08:58:40 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/2265fc569fc8db2bfd09831970901909a82d4a4b" target="_blank"> 🛠️能力目标优化 </a> - 2022/09/06 16:37:06 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/148342ed71bd67a1893cbec692ca753afc632119" target="_blank"> 🛠️能力目标优化 </a> - 2022/09/06 16:56:30 
 
     
 
