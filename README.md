@@ -77,6 +77,15 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/eede7b81ef9b3d91a776f226865773b848b8097c" target="_blank"> ✏️算法策略 </a> - 2022/10/30 20:20:39 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/b897169c5b9b9442299ccf193834a6750ec75f08" target="_blank"> ✏️概数 </a> - 2022/10/30 20:46:05 
+
+    
+  * <a href="https://github.com/0xcaffebabe/love-song/commit/c2c77e91d9abe395bb81c2f94cc66b224930c8c6" target="_blank"> 初始化 </a> - 2022/10/30 21:33:29 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/0198052853324c3820c6cc648bef6558eb2f9a24" target="_blank"> ✏️内核 </a> - 2022/10/28 17:38:57 
 
     
@@ -84,15 +93,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/b1ffa0b159108c2c6ab919d6eb572b61383ba7b6" target="_blank"> ✏️数学 </a> - 2022/10/27 20:47:27 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/dd341e3af0485656860a1cd8e0663479c14de5f6" target="_blank"> 🛠️异常修复 </a> - 2022/10/27 11:13:09 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/9695b0fbc308700d6594e8b130320e04ba8b43ee" target="_blank"> 🛠️修复异常 </a> - 2022/10/27 10:36:19 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/8e773e8f9adbfd99236c395f751673f8625525c9" target="_blank"> ➕数学 </a> - 2022/10/26 21:28:55 
 
     
 
