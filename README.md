@@ -77,6 +77,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/25f34e20a36493aa3bfc55ce65662eb19723d26f" target="_blank"> ✏️内核 </a> - 2022/10/31 17:49:28 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/eede7b81ef9b3d91a776f226865773b848b8097c" target="_blank"> ✏️算法策略 </a> - 2022/10/30 20:20:39 
 
     
@@ -90,9 +93,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/4f5f9fe284282c89f4cf42f35795c91d0f74fc22" target="_blank"> ✏️内核 </a> - 2022/10/27 19:25:50 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/b1ffa0b159108c2c6ab919d6eb572b61383ba7b6" target="_blank"> ✏️数学 </a> - 2022/10/27 20:47:27 
 
     
 
