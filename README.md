@@ -77,6 +77,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/37a92c2bb1168b9bc34838659f739b3e205ccbaf" target="_blank"> ✏️内核 </a> - 2022/11/10 16:39:04 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/7a6c33f359eb911267cbb2ad6c3345b84fd2e31c" target="_blank"> 🛠️修复样式污染 </a> - 2022/11/10 20:10:03 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/f155289f62c754ba23408b62f08f36e3d2193204" target="_blank"> 🛠️支持 latex 渲染 </a> - 2022/11/10 15:28:40 
 
     
@@ -87,12 +93,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/d714ee00ec5b2ce561b4e25d8fd9259fc362e0e6" target="_blank"> ✏️内核 </a> - 2022/11/08 19:20:23 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/478d4ca42794871f4362d6d5d079d2f7ca56a49d" target="_blank"> ✏️概数 </a> - 2022/11/08 20:33:13 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/8675687019104e9cb5c70740390c734398c59fb2" target="_blank"> ✏️概数 </a> - 2022/11/07 20:47:56 
 
     
 
