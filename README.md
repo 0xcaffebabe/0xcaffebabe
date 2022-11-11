@@ -77,6 +77,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/my-book-library/commit/49f190400d698f1227e67c786ec783158c35f1e6" target="_blank"> Add renovate.json </a> - 2022/11/11 10:56:28 
+
+    
   * <a href="https://github.com/0xcaffebabe/my-book-library/commit/d9735cd5dfe4f20a44ba18ff56a570c3405fb638" target="_blank"> 打包配置 </a> - 2022/11/11 11:44:20 
 
     
@@ -90,9 +93,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/my-book-library/commit/266762b62ab1ab5a42352aa30061dced4d6a2825" target="_blank"> 更新打包配置 </a> - 2022/11/11 11:26:09 
-
-    
-  * <a href="https://github.com/0xcaffebabe/my-book-library/commit/366407e9696366c9d5b18edb96f2f47d43b533d7" target="_blank"> Create macos_build.yml </a> - 2022/11/11 11:18:13 
 
     
 
