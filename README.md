@@ -68,6 +68,7 @@
 
 
 - [其他学习计划](https://github.com/users/0xcaffebabe/projects/3)
+  - 人生管理系统
   - kotlin
   - swift/swiftui
 
@@ -77,22 +78,22 @@
 #### 🌴最近提交
 
 
-  * <a href="https://github.com/0xcaffebabe/my-book-library/commit/291c90f628be4895ec47d2b28daecf8c6b41cc15" target="_blank"> Update typescript-eslint monorep... </a> - 2022/11/11 14:15:44 
+  * <a href="https://github.com/0xcaffebabe/my-book-library/commit/ead5f318edf2dd4f471a367b2e22af756290bc79" target="_blank"> 优化索引生成 </a> - 2022/11/16 14:22:11 
 
     
-  * <a href="https://github.com/0xcaffebabe/my-book-library/commit/49f190400d698f1227e67c786ec783158c35f1e6" target="_blank"> Add renovate.json </a> - 2022/11/11 10:56:28 
+  * <a href="https://github.com/0xcaffebabe/my-book-library/commit/af13fb281ce8da7a48398f4c1b354b14c3f16032" target="_blank"> 优化书籍索引生成 </a> - 2022/11/16 14:18:04 
 
     
-  * <a href="https://github.com/0xcaffebabe/my-book-library/commit/d9735cd5dfe4f20a44ba18ff56a570c3405fb638" target="_blank"> 打包配置 </a> - 2022/11/11 11:44:20 
+  * <a href="https://github.com/0xcaffebabe/my-book-library/commit/d513cd717d8a4adb696e9f998cdf1a77951ed679" target="_blank"> 优化标题栏 </a> - 2022/11/15 20:31:24 
 
     
-  * <a href="https://github.com/0xcaffebabe/my-book-library/commit/1d04c071cdda6bd8f2711be592cf078757d3faaf" target="_blank"> 打包配置 </a> - 2022/11/11 11:41:26 
+  * <a href="https://github.com/0xcaffebabe/my-book-library/commit/6befaa7f97b974bc5be08cad89460ca78da6036b" target="_blank"> 优化图书主页 </a> - 2022/11/15 20:39:42 
 
     
-  * <a href="https://github.com/0xcaffebabe/my-book-library/commit/f50a3720a047223cce5c04baf80114a7b72fbf71" target="_blank"> 打包配置 </a> - 2022/11/11 11:40:29 
+  * <a href="https://github.com/0xcaffebabe/my-book-library/commit/e107c1fcfd7f7af406bcb9d2554a4b98b619daa0" target="_blank"> 新增epub封面生成 </a> - 2022/11/15 19:55:25 
 
     
-  * <a href="https://github.com/0xcaffebabe/my-book-library/commit/cd4a5e0ee059f9c766e051b0c409252ade6cbc27" target="_blank"> 打包配置 </a> - 2022/11/11 11:32:33 
+  * <a href="https://github.com/0xcaffebabe/my-book-library/commit/7ac38a8c2ef162c7ae8133f48a1d160e9590de6a" target="_blank"> 首页样式优化 </a> - 2022/11/15 17:58:20 
 
     
 
