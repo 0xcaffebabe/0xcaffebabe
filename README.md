@@ -78,6 +78,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/my-book-library/commit/a13456953b03196ea02087dcaede0e908cda6d78" target="_blank"> 优化PDF阅读组件适配 </a> - 2022/11/16 14:53:42 
+
+    
   * <a href="https://github.com/0xcaffebabe/my-book-library/commit/ead5f318edf2dd4f471a367b2e22af756290bc79" target="_blank"> 优化索引生成 </a> - 2022/11/16 14:22:11 
 
     
@@ -91,9 +94,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/my-book-library/commit/e107c1fcfd7f7af406bcb9d2554a4b98b619daa0" target="_blank"> 新增epub封面生成 </a> - 2022/11/15 19:55:25 
-
-    
-  * <a href="https://github.com/0xcaffebabe/my-book-library/commit/7ac38a8c2ef162c7ae8133f48a1d160e9590de6a" target="_blank"> 首页样式优化 </a> - 2022/11/15 17:58:20 
 
     
 
