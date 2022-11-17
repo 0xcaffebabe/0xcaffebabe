@@ -78,6 +78,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/my-book-library/commit/17f3a6d107ed95f09dcc9e50511df8e308e34b55" target="_blank"> 截图ocr </a> - 2022/11/17 15:04:19 
+
+    
   * <a href="https://github.com/0xcaffebabe/my-book-library/commit/d22ae4a1a282a5528e7b31bc62a166601f869904" target="_blank"> 修复绝对路径下图片404 </a> - 2022/11/16 21:55:09 
 
     
@@ -91,9 +94,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/my-book-library/commit/ead5f318edf2dd4f471a367b2e22af756290bc79" target="_blank"> 优化索引生成 </a> - 2022/11/16 14:22:11 
-
-    
-  * <a href="https://github.com/0xcaffebabe/my-book-library/commit/af13fb281ce8da7a48398f4c1b354b14c3f16032" target="_blank"> 优化书籍索引生成 </a> - 2022/11/16 14:18:04 
 
     
 
