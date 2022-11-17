@@ -78,6 +78,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/my-book-library/commit/d5cd58a5a1511cf787916058da239e4ec595e8e2" target="_blank"> 优化主页菜单 </a> - 2022/11/17 20:45:10 
+
+    
   * <a href="https://github.com/0xcaffebabe/my-book-library/commit/118a4b8cd01bf717d0601a1b3a13aeafdb236e79" target="_blank"> 统一优化阅读器接口 </a> - 2022/11/17 19:18:19 
 
     
@@ -91,9 +94,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/ddb492c7957c68683d5a451180970f89769e8f53" target="_blank"> ✏️线代 </a> - 2022/11/16 20:28:46 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/f3dce9a666d47963bea43bb472facc3c6fdeb7ba" target="_blank"> ✏️数据分析 </a> - 2022/11/16 21:31:03 
 
     
 
