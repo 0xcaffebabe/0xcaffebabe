@@ -78,6 +78,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/84fd2d323d2322b0a708a97746f1757ede98c134" target="_blank"> ➕SRE </a> - 2022/11/18 16:52:26 
+
+    
   * <a href="https://github.com/0xcaffebabe/my-book-library/commit/6c11d141720543df5e9da054b91752a3af6b43bb" target="_blank"> 优化pdf缩略图生成命令 </a> - 2022/11/18 15:59:16 
 
     
@@ -91,9 +94,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/my-book-library/commit/118a4b8cd01bf717d0601a1b3a13aeafdb236e79" target="_blank"> 统一优化阅读器接口 </a> - 2022/11/17 19:18:19 
-
-    
-  * <a href="https://github.com/0xcaffebabe/my-book-library/commit/5df8ebb4dd569e030ce4c96df6afc1a03ba1d3d7" target="_blank"> 修改百度密钥 </a> - 2022/11/17 16:00:52 
 
     
 
