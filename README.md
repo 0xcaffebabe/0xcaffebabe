@@ -78,6 +78,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/31b186f4ead20a87c44809ccf77a29f40e8dad54" target="_blank"> 🛠️删除PDF构建工作流 </a> - 2022/11/18 23:15:08 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/84fd2d323d2322b0a708a97746f1757ede98c134" target="_blank"> ➕SRE </a> - 2022/11/18 16:52:26 
 
     
@@ -91,9 +94,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/my-book-library/commit/d5cd58a5a1511cf787916058da239e4ec595e8e2" target="_blank"> 优化主页菜单 </a> - 2022/11/17 20:45:10 
-
-    
-  * <a href="https://github.com/0xcaffebabe/my-book-library/commit/118a4b8cd01bf717d0601a1b3a13aeafdb236e79" target="_blank"> 统一优化阅读器接口 </a> - 2022/11/17 19:18:19 
 
     
 
