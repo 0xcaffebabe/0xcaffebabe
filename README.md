@@ -78,6 +78,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/my-book-library/commit/6c11d141720543df5e9da054b91752a3af6b43bb" target="_blank"> 优化pdf缩略图生成命令 </a> - 2022/11/18 15:59:16 
+
+    
   * <a href="https://github.com/0xcaffebabe/my-book-library/commit/8ef6fcab05153908c4c782c28d7acd8969414526" target="_blank"> 标题栏 & 图标 </a> - 2022/11/18 15:06:59 
 
     
@@ -91,9 +94,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/my-book-library/commit/5df8ebb4dd569e030ce4c96df6afc1a03ba1d3d7" target="_blank"> 修改百度密钥 </a> - 2022/11/17 16:00:52 
-
-    
-  * <a href="https://github.com/0xcaffebabe/my-book-library/commit/17f3a6d107ed95f09dcc9e50511df8e308e34b55" target="_blank"> 截图ocr </a> - 2022/11/17 15:04:19 
 
     
 
