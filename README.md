@@ -78,6 +78,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/my-book-library/commit/7205879779d8422eaa5ca99670391eb48918fc68" target="_blank"> CI </a> - 2022/11/19 00:12:48 
+
+    
   * <a href="https://github.com/0xcaffebabe/my-book-library/commit/f77e4e5561a423815e3d065d9edeefb43f676d14" target="_blank"> CI </a> - 2022/11/18 23:49:52 
 
     
@@ -91,9 +94,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/31b186f4ead20a87c44809ccf77a29f40e8dad54" target="_blank"> 🛠️删除PDF构建工作流 </a> - 2022/11/18 23:15:08 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/84fd2d323d2322b0a708a97746f1757ede98c134" target="_blank"> ➕SRE </a> - 2022/11/18 16:52:26 
 
     
 
