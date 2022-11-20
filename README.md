@@ -78,6 +78,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/2ec52faf2611125e222c0d70494736c361e9a40d" target="_blank"> ✏️数据分析 </a> - 2022/11/20 20:51:01 
+
+    
   * <a href="https://github.com/0xcaffebabe/my-book-library/commit/b843d2a2d4629f134577d3f2e432986a3d1c868a" target="_blank"> 添加图标 </a> - 2022/11/20 17:20:40 
 
     
@@ -91,9 +94,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/my-book-library/commit/f77e4e5561a423815e3d065d9edeefb43f676d14" target="_blank"> CI </a> - 2022/11/18 23:49:52 
-
-    
-  * <a href="https://github.com/0xcaffebabe/my-book-library/commit/1b9a32a9e420878f9bb5ae95058a4aba23399f80" target="_blank"> CI </a> - 2022/11/18 23:48:27 
 
     
 
