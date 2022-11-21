@@ -78,6 +78,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/my-book-library/commit/9d91494a82bb04f0c0ddfc20a32a091fa2fcd9b5" target="_blank"> 优化静态资源路径读取 </a> - 2022/11/21 10:49:31 
+
+    
   * <a href="https://github.com/0xcaffebabe/my-book-library/commit/34d000ec2dc7004f1777dffe3cdae52efb8fa7b7" target="_blank"> 代码重构 java依赖移出 </a> - 2022/11/21 09:48:39 
 
     
@@ -91,9 +94,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/my-book-library/commit/c58b6de412efa7fcb0db318584bf0c39e32662ce" target="_blank"> 图标替换 </a> - 2022/11/20 17:12:46 
-
-    
-  * <a href="https://github.com/0xcaffebabe/my-book-library/commit/7205879779d8422eaa5ca99670391eb48918fc68" target="_blank"> CI </a> - 2022/11/19 00:12:48 
 
     
 
