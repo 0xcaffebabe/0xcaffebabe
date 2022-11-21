@@ -78,6 +78,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/b2509e58090d08b05c977baecd7c7c2d294689ac" target="_blank"> ✏️SRE </a> - 2022/11/21 15:25:17 
+
+    
+  * <a href="https://github.com/0xcaffebabe/my-book-library/commit/13fbf89865e1cf925ba29835f2a0be3321ad092e" target="_blank"> 截图优化 </a> - 2022/11/21 17:47:08 
+
+    
   * <a href="https://github.com/0xcaffebabe/my-book-library/commit/99669b1cc60966ee9e45a3d5377647d5ac3fbe68" target="_blank"> 截图保存 </a> - 2022/11/21 16:04:31 
 
     
@@ -88,12 +94,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/2ec52faf2611125e222c0d70494736c361e9a40d" target="_blank"> ✏️数据分析 </a> - 2022/11/20 20:51:01 
-
-    
-  * <a href="https://github.com/0xcaffebabe/my-book-library/commit/b843d2a2d4629f134577d3f2e432986a3d1c868a" target="_blank"> 添加图标 </a> - 2022/11/20 17:20:40 
-
-    
-  * <a href="https://github.com/0xcaffebabe/my-book-library/commit/073dc6b293abaefe32e7a835a857cc40b1a8b3a7" target="_blank"> 修复打包后PDF浏览不正常 </a> - 2022/11/20 16:56:21 
 
     
 
