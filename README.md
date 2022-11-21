@@ -78,6 +78,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/my-book-library/commit/34d000ec2dc7004f1777dffe3cdae52efb8fa7b7" target="_blank"> 代码重构 java依赖移出 </a> - 2022/11/21 09:48:39 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/2ec52faf2611125e222c0d70494736c361e9a40d" target="_blank"> ✏️数据分析 </a> - 2022/11/20 20:51:01 
 
     
@@ -91,9 +94,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/my-book-library/commit/7205879779d8422eaa5ca99670391eb48918fc68" target="_blank"> CI </a> - 2022/11/19 00:12:48 
-
-    
-  * <a href="https://github.com/0xcaffebabe/my-book-library/commit/f77e4e5561a423815e3d065d9edeefb43f676d14" target="_blank"> CI </a> - 2022/11/18 23:49:52 
 
     
 
