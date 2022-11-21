@@ -78,6 +78,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/my-book-library/commit/99669b1cc60966ee9e45a3d5377647d5ac3fbe68" target="_blank"> 截图保存 </a> - 2022/11/21 16:04:31 
+
+    
   * <a href="https://github.com/0xcaffebabe/my-book-library/commit/9d91494a82bb04f0c0ddfc20a32a091fa2fcd9b5" target="_blank"> 优化静态资源路径读取 </a> - 2022/11/21 10:49:31 
 
     
@@ -91,9 +94,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/my-book-library/commit/073dc6b293abaefe32e7a835a857cc40b1a8b3a7" target="_blank"> 修复打包后PDF浏览不正常 </a> - 2022/11/20 16:56:21 
-
-    
-  * <a href="https://github.com/0xcaffebabe/my-book-library/commit/c58b6de412efa7fcb0db318584bf0c39e32662ce" target="_blank"> 图标替换 </a> - 2022/11/20 17:12:46 
 
     
 
