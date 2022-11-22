@@ -78,6 +78,15 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/2c7a073cb4f6265e29b0a5aab35a436daed089c9" target="_blank"> ✏️SRE </a> - 2022/11/22 16:43:38 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/a13696bd46842de87ffa92fbf16723e6938d0877" target="_blank"> ✏️数据分析 </a> - 2022/11/22 19:54:41 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/ac779b55540e950c2a6064fd97071b5b45eba4e4" target="_blank"> ➕检索技术 </a> - 2022/11/22 20:55:17 
+
+    
   * <a href="https://github.com/0xcaffebabe/my-book-library/commit/f53ab8793f95c5c5959a0bc2cd068050c3df1639" target="_blank"> 调整win产物名 </a> - 2022/11/22 11:48:28 
 
     
@@ -85,15 +94,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/my-book-library/commit/74e9f3220403a5f99a51eb1e2ed739b3b8764dd3" target="_blank"> Update build.yml </a> - 2022/11/22 10:50:56 
-
-    
-  * <a href="https://github.com/0xcaffebabe/my-book-library/commit/b3b05db23951a5e1f501583d2fecf9ba3f6ac97e" target="_blank"> 菜单 </a> - 2022/11/22 10:42:09 
-
-    
-  * <a href="https://github.com/0xcaffebabe/my-book-library/commit/6e33ecf72a3f6660daf40a31ac9b5bedd0a6f3da" target="_blank"> Update build.yml </a> - 2022/11/22 10:25:15 
-
-    
-  * <a href="https://github.com/0xcaffebabe/my-book-library/commit/a7e7359aa12d95f0bcf2fa4ac87d993b414fffe4" target="_blank"> Update build.yml </a> - 2022/11/22 10:16:39 
 
     
 
