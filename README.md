@@ -78,6 +78,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/bcc578cee95e84d2c73cf198eb4705ef3f3b8278" target="_blank"> ✏️可观测性 </a> - 2022/11/23 15:05:28 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/2b1d2542f98ee546cd3d1b1e0ca932b4fa5c7c7e" target="_blank"> ✏️检索技术 </a> - 2022/11/23 17:55:15 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/baceae024dd2367043a6b306c6d22312b3ac41f4" target="_blank"> 🛠️样式修复 </a> - 2022/11/23 09:56:54 
 
     
@@ -88,12 +94,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/ac779b55540e950c2a6064fd97071b5b45eba4e4" target="_blank"> ➕检索技术 </a> - 2022/11/22 20:55:17 
-
-    
-  * <a href="https://github.com/0xcaffebabe/my-book-library/commit/f53ab8793f95c5c5959a0bc2cd068050c3df1639" target="_blank"> 调整win产物名 </a> - 2022/11/22 11:48:28 
-
-    
-  * <a href="https://github.com/0xcaffebabe/my-book-library/commit/b25a8c0f5984f075b0a2f3eb11f852af2c78de1e" target="_blank"> Update build.yml </a> - 2022/11/22 11:22:07 
 
     
 
