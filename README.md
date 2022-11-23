@@ -78,6 +78,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/18b1a6c4980739bc2dfb53df1bf39562cc95bfc5" target="_blank"> ✏️数据分析 </a> - 2022/11/23 21:07:43 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/bcc578cee95e84d2c73cf198eb4705ef3f3b8278" target="_blank"> ✏️可观测性 </a> - 2022/11/23 15:05:28 
 
     
@@ -91,9 +94,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/a13696bd46842de87ffa92fbf16723e6938d0877" target="_blank"> ✏️数据分析 </a> - 2022/11/22 19:54:41 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/ac779b55540e950c2a6064fd97071b5b45eba4e4" target="_blank"> ➕检索技术 </a> - 2022/11/22 20:55:17 
 
     
 
