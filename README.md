@@ -78,6 +78,15 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/5a5ddf7570e4f994f1260e303222b9c22fac50b5" target="_blank"> ✏️可观测性 </a> - 2022/11/24 15:08:54 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/720736dcc330ad5ff8eaeab0c2d3fbf9b1b87159" target="_blank"> ✏️检索技术 </a> - 2022/11/24 17:43:35 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/a60cb84a64ea13d09337538dd08ec63301506ebd" target="_blank"> ✏️数据分析 </a> - 2022/11/24 19:30:34 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/18b1a6c4980739bc2dfb53df1bf39562cc95bfc5" target="_blank"> ✏️数据分析 </a> - 2022/11/23 21:07:43 
 
     
@@ -85,15 +94,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/2b1d2542f98ee546cd3d1b1e0ca932b4fa5c7c7e" target="_blank"> ✏️检索技术 </a> - 2022/11/23 17:55:15 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/baceae024dd2367043a6b306c6d22312b3ac41f4" target="_blank"> 🛠️样式修复 </a> - 2022/11/23 09:56:54 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/2c7a073cb4f6265e29b0a5aab35a436daed089c9" target="_blank"> ✏️SRE </a> - 2022/11/22 16:43:38 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/a13696bd46842de87ffa92fbf16723e6938d0877" target="_blank"> ✏️数据分析 </a> - 2022/11/22 19:54:41 
 
     
 
