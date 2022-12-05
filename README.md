@@ -78,6 +78,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/f1790edc1989bcf39152cd65104c0f1d3137ca5f" target="_blank"> ✏️持续交付 </a> - 2022/12/05 15:49:03 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/4c5281aeaa34c84061614f598db87e8378c3133b" target="_blank"> ✏️持续集成 </a> - 2022/12/02 11:43:07 
 
     
@@ -91,9 +94,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/487174594c30650ec4269e06c5e6b3d970c72d9f" target="_blank"> ✏️推荐系统 </a> - 2022/12/01 20:36:09 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/0f958bee3bf636697a2919202cc842529f0545e7" target="_blank"> ➕1041 </a> - 2022/12/01 18:00:29 
 
     
 
