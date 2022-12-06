@@ -78,6 +78,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/3650ccb65e315232c229092edc64332b4c9abb7d" target="_blank"> ✏️持续交付 </a> - 2022/12/06 18:59:23 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/d972bd0a522b0f707fc4ded1e1b187e49f408a0c" target="_blank"> ✏️推荐系统 </a> - 2022/12/06 20:02:21 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/2739649a0309a80bb95547ff513a367b7b3bf661" target="_blank"> ✏️推荐系统 </a> - 2022/12/05 21:01:02 
 
     
@@ -88,12 +94,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/145297bb6ad78c52a31c8bef8ce65ead5b94697a" target="_blank"> ✏️持续交付 </a> - 2022/12/02 16:56:11 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/97e644e8838bce338b5ade95d130a133e3722cfc" target="_blank"> ✏️CI/CD </a> - 2022/12/01 19:05:39 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/f0700d1b7ca4084e35bd587f5bc96e18ce97a722" target="_blank"> ✏️复盘 </a> - 2022/12/01 20:02:58 
 
     
 
