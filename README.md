@@ -78,6 +78,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/806519a744752dd50380eb86c0c2a758867cdb7c" target="_blank"> ✏️Serverless </a> - 2022/12/08 16:46:51 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/09a0c86572cc71c31bc40d7696bce6cb499a19d6" target="_blank"> ➕自动化测试 </a> - 2022/12/08 17:40:21 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/39af7706123d847637076877eaea6f19ab6ed7c3" target="_blank"> 🛠️顶部章节导航栏自动滚动 </a> - 2022/12/08 10:27:53 
 
     
@@ -88,12 +94,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/d5c681b7e3f822906d16d2271e835eb3e944e287" target="_blank"> ✏️持续交付 </a> - 2022/12/07 16:31:25 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/b49987d980ad4af406aef7fe49427c2bed3f0374" target="_blank"> ➕Serverless </a> - 2022/12/07 17:45:41 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/3650ccb65e315232c229092edc64332b4c9abb7d" target="_blank"> ✏️持续交付 </a> - 2022/12/06 18:59:23 
 
     
 
