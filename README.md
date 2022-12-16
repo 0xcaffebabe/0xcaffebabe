@@ -78,6 +78,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/3e18859c9e34e9313b82d88010a09e9165f648ea" target="_blank"> 🛠️测试部署工作流 </a> - 2022/12/16 15:08:06 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/b4ff971a003aeaf96c75005f286985014c179a77" target="_blank"> 🛠️测试构建工作流 </a> - 2022/12/16 14:59:16 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/8d0c07e0a89a56b6e1a414b79e2a484c2115624f" target="_blank"> 🛠️测试构建工作流 </a> - 2022/12/16 14:47:56 
 
     
@@ -88,12 +94,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/5aa7beeb3bd89017947a28ccf03d844965299592" target="_blank"> ✏️大规模数据处理 </a> - 2022/12/15 16:38:27 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/7ed7c853c45ede6ed6494db90a70b36574f421a1" target="_blank"> ➕数据中台 </a> - 2022/12/15 18:28:03 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/cdc764ed872ecc48599d490bcca7c069374db2c1" target="_blank"> ✏️产品创新 </a> - 2022/12/14 21:45:22 
 
     
 
