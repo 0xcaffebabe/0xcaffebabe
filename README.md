@@ -16,6 +16,9 @@
 #### 📖 最近博客
 
 
+* <a href="https://0xcaffebabe.github.io/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/2022/12/27/%E8%B4%A3%E4%BB%BB%E9%93%BE%E6%A8%A1%E5%BC%8F%E5%9C%A8%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%E7%9A%84%E5%AE%9E%E8%B7%B5%E4%B8%8E%E6%80%9D%E8%80%83.html" target="_blank"> 责任链模式在数据处理的实践与思考 </a> - 2022/12/27 
+
+    
 * <a href="https://0xcaffebabe.github.io/jvm/2022/07/23/%E4%B8%BA%E4%BD%95Class.getMethods%E7%BB%93%E6%9E%9C%E6%97%A0%E5%BA%8F.html" target="_blank"> 为何Class.getMethods结果无序 </a> - 2022/07/23 
 
     
@@ -35,9 +38,6 @@
 
     
 * <a href="https://0xcaffebabe.github.io/%E7%94%9F%E6%B6%AF/2022/01/15/%E6%88%91%E7%9A%84%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86%E6%A1%86%E6%9E%B6,%E6%88%91%E7%9A%84%E7%AC%AC%E4%BA%8C%E5%A4%A7%E8%84%91.html" target="_blank"> 我的知识管理框架, 我的第二大脑 </a> - 2022/01/15 
-
-    
-* <a href="https://0xcaffebabe.github.io/%E7%AE%97%E6%B3%95/2020/11/09/%E8%B0%88%E8%B0%88%E9%80%92%E5%BD%92%E4%B8%8E%E6%A0%91.html" target="_blank"> 谈谈递归与树 </a> - 2020/11/09 
 
         
 
@@ -78,6 +78,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/b98e43d3e212ad2f5b482199e5f8a5231d6bab46" target="_blank"> ➕责任链模式在数据处理的实践与思考 </a> - 2022/12/27 14:39:26 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/42dc0c89215aaa65037a5ace75ebf41fe61d1eb2" target="_blank"> ✏️设计 </a> - 2022/12/26 21:24:05 
 
     
@@ -91,9 +94,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/1b659a2df6b1c231ee96d2a54b55f0e2a3841f0d" target="_blank"> ➕金融系统 </a> - 2022/12/25 16:22:31 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/2c2587f6811adfb23f36383dc6a4ba8737ef1691" target="_blank"> ✏️设计 </a> - 2022/12/25 16:59:14 
 
     
 
