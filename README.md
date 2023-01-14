@@ -78,6 +78,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/ad2b14356dd8b58797af962e3405c3bb68bdb8bf" target="_blank"> 🛠️优化 latex 渲染 </a> - 2023/01/14 11:34:43 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/db987a7f30d63aacdd0bda6cca89d42fd629e57f" target="_blank"> ✏️中台 </a> - 2023/01/13 16:13:46 
 
     
@@ -91,9 +94,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/0b052cc6a7cb5ab4e8e685d1e22177525281e3a7" target="_blank"> ➕用户体验设计 </a> - 2023/01/12 21:31:39 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/b096b9da7dfb902a7874a224085a55f76ff439e2" target="_blank"> ✏️可视化 </a> - 2023/01/12 15:06:05 
 
     
 
