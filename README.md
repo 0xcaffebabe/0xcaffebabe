@@ -78,6 +78,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/8ab0afd471b97c222a3cc98d441ce6024ae3a066" target="_blank"> 🛠提交趋势支持相对量 </a> - 2023/03/13 16:49:08 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/b52bfbbbffe0c15ccc7541ff98759ece3db10287" target="_blank"> 🛠优化全局快捷操作 </a> - 2023/03/13 15:02:13 
 
     
@@ -91,9 +94,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/b2ace3b7048d5432f592d9340c0c9f0f9ea3d50e" target="_blank"> ➕视频技术 </a> - 2023/03/12 15:40:30 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/d1a2318d75e94902fbfed930cfd9f3789f0ddee2" target="_blank"> ✏️大数据 </a> - 2023/03/12 17:34:50 
 
     
 
