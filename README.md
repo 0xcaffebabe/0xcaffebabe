@@ -78,6 +78,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/c6e32c1318392e439ac4ce815b809ff7d241b5d6" target="_blank"> 更新 云计算 </a> - 2023/03/17 17:35:11 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/b21548c73dc807ad5645c7d576e81704aa422faa" target="_blank"> 更新 视频技术 </a> - 2023/03/16 21:11:57 
 
     
@@ -91,9 +94,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/b61fe32fdd8145fd4a18cafd982769d4340bea4e" target="_blank"> 更新 编译原理 </a> - 2023/03/15 21:42:27 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/5d7f6bb9d9aaabc8626c4ae5233c6eb2cedf188b" target="_blank"> ✏数据挖掘 </a> - 2023/03/15 16:07:10 
 
     
 
