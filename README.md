@@ -62,9 +62,8 @@
 
 
 - [后端学习计划](https://github.com/users/0xcaffebabe/projects/1)
-  - shiro
-  - spring security
-  - hadoop
+  - 信息安全
+  - 数据技术
 
 
 - [其他学习计划](https://github.com/users/0xcaffebabe/projects/3)
