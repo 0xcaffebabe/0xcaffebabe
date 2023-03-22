@@ -77,6 +77,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/9c69ea78eee6f16484490e7e39fd386d25072c4b" target="_blank"> 功能 修复抽屉底部操作失效 </a> - 2023/03/22 09:52:14 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/bfa5364d874c3433655bf9e094820060dcad0121" target="_blank"> 更新 视频技术 </a> - 2023/03/21 20:59:49 
 
     
@@ -90,9 +93,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/f81d2b4809f9c223de691a85cc350db7c06ee0de" target="_blank"> 删除 无用文件 </a> - 2023/03/21 15:29:28 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/897a7da8c530e122d8674e93ceacbdef91184b67" target="_blank"> 功能 全局快捷键支持双击按键处理 </a> - 2023/03/21 15:57:53 
 
     
 
