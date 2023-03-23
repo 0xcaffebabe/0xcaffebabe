@@ -22,6 +22,7 @@ ${recent_blogs}
 <td valign="top" width="50%">
 
 ![](https://raw.githubusercontent.com/0xcaffebabe/github-stats/master/generated/overview.svg)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0xcaffebabe&theme=github_dark&utcOffset=8)
 
 </td>
 
