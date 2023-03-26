@@ -16,6 +16,9 @@
 #### 📖 最近博客
 
 
+* <a href="https://0xcaffebabe.github.io/%E4%BA%BA%E7%94%9F/2023/03/26/%E6%88%91%E7%9A%842022%E6%80%BB%E7%BB%93.html" target="_blank"> 我的2022总结 </a> - 2023/03/26 
+
+    
 * <a href="https://0xcaffebabe.github.io/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/2022/12/27/%E8%B4%A3%E4%BB%BB%E9%93%BE%E6%A8%A1%E5%BC%8F%E5%9C%A8%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%E7%9A%84%E5%AE%9E%E8%B7%B5%E4%B8%8E%E6%80%9D%E8%80%83.html" target="_blank"> 责任链模式在数据处理的实践与思考 </a> - 2022/12/27 
 
     
@@ -35,9 +38,6 @@
 
     
 * <a href="https://0xcaffebabe.github.io/java/2022/03/12/%E7%BA%BF%E7%A8%8B%E6%B1%A0%E7%9A%84%E4%BD%BF%E7%94%A8%E5%8F%8A%E9%81%87%E5%88%B0%E7%9A%84%E4%B8%80%E4%BA%9B%E9%97%AE%E9%A2%98.html" target="_blank"> 线程池的使用及遇到的一些问题 </a> - 2022/03/12 
-
-    
-* <a href="https://0xcaffebabe.github.io/%E7%94%9F%E6%B6%AF/2022/01/15/%E6%88%91%E7%9A%84%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86%E6%A1%86%E6%9E%B6,%E6%88%91%E7%9A%84%E7%AC%AC%E4%BA%8C%E5%A4%A7%E8%84%91.html" target="_blank"> 我的知识管理框架, 我的第二大脑 </a> - 2022/01/15 
 
         
 
@@ -78,6 +78,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/33d23f345369d58fce309ac63c90b85432c34f08" target="_blank"> ➕我的2022总结 </a> - 2023/03/26 19:46:54 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/f0edd06c568e51f4bda3330d597076d7e973de7e" target="_blank"> ✏️视频技术 </a> - 2023/03/26 13:42:51 
 
     
@@ -91,9 +94,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/bcbc1994c8efe410f2e6c58e578a3dff159333aa" target="_blank"> ➕185 </a> - 2023/03/25 23:53:03 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/9f74d4b213529415d875aeba255341c9b53301c2" target="_blank"> 更新 视频技术 </a> - 2023/03/23 20:55:55 
 
     
 
