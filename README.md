@@ -78,6 +78,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/f77b6249eaaa7f841725c8de9a079567613a7fdf" target="_blank"> 🛠优化文档聚类算法 </a> - 2023/03/31 14:39:40 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/f6d710e8f18f408bc65ade5ae93614edecd8b79d" target="_blank"> 🛠新增相似文档功能 </a> - 2023/03/31 16:19:58 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/39bf309c9815b27dc35048fcb7061363b2b2b41d" target="_blank"> 📦删除不必要的章节 </a> - 2023/03/31 10:54:43 
 
     
@@ -88,12 +94,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/58abd57a1c7b9e56839350f3b20c88c07dbba209" target="_blank"> 🛠优化左侧导航滚动 </a> - 2023/03/30 16:51:31 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/e8bc66b209732e41e9db4c2f7cc047af9fc3de8f" target="_blank"> 🛠左侧导航栏支持无链接 </a> - 2023/03/30 14:11:34 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/b340d889c49fbd01a9e33bed3febe31f6c47876f" target="_blank"> ✏️Zookeeper </a> - 2023/03/29 20:46:39 
 
     
 
