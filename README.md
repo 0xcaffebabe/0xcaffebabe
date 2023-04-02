@@ -78,6 +78,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/5227586de5c794724e2571f2abfca0dd0f1fff7f" target="_blank"> ⚒️知识金字塔 </a> - 2023/04/02 13:46:18 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/d62a33fa13930ae1fe3016a28b61fa28a4f1a825" target="_blank"> ⚒️知识链接流 </a> - 2023/04/02 11:50:44 
 
     
@@ -91,9 +94,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/f6d710e8f18f408bc65ade5ae93614edecd8b79d" target="_blank"> 🛠新增相似文档功能 </a> - 2023/03/31 16:19:58 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/39bf309c9815b27dc35048fcb7061363b2b2b41d" target="_blank"> 📦删除不必要的章节 </a> - 2023/03/31 10:54:43 
 
     
 
