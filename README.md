@@ -78,6 +78,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/199412f68c7ad380d7ddbec9793866f64ece4ca4" target="_blank"> 📦存储器 </a> - 2023/04/02 16:37:21 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/07982618dc101a712dab3ea010a8db171878e686" target="_blank"> ✏️查询优化 </a> - 2023/04/02 17:37:16 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/5227586de5c794724e2571f2abfca0dd0f1fff7f" target="_blank"> ⚒️知识金字塔 </a> - 2023/04/02 13:46:18 
 
     
@@ -88,12 +94,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/9f83685c232dabf20b447cce1ed1999d00149138" target="_blank"> ⚒️优化相关文档列表渲染 </a> - 2023/04/01 22:01:56 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/f77b6249eaaa7f841725c8de9a079567613a7fdf" target="_blank"> 🛠优化文档聚类算法 </a> - 2023/03/31 14:39:40 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/f6d710e8f18f408bc65ade5ae93614edecd8b79d" target="_blank"> 🛠新增相似文档功能 </a> - 2023/03/31 16:19:58 
 
     
 
