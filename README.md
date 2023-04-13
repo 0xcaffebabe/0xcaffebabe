@@ -78,6 +78,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/48df8a71bd609a6f3484ba69bc82ce95f7977cc7" target="_blank"> ✏查询优化 </a> - 2023/04/13 16:14:49 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/be08c18f8389dfef50c940edf959e4e7270eb182" target="_blank"> 🛠静态化初步支持 </a> - 2023/04/13 17:57:35 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/845841745789020073dd3e3f35a8e583f641e3a8" target="_blank"> ✏MySQL </a> - 2023/04/12 15:20:12 
 
     
@@ -88,12 +94,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/e0e16757f31eda45c2e5515a726188f1fea4d3d7" target="_blank"> 📦设计 </a> - 2023/04/12 17:15:00 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/790dcb8bb23f5e4890ae2dabbe484ba436c2efed" target="_blank"> 📦数学 </a> - 2023/04/12 17:26:39 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/5095dc522f3b527464a37051d72d66ef6dab145c" target="_blank"> ✏数据库设计 </a> - 2023/04/12 10:31:07 
 
     
 
