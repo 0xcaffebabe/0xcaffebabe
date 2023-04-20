@@ -78,6 +78,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/054285d229856cb82a3fa9086970c1299af3e039" target="_blank"> 🛠修复内存泄露问题 </a> - 2023/04/20 14:09:41 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/ad33d24d781303f915946fb22d40650f1a497456" target="_blank"> 🛠优化文档渲染 </a> - 2023/04/20 13:41:33 
 
     
@@ -91,9 +94,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/5890aca1169c8aa3b358d6f273a1214ba4882ff6" target="_blank"> Bump @braintree/sanitize-url fro... </a> - 2023/02/25 00:52:45 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/edf65e777023bb6ad5a4a81a98e8e40a861a378e" target="_blank"> ✏mysql </a> - 2023/04/18 16:47:38 
 
     
 
