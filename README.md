@@ -78,6 +78,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/cd465dbc6978e550d8876922c77cea5a0233dd56" target="_blank"> ✏分布式数据库 </a> - 2023/04/26 17:19:11 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/17488c68fa6e1a5e630cc03066b493fb6e53e980" target="_blank"> ✏️事务 </a> - 2023/04/25 21:20:26 
 
     
@@ -91,9 +94,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/c41f4749b77b79c80a38d4584718d37ef7fd1829" target="_blank"> ✏️事务 </a> - 2023/04/24 21:18:46 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/a729660d492b45ce9b73695c5d51fb89adae6056" target="_blank"> ✏MySQL </a> - 2023/04/24 16:00:54 
 
     
 
