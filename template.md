@@ -4,9 +4,9 @@
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59)
 ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-[![leetcode](https://leetcode-badge.haozibi.dev/v1cn/solved/0xcaffebabe.svg)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://leetcode-badge.haozibi.dev/v1cn/accepted-rate/0xcaffebabe.svg)](https://leetcode.cn/u/0xcaffebabe/)
+![](https://leetcode-badge.haozibi.dev/v1cn/0xcaffebabe.svg) [![leetcode](https://leetcode-badge.haozibi.dev/v1cn/solved/0xcaffebabe.svg)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://leetcode-badge.haozibi.dev/v1cn/accepted-rate/0xcaffebabe.svg)](https://leetcode.cn/u/0xcaffebabe/)
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=0xcaffebabe&layout=compact&langs_count=12&theme=dark)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=0xcaffebabe&layout=compact&langs_count=12&theme=dark&range=all_time)
 
 <table>
 
