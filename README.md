@@ -4,9 +4,9 @@
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59)
 ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-![](https://leetcode-badge.haozibi.dev/v1cn/0xcaffebabe.svg) [![leetcode](https://leetcode-badge.haozibi.dev/v1cn/solved/0xcaffebabe.svg)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://leetcode-badge.haozibi.dev/v1cn/accepted-rate/0xcaffebabe.svg)](https://leetcode.cn/u/0xcaffebabe/)
+[![leetcode](https://leetcode-badge.haozibi.dev/v1cn/solved/0xcaffebabe.svg)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://leetcode-badge.haozibi.dev/v1cn/accepted-rate/0xcaffebabe.svg)](https://leetcode.cn/u/0xcaffebabe/)
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=0xcaffebabe&layout=compact&langs_count=12&theme=dark&range=all_time)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=0xcaffebabe&layout=compact&langs_count=12&theme=dark)
 
 <table>
 
@@ -78,6 +78,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/0xcaffebabe/commit/33c53e988a49e495f5e6c2652645c1f90f029d42" target="_blank"> Update README.md </a> - 2023/05/05 10:27:05 
+
+    
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/c025bba6dfb5d869e8514023a22031bd634b915b" target="_blank"> ➕2432 </a> - 2023/05/05 10:18:38 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/09f433516e67d4803466fdc41f0335d22a4a2391" target="_blank"> ✏大数据 </a> - 2023/05/04 17:25:59 
 
     
@@ -88,12 +94,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/cd465dbc6978e550d8876922c77cea5a0233dd56" target="_blank"> ✏分布式数据库 </a> - 2023/04/26 17:19:11 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/17488c68fa6e1a5e630cc03066b493fb6e53e980" target="_blank"> ✏️事务 </a> - 2023/04/25 21:20:26 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/bdb2ec3c44014b07e89b123df50ffd814ae39425" target="_blank"> ✏MySQL </a> - 2023/04/25 15:37:51 
 
     
 
