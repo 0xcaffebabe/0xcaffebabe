@@ -31,7 +31,7 @@ def fetch_leetcode_recent_ac():
     """
       ac_list = ac_list[:7]
       for i in ac_list:
-        d = datetime.datetime.fromtimestamp(i['submitTime'])
+        d = datetime.datetime.fromtimestamp(i['submitTime']) + datetime.timedelta(hours=8)
         time = d.strftime("%Y-%m-%d %H:%M:%S")
         ret += temp.replace("${link}", 'https://leetcode.cn/submissions/detail/' + str(i['submissionId']))\
                   .replace("${title}", i['question']['questionFrontendId'] + '.' + i['question']['title'])\
