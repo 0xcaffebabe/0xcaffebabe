@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/435314589" target="_blank"> 剑指 Offer 18.删除链表的节点 LCOF </a> - 2023-05-26 13:53:01 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/435313067" target="_blank"> 剑指 Offer 24.反转链表 LCOF </a> - 2023-05-26 13:44:20 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/435248280" target="_blank"> 剑指 Offer 25.合并两个排序的链表  LCOF </a> - 2023-05-26 09:13:24 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/435248063" target="_blank"> 剑指 Offer 14- I.剪绳子  LCOF </a> - 2023-05-26 09:12:06 
 
     
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/e0787e218c3ef3da94a38860d7ec272ff77a5950" target="_blank"> ➕18 </a> - 2023/05/26 13:53:13 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/b60fe8601c2fb3bc9ce4333b5e2ec8eaefae46f7" target="_blank"> ➕24 </a> - 2023/05/26 13:44:39 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/414486b65de31bad5d3d14d3429e7468b4d81a8d" target="_blank"> ➕21 </a> - 2023/05/26 10:01:22 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/ddf95fb485cdcaf3b751e09b7b3cba010e81ec45" target="_blank"> ➕26 </a> - 2023/05/26 09:55:47 
 
     
 
