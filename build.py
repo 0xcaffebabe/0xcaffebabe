@@ -19,6 +19,27 @@ def fetch_code_time():
         "https://gist.githubusercontent.com/0xcaffebabe/8ea5a71947543404d826b1a839b29398/raw"
     )
 
+def fetch_leetcode_recent_ac():
+    client = httpx.Client(verify = False)
+    try:
+      resp = client.post(url= 'https://leetcode.cn/graphql/noj-go/', headers={'Content-Type': 'application/json'}, data= '{"query":"    query recentAcSubmissions($userSlug: String!) {  recentACSubmissions(userSlug: $userSlug) {    submissionId    submitTime    question {      title      translatedTitle      titleSlug      questionFrontendId    }  }}    ","variables":{"userSlug":"0xcaffebabe"},"operationName":"recentAcSubmissions"}').text
+      data = json.loads(resp)
+      ac_list = data['data']['recentACSubmissions']
+      ret = ''
+      temp = """
+  * <a href="${link}" target="_blank"> ${title} </a> - ${date} \n
+    """
+      ac_list = ac_list[:7]
+      for i in ac_list:
+        d = datetime.datetime.fromtimestamp(i['submitTime'])
+        time = d.strftime("%Y-%m-%d %H:%M:%S")
+        ret += temp.replace("${link}", 'https://leetcode.cn/submissions/detail/' + str(i['submissionId']))\
+                  .replace("${title}", i['question']['questionFrontendId'] + '.' + i['question']['title'])\
+                  .replace("${date}", time)
+      return ret
+    finally:
+      client.close()
+
 def httpGet(url):
   client = httpx.Client(verify = False)
   try:
@@ -117,14 +138,14 @@ def fetch_commit_datetime(commit_url):
   return data['commit']['committer']['date']
 
 readmeTemplate = ''.join(open('./template.md','r',encoding="utf8").readlines())
+readme = readmeTemplate
 
-# readme = readmeTemplate.replace('${code_time}', fetch_code_time())
 readme = readmeTemplate.replace("${recent_blogs}",fetch_recent_blog())
 readme = readme.replace("${book_list}",fetch_inprogrss_book_list())
 readme = readme.replace("${backend_task}",fetch_inprogrss_backend_task())
 readme = readme.replace("${other_task}",fetch_inprogress_other_task())
-readme = readme.replace("${gen_time}",datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
 readme = readme.replace("${commits}",fetch_commits())
+readme = readme.replace("${recent_ac}",fetch_leetcode_recent_ac())
 
 print (readme)
 
