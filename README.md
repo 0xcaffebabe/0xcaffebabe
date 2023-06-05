@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/437661791" target="_blank"> 2460.Apply Operations to an Array </a> - 2023-06-05 09:27:58 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/436990329" target="_blank"> 2559.Count Vowel Strings in Ranges </a> - 2023-06-02 10:26:41 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/436811969" target="_blank"> 211.Design Add and Search Words Data Structure </a> - 2023-06-01 15:18:19 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/436781952" target="_blank"> 204.Count Primes </a> - 2023-06-01 13:44:10 
 
     
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/1f51f53e3d390ff489716309ad87adb6422d9474" target="_blank"> ➕2460 </a> - 2023/06/05 09:28:22 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/f676cb78ebbc8d44cda18d40b4af803b924e450f" target="_blank"> ✏️2B产品 </a> - 2023/06/01 21:49:27 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/7d009039b44c2c18405535b544b67b8084766d2e" target="_blank"> ➕211 </a> - 2023/06/01 15:18:47 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/c3d768aaf1e1a52508e6ac6ff7b6c0d7942f7618" target="_blank"> ➕204 </a> - 2023/06/01 13:44:24 
 
     
 
