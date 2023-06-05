@@ -64,6 +64,12 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/437690991" target="_blank"> 2352.Equal Row and Column Pairs </a> - 2023-06-05 10:58:10 
+
+    
+  * <a href="https://leetcode.cn/submissions/detail/437679951" target="_blank"> 剑指 Offer II 041.滑动窗口的平均值 </a> - 2023-06-05 10:27:46 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/437661791" target="_blank"> 2460.Apply Operations to an Array </a> - 2023-06-05 09:27:58 
 
     
@@ -77,12 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/436852552" target="_blank"> 432.All O`one Data Structure </a> - 2023-06-01 17:14:02 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/436812076" target="_blank"> 211.Design Add and Search Words Data Structure </a> - 2023-06-01 15:18:33 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/436811969" target="_blank"> 211.Design Add and Search Words Data Structure </a> - 2023-06-01 15:18:19 
 
     
 
@@ -116,6 +116,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/9aac10c8bd0b60e37fafd132847667607f345d37" target="_blank"> ➕2352 </a> - 2023/06/05 10:58:25 
+
+    
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/41de9600557a3880bde44286a64a09045aade0eb" target="_blank"> ➕041 </a> - 2023/06/05 10:28:02 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/1f51f53e3d390ff489716309ad87adb6422d9474" target="_blank"> ➕2460 </a> - 2023/06/05 09:28:22 
 
     
@@ -126,12 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/d9cbafa1870feb8afe37ff6b07e6fce537534d24" target="_blank"> ✏Serverless </a> - 2023/06/01 17:14:59 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/48336dbc0bdd8bd8440a5fb891be2675270072e6" target="_blank"> ➕432 </a> - 2023/06/01 17:14:25 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/7d009039b44c2c18405535b544b67b8084766d2e" target="_blank"> ➕211 </a> - 2023/06/01 15:18:47 
 
     
 
