@@ -116,6 +116,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/d4d41ed3748b1fdc74585dd2bf2bdd24a9dc1991" target="_blank"> ✏️研发效能 </a> - 2023/06/11 14:37:21 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/f430f868d85e5e1113edaf5ec6d908d1be30da44" target="_blank"> ✏️2B产品 </a> - 2023/06/11 15:36:15 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/953eaf275f2758f54bb931736bef93a6ef09baa2" target="_blank"> ✏软件工程 </a> - 2023/06/08 17:12:21 
 
     
@@ -126,12 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/364262821d77aa0e56b7eed0b9818a7b3e20eee4" target="_blank"> ➕459 </a> - 2023/06/08 14:52:35 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/8355598ea0f2d2b66e1bec9500d7e5b26209c6c6" target="_blank"> ✏️2B产品 </a> - 2023/06/07 21:20:31 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/4c130c6c7b8e674a1ccdd8c438a9eecd16b601ad" target="_blank"> ✏Serverless </a> - 2023/06/06 16:02:39 
 
     
 
