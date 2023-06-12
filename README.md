@@ -64,6 +64,12 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/439393643" target="_blank"> 997.Find the Town Judge </a> - 2023-06-12 13:37:30 
+
+    
+  * <a href="https://leetcode.cn/submissions/detail/439393624" target="_blank"> 997.Find the Town Judge </a> - 2023-06-12 13:37:20 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/438790165" target="_blank"> 2309.Greatest English Letter in Upper and Lower Case </a> - 2023-06-09 13:34:53 
 
     
@@ -77,12 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/438049902" target="_blank"> 剑指 Offer II 050.向下的路径节点之和 </a> - 2023-06-06 15:29:08 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/438049242" target="_blank"> 剑指 Offer II 110.所有路径 </a> - 2023-06-06 15:27:27 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/438048910" target="_blank"> 剑指 Offer II 048.序列化与反序列化二叉树 </a> - 2023-06-06 15:26:32 
 
     
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/8fe7566cf6503db4409bb953c5632b8e909e92e0" target="_blank"> ➕997 </a> - 2023/06/12 13:37:40 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/d4d41ed3748b1fdc74585dd2bf2bdd24a9dc1991" target="_blank"> ✏️研发效能 </a> - 2023/06/11 14:37:21 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/d3e5f095cb78690b1f2edeea0214eebf5710dfa1" target="_blank"> ✏️ </a> - 2023/06/08 21:26:25 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/364262821d77aa0e56b7eed0b9818a7b3e20eee4" target="_blank"> ➕459 </a> - 2023/06/08 14:52:35 
 
     
 
