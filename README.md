@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/f2b121d9396eeebbbfd3e4e9f8ec361ad00afbf7" target="_blank"> ✏️2B产品 </a> - 2023/06/14 21:11:47 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/1bb909ef21bfaa469be52215e89f8f1645c54eec" target="_blank"> ✏️2B产品 </a> - 2023/06/13 21:14:59 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/d4d41ed3748b1fdc74585dd2bf2bdd24a9dc1991" target="_blank"> ✏️研发效能 </a> - 2023/06/11 14:37:21 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/f430f868d85e5e1113edaf5ec6d908d1be30da44" target="_blank"> ✏️2B产品 </a> - 2023/06/11 15:36:15 
 
     
 
