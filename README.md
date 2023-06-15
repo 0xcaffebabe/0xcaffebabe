@@ -116,6 +116,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/13d72a6b153a54237aba68bb07a519b1d3147fd7" target="_blank"> 📦软件工程 </a> - 2023/06/15 15:50:03 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/5f54c04e08e59063f2b10ff501fdb6c88746a62f" target="_blank"> ✏项目管理 </a> - 2023/06/15 17:28:05 
+
+    
   * <a href="https://github.com/0xcaffebabe/0xcaffebabe/commit/cbe2d794a4081499424d53e52b3701d5342934de" target="_blank"> 调整图标文字 </a> - 2023/06/15 10:22:51 
 
     
@@ -126,12 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/0xcaffebabe/commit/69e19e76d74b4d73dcf59e194f1e4d6c85619763" target="_blank"> 新增 leetcode ac info </a> - 2023/06/15 10:15:40 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/f2b121d9396eeebbbfd3e4e9f8ec361ad00afbf7" target="_blank"> ✏️2B产品 </a> - 2023/06/14 21:11:47 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/1bb909ef21bfaa469be52215e89f8f1645c54eec" target="_blank"> ✏️2B产品 </a> - 2023/06/13 21:14:59 
 
     
 
