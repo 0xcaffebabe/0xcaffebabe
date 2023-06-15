@@ -64,19 +64,19 @@
 #### 🔋最近AC
 
 
-  * <a href="https://leetcode.cn/submissions/detail/439393643" target="_blank"> 997.Find the Town Judge </a> - 2023-06-12 13:37:30 
+  * <a href="https://leetcode.cn/submissions/detail/439393643" target="_blank"> 997.找到小镇的法官 </a> - 2023-06-12 13:37:30 
 
     
-  * <a href="https://leetcode.cn/submissions/detail/439393624" target="_blank"> 997.Find the Town Judge </a> - 2023-06-12 13:37:20 
+  * <a href="https://leetcode.cn/submissions/detail/439393624" target="_blank"> 997.找到小镇的法官 </a> - 2023-06-12 13:37:20 
 
     
-  * <a href="https://leetcode.cn/submissions/detail/438790165" target="_blank"> 2309.Greatest English Letter in Upper and Lower Case </a> - 2023-06-09 13:34:53 
+  * <a href="https://leetcode.cn/submissions/detail/438790165" target="_blank"> 2309.兼具大小写的最好英文字母 </a> - 2023-06-09 13:34:53 
 
     
-  * <a href="https://leetcode.cn/submissions/detail/438563704" target="_blank"> 459.Repeated Substring Pattern </a> - 2023-06-08 14:52:24 
+  * <a href="https://leetcode.cn/submissions/detail/438563704" target="_blank"> 459.重复的子字符串 </a> - 2023-06-08 14:52:24 
 
     
-  * <a href="https://leetcode.cn/submissions/detail/438563650" target="_blank"> 459.Repeated Substring Pattern </a> - 2023-06-08 14:52:15 
+  * <a href="https://leetcode.cn/submissions/detail/438563650" target="_blank"> 459.重复的子字符串 </a> - 2023-06-08 14:52:15 
 
     
   * <a href="https://leetcode.cn/submissions/detail/438050272" target="_blank"> 剑指 Offer II 051.节点之和最大的路径 </a> - 2023-06-06 15:30:07 
