@@ -59,7 +59,7 @@ def generate_leetcode_badge():
   return '![](${info}) [![leetcode](${solved})](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](${ac})](https://leetcode.cn/u/0xcaffebabe/)'\
     .replace('${info}', 'https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success')\
     .replace('${solved}', 'https://img.shields.io/static/v1?label=Solved&message='+ solved +'&color=success')\
-    .replace('${ac}', 'https://img.shields.io/static/v1?label=Solved&message='+ ac_rate +'&color=success')
+    .replace('${ac}', 'https://img.shields.io/static/v1?label=Accepted&message='+ ac_rate +'&color=success')
 
 def httpGet(url):
   client = httpx.Client(verify = False)
