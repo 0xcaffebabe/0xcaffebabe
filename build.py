@@ -167,7 +167,7 @@ readme = readme.replace("${backend_task}",fetch_inprogrss_backend_task())
 readme = readme.replace("${other_task}",fetch_inprogress_other_task())
 readme = readme.replace("${commits}",fetch_commits())
 readme = readme.replace("${recent_ac}",fetch_leetcode_recent_ac())
-readme = readme.replace("${ac_info}",fetch_leetcode_ac_info())
+readme = readme.replace("${ac_info}",generate_leetcode_badge())
 
 print (readme)
 
