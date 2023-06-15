@@ -40,6 +40,27 @@ def fetch_leetcode_recent_ac():
     finally:
       client.close()
 
+def fetch_leetcode_ac_info():
+  client = httpx.Client(verify = False)
+  try:
+    resp = client.post(url= 'https://leetcode.cn/graphql/', headers={'Content-Type': 'application/json'}, data= '{"operationName":"userPublicProfile","variables":{"userSlug":"0xcaffebabe"},"query":"query userPublicProfile($userSlug: String!) { userProfilePublicProfile(userSlug: $userSlug) { username haveFollowed siteRanking profile { userSlug realName userAvatar location contestCount asciiCode __typename }  submissionProgress { totalSubmissions waSubmissions acSubmissions reSubmissions otherSubmissions acTotal questionTotal __typename } __typename } } "}').text
+    data = json.loads(resp)
+    solved = data['data']['userProfilePublicProfile']['submissionProgress']['acTotal']
+    total = data['data']['userProfilePublicProfile']['submissionProgress']['questionTotal']
+    ac_rate = data['data']['userProfilePublicProfile']['submissionProgress']['acSubmissions'] / data['data']['userProfilePublicProfile']['submissionProgress']['totalSubmissions']
+    return solved, total, round(ac_rate * 100, 2)
+  finally:
+    client.close()
+
+def generate_leetcode_badge():
+  data = fetch_leetcode_ac_info()
+  solved = str(data[0]) + '%20/%20' + str(data[1])
+  ac_rate = str(data[2]) + '%'
+  return '![](${info}) [![leetcode](${solved})](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](${ac})](https://leetcode.cn/u/0xcaffebabe/)'\
+    .replace('${info}', 'https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success')\
+    .replace('${solved}', 'https://img.shields.io/static/v1?label=Solved&message='+ solved +'&color=success')\
+    .replace('${ac}', 'https://img.shields.io/static/v1?label=Solved&message='+ ac_rate +'&color=success')
+
 def httpGet(url):
   client = httpx.Client(verify = False)
   try:
@@ -146,6 +167,7 @@ readme = readme.replace("${backend_task}",fetch_inprogrss_backend_task())
 readme = readme.replace("${other_task}",fetch_inprogress_other_task())
 readme = readme.replace("${commits}",fetch_commits())
 readme = readme.replace("${recent_ac}",fetch_leetcode_recent_ac())
+readme = readme.replace("${ac_info}",fetch_leetcode_ac_info())
 
 print (readme)
 
