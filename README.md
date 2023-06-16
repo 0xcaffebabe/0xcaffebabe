@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=805%20/%203349&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=83.7%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=806%20/%203349&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=83.67%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,12 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/440353115" target="_blank"> 427.建立四叉树 </a> - 2023-06-16 14:42:39 
+
+    
+  * <a href="https://leetcode.cn/submissions/detail/440353094" target="_blank"> 427.建立四叉树 </a> - 2023-06-16 14:42:32 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/439393643" target="_blank"> 997.找到小镇的法官 </a> - 2023-06-12 13:37:30 
 
     
@@ -77,12 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/438563650" target="_blank"> 459.重复的子字符串 </a> - 2023-06-08 14:52:15 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/438050272" target="_blank"> 剑指 Offer II 051.节点之和最大的路径 </a> - 2023-06-06 15:30:07 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/438049902" target="_blank"> 剑指 Offer II 050.向下的路径节点之和 </a> - 2023-06-06 15:29:08 
 
     
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/92a7edf830389cfd6796cb734e0d62490b13cb2d" target="_blank"> ➕427 </a> - 2023/06/16 14:42:58 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/13d72a6b153a54237aba68bb07a519b1d3147fd7" target="_blank"> 📦软件工程 </a> - 2023/06/15 15:50:03 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/0xcaffebabe/commit/604e0c33027c3ee003a5192073148379e944cc9d" target="_blank"> 修复错误 </a> - 2023/06/15 10:18:41 
-
-    
-  * <a href="https://github.com/0xcaffebabe/0xcaffebabe/commit/69e19e76d74b4d73dcf59e194f1e4d6c85619763" target="_blank"> 新增 leetcode ac info </a> - 2023/06/15 10:15:40 
 
     
 
