@@ -29,13 +29,18 @@ def fetch_leetcode_recent_ac():
       temp = """
   * <a href="${link}" target="_blank"> ${title} </a> - ${date} \n
     """
-      ac_list = ac_list[:7]
+      cnt = 0
+      last_title = ''
       for i in ac_list:
+        if cnt >= 7: break
+        if i['question']['translatedTitle'] == last_title: continue
+        cnt += 1
         d = datetime.datetime.fromtimestamp(i['submitTime']) + datetime.timedelta(hours=8)
         time = d.strftime("%Y-%m-%d %H:%M:%S")
         ret += temp.replace("${link}", 'https://leetcode.cn/submissions/detail/' + str(i['submissionId']))\
                   .replace("${title}", i['question']['questionFrontendId'] + '.' + i['question']['translatedTitle'])\
                   .replace("${date}", time)
+        last_title = i['question']['translatedTitle']
       return ret
     finally:
       client.close()
