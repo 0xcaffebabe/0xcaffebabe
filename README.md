@@ -116,6 +116,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/68f288f1c79fc20efe7661764771cbb67bc2393e" target="_blank"> ✏项目管理 </a> - 2023/06/27 14:30:48 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/e074eb0dc6832f883585ac9f72c9666f45d3b6d9" target="_blank"> ✏软件需求 </a> - 2023/06/27 17:19:21 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/624ba6e9f50b9ed1b537f5e8fa0a2c1b96632113" target="_blank"> ➕04.04 </a> - 2023/06/27 11:42:26 
 
     
@@ -126,12 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/d2f752950eef25769f07c8bec0edf9827ef675e7" target="_blank"> ➕1339 </a> - 2023/06/25 16:13:08 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/8d0869cf7d79320246d72e95127e571d9b3c35f5" target="_blank"> ✏项目管理 </a> - 2023/06/16 16:48:31 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/92a7edf830389cfd6796cb734e0d62490b13cb2d" target="_blank"> ➕427 </a> - 2023/06/16 14:42:58 
 
     
 
