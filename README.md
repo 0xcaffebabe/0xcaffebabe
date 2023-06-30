@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=809%20/%203370&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=83.65%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=810%20/%203370&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=83.66%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/443189761" target="_blank"> 2490.回环句 </a> - 2023-06-30 13:42:37 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/442444195" target="_blank"> 面试题 04.04.检查平衡性 </a> - 2023-06-27 11:42:10 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/438790165" target="_blank"> 2309.兼具大小写的最好英文字母 </a> - 2023-06-09 13:34:53 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/438563704" target="_blank"> 459.重复的子字符串 </a> - 2023-06-08 14:52:24 
 
     
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/eb64500e3b9e401db78587d359eed8fa172c3677" target="_blank"> ➕2490 </a> - 2023/06/30 13:42:50 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/68f288f1c79fc20efe7661764771cbb67bc2393e" target="_blank"> ✏项目管理 </a> - 2023/06/27 14:30:48 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/0xcaffebabe/commit/0bf2f76dfb9c9a7c9b1cc067772b59e2f9c9181c" target="_blank"> leetcode 最近提交去重 </a> - 2023/06/25 16:18:19 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/d2f752950eef25769f07c8bec0edf9827ef675e7" target="_blank"> ➕1339 </a> - 2023/06/25 16:13:08 
 
     
 
