@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=812%20/%203375&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=83.64%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=813%20/%203375&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=83.65%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/443826911" target="_blank"> 824.山羊拉丁文 </a> - 2023-07-03 13:50:21 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/443802750" target="_blank"> 492.构造矩形 </a> - 2023-07-03 11:29:46 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/442026801" target="_blank"> 1339.分裂二叉树的最大乘积 </a> - 2023-06-25 16:12:53 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/440353115" target="_blank"> 427.建立四叉树 </a> - 2023-06-16 14:42:39 
 
     
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/349921c232d67103db5bbf1c688d4d5c2aad77cd" target="_blank"> ➕824 </a> - 2023/07/03 13:50:32 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/c6d68d14ff566c886dcef9faa8d256a479cf25dd" target="_blank"> ➕492 </a> - 2023/07/03 11:30:08 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/e074eb0dc6832f883585ac9f72c9666f45d3b6d9" target="_blank"> ✏软件需求 </a> - 2023/06/27 17:19:21 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/624ba6e9f50b9ed1b537f5e8fa0a2c1b96632113" target="_blank"> ➕04.04 </a> - 2023/06/27 11:42:26 
 
     
 
