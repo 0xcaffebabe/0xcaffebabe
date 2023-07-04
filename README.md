@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=813%20/%203375&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=83.65%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=814%20/%203375&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=83.62%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/444037077" target="_blank"> 2679.矩阵中的和 </a> - 2023-07-04 09:14:42 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/443826911" target="_blank"> 824.山羊拉丁文 </a> - 2023-07-03 13:50:21 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/442163403" target="_blank"> 2485.找出中枢整数 </a> - 2023-06-26 09:43:35 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/442026801" target="_blank"> 1339.分裂二叉树的最大乘积 </a> - 2023-06-25 16:12:53 
 
     
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/c612ad83a9f97b1aa1d9fb69e2258c965c72eedc" target="_blank"> ➕2679 </a> - 2023/07/04 09:14:54 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/114553b96df39e8c49ae6dfcf3665ca180bf41cb" target="_blank"> ➕性能优化 </a> - 2023/07/03 21:07:36 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/eb64500e3b9e401db78587d359eed8fa172c3677" target="_blank"> ➕2490 </a> - 2023/06/30 13:42:50 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/68f288f1c79fc20efe7661764771cbb67bc2393e" target="_blank"> ✏项目管理 </a> - 2023/06/27 14:30:48 
 
     
 
