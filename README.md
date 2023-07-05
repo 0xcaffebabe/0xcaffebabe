@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=816%20/%203375&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=83.64%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=817%20/%203375&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=83.65%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/444469310" target="_blank"> 50.Pow(x, n) </a> - 2023-07-05 16:44:42 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/444462383" target="_blank"> 57.插入区间 </a> - 2023-07-05 16:27:15 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/443222044" target="_blank"> 179.最大数 </a> - 2023-06-30 15:25:38 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/443189761" target="_blank"> 2490.回环句 </a> - 2023-06-30 13:42:37 
 
     
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/5f944ab47805049ed01c436963db1c5d4b0cad2c" target="_blank"> ➕50 </a> - 2023/07/05 16:44:54 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/29922c5e3fed15989bbc4605a008e5328ba0ccb9" target="_blank"> ➕57 </a> - 2023/07/05 16:27:31 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/c612ad83a9f97b1aa1d9fb69e2258c965c72eedc" target="_blank"> ➕2679 </a> - 2023/07/04 09:14:54 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/114553b96df39e8c49ae6dfcf3665ca180bf41cb" target="_blank"> ➕性能优化 </a> - 2023/07/03 21:07:36 
 
     
 
