@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=818%20/%203376&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=83.65%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=819%20/%203376&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=83.66%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/444697004" target="_blank"> 609.在系统中查找重复文件 </a> - 2023-07-06 14:11:00 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/444617888" target="_blank"> 2178.拆分成最多数目的正偶数之和 </a> - 2023-07-06 09:48:34 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/443826911" target="_blank"> 824.山羊拉丁文 </a> - 2023-07-03 13:50:21 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/443802750" target="_blank"> 492.构造矩形 </a> - 2023-07-03 11:29:46 
 
     
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/a06c4d74b14adbe535c30a1438d886987eca7ef3" target="_blank"> ➕609 </a> - 2023/07/06 14:14:00 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/1838fc2d48dc8ef60a0ac37409c5b19b7891e3bb" target="_blank"> ➕2178 </a> - 2023/07/06 09:48:49 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/4b7a48266e395b3209944005f87a6c9a6cf07bfb" target="_blank"> ➕2600 </a> - 2023/07/05 13:29:33 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/0f48db6ff9abf11cb30d7c12cf1ae1d67cd547a1" target="_blank"> ✏缓存 </a> - 2023/07/04 20:17:01 
 
     
 
