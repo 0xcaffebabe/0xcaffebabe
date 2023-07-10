@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=820%20/%203384&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=83.67%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=821%20/%203384&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=83.68%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/445796854" target="_blank"> 2196.根据描述创建二叉树 </a> - 2023-07-10 17:31:26 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/444762229" target="_blank"> 676.实现一个魔法字典 </a> - 2023-07-06 16:41:20 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/444403796" target="_blank"> 2600.K 件物品的最大和 </a> - 2023-07-05 13:29:20 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/444037077" target="_blank"> 2679.矩阵中的和 </a> - 2023-07-04 09:14:42 
 
     
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/c78231e0b337ffecf118c7e284aff403a3bd46ae" target="_blank"> ➕2196 </a> - 2023/07/10 17:31:56 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/87ed149335b2d7690e401fbefbda8cb298681982" target="_blank"> ✏️性能优化 </a> - 2023/07/09 16:51:17 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/1838fc2d48dc8ef60a0ac37409c5b19b7891e3bb" target="_blank"> ➕2178 </a> - 2023/07/06 09:48:49 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/f4c258807ebaad10b10f6cdd808888d5a8a563a2" target="_blank"> ✏️性能优化 </a> - 2023/07/05 20:59:40 
 
     
 
