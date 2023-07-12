@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=823%20/%203384&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=83.7%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=824%20/%203384&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=83.71%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/446358455" target="_blank"> 1376.通知所有员工所需的时间 </a> - 2023-07-12 15:49:33 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/446270656" target="_blank"> 2544.交替数字和 </a> - 2023-07-12 10:59:09 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/444617888" target="_blank"> 2178.拆分成最多数目的正偶数之和 </a> - 2023-07-06 09:48:34 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/444469310" target="_blank"> 50.Pow(x, n) </a> - 2023-07-05 16:44:42 
 
     
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/e8d6b1affef7ea68684f049f630e0912e518a5ea" target="_blank"> ➕1376 </a> - 2023/07/12 15:49:47 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/b3916c388ee38780b5a9aaa937cb61b6bc6d99c4" target="_blank"> ➕2544 </a> - 2023/07/12 10:59:24 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/75093ab84bd15872f776b4ca19bc1241034c74a0" target="_blank"> ✏️性能优化 </a> - 2023/07/10 21:01:27 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/c78231e0b337ffecf118c7e284aff403a3bd46ae" target="_blank"> ➕2196 </a> - 2023/07/10 17:31:56 
 
     
 
