@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=824%20/%203389&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=83.71%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=825%20/%203389&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=83.72%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/446544990" target="_blank"> 931.下降路径最小和 </a> - 2023-07-13 09:45:30 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/446358455" target="_blank"> 1376.通知所有员工所需的时间 </a> - 2023-07-12 15:49:33 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/444697004" target="_blank"> 609.在系统中查找重复文件 </a> - 2023-07-06 14:11:00 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/444617888" target="_blank"> 2178.拆分成最多数目的正偶数之和 </a> - 2023-07-06 09:48:34 
 
     
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/a9178e17b65a4db436537ee51418328d47139fd4" target="_blank"> ➕931 </a> - 2023/07/13 09:45:44 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/8e086e12f54877e028d26d797dc7c79eabd34741" target="_blank"> ✏️性能优化 </a> - 2023/07/12 20:26:06 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/d1175448ff9b8c2de5ec1d2da94ea99d101d84ca" target="_blank"> ➕1457 </a> - 2023/07/11 10:33:49 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/9206abcb6edfcd0e6772f131a7cb0b0869b8efce" target="_blank"> ✏性能优化 </a> - 2023/07/11 08:58:14 
 
     
 
