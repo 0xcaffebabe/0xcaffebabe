@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=827%20/%203389&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=83.74%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=828%20/%203389&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=83.75%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/446945482" target="_blank"> 979.在二叉树中分配硬币 </a> - 2023-07-14 15:42:42 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/446666144" target="_blank"> 剑指 Offer II 072.求平方根 </a> - 2023-07-13 15:47:04 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/446270656" target="_blank"> 2544.交替数字和 </a> - 2023-07-12 10:59:09 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/445963764" target="_blank"> 1457.二叉树中的伪回文路径 </a> - 2023-07-11 10:33:34 
 
     
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/a322992d50aa0ba95dfb8df48a745dd76dc69b5c" target="_blank"> ➕979 </a> - 2023/07/14 15:42:57 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/ea23f01b2a6a94e5f248f4c06de50588aa101d78" target="_blank"> ➕072 </a> - 2023/07/13 15:47:17 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/8e086e12f54877e028d26d797dc7c79eabd34741" target="_blank"> ✏️性能优化 </a> - 2023/07/12 20:26:06 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/e8d6b1affef7ea68684f049f630e0912e518a5ea" target="_blank"> ➕1376 </a> - 2023/07/12 15:49:47 
 
     
 
