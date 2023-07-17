@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=760%20/%203393&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=83.85%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=761%20/%203393&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=83.86%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/447720936" target="_blank"> 869.重新排序得到 2 的幂 </a> - 2023-07-17 16:33:38 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/447675545" target="_blank"> 67.二进制求和 </a> - 2023-07-17 14:46:05 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/446665838" target="_blank"> 69.x 的平方根  </a> - 2023-07-13 15:46:16 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/446663665" target="_blank"> 1010.总持续时间可被 60 整除的歌曲 </a> - 2023-07-13 15:40:51 
 
     
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/8b493f22b4a66b97839316088c8815ba36279ce8" target="_blank"> ➕869 </a> - 2023/07/17 16:33:49 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/a8994bcfebd4109b6df6d99f3e9ffcd898b4ef9a" target="_blank"> ➕002 </a> - 2023/07/17 14:47:01 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/3c8ee458383255b49ebb10cf34d01ca2410de4a3" target="_blank"> ➕064 </a> - 2023/07/17 11:18:41 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/5cf802390ed4fe2cb21e8e54f2de10a4f4ce621a" target="_blank"> ➕065 </a> - 2023/07/17 11:16:49 
 
     
 
