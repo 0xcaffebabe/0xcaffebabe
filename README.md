@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=856%20/%203403&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=83.82%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=857%20/%203403&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=83.83%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/450065648" target="_blank"> 1137.第 N 个泰波那契数 </a> - 2023-07-25 16:13:39 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/449979250" target="_blank"> 2208.将数组和减半的最少操作次数 </a> - 2023-07-25 11:38:36 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/448608351" target="_blank"> 剑指 Offer II 073.狒狒吃香蕉 </a> - 2023-07-20 13:55:35 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/448608071" target="_blank"> 875.爱吃香蕉的珂珂 </a> - 2023-07-20 13:54:35 
 
     
 
