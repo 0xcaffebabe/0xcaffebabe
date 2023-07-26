@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=858%20/%203403&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=83.84%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=859%20/%203403&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=83.85%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/450345886" target="_blank"> 1742.盒子中小球的最大数量 </a> - 2023-07-26 13:33:17 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/450327480" target="_blank"> 1784.检查二进制字符串字段 </a> - 2023-07-26 11:47:11 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/448910900" target="_blank"> 面试题 04.03.特定深度节点链表 </a> - 2023-07-21 14:21:34 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/448868373" target="_blank"> 423.从英文中重建数字 </a> - 2023-07-21 11:14:25 
 
     
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/1b463ad4064e37743eb00116050ca8ddee5fb6c6" target="_blank"> ➕1742 </a> - 2023/07/26 13:33:29 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/350cba026e44f9f74f5b24ecbb56382cfc8fafd3" target="_blank"> ➕1784 </a> - 2023/07/26 11:47:24 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/73803286ffc5cc1f1063a16064f0b7bae4e7618e" target="_blank"> 🛠兼容 mermaid10 </a> - 2023/07/21 15:44:33 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/d4f333dc677a97b194d27a279369954224cf542e" target="_blank"> ➕049 </a> - 2023/07/21 14:23:21 
 
     
 
