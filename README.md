@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=861%20/%203425&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=83.83%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=862%20/%203425&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=83.84%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/454295458" target="_blank"> 385.迷你语法分析器 </a> - 2023-08-08 10:06:48 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/450430498" target="_blank"> 1154.一年中的第几天 </a> - 2023-07-26 17:12:34 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/449979250" target="_blank"> 2208.将数组和减半的最少操作次数 </a> - 2023-07-25 11:38:36 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/449643418" target="_blank"> 386.字典序排数 </a> - 2023-07-24 11:17:08 
 
     
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/776367779d7c8e9174bc2c43d86534d0a968a7cc" target="_blank"> ➕385 </a> - 2023/08/08 10:07:01 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/ad82980cd116d83e85f4d7433a604c4b92b0312f" target="_blank"> ✏️数据仓库 </a> - 2023/08/07 23:30:20 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/f9747e3bce8605c17f75c9fb7216ca3a8f02907b" target="_blank"> ➕数据仓库 </a> - 2023/07/31 21:02:09 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/d6ca395e477226d064a7666d93c08a1361920b1d" target="_blank"> ➕1154 </a> - 2023/07/26 17:12:45 
 
     
 
