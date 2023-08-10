@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=862%20/%203426&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=83.8%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=863%20/%203426&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=83.81%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/454972560" target="_blank"> 1289.下降路径最小和  II </a> - 2023-08-10 09:35:59 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/454295458" target="_blank"> 385.迷你语法分析器 </a> - 2023-08-08 10:06:48 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/450065648" target="_blank"> 1137.第 N 个泰波那契数 </a> - 2023-07-25 16:13:39 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/449979250" target="_blank"> 2208.将数组和减半的最少操作次数 </a> - 2023-07-25 11:38:36 
 
     
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/99299812869662ee2ea4844f38a6bfc7c880ed7a" target="_blank"> ➕1289 </a> - 2023/08/10 09:36:16 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/0d45bfae4e1149c0cf72c692761c40b3f1a11354" target="_blank"> ✏️数据仓库 </a> - 2023/08/09 21:47:59 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/241dd1c5f7082109c6a23b3a480189668e35d77b" target="_blank"> ✏️数据仓库 </a> - 2023/08/06 21:13:10 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/c86a1af19822f158b458d723ff1f2eee8554ae63" target="_blank"> ✏️数据仓库 </a> - 2023/08/02 20:49:52 
 
     
 
