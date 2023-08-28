@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=865%20/%203448&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=83.83%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=866%20/%203448&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=83.85%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/460612133" target="_blank"> 1267.统计参与通信的服务器 </a> - 2023-08-28 15:42:29 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/456843454" target="_blank"> 2682.找出转圈游戏输家 </a> - 2023-08-16 10:14:18 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/450425946" target="_blank"> 1089.复写零 </a> - 2023-07-26 17:01:50 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/450345886" target="_blank"> 1742.盒子中小球的最大数量 </a> - 2023-07-26 13:33:17 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/f3722c985f516a8c8b777a3bfccbf34fb6bed394" target="_blank"> ➕1267 </a> - 2023/08/28 15:42:54 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/ac41139a2b64b01b706b7b609025e81d70d57eea" target="_blank"> ✏️性能优化 </a> - 2023/08/27 14:46:47 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/9ea4e238e6beb0c26836816802b56f5260312d96" target="_blank"> ✏JVM </a> - 2023/08/24 20:12:15 
-
-    
-  * <a href="https://github.com/0xcaffebabe/my-weather-app/commit/1bf041424a609c063246388466640f1249067b0d" target="_blank"> egg </a> - 2023/08/23 23:37:58 
 
     
 
