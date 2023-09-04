@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=866%20/%203458&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=83.85%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=867%20/%203458&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=83.82%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/462709736" target="_blank"> 2240.买钢笔和铅笔的方案数 </a> - 2023-09-04 09:25:52 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/460612133" target="_blank"> 1267.统计参与通信的服务器 </a> - 2023-08-28 15:42:29 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/450430498" target="_blank"> 1154.一年中的第几天 </a> - 2023-07-26 17:12:34 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/450425946" target="_blank"> 1089.复写零 </a> - 2023-07-26 17:01:50 
 
     
 
@@ -117,6 +117,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/ff2f75191188f0c591f9c4921dba87d246d8fa9c" target="_blank"> ✏NIO </a> - 2023/09/04 09:54:53 
+
+    
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/7d0b00e8c70b13fa6c532872b6a84a8fd42e1014" target="_blank"> ➕2240 </a> - 2023/09/04 09:26:03 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/675bca47c6014f11872067bd5c2d5c266a11146f" target="_blank"> ✏️学习 </a> - 2023/09/03 16:27:45 
 
     
@@ -127,12 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/f3722c985f516a8c8b777a3bfccbf34fb6bed394" target="_blank"> ➕1267 </a> - 2023/08/28 15:42:54 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/ac41139a2b64b01b706b7b609025e81d70d57eea" target="_blank"> ✏️性能优化 </a> - 2023/08/27 14:46:47 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/84301ea9e9696dfffbaba900b5b40270edf367f2" target="_blank"> ✏️JVM </a> - 2023/08/27 14:58:38 
 
     
 
