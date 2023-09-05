@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=867%20/%203458&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=83.82%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=868%20/%203458&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=83.83%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/463066466" target="_blank"> 2605.从两个数字数组里生成最小数字 </a> - 2023-09-05 09:38:15 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/462709736" target="_blank"> 2240.买钢笔和铅笔的方案数 </a> - 2023-09-04 09:25:52 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/454295458" target="_blank"> 385.迷你语法分析器 </a> - 2023-08-08 10:06:48 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/450430498" target="_blank"> 1154.一年中的第几天 </a> - 2023-07-26 17:12:34 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/74182c77c03bd577c73b6e12675d8f54dc27a74c" target="_blank"> ➕2605 </a> - 2023/09/05 09:38:37 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/ff2f75191188f0c591f9c4921dba87d246d8fa9c" target="_blank"> ✏NIO </a> - 2023/09/04 09:54:53 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/a3a1a28cb1276774030fc59021e19f30017a4ad8" target="_blank"> ✏Spark </a> - 2023/08/28 20:16:30 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/f3722c985f516a8c8b777a3bfccbf34fb6bed394" target="_blank"> ➕1267 </a> - 2023/08/28 15:42:54 
 
     
 
