@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=869%20/%203458&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=83.84%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=869%20/%203458&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=83.85%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/463512399" target="_blank"> 449.序列化和反序列化二叉搜索树 </a> - 2023-09-06 13:49:01 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/463427268" target="_blank"> 830.较大分组的位置 </a> - 2023-09-06 09:28:03 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/455314482" target="_blank"> 1528.重新排列字符串 </a> - 2023-08-11 09:50:37 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/454972560" target="_blank"> 1289.下降路径最小和  II </a> - 2023-08-10 09:35:59 
 
     
 
