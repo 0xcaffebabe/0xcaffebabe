@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=869%20/%203458&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=83.85%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=870%20/%203458&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=83.85%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/463523044" target="_blank"> 面试题 17.12.BiNode </a> - 2023-09-06 14:25:36 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/463512399" target="_blank"> 449.序列化和反序列化二叉搜索树 </a> - 2023-09-06 13:49:01 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/456843454" target="_blank"> 2682.找出转圈游戏输家 </a> - 2023-08-16 10:14:18 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/455314482" target="_blank"> 1528.重新排列字符串 </a> - 2023-08-11 09:50:37 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/927aac9e5fabed014afec03b8ed5e3416a6703b5" target="_blank"> ➕17.12 </a> - 2023/09/06 14:26:04 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/579988cb32a0e3016695d2d6ee9595526641d856" target="_blank"> ➕830 </a> - 2023/09/06 09:28:17 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/7d0b00e8c70b13fa6c532872b6a84a8fd42e1014" target="_blank"> ➕2240 </a> - 2023/09/04 09:26:03 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/675bca47c6014f11872067bd5c2d5c266a11146f" target="_blank"> ✏️学习 </a> - 2023/09/03 16:27:45 
 
     
 
