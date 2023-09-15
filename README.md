@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=870%20/%203464&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=83.85%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=871%20/%203464&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=83.86%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/466454596" target="_blank"> LCP 50.宝石补给 </a> - 2023-09-15 14:28:27 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/463523044" target="_blank"> 面试题 17.12.BiNode </a> - 2023-09-06 14:25:36 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/460612133" target="_blank"> 1267.统计参与通信的服务器 </a> - 2023-08-28 15:42:29 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/456843454" target="_blank"> 2682.找出转圈游戏输家 </a> - 2023-08-16 10:14:18 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/8bb5b50156308b193ba8aafe0f22ebfd490d61e9" target="_blank"> ➕50 </a> - 2023/09/15 14:29:01 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/0b52911ce4c7f85393d3c80086c57888feb17651" target="_blank"> ✏消息队列 </a> - 2023/09/14 19:53:37 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/cd91f4330795ecf2413e1b4aa69f98c62fa36124" target="_blank"> 🛠去除无用依赖 </a> - 2023/09/13 11:00:21 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/4c213f91c490c073914b5d702ed791d18d3d3d99" target="_blank"> 📦云原生 </a> - 2023/09/12 13:49:02 
 
     
 
