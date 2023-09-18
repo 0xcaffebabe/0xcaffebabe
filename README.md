@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=871%20/%203474&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=83.86%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=872%20/%203474&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=83.88%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/467310507" target="_blank"> LCP 67.装饰树 </a> - 2023-09-18 13:36:31 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/466454596" target="_blank"> LCP 50.宝石补给 </a> - 2023-09-15 14:28:27 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/462709736" target="_blank"> 2240.买钢笔和铅笔的方案数 </a> - 2023-09-04 09:25:52 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/460612133" target="_blank"> 1267.统计参与通信的服务器 </a> - 2023-08-28 15:42:29 
 
     
 
