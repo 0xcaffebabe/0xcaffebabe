@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=872%20/%203475&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=83.88%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=873%20/%203475&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=83.85%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/468553519" target="_blank"> 面试题 01.03.URL化 </a> - 2023-09-22 09:56:30 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/467310507" target="_blank"> LCP 67.装饰树 </a> - 2023-09-18 13:36:31 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/463066466" target="_blank"> 2605.从两个数字数组里生成最小数字 </a> - 2023-09-05 09:38:15 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/462709736" target="_blank"> 2240.买钢笔和铅笔的方案数 </a> - 2023-09-04 09:25:52 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/e7134875233a8db2072f764ee53a0edd484fc637" target="_blank"> ➕01.03 </a> - 2023/09/22 09:56:47 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/15fea6ddb96ad6935376a992804262c53567cdf1" target="_blank"> ✏线程 </a> - 2023/09/20 17:13:50 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/62c6662566295a5342aa45061bba8c7a807f449b" target="_blank"> ✏流量控制 </a> - 2023/09/18 15:54:54 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/dc41fbd6c25605121476afab59bd674b5ca59ca2" target="_blank"> 📦可观测性 </a> - 2023/09/18 16:45:47 
 
     
 
