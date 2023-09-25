@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=874%20/%203480&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=83.86%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=876%20/%203480&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=83.88%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,12 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/469478089" target="_blank"> 2651.计算列车到站时间 </a> - 2023-09-25 17:13:46 
+
+    
+  * <a href="https://leetcode.cn/submissions/detail/469476111" target="_blank"> 2769.找出最大的可达成数字 </a> - 2023-09-25 17:08:45 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/469340271" target="_blank"> 89.格雷编码 </a> - 2023-09-25 09:21:33 
 
     
@@ -77,12 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/463523044" target="_blank"> 面试题 17.12.BiNode </a> - 2023-09-06 14:25:36 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/463512399" target="_blank"> 449.序列化和反序列化二叉搜索树 </a> - 2023-09-06 13:49:01 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/463427268" target="_blank"> 830.较大分组的位置 </a> - 2023-09-06 09:28:03 
 
     
 
