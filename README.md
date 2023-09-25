@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=873%20/%203479&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=83.85%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=874%20/%203479&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=83.86%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/469340271" target="_blank"> 89.格雷编码 </a> - 2023-09-25 09:21:33 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/468553519" target="_blank"> 面试题 01.03.URL化 </a> - 2023-09-22 09:56:30 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/463427268" target="_blank"> 830.较大分组的位置 </a> - 2023-09-06 09:28:03 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/463066466" target="_blank"> 2605.从两个数字数组里生成最小数字 </a> - 2023-09-05 09:38:15 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/d83481e9ebe140e8f87b73b8d212416ba55f0e66" target="_blank"> ➕89 </a> - 2023/09/25 09:21:47 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/fd92b39ba41b0051c844cab622c45efab7a299fd" target="_blank"> ✏推荐系统 </a> - 2023/09/22 15:40:48 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/cfa06f5886df43e70d2b903890c325e9140934ba" target="_blank"> ✏推荐系统 </a> - 2023/09/20 20:03:10 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/162551bc8e5a8c1e8ad7086f7c193ec6e2b157a0" target="_blank"> ✏推荐系统 </a> - 2023/09/19 20:08:06 
 
     
 
