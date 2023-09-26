@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=880%20/%203480&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=83.91%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=881%20/%203480&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=83.92%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/469680320" target="_blank"> 2545.根据第 K 场考试的分数排序 </a> - 2023-09-26 11:17:36 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/469676021" target="_blank"> 2824.统计和小于目标的下标对数目 </a> - 2023-09-26 11:06:53 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/469476111" target="_blank"> 2769.找出最大的可达成数字 </a> - 2023-09-25 17:08:45 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/469340271" target="_blank"> 89.格雷编码 </a> - 2023-09-25 09:21:33 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/c8e4b3654bd81e81529da32c8a01d2113227f66f" target="_blank"> ➕2545 </a> - 2023/09/26 11:17:51 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/9cee619d83cdd35fadbf1568f07580c017721d12" target="_blank"> ➕2824 </a> - 2023/09/26 11:07:06 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/1177c8af62bbe75298400eeb676d17806b439248" target="_blank"> ➕2807 </a> - 2023/09/25 17:31:46 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/6e610198e93597d0ac1cd6e79d970a66cb6298fa" target="_blank"> ➕2651 </a> - 2023/09/25 17:14:00 
 
     
 
