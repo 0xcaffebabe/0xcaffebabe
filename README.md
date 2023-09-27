@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=889%20/%203480&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.0%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=890%20/%203480&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.01%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/470011052" target="_blank"> 2574.左右元素和的差值 </a> - 2023-09-27 14:31:25 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/470004101" target="_blank"> 2828.判别首字母缩略词 </a> - 2023-09-27 14:02:40 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/469772030" target="_blank"> 2317.操作后的最大异或和 </a> - 2023-09-26 16:29:20 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/469762152" target="_blank"> 2413.最小偶倍数 </a> - 2023-09-26 16:04:45 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/33cbb1fd5778bb17ffe0b3e14970d1ab8aa53d09" target="_blank"> ➕2574 </a> - 2023/09/27 14:31:38 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/a5b64f18ae32a55cd5ded366c2364aa384fa0b34" target="_blank"> ➕2828 </a> - 2023/09/27 14:02:53 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/b64cec811873c56c96f3584353541c1d7658ad65" target="_blank"> ➕1333 </a> - 2023/09/27 09:36:59 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/140b1fe36cb93d3c2fcd30495a1418e3e807bc48" target="_blank"> ✏消息队列 </a> - 2023/09/26 15:36:18 
 
     
 
