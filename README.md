@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=897%20/%203481&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.08%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=898%20/%203481&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.09%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/470213422" target="_blank"> 2469.温度转换 </a> - 2023-09-28 11:47:18 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/470211998" target="_blank"> 2810.故障键盘 </a> - 2023-09-28 11:40:41 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/470070523" target="_blank"> 1637.两点之间不包含任何点的最宽垂直区域 </a> - 2023-09-27 17:19:17 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/470028414" target="_blank"> 2610.转换二维数组 </a> - 2023-09-27 15:23:14 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/eae6d461324f75e8cd4badde8d22a4412f53a459" target="_blank"> ➕2469 </a> - 2023/09/28 11:47:31 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/457946ce9b6b83824f1c422cd9cb245f6a9b212e" target="_blank"> ➕2810 </a> - 2023/09/28 11:40:54 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/648f580b15a698eff2035acd2f2deaf632200ff7" target="_blank"> ➕2798 </a> - 2023/09/28 10:21:29 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/4dca7b6fab472e951c37d182b645cdc9947b7764" target="_blank"> ➕2798 </a> - 2023/09/28 10:23:22 
 
     
 
