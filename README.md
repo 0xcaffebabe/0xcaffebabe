@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=911%20/%203485&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.23%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=912%20/%203485&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.25%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/470658305" target="_blank"> 1557.可以到达所有点的最少点数目 </a> - 2023-10-01 01:05:49 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/470657356" target="_blank"> 2520.统计能整除数字的位数 </a> - 2023-10-01 00:50:49 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/470641358" target="_blank"> 2710.移除字符串中的尾随零 </a> - 2023-09-30 23:37:53 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/470639108" target="_blank"> 2657.找到两个数组的前缀公共数组 </a> - 2023-09-30 23:32:01 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/0a33aeb738c3533a41d5bf438c22f0f3926c974d" target="_blank"> ➕1557 </a> - 2023/10/01 01:05:59 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/9738f4e97fe6cbef054f66a2047d3f101cbd06fb" target="_blank"> ➕2520 </a> - 2023/10/01 00:51:00 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/b16f2d7eb2fa4e0b12cc355a62ccef96dd15e8f2" target="_blank"> ➕08.09 </a> - 2023/09/30 23:44:00 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/072f73adb5199c587339e28f396cd3495788e70f" target="_blank"> ➕2710 </a> - 2023/09/30 23:38:03 
 
     
 
