@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=923%20/%203489&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.34%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=926%20/%203489&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.36%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,15 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/471182700" target="_blank"> 1252.奇数值单元格的数目 </a> - 2023-10-03 22:12:43 
+
+    
+  * <a href="https://leetcode.cn/submissions/detail/471180512" target="_blank"> 2586.统计范围内的元音字符串数 </a> - 2023-10-03 22:02:08 
+
+    
+  * <a href="https://leetcode.cn/submissions/detail/471179802" target="_blank"> 1255.得分最高的单词集合 </a> - 2023-10-03 21:58:45 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/471135534" target="_blank"> 2778.特殊元素平方和 </a> - 2023-10-03 17:56:43 
 
     
@@ -74,15 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/470996425" target="_blank"> 2553.分割数组中数字的数位 </a> - 2023-10-02 21:56:37 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/470994823" target="_blank"> 861.翻转矩阵后的得分 </a> - 2023-10-02 21:51:29 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/470951376" target="_blank"> 2427.公因子的数目 </a> - 2023-10-02 17:34:21 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/470950645" target="_blank"> 1605.给定行和列的和求可行矩阵 </a> - 2023-10-02 17:30:53 
 
     
 
@@ -117,6 +117,15 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/96836bec015ff0863536bd9c227109fb0ff92e62" target="_blank"> ➕1252 </a> - 2023/10/03 22:12:53 
+
+    
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/fc7398127d52108d5c715fdcca99036c164dd574" target="_blank"> ➕2586 </a> - 2023/10/03 22:02:21 
+
+    
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/04181a8b1caa485b76734cdc15cdfd2ed79626f2" target="_blank"> ➕1255 </a> - 2023/10/03 21:58:58 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/5e876b854e7f7782ecabf969349d40e1b98a2e80" target="_blank"> ➕2864 </a> - 2023/10/02 23:09:41 
 
     
@@ -124,15 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/ecf4c361236f5c9264f7c7e58ccaed45d68f7145" target="_blank"> ➕2553 </a> - 2023/10/02 21:56:52 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/ffb60caab6d73c8a492a101c8f3ed5178e5941ae" target="_blank"> ➕861 </a> - 2023/10/02 21:51:43 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/8d64a73f75066c6273ab7dd84ca8e34a4ce35bdd" target="_blank"> ➕2427 </a> - 2023/10/02 17:34:35 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/363de70f5a2c1036d180b673f4ecb1c1f0e6fb4c" target="_blank"> ➕1605 </a> - 2023/10/02 17:31:04 
 
     
 
