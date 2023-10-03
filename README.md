@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=922%20/%203489&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.33%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=923%20/%203489&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.34%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/471135534" target="_blank"> 2778.特殊元素平方和 </a> - 2023-10-03 17:56:43 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/471009241" target="_blank"> 2864.最大二进制奇数 </a> - 2023-10-02 23:09:15 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/470950645" target="_blank"> 1605.给定行和列的和求可行矩阵 </a> - 2023-10-02 17:30:53 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/470944763" target="_blank"> 面试题 08.07.无重复字符串的排列组合 </a> - 2023-10-02 17:02:16 
 
     
 
