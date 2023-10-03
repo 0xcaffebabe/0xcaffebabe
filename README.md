@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/2e1c9583a56000ceef3802adc9d0458624757011" target="_blank"> ➕一些思考,写在工作三周年之际 </a> - 2023/10/04 00:07:21 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/fbfe02a700693ce4cfa587ecab9a12f9f564d6d1" target="_blank"> ➕1442 </a> - 2023/10/03 22:42:00 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/96836bec015ff0863536bd9c227109fb0ff92e62" target="_blank"> ➕1252 </a> - 2023/10/03 22:12:53 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/fc7398127d52108d5c715fdcca99036c164dd574" target="_blank"> ➕2586 </a> - 2023/10/03 22:02:21 
 
     
 
