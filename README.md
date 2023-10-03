@@ -32,6 +32,9 @@
 #### 📖 最近博客
 
 
+* <a href="https://0xcaffebabe.github.io/%E4%BA%BA%E7%94%9F/2023/10/03/%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83,%E5%86%99%E5%9C%A8%E5%B7%A5%E4%BD%9C%E4%B8%89%E5%91%A8%E5%B9%B4%E4%B9%8B%E9%99%85.html" target="_blank"> 一些思考,写在工作三周年之际 </a> - 2023/10/03 
+
+    
 * <a href="https://0xcaffebabe.github.io/%E4%BA%BA%E7%94%9F/2023/03/26/%E6%88%91%E7%9A%842022%E6%80%BB%E7%BB%93.html" target="_blank"> 我的2022总结 </a> - 2023/03/26 
 
     
@@ -51,9 +54,6 @@
 
     
 * <a href="https://0xcaffebabe.github.io/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/2022/03/20/%E8%B0%88%E8%B0%88%E6%A8%A1%E6%9D%BF%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F%E5%9C%A8%E5%AE%9E%E9%99%85%E7%94%9F%E4%BA%A7%E7%9A%84%E5%BA%94%E7%94%A8%E5%8F%8A%E4%BB%A3%E7%A0%81%E5%A4%8D%E7%94%A8.html" target="_blank"> 谈谈模板方法模式在实际生产的应用及代码复用 </a> - 2022/03/20 
-
-    
-* <a href="https://0xcaffebabe.github.io/java/2022/03/12/%E7%BA%BF%E7%A8%8B%E6%B1%A0%E7%9A%84%E4%BD%BF%E7%94%A8%E5%8F%8A%E9%81%87%E5%88%B0%E7%9A%84%E4%B8%80%E4%BA%9B%E9%97%AE%E9%A2%98.html" target="_blank"> 线程池的使用及遇到的一些问题 </a> - 2022/03/12 
 
         
 
