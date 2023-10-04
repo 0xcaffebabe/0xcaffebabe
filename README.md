@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=941%20/%203504&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.48%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=942%20/%203504&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.49%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/471379581" target="_blank"> 980.不同路径 III </a> - 2023-10-04 22:00:51 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/471373486" target="_blank"> LCP 44.开幕式焰火 </a> - 2023-10-04 21:33:05 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/471357297" target="_blank"> 2176.统计数组中相等且可以被整除的数对 </a> - 2023-10-04 20:19:52 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/471356257" target="_blank"> 1370.上升下降字符串 </a> - 2023-10-04 20:14:33 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/01dfbfe98be17c55d447a755f3633cbfd4033bb0" target="_blank"> ➕980 </a> - 2023/10/04 22:01:04 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/1f2aa03b4a0e63a5743a2f5685896c99b06e71a9" target="_blank"> ➕44 </a> - 2023/10/04 21:33:16 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/9136fb21d4c11900527ddfd52b49bc2c1c30f64d" target="_blank"> ➕2833 </a> - 2023/10/04 20:22:30 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/4ff2ed44d26f408ca93a793007d1e6e5f8aa3151" target="_blank"> ➕1370 </a> - 2023/10/04 20:14:50 
 
     
 
