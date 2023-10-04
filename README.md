@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=933%20/%203504&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.42%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=937%20/%203504&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.45%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,18 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/471357822" target="_blank"> 2833.距离原点最远的点 </a> - 2023-10-04 20:22:19 
+
+    
+  * <a href="https://leetcode.cn/submissions/detail/471357297" target="_blank"> 2176.统计数组中相等且可以被整除的数对 </a> - 2023-10-04 20:19:52 
+
+    
+  * <a href="https://leetcode.cn/submissions/detail/471356257" target="_blank"> 1370.上升下降字符串 </a> - 2023-10-04 20:14:33 
+
+    
+  * <a href="https://leetcode.cn/submissions/detail/471353879" target="_blank"> 2418.按身高排序 </a> - 2023-10-04 20:02:24 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/471350689" target="_blank"> 2652.倍数求和 </a> - 2023-10-04 19:43:56 
 
     
@@ -71,18 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/471346436" target="_blank"> 2221.数组的三角和 </a> - 2023-10-04 19:35:01 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/471188295" target="_blank"> 1442.形成两个异或相等数组的三元组数目 </a> - 2023-10-03 22:41:50 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/471186329" target="_blank"> 2640.一个数组所有前缀的分数 </a> - 2023-10-03 22:31:03 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/471184467" target="_blank"> 1967.作为子字符串出现在单词中的字符串数目 </a> - 2023-10-03 22:21:27 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/471183845" target="_blank"> 2103.环和杆 </a> - 2023-10-03 22:18:18 
 
     
 
@@ -117,22 +117,22 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/9136fb21d4c11900527ddfd52b49bc2c1c30f64d" target="_blank"> ➕2833 </a> - 2023/10/04 20:22:30 
+
+    
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/4ff2ed44d26f408ca93a793007d1e6e5f8aa3151" target="_blank"> ➕1370 </a> - 2023/10/04 20:14:50 
+
+    
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/31fb11d3f6cefc9c066963a7cb7cb2cf7bc5d361" target="_blank"> ➕2176 </a> - 2023/10/04 20:20:05 
+
+    
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/5e21b3df7291d0ec4bab4dac1b1e8cd53bbed91f" target="_blank"> ➕2418 </a> - 2023/10/04 20:02:36 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/e5dfeda640583c13d8e9eb42c3996b9ec02d7dc5" target="_blank"> ➕2652 </a> - 2023/10/04 19:44:07 
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/cf88f57d1a5d5b6c60db982e0329ed10de49fe37" target="_blank"> ➕2496 </a> - 2023/10/04 19:42:03 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/bef9e1aba21c1f67f1fee80c7fd16e095a4a14b0" target="_blank"> ➕2221 </a> - 2023/10/04 19:35:13 
-
-    
-  * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/2e1c9583a56000ceef3802adc9d0458624757011" target="_blank"> ➕一些思考,写在工作三周年之际 </a> - 2023/10/04 00:07:21 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/fbfe02a700693ce4cfa587ecab9a12f9f564d6d1" target="_blank"> ➕1442 </a> - 2023/10/03 22:42:00 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/54d75115b75b05567e85c108bba5f63f1a70cfe2" target="_blank"> ➕2640 </a> - 2023/10/03 22:31:15 
 
     
 
