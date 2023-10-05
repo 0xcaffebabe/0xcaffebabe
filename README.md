@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=942%20/%203505&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.49%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=944%20/%203505&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.51%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,12 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/471544135" target="_blank"> 1237.找出给定方程的正整数解 </a> - 2023-10-05 19:44:19 
+
+    
+  * <a href="https://leetcode.cn/submissions/detail/471542298" target="_blank"> 2733.既不是最小值也不是最大值 </a> - 2023-10-05 19:34:20 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/471379581" target="_blank"> 980.不同路径 III </a> - 2023-10-04 22:00:51 
 
     
@@ -77,12 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/471363012" target="_blank"> 950.按递增顺序显示卡牌 </a> - 2023-10-04 20:47:15 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/471357822" target="_blank"> 2833.距离原点最远的点 </a> - 2023-10-04 20:22:19 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/471357297" target="_blank"> 2176.统计数组中相等且可以被整除的数对 </a> - 2023-10-04 20:19:52 
 
     
 
@@ -117,6 +117,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/aa7f8af3e50b135504aada9b6dcf13b05811853f" target="_blank"> ➕1237 </a> - 2023/10/05 19:44:30 
+
+    
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/db92c54d7f0803af2718ee25d6889f5855309af3" target="_blank"> ➕2733 </a> - 2023/10/05 19:34:31 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/01dfbfe98be17c55d447a755f3633cbfd4033bb0" target="_blank"> ➕980 </a> - 2023/10/04 22:01:04 
 
     
@@ -127,12 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/cfdbb3eaebdd1ba1ac75ff803630af771f85f3fe" target="_blank"> ➕890 </a> - 2023/10/04 21:03:28 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/1995350dcb76ac624668dc03cefd4df7104228f1" target="_blank"> ➕950 </a> - 2023/10/04 20:47:27 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/9136fb21d4c11900527ddfd52b49bc2c1c30f64d" target="_blank"> ➕2833 </a> - 2023/10/04 20:22:30 
 
     
 
