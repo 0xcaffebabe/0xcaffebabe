@@ -53,7 +53,8 @@ def fetch_leetcode_ac_info():
     solved = data['data']['userProfilePublicProfile']['submissionProgress']['acTotal']
     total = data['data']['userProfilePublicProfile']['submissionProgress']['questionTotal']
     ac_rate = data['data']['userProfilePublicProfile']['submissionProgress']['acSubmissions'] / data['data']['userProfilePublicProfile']['submissionProgress']['totalSubmissions']
-    return solved, total, round(ac_rate * 100, 2)
+    ranking = data['data']['userProfilePublicProfile']['siteRanking']
+    return solved, total, round(ac_rate * 100, 2), ranking
   finally:
     client.close()
 
@@ -61,8 +62,9 @@ def generate_leetcode_badge():
   data = fetch_leetcode_ac_info()
   solved = str(data[0]) + '%20/%20' + str(data[1])
   ac_rate = str(data[2]) + '%'
-  return '![](${info}) [![leetcode](${solved})](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](${ac})](https://leetcode.cn/u/0xcaffebabe/)'\
-    .replace('${info}', 'https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success')\
+  ranking = str(data[3])
+  return '[![0xcaffebabe](${info})](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](${solved})](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](${ac})](https://leetcode.cn/u/0xcaffebabe/)'\
+    .replace('${info}', 'https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=' + ranking +'&color=success')\
     .replace('${solved}', 'https://img.shields.io/static/v1?label=Solved&message='+ solved +'&color=success')\
     .replace('${ac}', 'https://img.shields.io/static/v1?label=Accepted&message='+ ac_rate +'&color=success')
 
