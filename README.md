@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=952%20/%203506&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.53%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+![](https://img.shields.io/static/v1?label=LeetCode%20CN&message=0xcaffebabe&color=success) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=953%20/%203506&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.54%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/471644849" target="_blank"> 2706.购买两块巧克力 </a> - 2023-10-06 11:37:09 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/471565461" target="_blank"> 2108.找出数组中的第一个回文字符串 </a> - 2023-10-05 21:22:31 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/471547332" target="_blank"> 419.甲板上的战舰 </a> - 2023-10-05 20:00:50 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/471545365" target="_blank"> 2255.统计是给定字符串前缀的字符串数目 </a> - 2023-10-05 19:51:10 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/ecc4f324932b04a440939aa30a24f333651f0cb0" target="_blank"> ➕2706 </a> - 2023/10/06 11:37:20 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/a9137eb43bd61fda34b09e7f95c62802ccba4117" target="_blank"> ➕2108 </a> - 2023/10/05 21:22:42 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/10dc073dac177d11cbd23c5d8316fd26ffd6146f" target="_blank"> ➕2506 </a> - 2023/10/05 20:06:08 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/1bec89122e7add2511a07f0574f366b00d6f9dd8" target="_blank"> ➕419 </a> - 2023/10/05 20:01:03 
 
     
 
