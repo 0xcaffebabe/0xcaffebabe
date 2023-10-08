@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=5927&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=959%20/%203506&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.52%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=5927&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=960%20/%203506&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.53%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/472124003" target="_blank"> 面试题 05.02.二进制数转字符串 </a> - 2023-10-08 09:27:11 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/471979262" target="_blank"> 2785.将字符串中的元音字母排序 </a> - 2023-10-07 17:10:48 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/471648791" target="_blank"> 1238.循环码排列 </a> - 2023-10-06 11:57:12 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/471644849" target="_blank"> 2706.购买两块巧克力 </a> - 2023-10-06 11:37:09 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/af2966a82edfbea0f118ede76ad43d86e5663028" target="_blank"> ➕05.02 </a> - 2023/10/08 09:27:24 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/8c6d449ed73e72c61f8b14a4679e8807da2497dc" target="_blank"> ✏性能工程 </a> - 2023/10/07 19:59:05 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/8b646e8ca3587c6dd6effd50e2357424d13fcee9" target="_blank"> 增加 lcr 类型题目 </a> - 2023/10/07 13:49:26 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/9600f633014c056e9f7d84c01c5ea39e61ac46e2" target="_blank"> ➕091 </a> - 2023/10/07 13:47:25 
 
     
 
