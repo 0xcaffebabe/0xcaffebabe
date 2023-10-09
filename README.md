@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=5887&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=962%20/%203510&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.54%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=5887&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=964%20/%203510&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.56%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,12 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/472456050" target="_blank"> 763.划分字母区间 </a> - 2023-10-09 09:55:56 
+
+    
+  * <a href="https://leetcode.cn/submissions/detail/472449382" target="_blank"> 1806.还原排列的最少操作步数 </a> - 2023-10-09 09:33:30 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/472444893" target="_blank"> 2578.最小和分割 </a> - 2023-10-09 09:14:54 
 
     
@@ -77,12 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/471974300" target="_blank"> 1669.合并两个链表 </a> - 2023-10-07 16:59:04 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/471915292" target="_blank"> LCP 66.最小展台数量 </a> - 2023-10-07 14:35:18 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/471902711" target="_blank"> LCR 091.粉刷房子 </a> - 2023-10-07 13:46:19 
 
     
 
@@ -117,6 +117,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/67b769fdb900194a519270a1123273b6ee0b56df" target="_blank"> ➕763 </a> - 2023/10/09 09:56:20 
+
+    
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/2e4a929ed1e38bc44a58947c3b30c6b10026dabf" target="_blank"> ➕1806 </a> - 2023/10/09 09:33:45 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/280c36fce6d79da276fd6643d3e937b828eb90a9" target="_blank"> ➕2578 </a> - 2023/10/09 09:15:15 
 
     
@@ -127,12 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/8c6d449ed73e72c61f8b14a4679e8807da2497dc" target="_blank"> ✏性能工程 </a> - 2023/10/07 19:59:05 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/96d34010f19dd87e66c35b13a4c51458be173bf6" target="_blank"> ➕2785 </a> - 2023/10/07 17:11:01 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/867d3143d3b1dcd6d059df882f9644ecde0e6737" target="_blank"> ➕1669 </a> - 2023/10/07 16:59:15 
 
     
 
