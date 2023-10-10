@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=5847&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=966%20/%203510&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.57%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=5847&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=969%20/%203510&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.6%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,15 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/472768276" target="_blank"> 面试题 08.12.八皇后 </a> - 2023-10-10 09:48:34 
+
+    
+  * <a href="https://leetcode.cn/submissions/detail/472766920" target="_blank"> 51.N 皇后 </a> - 2023-10-10 09:44:07 
+
+    
+  * <a href="https://leetcode.cn/submissions/detail/472761099" target="_blank"> 877.石子游戏 </a> - 2023-10-10 09:24:30 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/472759357" target="_blank"> 1979.找出数组的最大公约数 </a> - 2023-10-10 09:16:50 
 
     
@@ -74,15 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/472449382" target="_blank"> 1806.还原排列的最少操作步数 </a> - 2023-10-09 09:33:30 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/472444893" target="_blank"> 2578.最小和分割 </a> - 2023-10-09 09:14:54 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/472223342" target="_blank"> LCP 07.传递信息 </a> - 2023-10-08 14:06:11 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/472124003" target="_blank"> 面试题 05.02.二进制数转字符串 </a> - 2023-10-08 09:27:11 
 
     
 
@@ -117,6 +117,15 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/01c41ca7d81625be63c20fe713bf28c32e5e86d3" target="_blank"> ➕08.12 </a> - 2023/10/10 09:48:48 
+
+    
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/42640489b3e3c1738c23b3ea1848c297df8a3fa9" target="_blank"> ➕51 </a> - 2023/10/10 09:44:21 
+
+    
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/88b07edca22958b7a533c75fb5328a3964815f75" target="_blank"> ➕877 </a> - 2023/10/10 09:24:41 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/edfde1fbf78f2b305ddfbfb642c6bf0b7adb0fcc" target="_blank"> ➕1979 </a> - 2023/10/10 09:17:02 
 
     
@@ -124,15 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/67b769fdb900194a519270a1123273b6ee0b56df" target="_blank"> ➕763 </a> - 2023/10/09 09:56:20 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/2e4a929ed1e38bc44a58947c3b30c6b10026dabf" target="_blank"> ➕1806 </a> - 2023/10/09 09:33:45 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/280c36fce6d79da276fd6643d3e937b828eb90a9" target="_blank"> ➕2578 </a> - 2023/10/09 09:15:15 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/951c4862310d2ab5a68aaa843f9299514ee87130" target="_blank"> ➕07 </a> - 2023/10/08 14:06:25 
 
     
 
