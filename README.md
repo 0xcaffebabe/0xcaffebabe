@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=5587&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=982%20/%203519&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.66%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=5587&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=983%20/%203519&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.67%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/474486756" target="_blank"> 2529.正整数和负整数的最大计数 </a> - 2023-10-16 09:18:04 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/473853171" target="_blank"> 289.生命游戏 </a> - 2023-10-13 16:32:12 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/473427626" target="_blank"> 1402.做菜顺序 </a> - 2023-10-12 10:18:05 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/473408031" target="_blank"> 2562.找出数组的串联值 </a> - 2023-10-12 09:27:49 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/c547e8cb1366bf74e6e3f6186397c1f65f94bf16" target="_blank"> ➕2529 </a> - 2023/10/16 09:18:23 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/49d8d940496ba4592b9e1c13661fe8b2b6de0488" target="_blank"> Update README.md </a> - 2023/10/14 20:21:26 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/d547a0094c940e7be6f032f890f4d080bcd95180" target="_blank"> ➕2319 </a> - 2023/10/12 14:16:39 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/d133a900c740014bc48671a179aee495b7ce6c3d" target="_blank"> ➕1630 </a> - 2023/10/12 13:51:42 
 
     
 
