@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=5554&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=985%20/%203519&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.68%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=5554&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=986%20/%203519&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.69%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/475112490" target="_blank"> 1780.判断一个数字是否可以表示成三的幂的和 </a> - 2023-10-18 09:07:08 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/474789890" target="_blank"> 2405.子字符串的最优划分 </a> - 2023-10-17 09:16:50 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/473514166" target="_blank"> 2670.找出不同元素数目差数组 </a> - 2023-10-12 15:29:22 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/473492012" target="_blank"> 2319.判断矩阵是否是一个 X 矩阵 </a> - 2023-10-12 14:16:27 
 
     
 
@@ -117,6 +117,15 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/861296c4e306a337361dbf22448de3a2ceb66567" target="_blank"> 🛠修复 mermaid 渲染问题 </a> - 2023/10/18 09:15:18 
+
+    
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/228dcd62649cae14b9bdb00f1248c75d06b651e6" target="_blank"> ➕1780 </a> - 2023/10/18 09:07:35 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/a1888d99bb9408cfa0867568c0b1ec77ddff3f93" target="_blank"> ✏Tomcat & Jetty </a> - 2023/10/17 20:01:54 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/bc7bf7f9e2a731cf6d6529992ae0049406ed98b5" target="_blank"> ⚒️修复 mermaid 渲染错误 </a> - 2023/10/17 22:36:37 
 
     
@@ -124,15 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/ed68fa0a5eb4cfb24bc20c2a62c24d9eeefe9f88" target="_blank"> ➕2405 </a> - 2023/10/17 09:17:07 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/ccebf659a71e6ed6e2441dd30f2da6ceedd0bdde" target="_blank"> ✏Tomcat & Jetty </a> - 2023/10/16 20:09:01 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/bbeda74f71e7108bc3c55fae5233ca48c57455ea" target="_blank"> ➕2442 </a> - 2023/10/16 16:29:02 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/c547e8cb1366bf74e6e3f6186397c1f65f94bf16" target="_blank"> ➕2529 </a> - 2023/10/16 09:18:23 
 
     
 
