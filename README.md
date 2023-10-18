@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=5554&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=990%20/%203519&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.69%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=5554&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=991%20/%203519&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.69%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/475271531" target="_blank"> 2716.最小化字符串长度 </a> - 2023-10-18 17:09:45 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/475198405" target="_blank"> 2595.奇偶位数 </a> - 2023-10-18 13:48:42 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/474789890" target="_blank"> 2405.子字符串的最优划分 </a> - 2023-10-17 09:16:50 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/474618271" target="_blank"> 2442.反转之后不同整数的数目 </a> - 2023-10-16 16:28:50 
 
     
 
@@ -117,6 +117,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/29d511c8fc3c6837a311de829d425b3d6bc40c10" target="_blank"> ➕2716 </a> - 2023/10/18 17:09:59 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/b1c66f635aae688dadb6fb1bdc21e74f05d98ac5" target="_blank"> Bump tough-cookie from 4.0.0 to ... </a> - 2023/07/09 19:06:02 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/573f15e084037f5d79210f33d72b24c0bfa501d7" target="_blank"> ➕2595 </a> - 2023/10/18 13:48:56 
 
     
@@ -127,12 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/85fa23bf83a209f2644f50e62933524497f5153d" target="_blank"> ➕2530 </a> - 2023/10/18 09:21:14 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/861296c4e306a337361dbf22448de3a2ceb66567" target="_blank"> 🛠修复 mermaid 渲染问题 </a> - 2023/10/18 09:15:18 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/228dcd62649cae14b9bdb00f1248c75d06b651e6" target="_blank"> ➕1780 </a> - 2023/10/18 09:07:35 
 
     
 
