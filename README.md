@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=5554&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=988%20/%203519&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.67%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=5554&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=989%20/%203519&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.68%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/475173182" target="_blank"> 1403.非递增顺序的最小子序列 </a> - 2023-10-18 11:48:33 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/475119683" target="_blank"> 1710.卡车上的最大单元数 </a> - 2023-10-18 09:33:11 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/474486756" target="_blank"> 2529.正整数和负整数的最大计数 </a> - 2023-10-16 09:18:04 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/473853171" target="_blank"> 289.生命游戏 </a> - 2023-10-13 16:32:12 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/5c4d758d625839207545e4ea498deea6a5bc9db2" target="_blank"> ➕1403 </a> - 2023/10/18 11:48:47 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/59c09e3d4af6657f3d2769d2830d24018ddc8ed7" target="_blank"> ➕1710 </a> - 2023/10/18 09:33:33 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/a1888d99bb9408cfa0867568c0b1ec77ddff3f93" target="_blank"> ✏Tomcat & Jetty </a> - 2023/10/17 20:01:54 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/bc7bf7f9e2a731cf6d6529992ae0049406ed98b5" target="_blank"> ⚒️修复 mermaid 渲染错误 </a> - 2023/10/17 22:36:37 
 
     
 
