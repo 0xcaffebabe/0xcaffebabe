@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=5554&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=986%20/%203519&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.69%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=5554&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=988%20/%203519&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.67%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,12 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/475119683" target="_blank"> 1710.卡车上的最大单元数 </a> - 2023-10-18 09:33:11 
+
+    
+  * <a href="https://leetcode.cn/submissions/detail/475115921" target="_blank"> 2530.执行 K 次操作后的最大分数 </a> - 2023-10-18 09:21:00 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/475112490" target="_blank"> 1780.判断一个数字是否可以表示成三的幂的和 </a> - 2023-10-18 09:07:08 
 
     
@@ -77,12 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/473853171" target="_blank"> 289.生命游戏 </a> - 2023-10-13 16:32:12 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/473706643" target="_blank"> 2894.分类求和并作差 </a> - 2023-10-13 09:18:08 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/473514166" target="_blank"> 2670.找出不同元素数目差数组 </a> - 2023-10-12 15:29:22 
 
     
 
@@ -117,6 +117,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/59c09e3d4af6657f3d2769d2830d24018ddc8ed7" target="_blank"> ➕1710 </a> - 2023/10/18 09:33:33 
+
+    
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/85fa23bf83a209f2644f50e62933524497f5153d" target="_blank"> ➕2530 </a> - 2023/10/18 09:21:14 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/861296c4e306a337361dbf22448de3a2ceb66567" target="_blank"> 🛠修复 mermaid 渲染问题 </a> - 2023/10/18 09:15:18 
 
     
@@ -127,12 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/bc7bf7f9e2a731cf6d6529992ae0049406ed98b5" target="_blank"> ⚒️修复 mermaid 渲染错误 </a> - 2023/10/17 22:36:37 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/896543b14d73b4ce141180e340c3dadfc884b370" target="_blank"> 🛠mermaid支持缩放拖拽 </a> - 2023/10/17 13:24:39 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/ed68fa0a5eb4cfb24bc20c2a62c24d9eeefe9f88" target="_blank"> ➕2405 </a> - 2023/10/17 09:17:07 
 
     
 
