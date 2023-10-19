@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=5478&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=991%20/%203520&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.69%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=5478&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=992%20/%203520&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.7%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/475420453" target="_blank"> 1726.同积元组 </a> - 2023-10-19 09:15:27 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/475271531" target="_blank"> 2716.最小化字符串长度 </a> - 2023-10-18 17:09:45 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/475112490" target="_blank"> 1780.判断一个数字是否可以表示成三的幂的和 </a> - 2023-10-18 09:07:08 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/474789890" target="_blank"> 2405.子字符串的最优划分 </a> - 2023-10-17 09:16:50 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/d4d8d50ac54417436992863d0e1d0f30cfd83bb7" target="_blank"> ➕1726 </a> - 2023/10/19 09:15:43 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/4602525de8901fe6f2757a8c57396c8d89108e78" target="_blank"> Bump semver from 5.7.1 to 5.7.2
 ... </a> - 2023/07/13 07:41:31 
 
@@ -131,9 +134,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/29d511c8fc3c6837a311de829d425b3d6bc40c10" target="_blank"> ➕2716 </a> - 2023/10/18 17:09:59 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/b1c66f635aae688dadb6fb1bdc21e74f05d98ac5" target="_blank"> Bump tough-cookie from 4.0.0 to ... </a> - 2023/07/09 19:06:02 
 
     
 
