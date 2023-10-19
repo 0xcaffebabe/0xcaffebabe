@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=5478&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=992%20/%203520&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.7%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=5478&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=993%20/%203520&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.71%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/475423058" target="_blank"> 2441.与对应负数同时存在的最大正整数 </a> - 2023-10-19 09:24:01 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/475420453" target="_blank"> 1726.同积元组 </a> - 2023-10-19 09:15:27 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/475115921" target="_blank"> 2530.执行 K 次操作后的最大分数 </a> - 2023-10-18 09:21:00 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/475112490" target="_blank"> 1780.判断一个数字是否可以表示成三的幂的和 </a> - 2023-10-18 09:07:08 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/fadf470a6341a64b4f6ce7ea43aa8da36774cf90" target="_blank"> ➕2441 </a> - 2023/10/19 09:24:13 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/d4d8d50ac54417436992863d0e1d0f30cfd83bb7" target="_blank"> ➕1726 </a> - 2023/10/19 09:15:43 
 
     
@@ -131,9 +134,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/62eda12925b013e403e5736bce2e5c149a90f1e2" target="_blank"> Bump @antfu/utils, unplugin-auto... </a> - 2023/06/03 01:17:33 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/29d511c8fc3c6837a311de829d425b3d6bc40c10" target="_blank"> ➕2716 </a> - 2023/10/18 17:09:59 
 
     
 
