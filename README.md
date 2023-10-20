@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=5411&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=995%20/%203520&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.69%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=5411&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=999%20/%203520&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.72%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,18 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/475705348" target="_blank"> 2042.检查句子中的数字是否递增 </a> - 2023-10-20 09:48:48 
+
+    
+  * <a href="https://leetcode.cn/submissions/detail/475703204" target="_blank"> 2078.两栋颜色不同且距离最远的房子 </a> - 2023-10-20 09:42:24 
+
+    
+  * <a href="https://leetcode.cn/submissions/detail/475700867" target="_blank"> 2465.不同的平均值数目 </a> - 2023-10-20 09:35:01 
+
+    
+  * <a href="https://leetcode.cn/submissions/detail/475698885" target="_blank"> 2525.根据规则将箱子分类 </a> - 2023-10-20 09:28:16 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/475567448" target="_blank"> 2696.删除子串后的字符串最小长度 </a> - 2023-10-19 17:34:29 
 
     
@@ -71,18 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/475423058" target="_blank"> 2441.与对应负数同时存在的最大正整数 </a> - 2023-10-19 09:24:01 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/475420453" target="_blank"> 1726.同积元组 </a> - 2023-10-19 09:15:27 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/475271531" target="_blank"> 2716.最小化字符串长度 </a> - 2023-10-18 17:09:45 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/475198405" target="_blank"> 2595.奇偶位数 </a> - 2023-10-18 13:48:42 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/475173182" target="_blank"> 1403.非递增顺序的最小子序列 </a> - 2023-10-18 11:48:33 
 
     
 
@@ -117,22 +117,22 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/f8fbf0e7e65a20cfedbf2200abcb7b30cf5d5128" target="_blank"> ➕2042 </a> - 2023/10/20 09:49:00 
+
+    
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/755e923e584f47055f823c81ff47db56b0e08f66" target="_blank"> ➕2078 </a> - 2023/10/20 09:42:37 
+
+    
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/596c747442f52c81b5cab6395c1f1d339cd532e4" target="_blank"> ➕2465 </a> - 2023/10/20 09:35:14 
+
+    
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/6a4d92688fc5cb354050ec407d11681cccc4e133" target="_blank"> ➕2525 </a> - 2023/10/20 09:28:31 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/d0c570fe41ce11dd895b7de3fc90bc05047e8491" target="_blank"> ✏Tomcat </a> - 2023/10/19 15:35:05 
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/cd77d667b864ef558e14f125d635d85c9bef0e88" target="_blank"> ➕机器学习 </a> - 2023/10/19 20:10:09 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/54ce48d2c7993fb54d25772d34126104ca194a93" target="_blank"> ➕2696 </a> - 2023/10/19 17:34:46 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/4688ba84475019b1f439dbf4294d5d1c5f25fcf2" target="_blank"> ➕1200 </a> - 2023/10/19 13:34:58 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/fadf470a6341a64b4f6ce7ea43aa8da36774cf90" target="_blank"> ➕2441 </a> - 2023/10/19 09:24:13 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/d4d8d50ac54417436992863d0e1d0f30cfd83bb7" target="_blank"> ➕1726 </a> - 2023/10/19 09:15:43 
 
     
 
