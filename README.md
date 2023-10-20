@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=5411&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=999%20/%203520&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.72%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=5411&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1000%20/%203520&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.73%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/475788800" target="_blank"> 1974.使用特殊打字机键入单词的最少时间 </a> - 2023-10-20 14:56:08 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/475705348" target="_blank"> 2042.检查句子中的数字是否递增 </a> - 2023-10-20 09:48:48 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/475488630" target="_blank"> 1200.最小绝对差 </a> - 2023-10-19 13:34:45 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/475423058" target="_blank"> 2441.与对应负数同时存在的最大正整数 </a> - 2023-10-19 09:24:01 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/331cf58dfe39509234e9e88689e87b8bedc6dae8" target="_blank"> ➕1974 </a> - 2023/10/20 14:56:22 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/f8fbf0e7e65a20cfedbf2200abcb7b30cf5d5128" target="_blank"> ➕2042 </a> - 2023/10/20 09:49:00 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/d0c570fe41ce11dd895b7de3fc90bc05047e8491" target="_blank"> ✏Tomcat </a> - 2023/10/19 15:35:05 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/cd77d667b864ef558e14f125d635d85c9bef0e88" target="_blank"> ➕机器学习 </a> - 2023/10/19 20:10:09 
 
     
 
