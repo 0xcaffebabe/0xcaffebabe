@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=5351&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1001%20/%203524&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.74%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=5351&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1002%20/%203524&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.74%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/476509972" target="_blank"> 1247.交换字符使得字符串相同 </a> - 2023-10-23 13:50:02 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/476421662" target="_blank"> 2788.按分隔符拆分字符串 </a> - 2023-10-23 09:11:36 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/475698885" target="_blank"> 2525.根据规则将箱子分类 </a> - 2023-10-20 09:28:16 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/475567448" target="_blank"> 2696.删除子串后的字符串最小长度 </a> - 2023-10-19 17:34:29 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/18805ddac16616c689483b52c0f2fcd86bdc397b" target="_blank"> ➕1247 </a> - 2023/10/23 13:50:14 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/f6dab13cea56a0b175a87532ae2014aac75b9c00" target="_blank"> 🛠优化公式渲染 </a> - 2023/10/23 11:28:39 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/66ed573ae4d6f5a463fb3a29241a21e1cc6b4716" target="_blank"> ✏Kafka </a> - 2023/10/20 15:47:49 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/2ad2c5bce061fd0aa0ea8a9facb6f0d70663b970" target="_blank"> ✏机器学习 </a> - 2023/10/20 17:26:37 
 
     
 
