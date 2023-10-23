@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/f6dab13cea56a0b175a87532ae2014aac75b9c00" target="_blank"> 🛠优化公式渲染 </a> - 2023/10/23 11:28:39 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/0c43b12363eca5df785fb8c577954e8fb7bf3b9f" target="_blank"> ➕2788 </a> - 2023/10/23 09:11:58 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/2ad2c5bce061fd0aa0ea8a9facb6f0d70663b970" target="_blank"> ✏机器学习 </a> - 2023/10/20 17:26:37 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/cd873132e8296e2a115a7a2744aa7e9732cd9f4d" target="_blank"> Bump @babel/traverse from 7.20.1... </a> - 2023/10/18 17:07:34 
 
     
 
