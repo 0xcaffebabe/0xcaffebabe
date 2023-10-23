@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=5351&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1000%20/%203524&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.73%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=5351&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1001%20/%203524&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.74%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/476421662" target="_blank"> 2788.按分隔符拆分字符串 </a> - 2023-10-23 09:11:36 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/475788800" target="_blank"> 1974.使用特殊打字机键入单词的最少时间 </a> - 2023-10-20 14:56:08 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/475567448" target="_blank"> 2696.删除子串后的字符串最小长度 </a> - 2023-10-19 17:34:29 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/475488630" target="_blank"> 1200.最小绝对差 </a> - 2023-10-19 13:34:45 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/0c43b12363eca5df785fb8c577954e8fb7bf3b9f" target="_blank"> ➕2788 </a> - 2023/10/23 09:11:58 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/b61aec0d2f35b92debbc380dc08066469152ad75" target="_blank"> ✏️机器学习 </a> - 2023/10/22 23:27:37 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/cd873132e8296e2a115a7a2744aa7e9732cd9f4d" target="_blank"> Bump @babel/traverse from 7.20.1... </a> - 2023/10/18 17:07:34 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/331cf58dfe39509234e9e88689e87b8bedc6dae8" target="_blank"> ➕1974 </a> - 2023/10/20 14:56:22 
 
     
 
