@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/03a252e7b5f3dfc567409bc8a16fcfde74b05dc2" target="_blank"> ✏机器学习 </a> - 2023/10/25 20:10:39 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/6aa2ededa0d60675f246ab9a0bad785be9b78306" target="_blank"> ✏️机器学习 </a> - 2023/10/24 23:42:27 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/18805ddac16616c689483b52c0f2fcd86bdc397b" target="_blank"> ➕1247 </a> - 2023/10/23 13:50:14 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/f6dab13cea56a0b175a87532ae2014aac75b9c00" target="_blank"> 🛠优化公式渲染 </a> - 2023/10/23 11:28:39 
 
     
 
