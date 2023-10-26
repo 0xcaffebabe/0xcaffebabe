@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=5339&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1002%20/%203525&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.74%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=5339&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1003%20/%203525&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.75%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/477302779" target="_blank"> 2389.和有限的最长子序列 </a> - 2023-10-26 09:35:30 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/476509972" target="_blank"> 1247.交换字符使得字符串相同 </a> - 2023-10-23 13:50:02 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/475700867" target="_blank"> 2465.不同的平均值数目 </a> - 2023-10-20 09:35:01 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/475698885" target="_blank"> 2525.根据规则将箱子分类 </a> - 2023-10-20 09:28:16 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/941fb03098e5e2c06b9213790a91c758deb50ca3" target="_blank"> ➕2389 </a> - 2023/10/26 09:35:44 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/e659d5eb8e774547ca5e52514fd100b9a48606f7" target="_blank"> ✏️机器学习 </a> - 2023/10/25 23:23:47 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/55c7373ebcf09b69cc77e9e35918e365c1afed65" target="_blank"> ✏️机器学习 </a> - 2023/10/23 23:21:09 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/ac55acff35350ec49cbcd0029658e2727fb918c2" target="_blank"> ✏机器学习 </a> - 2023/10/23 20:07:31 
 
     
 
