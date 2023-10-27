@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=5330&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1003%20/%203525&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.75%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=5330&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1005%20/%203525&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.77%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,12 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/477584166" target="_blank"> 2740.找出分区值 </a> - 2023-10-27 09:41:58 
+
+    
+  * <a href="https://leetcode.cn/submissions/detail/477581462" target="_blank"> 2180.统计各位数字之和为偶数的整数个数 </a> - 2023-10-27 09:32:40 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/477302779" target="_blank"> 2389.和有限的最长子序列 </a> - 2023-10-26 09:35:30 
 
     
@@ -77,12 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/475705348" target="_blank"> 2042.检查句子中的数字是否递增 </a> - 2023-10-20 09:48:48 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/475703204" target="_blank"> 2078.两栋颜色不同且距离最远的房子 </a> - 2023-10-20 09:42:24 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/475700867" target="_blank"> 2465.不同的平均值数目 </a> - 2023-10-20 09:35:01 
 
     
 
@@ -117,6 +117,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/428060178853f1a27d76c06f5cf0f84e08d693c5" target="_blank"> ➕2740 </a> - 2023/10/27 09:42:11 
+
+    
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/a91e87e83874584512da0e821cb5812086c3653a" target="_blank"> ➕2180 </a> - 2023/10/27 09:32:56 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/6e2b80f248afb2baae4b47e290caf4298433ecc1" target="_blank"> ✏️机器学习 </a> - 2023/10/26 23:21:10 
 
     
@@ -127,12 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/e659d5eb8e774547ca5e52514fd100b9a48606f7" target="_blank"> ✏️机器学习 </a> - 2023/10/25 23:23:47 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/03a252e7b5f3dfc567409bc8a16fcfde74b05dc2" target="_blank"> ✏机器学习 </a> - 2023/10/25 20:10:39 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/6aa2ededa0d60675f246ab9a0bad785be9b78306" target="_blank"> ✏️机器学习 </a> - 2023/10/24 23:42:27 
 
     
 
