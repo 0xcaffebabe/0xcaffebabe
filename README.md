@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=5155&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1016%20/%203535&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.79%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=5155&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1017%20/%203535&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.79%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/479385067" target="_blank"> 1337.矩阵中战斗力最弱的 K 行 </a> - 2023-11-03 09:24:55 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/479193073" target="_blank"> 1716.计算力扣银行的钱 </a> - 2023-11-02 14:06:29 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/478878748" target="_blank"> 2303.计算应缴税款总额 </a> - 2023-11-01 10:37:04 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/478874239" target="_blank"> 1025.除数博弈 </a> - 2023-11-01 10:23:19 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/4723ddcce65c0c8f01740b8ee05b907afb5a6108" target="_blank"> ➕1337 </a> - 2023/11/03 09:25:15 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/2692b863df05ce8fd5a5148fab348f561cffa5c2" target="_blank"> ➕1716 </a> - 2023/11/02 14:06:42 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/7b325f98c4f33b824d8602edaf0df264505dc848" target="_blank"> 🛠删除 PDF 导出功能 </a> - 2023/11/02 11:21:35 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/def361f3a3628f52466373a8924da837b7433b07" target="_blank"> 🛠升级 mermaid </a> - 2023/11/02 11:08:49 
 
     
 
