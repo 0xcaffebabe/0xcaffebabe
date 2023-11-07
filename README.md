@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=5080&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1022%20/%203539&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.84%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=5080&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1023%20/%203539&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.85%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/480280377" target="_blank"> 2164.对奇偶下标分别排序 </a> - 2023-11-07 09:27:19 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/480118044" target="_blank"> 1160.拼写单词 </a> - 2023-11-06 16:27:38 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/479385067" target="_blank"> 1337.矩阵中战斗力最弱的 K 行 </a> - 2023-11-03 09:24:55 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/479193073" target="_blank"> 1716.计算力扣银行的钱 </a> - 2023-11-02 14:06:29 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/ee6b3e240f9cd04727b8f86b679155c0c4004be9" target="_blank"> ➕2164 </a> - 2023/11/07 09:27:30 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/1bc147d8eb110fdddea62531487b7c972fd29f15" target="_blank"> ✏集合&面向对象 </a> - 2023/11/06 20:07:31 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/fc887a2868ea92d556ede8d054518b8b1e5395a2" target="_blank"> 🛠修复索引更新异常 </a> - 2023/11/03 17:11:12 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/dd613c1ba8920069e1fb5885b5dc9663e83fea73" target="_blank"> ➕812 </a> - 2023/11/03 15:43:06 
 
     
 
