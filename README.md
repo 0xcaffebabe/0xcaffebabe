@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=5071&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1023%20/%203539&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.8%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=5071&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1025%20/%203539&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.82%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,12 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/480554928" target="_blank"> 2027.转换字符串的最少操作次数 </a> - 2023-11-08 09:37:06 
+
+    
+  * <a href="https://leetcode.cn/submissions/detail/480553236" target="_blank"> 2609.最长平衡子字符串 </a> - 2023-11-08 09:31:26 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/480280377" target="_blank"> 2164.对奇偶下标分别排序 </a> - 2023-11-07 09:27:19 
 
     
@@ -77,12 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/479466623" target="_blank"> 2815.数组中的最大数对和 </a> - 2023-11-03 15:14:26 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/479416247" target="_blank"> 1189.“气球” 的最大数量 </a> - 2023-11-03 11:10:21 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/479385067" target="_blank"> 1337.矩阵中战斗力最弱的 K 行 </a> - 2023-11-03 09:24:55 
 
     
 
@@ -117,6 +117,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/64ea6939293c23acaf506d094e0d6a37b5dbf431" target="_blank"> ➕2027 </a> - 2023/11/08 09:37:17 
+
+    
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/cc603379d7214e589a4c5840590761229fdafe29" target="_blank"> ➕2609 </a> - 2023/11/08 09:31:41 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/549b593100810faf968036bdef1bc93600ad46c6" target="_blank"> ✏行为模式 </a> - 2023/11/07 20:03:10 
 
     
@@ -127,12 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/ee6b3e240f9cd04727b8f86b679155c0c4004be9" target="_blank"> ➕2164 </a> - 2023/11/07 09:27:30 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/1bc147d8eb110fdddea62531487b7c972fd29f15" target="_blank"> ✏集合&面向对象 </a> - 2023/11/06 20:07:31 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/78225633731ee10dd248458956a84687193b404f" target="_blank"> ➕1160 </a> - 2023/11/06 16:27:49 
 
     
 
