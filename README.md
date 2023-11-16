@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=5005&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1030%20/%203549&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.81%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=5005&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1031%20/%203549&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.82%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/482483896" target="_blank"> 1995.统计特殊四元组 </a> - 2023-11-16 09:49:46 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/482222765" target="_blank"> 1652.拆炸弹 </a> - 2023-11-15 09:27:36 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/480554928" target="_blank"> 2027.转换字符串的最少操作次数 </a> - 2023-11-08 09:37:06 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/480553236" target="_blank"> 2609.最长平衡子字符串 </a> - 2023-11-08 09:31:26 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/4bd24596cb2e576b1758cbbb5a6644bbb3b324ed" target="_blank"> ➕1995 </a> - 2023/11/16 09:50:00 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/c523fe43d249f8cea78a33b644750020bb7843cd" target="_blank"> ✏Redis </a> - 2023/11/15 17:22:48 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/f2cf56dd857154b2b5ae10b67d105d785ca4bdad" target="_blank"> ✏数据处理 </a> - 2023/11/13 19:13:23 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/f0435a62810ce052636f6f6b0ba7750fd084c155" target="_blank"> ✏netty </a> - 2023/11/13 20:03:30 
 
     
 
