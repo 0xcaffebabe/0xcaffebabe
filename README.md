@@ -117,6 +117,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/d29fc4e4c292a10d3dde9449cbc5c04bca349d25" target="_blank"> ✏Redis </a> - 2023/11/17 16:08:50 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/f1dbb864b5cd8c30f1256a020d280d3d988aa7bb" target="_blank"> 🛠修复关键词定位器错误 </a> - 2023/11/17 16:39:27 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/43a218fce3147637642d2f43dc7eec90cc28ceff" target="_blank"> ➕2022 </a> - 2023/11/17 09:53:28 
 
     
@@ -127,12 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/c523fe43d249f8cea78a33b644750020bb7843cd" target="_blank"> ✏Redis </a> - 2023/11/15 17:22:48 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/cd74cd06a6966c6d7249eb96e95ed01af3228d94" target="_blank"> ➕1652 </a> - 2023/11/15 09:27:51 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/ec82d21abc19ca666985861dd73bef564c0d7618" target="_blank"> ✏Redis </a> - 2023/11/14 19:03:07 
 
     
 
