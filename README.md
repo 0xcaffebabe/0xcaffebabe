@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4989&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1031%20/%203549&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.82%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4989&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1032%20/%203549&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.79%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/482740474" target="_blank"> 2022.将一维数组转变成二维数组 </a> - 2023-11-17 09:53:11 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/482483896" target="_blank"> 1995.统计特殊四元组 </a> - 2023-11-16 09:49:46 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/480652248" target="_blank"> 2144.打折购买糖果的最小开销 </a> - 2023-11-08 15:31:02 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/480554928" target="_blank"> 2027.转换字符串的最少操作次数 </a> - 2023-11-08 09:37:06 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/43a218fce3147637642d2f43dc7eec90cc28ceff" target="_blank"> ➕2022 </a> - 2023/11/17 09:53:28 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/7955ae3a5874322931281a113be629782a29c57a" target="_blank"> ✏Redis </a> - 2023/11/16 18:57:34 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/ec82d21abc19ca666985861dd73bef564c0d7618" target="_blank"> ✏Redis </a> - 2023/11/14 19:03:07 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/1095b13006db95940617e2eeb6c041f4dfbe3126" target="_blank"> ✏Netty </a> - 2023/11/14 20:09:16 
 
     
 
