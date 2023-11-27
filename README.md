@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4995&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1034%20/%203562&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.72%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4995&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1035%20/%203562&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.73%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/484988327" target="_blank"> 973.最接近原点的 K 个点 </a> - 2023-11-27 09:32:08 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/484374902" target="_blank"> 1260.二维网格迁移 </a> - 2023-11-24 09:50:39 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/481164462" target="_blank"> 2300.咒语和药水的成功对数 </a> - 2023-11-10 14:45:49 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/480882349" target="_blank"> 1314.矩阵区域和 </a> - 2023-11-09 14:02:50 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/a501c8ed4942465d5f19e73b51808f966150fb7c" target="_blank"> ➕973 </a> - 2023/11/27 09:32:24 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/6a0c70f0cbc2b8dc3fb194c6a343a703fd4a467e" target="_blank"> ✏️音频技术 </a> - 2023/11/26 16:33:24 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/e19d295faa4a937145c61eedd874f030aa03ff8e" target="_blank"> ✏音频技术 </a> - 2023/11/24 17:15:02 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/e312708e3201a7067fa92f9723230e824f85ffc2" target="_blank"> ➕1260 </a> - 2023/11/24 09:50:52 
 
     
 
