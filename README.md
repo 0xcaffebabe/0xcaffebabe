@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4995&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1035%20/%203562&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.73%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4995&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1036%20/%203562&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.7%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/485079285" target="_blank"> 2839.判断通过操作能否让字符串相等 I </a> - 2023-11-27 15:45:56 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/484988327" target="_blank"> 973.最接近原点的 K 个点 </a> - 2023-11-27 09:32:08 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/482222765" target="_blank"> 1652.拆炸弹 </a> - 2023-11-15 09:27:36 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/481164462" target="_blank"> 2300.咒语和药水的成功对数 </a> - 2023-11-10 14:45:49 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/c30e9e98f6b0222649fb17d754cfc6896a52747d" target="_blank"> ➕2839 </a> - 2023/11/27 15:46:10 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/a501c8ed4942465d5f19e73b51808f966150fb7c" target="_blank"> ➕973 </a> - 2023/11/27 09:32:24 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/dff92d5afd88e574b8db8de4e0b61e3003ec79c6" target="_blank"> 🛠修复关键词高亮时 mermaid 渲染失效 </a> - 2023/11/24 14:48:30 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/e19d295faa4a937145c61eedd874f030aa03ff8e" target="_blank"> ✏音频技术 </a> - 2023/11/24 17:15:02 
 
     
 
