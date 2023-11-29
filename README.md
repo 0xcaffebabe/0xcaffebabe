@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4980&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1036%20/%203562&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.7%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4980&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1037%20/%203562&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.67%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/485503253" target="_blank"> 937.重新排列日志文件 </a> - 2023-11-29 09:39:54 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/485079285" target="_blank"> 2839.判断通过操作能否让字符串相等 I </a> - 2023-11-27 15:45:56 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/482483896" target="_blank"> 1995.统计特殊四元组 </a> - 2023-11-16 09:49:46 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/482222765" target="_blank"> 1652.拆炸弹 </a> - 2023-11-15 09:27:36 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/dcbb614548ebe5590251f9ec56b13dc310d1406b" target="_blank"> ➕937 </a> - 2023/11/29 09:40:06 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/fe96ec6ab871e31bc33e5c3b41fe7bae6dc855c9" target="_blank"> 📦清理大图 </a> - 2023/11/28 16:10:09 
 
     
@@ -132,9 +135,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/fafd16978c7437cbbe855ac44c6d7d3c89b3ddb6" target="_blank"> 📦清理大图 </a> - 2023/11/27 17:19:45 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/be4fee3772cb3c649e4d4d8cafef15f2a2ce2990" target="_blank"> 🛠增加 mermaid 大图查看功能 </a> - 2023/11/27 19:01:05 
 
     
 
