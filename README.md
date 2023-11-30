@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/0304df5387f85bd2b2fef479130486482c87a2d2" target="_blank"> [CodeFactor] Apply fixes to comm... </a> - 2023/11/29 16:33:19 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/37b37c3801e5d6adfb47f2f11448c2bb9221b52c" target="_blank"> ➕985 </a> - 2023/11/30 09:34:17 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/d425322e1baf9798ecea9334dca01fdb1a5c99dd" target="_blank"> 🛠调整知识丰富度算法 </a> - 2023/11/29 16:33:00 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/dcbb614548ebe5590251f9ec56b13dc310d1406b" target="_blank"> ➕937 </a> - 2023/11/29 09:40:06 
 
     
 
