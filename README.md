@@ -117,6 +117,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/309bd75d55e3d8c9a6699ab9ccef5f7fb21057ac" target="_blank"> ➕etcd </a> - 2023/12/04 18:54:49 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/2e6abfc4b006dede4dfe01594783b5c15659663b" target="_blank"> ✏Redis </a> - 2023/12/04 20:11:23 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/a0ea2c39c0135afeaefeaab5a183ac91831a2fde" target="_blank"> ➕2335 </a> - 2023/12/04 16:08:18 
 
     
@@ -127,12 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/695f949a5a0d58d3b126d4557bebdb2280772c33" target="_blank"> 📦清理图片 </a> - 2023/11/30 14:48:11 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/d70587ba4f48e6abec74bc770cced58464e1f599" target="_blank"> ✏Kafka </a> - 2023/11/30 19:20:43 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/5c07599dabd06befbfde41c7fb2d5a841fa59874" target="_blank"> ✏音频技术 </a> - 2023/11/30 19:43:09 
 
     
 
