@@ -117,6 +117,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/5c33ae096d8e1de72d57c8ba0cd8a9c60ca5a4c6" target="_blank"> ✏项目管理 </a> - 2023/12/06 16:25:46 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/e0d5cfa5358133bd93587d26f55ff78955214b42" target="_blank"> ✏Redis </a> - 2023/12/06 19:59:46 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/28977b472d628655d1ee2a96cdaf12771351ce1d" target="_blank"> ➕951 </a> - 2023/12/06 09:30:40 
 
     
@@ -127,12 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/aabb47bd6af75e92c0bef7e22ff7923cf31cb437" target="_blank"> ➕1028 </a> - 2023/12/05 09:52:56 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/309bd75d55e3d8c9a6699ab9ccef5f7fb21057ac" target="_blank"> ➕etcd </a> - 2023/12/04 18:54:49 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/2e6abfc4b006dede4dfe01594783b5c15659663b" target="_blank"> ✏Redis </a> - 2023/12/04 20:11:23 
 
     
 
