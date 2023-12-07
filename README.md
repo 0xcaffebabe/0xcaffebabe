@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4940&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1042%20/%203598&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.59%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4940&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1043%20/%203598&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.61%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/487310640" target="_blank"> 1466.重新规划路线 </a> - 2023-12-07 10:10:13 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/487075741" target="_blank"> 951.翻转等价二叉树 </a> - 2023-12-06 09:31:04 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/485503253" target="_blank"> 937.重新排列日志文件 </a> - 2023-11-29 09:39:54 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/485079285" target="_blank"> 2839.判断通过操作能否让字符串相等 I </a> - 2023-11-27 15:45:56 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/a39cbac07cd269d1950f612fbf12ba46ed8060aa" target="_blank"> ➕1466 </a> - 2023/12/07 10:11:55 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/5c33ae096d8e1de72d57c8ba0cd8a9c60ca5a4c6" target="_blank"> ✏项目管理 </a> - 2023/12/06 16:25:46 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/78cace37fb999236c4b5cc5388eceff451ae6ba9" target="_blank"> ✏Redis </a> - 2023/12/05 20:02:47 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/aabb47bd6af75e92c0bef7e22ff7923cf31cb437" target="_blank"> ➕1028 </a> - 2023/12/05 09:52:56 
 
     
 
