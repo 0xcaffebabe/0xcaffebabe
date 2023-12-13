@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4932&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1045%20/%203606&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.59%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4932&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1046%20/%203606&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.6%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/488562158" target="_blank"> 337.打家劫舍 III </a> - 2023-12-13 09:25:31 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/488333461" target="_blank"> 987.二叉树的垂序遍历 </a> - 2023-12-12 09:52:00 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/486593340" target="_blank"> 2335.装满杯子需要的最短总时长 </a> - 2023-12-04 10:12:28 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/485988707" target="_blank"> 2287.重排字符形成目标字符串 </a> - 2023-12-01 09:21:39 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/da3bd8967ae21bd80681a89058ff428a74705050" target="_blank"> ➕337 </a> - 2023/12/13 09:25:47 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/6452cdda251711e1af4b30b6f7b5ef767be3d0c5" target="_blank"> ✏软件设计 </a> - 2023/12/12 18:57:09 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/4521371f3a4b75ba0af15b2898d758d44327ad12" target="_blank"> ✏软件设计 </a> - 2023/12/11 18:53:44 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/2f7e29a08817db6f3ce12f5fc78d44c23e8b1412" target="_blank"> ✏Redis </a> - 2023/12/11 19:59:23 
 
     
 
