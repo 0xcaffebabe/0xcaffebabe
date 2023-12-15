@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4913&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1047%20/%203607&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.57%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4913&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1048%20/%203607&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.58%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/489015085" target="_blank"> 889.根据前序和后序遍历构造二叉树 </a> - 2023-12-15 09:35:42 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/488801606" target="_blank"> 2336.无限集中的最小数字 </a> - 2023-12-14 09:39:53 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/487075741" target="_blank"> 951.翻转等价二叉树 </a> - 2023-12-06 09:31:04 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/486829088" target="_blank"> 1028.从先序遍历还原二叉树 </a> - 2023-12-05 09:52:38 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/4999c9c5452116dc6eef8622b9cff0cccc6a27fd" target="_blank"> ➕889 </a> - 2023/12/15 09:36:00 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/410d249afb99ccf1223c4b4a8ced20373441289a" target="_blank"> ✏Kafka </a> - 2023/12/14 17:20:04 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/8a2d69ac6b84f17f1b9083b0b452e0c482eb0bc7" target="_blank"> ✏Redis </a> - 2023/12/13 10:37:44 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/01b1a09dd85e16288bfcc387f07fcd2ee84ac5f4" target="_blank"> 🛠优化 mermaid 渲染 </a> - 2023/12/13 11:03:34 
 
     
 
