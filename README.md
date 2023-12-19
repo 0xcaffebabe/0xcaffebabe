@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4866&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1052%20/%203611&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.61%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4866&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1053%20/%203611&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.62%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/489786953" target="_blank"> 2096.从二叉树一个节点到另一个节点每一步的方向 </a> - 2023-12-19 09:29:22 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/489546789" target="_blank"> 面试题 04.12.求和路径 </a> - 2023-12-18 09:25:59 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/488801606" target="_blank"> 2336.无限集中的最小数字 </a> - 2023-12-14 09:39:53 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/488562158" target="_blank"> 337.打家劫舍 III </a> - 2023-12-13 09:25:31 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/810a9749187e90b80a44164872f0a96e9f0a7d75" target="_blank"> ➕2096 </a> - 2023/12/19 09:29:39 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/b1d6a55d3a19d60a3cc0c26e20e4cc05838963cd" target="_blank"> ✏Kafka </a> - 2023/12/18 19:48:10 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/d1f7d2b2be0a97acfa78e2a6593605b7dbd4e903" target="_blank"> ➕1103 </a> - 2023/12/16 19:18:13 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/9f9f6c49a45d87c25d9a0ac567a6ab7fe2a5b4e7" target="_blank"> ✏Kafka </a> - 2023/12/15 17:39:29 
 
     
 
