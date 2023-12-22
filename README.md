@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4839&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1056%20/%203612&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.64%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4839&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1057%20/%203612&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.65%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,12 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/490486797" target="_blank"> 2913.子数组不同元素数目的平方和 I </a> - 2023-12-22 10:00:01 
+
+    
+  * <a href="https://leetcode.cn/submissions/detail/490479620" target="_blank"> 2828.判别首字母缩略词 </a> - 2023-12-22 09:19:15 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/490479144" target="_blank"> 2960.统计已测试设备 </a> - 2023-12-22 09:14:58 
 
     
@@ -77,12 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/489546789" target="_blank"> 面试题 04.12.求和路径 </a> - 2023-12-18 09:25:59 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/489284821" target="_blank"> 2729.判断一个数是否迷人 </a> - 2023-12-16 19:34:33 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/489284029" target="_blank"> 2148.元素计数 </a> - 2023-12-16 19:28:47 
 
     
 
@@ -117,6 +117,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/22014072fe949bcc3d9038da733e1ec61bb20304" target="_blank"> ➕2913 </a> - 2023/12/22 10:00:14 
+
+    
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/1f34ce76fc75c9f48679f626149ca907b38bb4a8" target="_blank"> ➕2828 </a> - 2023/12/22 09:19:27 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/d09317bf02b553620982f71cee11a70842afd504" target="_blank"> ➕2960 </a> - 2023/12/22 09:15:11 
 
     
@@ -127,12 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/1f4a490b70ad5d0bc865d409c39d2568616c60f5" target="_blank"> ✏领域驱动设计 </a> - 2023/12/20 15:49:16 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/61b40c834d510b8fc8a940920a81b30a6ab87128" target="_blank"> ✏Kafka </a> - 2023/12/20 17:23:36 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/17069d3e7557a7362376e8bceb40c947f484ad9c" target="_blank"> ➕1080 </a> - 2023/12/20 09:36:29 
 
     
 
