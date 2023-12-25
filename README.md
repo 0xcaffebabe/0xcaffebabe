@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4838&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1057%20/%203620&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.65%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4838&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1058%20/%203620&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.66%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/491021451" target="_blank"> 1276.不浪费原料的汉堡制作方案 </a> - 2023-12-25 09:19:45 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/490486797" target="_blank"> 2913.子数组不同元素数目的平方和 I </a> - 2023-12-22 10:00:01 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/489786953" target="_blank"> 2096.从二叉树一个节点到另一个节点每一步的方向 </a> - 2023-12-19 09:29:22 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/489546789" target="_blank"> 面试题 04.12.求和路径 </a> - 2023-12-18 09:25:59 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/30015c2594a982b0e172c46482a9040e0c452c9c" target="_blank"> ➕1276 </a> - 2023/12/25 09:20:01 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/22a2b0c9ce09f8a966bb8e8b1e89896e22339fe7" target="_blank"> ✏Kafka </a> - 2023/12/22 17:18:04 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/fa32b1a9ad5a1159864e54fc6fa799375b94ef96" target="_blank"> ✏Kafka </a> - 2023/12/21 17:27:36 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/38c4ede50de7ec31fe313d9413324cafbfe2265a" target="_blank"> ➕1638 </a> - 2023/12/21 09:55:31 
 
     
 
