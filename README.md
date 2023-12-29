@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4729&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1064%20/%203622&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.66%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4729&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1066%20/%203622&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.68%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/491955294" target="_blank"> LCR 086.分割回文串 </a> - 2023-12-29 09:52:40 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/491712609" target="_blank"> 241.为运算表达式设计优先级 </a> - 2023-12-28 09:30:46 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/491101809" target="_blank"> 2942.查找包含给定字符的单词 </a> - 2023-12-25 15:28:17 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/491021451" target="_blank"> 1276.不浪费原料的汉堡制作方案 </a> - 2023-12-25 09:19:45 
 
     
 
@@ -117,6 +117,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/fd461e669278df31c049e51a50d6c4bfb8da864f" target="_blank"> ➕086 </a> - 2023/12/29 09:52:53 
+
+    
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/a571813a398b1cb547b8cb3d67e59c77b0684deb" target="_blank"> ➕131 </a> - 2023/12/29 09:49:10 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/79bbd082dbc88afbf5aebcc15ccd2a537349e9e5" target="_blank"> ✏V8 </a> - 2023/12/28 16:56:05 
 
     
@@ -127,12 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/37e4217e5a4ba2b69389dace8cba07fc3c9825d3" target="_blank"> ➕2660 </a> - 2023/12/27 09:23:48 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/4b43bac8a89d60953a8b2c83d0e4b8005673ae71" target="_blank"> ➕V8 </a> - 2023/12/26 17:24:10 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/4576e149426074d9bf456a8e37c03c84e7ff9bb0" target="_blank"> ➕2951 </a> - 2023/12/26 09:22:20 
 
     
 
