@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4741&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1067%20/%203646&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.68%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4741&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1068%20/%203646&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.65%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/494197053" target="_blank"> 1615.最大网络秩 </a> - 2024-01-09 09:57:18 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/494000452" target="_blank"> 447.回旋镖的数量 </a> - 2024-01-08 13:22:42 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/491240958" target="_blank"> 2965.找出缺失和重复的数字 </a> - 2023-12-26 09:13:33 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/491102903" target="_blank"> 2974.最小数字游戏 </a> - 2023-12-25 15:31:27 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/cffc3c46539b396461fa9524e39f5dc69b911603" target="_blank"> ➕1615 </a> - 2024/01/09 09:57:29 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/80f8b5e13efb5889c6cc6a45c7df2aa7458e2203" target="_blank"> ✏机器学习 </a> - 2024/01/08 20:01:26 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/a9e0a2a2832a1961e6402a8ce43e1bcdc869a404" target="_blank"> ✏线性代数 </a> - 2024/01/03 20:01:09 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/fd461e669278df31c049e51a50d6c4bfb8da864f" target="_blank"> ➕086 </a> - 2023/12/29 09:52:53 
 
     
 
