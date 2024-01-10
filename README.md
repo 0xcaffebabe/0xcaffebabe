@@ -32,6 +32,9 @@
 #### 📖 最近博客
 
 
+* <a href="https://0xcaffebabe.github.io/%E4%BA%BA%E7%94%9F/2024/01/07/%E6%88%91%E7%9A%842023%E6%80%BB%E7%BB%93.html" target="_blank"> 我的2023总结 </a> - 2024/01/07 
+
+    
 * <a href="https://0xcaffebabe.github.io/%E4%BA%BA%E7%94%9F/2023/10/03/%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83,%E5%86%99%E5%9C%A8%E5%B7%A5%E4%BD%9C%E4%B8%89%E5%91%A8%E5%B9%B4%E4%B9%8B%E9%99%85.html" target="_blank"> 一些思考,写在工作三周年之际 </a> - 2023/10/03 
 
     
@@ -51,9 +54,6 @@
 
     
 * <a href="https://0xcaffebabe.github.io/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/2022/03/27/%E8%B0%88%E8%B0%88%E7%BB%84%E5%90%88%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F%E5%8F%8A%E5%9C%A8%E7%94%9F%E4%BA%A7%E7%9A%84%E5%BA%94%E7%94%A8.html" target="_blank"> 谈谈组合策略模式及在生产的应用 </a> - 2022/03/27 
-
-    
-* <a href="https://0xcaffebabe.github.io/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/2022/03/20/%E8%B0%88%E8%B0%88%E6%A8%A1%E6%9D%BF%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F%E5%9C%A8%E5%AE%9E%E9%99%85%E7%94%9F%E4%BA%A7%E7%9A%84%E5%BA%94%E7%94%A8%E5%8F%8A%E4%BB%A3%E7%A0%81%E5%A4%8D%E7%94%A8.html" target="_blank"> 谈谈模板方法模式在实际生产的应用及代码复用 </a> - 2022/03/20 
 
         
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/d9ed01a9db1f5827e16530ce4bc7ed37f9bb29ee" target="_blank"> 我的 2023 总结 </a> - 2024/01/10 22:41:13 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/e99a2f9fe593333517f0f54ce71badfe361a216b" target="_blank"> ✏机器学习 </a> - 2024/01/10 20:08:24 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/e9823d7a9c0636296473b2b8aa2d1611ecccec31" target="_blank"> ➕447 </a> - 2024/01/08 13:22:55 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/8fecdd227d58ec1c5594fa1b184b94ddf8a3daf0" target="_blank"> ✏线性代数 </a> - 2024/01/05 16:39:43 
 
     
 
