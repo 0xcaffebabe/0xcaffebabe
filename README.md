@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4725&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1069%20/%203647&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.66%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4725&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1070%20/%203647&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.63%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/494951305" target="_blank"> 1042.不邻接植花 </a> - 2024-01-12 10:00:07 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/494748266" target="_blank"> 2645.构造有效字符串的最少插入数 </a> - 2024-01-11 13:33:08 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/491462328" target="_blank"> 2660.保龄球游戏的获胜者 </a> - 2023-12-27 09:23:33 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/491242633" target="_blank"> 2951.找出峰值 </a> - 2023-12-26 09:22:08 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/ea6c5dffba38a2a2e6feecdd2e840f7a7b092be7" target="_blank"> ➕1042 </a> - 2024/01/12 10:00:26 
+
+    
   * <a href="https://github.com/0xcaffebabe/love-song/commit/0d26672f9382c2ec2c1b83ebe2e90d21afb1c440" target="_blank"> Update deploy.yml </a> - 2024/01/11 16:58:24 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/love-song/commit/f792cbe1302f69bc71ffa8b49f206c2cf39f6469" target="_blank"> Create deploy.yml </a> - 2024/01/11 16:52:14 
-
-    
-  * <a href="https://github.com/0xcaffebabe/love-song/commit/7cb1503926ffd9950d4c790c296456ac3a242f85" target="_blank"> mvp </a> - 2024/01/11 16:45:44 
 
     
 
