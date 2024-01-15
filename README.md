@@ -32,6 +32,9 @@
 #### 📖 最近博客
 
 
+* <a href="https://0xcaffebabe.github.io/%E5%A4%A7%E6%95%B0%E6%8D%AE/2024/01/14/%E4%B8%80%E4%B8%AA%E5%8D%95%E8%A1%A87000w%E6%95%B0%E6%8D%AE%E5%8D%95%E6%9C%BA%E7%A6%BB%E7%BA%BF%E7%BB%9F%E8%AE%A1%E5%88%86%E6%9E%90%E7%9A%84%E5%86%85%E5%AD%98%E4%BC%98%E5%8C%96%E6%A1%88%E4%BE%8B.html" target="_blank"> 一个单表7000w数据单机离线统计分析的内存优化案例 </a> - 2024/01/14 
+
+    
 * <a href="https://0xcaffebabe.github.io/%E4%BA%BA%E7%94%9F/2024/01/07/%E6%88%91%E7%9A%842023%E6%80%BB%E7%BB%93.html" target="_blank"> 我的2023总结 </a> - 2024/01/07 
 
     
@@ -51,9 +54,6 @@
 
     
 * <a href="https://0xcaffebabe.github.io/%E6%97%A5%E5%B8%B8/2022/04/09/%E6%8A%80%E6%9C%AF%E6%A0%88%E6%97%A0%E5%85%B3doc%E6%96%87%E6%A1%A3%E7%94%9F%E6%88%90%E6%96%B9%E6%A1%88.html" target="_blank"> 技术栈无关doc文档生成方案 </a> - 2022/04/09 
-
-    
-* <a href="https://0xcaffebabe.github.io/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/2022/03/27/%E8%B0%88%E8%B0%88%E7%BB%84%E5%90%88%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F%E5%8F%8A%E5%9C%A8%E7%94%9F%E4%BA%A7%E7%9A%84%E5%BA%94%E7%94%A8.html" target="_blank"> 谈谈组合策略模式及在生产的应用 </a> - 2022/03/27 
 
         
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/0aa3c96a1995c486585d753c2df98dc9b59b197c" target="_blank"> 一个单表7000w数据单机离线统计分析的内存优化案例 </a> - 2024/01/15 22:40:24 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/2c1b5d157dc865776cc181a665e28a6363adb772" target="_blank"> ✏机器学习 </a> - 2024/01/15 19:59:37 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/love-song/commit/0d26672f9382c2ec2c1b83ebe2e90d21afb1c440" target="_blank"> Update deploy.yml </a> - 2024/01/11 16:58:24 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/66271e3ebb1c61ad9ffc0638ff64a6358fd9cdfe" target="_blank"> ✏机器学习 </a> - 2024/01/11 16:55:40 
 
     
 
