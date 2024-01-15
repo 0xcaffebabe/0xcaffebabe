@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/2c1b5d157dc865776cc181a665e28a6363adb772" target="_blank"> ✏机器学习 </a> - 2024/01/15 19:59:37 
+
+    
   * <a href="https://github.com/0xcaffebabe/love-song/commit/525e6e28fb147efddea899c56f3782b18221ed65" target="_blank"> 调整心形位置 </a> - 2024/01/15 18:09:11 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/66271e3ebb1c61ad9ffc0638ff64a6358fd9cdfe" target="_blank"> ✏机器学习 </a> - 2024/01/11 16:55:40 
-
-    
-  * <a href="https://github.com/0xcaffebabe/love-song/commit/a4fbd58d8d209bfa37b4a786ed59e41c9f2cb58f" target="_blank"> Update deploy.yml </a> - 2024/01/11 16:55:11 
 
     
 
