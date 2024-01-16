@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4709&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1071%20/%203651&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.59%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4709&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1072%20/%203651&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.6%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/495865917" target="_blank"> 2997.使数组异或和等于 K 的最少操作次数 </a> - 2024-01-16 09:27:17 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/495621184" target="_blank"> 743.网络延迟时间 </a> - 2024-01-15 11:18:53 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/491955294" target="_blank"> LCR 086.分割回文串 </a> - 2023-12-29 09:52:40 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/491712609" target="_blank"> 241.为运算表达式设计优先级 </a> - 2023-12-28 09:30:46 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/ebce0dfc98b1cfbf6875607002868a88b266ee72" target="_blank"> ➕2997 </a> - 2024/01/16 09:27:28 
+
+    
   * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/0aa3c96a1995c486585d753c2df98dc9b59b197c" target="_blank"> 一个单表7000w数据单机离线统计分析的内存优化案例 </a> - 2024/01/15 22:40:24 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/ea6c5dffba38a2a2e6feecdd2e840f7a7b092be7" target="_blank"> ➕1042 </a> - 2024/01/12 10:00:26 
-
-    
-  * <a href="https://github.com/0xcaffebabe/love-song/commit/0d26672f9382c2ec2c1b83ebe2e90d21afb1c440" target="_blank"> Update deploy.yml </a> - 2024/01/11 16:58:24 
 
     
 
