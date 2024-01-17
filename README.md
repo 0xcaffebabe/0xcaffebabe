@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4700&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1072%20/%203651&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.56%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4700&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1073%20/%203651&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.58%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/496189253" target="_blank"> 2956.找到两个数组中的公共元素 </a> - 2024-01-17 13:43:32 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/495865917" target="_blank"> 2997.使数组异或和等于 K 的最少操作次数 </a> - 2024-01-16 09:27:17 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/494000452" target="_blank"> 447.回旋镖的数量 </a> - 2024-01-08 13:22:42 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/491955294" target="_blank"> LCR 086.分割回文串 </a> - 2023-12-29 09:52:40 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/ac8dbdc6f8b4ae7724ece952349f6c815ac7b352" target="_blank"> ➕2956 </a> - 2024/01/17 13:43:40 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/b714702cc196f2cd811d78d0c59eeb6e21685768" target="_blank"> ✏机器学习 </a> - 2024/01/16 17:09:34 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/0aa3c96a1995c486585d753c2df98dc9b59b197c" target="_blank"> 一个单表7000w数据单机离线统计分析的内存优化案例 </a> - 2024/01/15 22:40:24 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/2c1b5d157dc865776cc181a665e28a6363adb772" target="_blank"> ✏机器学习 </a> - 2024/01/15 19:59:37 
 
     
 
