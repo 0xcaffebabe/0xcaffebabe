@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4694&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1073%20/%203652&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.58%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4694&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1074%20/%203652&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.58%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/496388621" target="_blank"> 2171.拿出最少数目的魔法豆 </a> - 2024-01-18 09:24:07 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/496189253" target="_blank"> 2956.找到两个数组中的公共元素 </a> - 2024-01-17 13:43:32 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/494197053" target="_blank"> 1615.最大网络秩 </a> - 2024-01-09 09:57:18 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/494000452" target="_blank"> 447.回旋镖的数量 </a> - 2024-01-08 13:22:42 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/8c2599bdaf26c5ac542660ad94fb37bee28d6d5a" target="_blank"> ➕2171 </a> - 2024/01/18 09:24:20 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/a64bdf732c7a380407a3f494f728a61f8632c16d" target="_blank"> ✏机器学习 </a> - 2024/01/17 20:03:46 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/4c59ee7f6666a0b90d3263a18e45931027cf40bd" target="_blank"> 🛠移动端支持公式渲染及 mermaid 放大 </a> - 2024/01/16 13:59:30 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/ebce0dfc98b1cfbf6875607002868a88b266ee72" target="_blank"> ➕2997 </a> - 2024/01/16 09:27:28 
 
     
 
