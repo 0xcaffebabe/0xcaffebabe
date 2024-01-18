@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/c74a72f5b891f7c6e2b7c364af0eacf4199be95c" target="_blank"> 🛠新增文档标签预测 </a> - 2024/01/18 16:18:02 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/8c2599bdaf26c5ac542660ad94fb37bee28d6d5a" target="_blank"> ➕2171 </a> - 2024/01/18 09:24:20 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/cd5c15fdc0352c79322085de552b50fdc39a8c58" target="_blank"> 📦机器学习 </a> - 2024/01/16 13:39:44 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/4c59ee7f6666a0b90d3263a18e45931027cf40bd" target="_blank"> 🛠移动端支持公式渲染及 mermaid 放大 </a> - 2024/01/16 13:59:30 
 
     
 
