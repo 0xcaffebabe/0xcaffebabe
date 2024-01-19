@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4682&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1074%20/%203652&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.58%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4682&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1075%20/%203652&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.56%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/496647308" target="_blank"> 2285.道路的最大总重要性 </a> - 2024-01-19 09:44:32 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/496388621" target="_blank"> 2171.拿出最少数目的魔法豆 </a> - 2024-01-18 09:24:07 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/494748266" target="_blank"> 2645.构造有效字符串的最少插入数 </a> - 2024-01-11 13:33:08 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/494197053" target="_blank"> 1615.最大网络秩 </a> - 2024-01-09 09:57:18 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/389e605d375a4c2b50c0d038c5fa78db9d705a44" target="_blank"> ➕2285 </a> - 2024/01/19 09:44:41 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/9a111f2472dc3a39f9de6e2d067540cd62d3482e" target="_blank"> ✏机器学习 </a> - 2024/01/18 19:53:50 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/ac8dbdc6f8b4ae7724ece952349f6c815ac7b352" target="_blank"> ➕2956 </a> - 2024/01/17 13:43:40 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/b714702cc196f2cd811d78d0c59eeb6e21685768" target="_blank"> ✏机器学习 </a> - 2024/01/16 17:09:34 
 
     
 
