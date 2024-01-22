@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4684&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1075%20/%203660&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.56%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4684&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1076%20/%203660&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.57%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/497331483" target="_blank"> 670.最大交换 </a> - 2024-01-22 09:13:51 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/496647308" target="_blank"> 2285.道路的最大总重要性 </a> - 2024-01-19 09:44:32 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/494951305" target="_blank"> 1042.不邻接植花 </a> - 2024-01-12 10:00:07 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/494748266" target="_blank"> 2645.构造有效字符串的最少插入数 </a> - 2024-01-11 13:33:08 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/1e814ce827a0852dc9a50e943113459495bc6e2b" target="_blank"> ➕670 </a> - 2024/01/22 09:14:12 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/ab3661cd06b5ad5f36f01ccc9792f5c24c929bcb" target="_blank"> 🛠样式优化 </a> - 2024/01/19 15:07:54 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/c74a72f5b891f7c6e2b7c364af0eacf4199be95c" target="_blank"> 🛠新增文档标签预测 </a> - 2024/01/18 16:18:02 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/8c2599bdaf26c5ac542660ad94fb37bee28d6d5a" target="_blank"> ➕2171 </a> - 2024/01/18 09:24:20 
 
     
 
