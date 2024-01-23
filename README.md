@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4672&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1076%20/%203660&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.57%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4672&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1078%20/%203660&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.58%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,12 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/497621034" target="_blank"> 3005.最大频率元素计数 </a> - 2024-01-23 09:37:11 
+
+    
+  * <a href="https://leetcode.cn/submissions/detail/497619043" target="_blank"> 2765.最长交替子数组 </a> - 2024-01-23 09:27:26 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/497331483" target="_blank"> 670.最大交换 </a> - 2024-01-22 09:13:51 
 
     
@@ -77,12 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/495865917" target="_blank"> 2997.使数组异或和等于 K 的最少操作次数 </a> - 2024-01-16 09:27:17 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/495621184" target="_blank"> 743.网络延迟时间 </a> - 2024-01-15 11:18:53 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/494951305" target="_blank"> 1042.不邻接植花 </a> - 2024-01-12 10:00:07 
 
     
 
@@ -117,22 +117,22 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/9d2792b6fba02ba82424a08b4446cf3cdedcd4ac" target="_blank"> ➕3005 </a> - 2024/01/23 09:39:01 
+
+    
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/da040a7839c46a0ac204036ae4c88fea660c7012" target="_blank"> 🛠增加范围 </a> - 2024/01/23 09:30:33 
+
+    
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/449fc6a4d4e2d6127aa55f1be1dce39f157f1b2f" target="_blank"> ➕3005 </a> - 2024/01/23 09:37:27 
+
+    
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/d324c6e271c4a33d805db6b8509a66262ef551dc" target="_blank"> ➕2765 </a> - 2024/01/23 09:27:39 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/94299c37debe9123be5db9a862adf191b1017c2b" target="_blank"> ✏机器学习 </a> - 2024/01/22 18:46:02 
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/49c1918280c4ad8cbb10ddc9e114f2e36712c134" target="_blank"> ➕Linux性能优化 </a> - 2024/01/22 19:56:24 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/1e814ce827a0852dc9a50e943113459495bc6e2b" target="_blank"> ➕670 </a> - 2024/01/22 09:14:12 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/ab3661cd06b5ad5f36f01ccc9792f5c24c929bcb" target="_blank"> 🛠样式优化 </a> - 2024/01/19 15:07:54 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/d141ae7de03ac07f1b95a456694cfbf444d4def3" target="_blank"> ✏机器学习 </a> - 2024/01/19 17:35:20 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/389e605d375a4c2b50c0d038c5fa78db9d705a44" target="_blank"> ➕2285 </a> - 2024/01/19 09:44:41 
 
     
 
