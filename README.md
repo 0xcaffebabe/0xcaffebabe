@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4634&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1079%20/%203661&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.59%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4634&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1080%20/%203661&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.55%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/498160752" target="_blank"> 2980.检查按位或是否存在尾随零 </a> - 2024-01-25 09:10:57 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/497906451" target="_blank"> 2487.从链表中移除节点 </a> - 2024-01-24 09:28:34 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/496388621" target="_blank"> 2171.拿出最少数目的魔法豆 </a> - 2024-01-18 09:24:07 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/496189253" target="_blank"> 2956.找到两个数组中的公共元素 </a> - 2024-01-17 13:43:32 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/b51777fd7a49780bda391afcd7e0464a316f93c6" target="_blank"> ➕2980 </a> - 2024/01/25 09:11:10 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/21a4a28079b05a5dfe33cda2474441f3af2d86df" target="_blank"> 🛠适配 marked 接口 </a> - 2024/01/24 20:05:49 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/bd6efb875b074e56cf4e2edf9df33fb35ead36cc" target="_blank"> ✏Linux </a> - 2024/01/23 20:03:12 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/824d759357c36918dd5177b77544e6e628435701" target="_blank"> 🛠升级依赖 </a> - 2024/01/23 11:19:54 
 
     
 
