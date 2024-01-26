@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4623&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1080%20/%203661&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.55%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4623&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1081%20/%203661&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.56%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/498407913" target="_blank"> 2923.找到冠军 I </a> - 2024-01-26 09:18:26 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/498160752" target="_blank"> 2980.检查按位或是否存在尾随零 </a> - 2024-01-25 09:10:57 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/496647308" target="_blank"> 2285.道路的最大总重要性 </a> - 2024-01-19 09:44:32 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/496388621" target="_blank"> 2171.拿出最少数目的魔法豆 </a> - 2024-01-18 09:24:07 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/fd865d157304f4c61cc69442510892dfe8e81639" target="_blank"> ➕2923 </a> - 2024/01/26 09:18:39 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/a978eff788fbb0de6c37e2ffbe79a8e0cc16573f" target="_blank"> ✏Linux性能优化 </a> - 2024/01/25 19:55:02 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/e86f7ed912285d70556c611ac8a53575db7a5584" target="_blank"> [CodeFactor] Apply fixes to comm... </a> - 2024/01/18 16:18:33 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/451f1e1f574dd720d9faa279a5c0ba1a9813f1cf" target="_blank"> ➕2487 </a> - 2024/01/24 09:28:49 
 
     
 
