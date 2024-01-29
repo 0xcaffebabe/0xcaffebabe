@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4629&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1081%20/%203665&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.56%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4629&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1082%20/%203665&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.57%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/499030955" target="_blank"> 2566.替换一个数字后的最大差值 </a> - 2024-01-29 09:33:47 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/498407913" target="_blank"> 2923.找到冠军 I </a> - 2024-01-26 09:18:26 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/497331483" target="_blank"> 670.最大交换 </a> - 2024-01-22 09:13:51 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/496647308" target="_blank"> 2285.道路的最大总重要性 </a> - 2024-01-19 09:44:32 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/c61450467c4630124fe7861bf710b46e290cb377" target="_blank"> ➕2566 </a> - 2024/01/29 09:34:07 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/e36c57c12965075c06670bb7805586e1375245b3" target="_blank"> ✏Linux性能优化 </a> - 2024/01/26 16:58:22 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/21a4a28079b05a5dfe33cda2474441f3af2d86df" target="_blank"> 🛠适配 marked 接口 </a> - 2024/01/24 20:05:49 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/8376112299c21f1bc48891c0a9ee06fb3437aeef" target="_blank"> ✏Linux性能优化 </a> - 2024/01/24 19:56:18 
 
     
 
