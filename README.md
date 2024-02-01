@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4604&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1084%20/%203666&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.58%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4604&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1085%20/%203666&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.59%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/499753511" target="_blank"> 2023.连接后等于目标字符串的字符串对 </a> - 2024-02-01 09:14:27 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/499513607" target="_blank"> 2428.沙漏的最大总和 </a> - 2024-01-31 09:20:53 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/497906451" target="_blank"> 2487.从链表中移除节点 </a> - 2024-01-24 09:28:34 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/497621034" target="_blank"> 3005.最大频率元素计数 </a> - 2024-01-23 09:37:11 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/f7886dd0e0f9b28e9a366be03c9f2444897a712c" target="_blank"> ➕2023 </a> - 2024/02/01 09:14:40 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/df5fa6eabffb25f51a138d72512178715435ac71" target="_blank"> ➕2428 </a> - 2024/01/31 09:21:11 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/c61450467c4630124fe7861bf710b46e290cb377" target="_blank"> ➕2566 </a> - 2024/01/29 09:34:07 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/e36c57c12965075c06670bb7805586e1375245b3" target="_blank"> ✏Linux性能优化 </a> - 2024/01/26 16:58:22 
 
     
 
