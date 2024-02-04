@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/6c6c0cf21a658d7773c792a3d06a2b368f8a3153" target="_blank"> 🛠删除 ts-node 依赖 </a> - 2024/02/04 15:37:57 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/dbe432f19d8978e47102e7ba9357639f4eb31f6b" target="_blank"> 🛠依赖升级 </a> - 2024/02/04 15:31:51 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/2a5f18ec415fa2b6c0fe8431bbc469fdd64e8bd8" target="_blank"> ➕893 </a> - 2024/02/04 09:22:05 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/41fa6fc3f8d94ca0f293c257b90cf1518db3120d" target="_blank"> Update github/codeql-action acti... </a> - 2024/01/16 14:03:28 
 
     
 
