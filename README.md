@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/c9bef19872dfc3383db4184ee354c8a23fe5d5db" target="_blank"> 🛠使用 tsx 替换 ts-node </a> - 2024/02/04 13:18:08 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/ebc3d799a17518205ab81cee2a39ca89e43b9c01" target="_blank"> 🛠升级工具链 & 迁移至 ESM </a> - 2024/02/04 11:10:27 
 
     
