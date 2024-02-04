@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4593&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1086%20/%203670&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.6%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4593&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1087%20/%203670&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.6%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/500381122" target="_blank"> 893.特殊等价字符串组 </a> - 2024-02-04 09:21:51 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/499981099" target="_blank"> 1222.可以攻击国王的皇后 </a> - 2024-02-02 09:20:22 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/498407913" target="_blank"> 2923.找到冠军 I </a> - 2024-01-26 09:18:26 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/498160752" target="_blank"> 2980.检查按位或是否存在尾随零 </a> - 2024-01-25 09:10:57 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/2a5f18ec415fa2b6c0fe8431bbc469fdd64e8bd8" target="_blank"> ➕893 </a> - 2024/02/04 09:22:05 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/41fa6fc3f8d94ca0f293c257b90cf1518db3120d" target="_blank"> Update github/codeql-action acti... </a> - 2024/01/16 14:03:28 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/62a103d97b720d0332dfb9afaabcb00940807808" target="_blank"> ✏算法策略 </a> - 2024/02/02 14:20:17 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/a09c57c26d90f09772a963244c924b26b03f27f0" target="_blank"> ➕1222 </a> - 2024/02/02 09:20:38 
 
     
 
