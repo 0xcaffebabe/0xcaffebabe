@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4588&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1087%20/%203674&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.6%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4588&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1088%20/%203674&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.62%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/500610513" target="_blank"> 1418.点菜展示表 </a> - 2024-02-05 09:22:50 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/500381122" target="_blank"> 893.特殊等价字符串组 </a> - 2024-02-04 09:21:51 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/499030955" target="_blank"> 2566.替换一个数字后的最大差值 </a> - 2024-01-29 09:33:47 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/498407913" target="_blank"> 2923.找到冠军 I </a> - 2024-01-26 09:18:26 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/5e73d8a2e09e2ecefa1ba72cb51c1eb017abf8b1" target="_blank"> ➕1418 </a> - 2024/02/05 09:22:59 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/6ca3803a2d09a54bb8a2b9f56b9c44e0677812b1" target="_blank"> ✏算法 </a> - 2024/02/04 18:54:31 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/761895a754ee7e06f6d8040dba21c8fa1ff8dd2d" target="_blank"> 🛠升级 node 版本 </a> - 2024/02/04 15:11:17 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/c9bef19872dfc3383db4184ee354c8a23fe5d5db" target="_blank"> 🛠使用 tsx 替换 ts-node </a> - 2024/02/04 13:18:08 
 
     
 
