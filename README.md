@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4579&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1088%20/%203674&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.62%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4579&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1089%20/%203674&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.59%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/500834045" target="_blank"> 921.使括号有效的最少添加 </a> - 2024-02-06 09:28:18 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/500610513" target="_blank"> 1418.点菜展示表 </a> - 2024-02-05 09:22:50 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/499275791" target="_blank"> 2062.统计字符串中的元音子字符串 </a> - 2024-01-30 10:04:05 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/499030955" target="_blank"> 2566.替换一个数字后的最大差值 </a> - 2024-01-29 09:33:47 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/aaa3faa627b0857b2e4c4ff261502641ae4cb562" target="_blank"> ➕921 </a> - 2024/02/06 09:28:33 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/ea1438151f435abefce8735f27f26962053ccdd5" target="_blank"> ✏设计原则 </a> - 2024/02/05 20:01:45 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/6c6c0cf21a658d7773c792a3d06a2b368f8a3153" target="_blank"> 🛠删除 ts-node 依赖 </a> - 2024/02/04 15:37:57 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/dbe432f19d8978e47102e7ba9357639f4eb31f6b" target="_blank"> 🛠依赖升级 </a> - 2024/02/04 15:31:51 
 
     
 
