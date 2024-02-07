@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4579&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1089%20/%203674&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.55%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4579&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1090%20/%203674&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.48%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/501046051" target="_blank"> 2641.二叉树的堂兄弟节点 II </a> - 2024-02-07 10:08:22 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/500834045" target="_blank"> 921.使括号有效的最少添加 </a> - 2024-02-06 09:28:18 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/499513607" target="_blank"> 2428.沙漏的最大总和 </a> - 2024-01-31 09:20:53 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/499275791" target="_blank"> 2062.统计字符串中的元音子字符串 </a> - 2024-01-30 10:04:05 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/682158e890390f132fd3a584a23aeabc4e2fa873" target="_blank"> ➕2641 </a> - 2024/02/07 10:08:34 
+
+    
   * <a href="https://github.com/0xcaffebabe/graduate-design/commit/e00ff2288f9e4c5b2852e67b6694f692c12ad6ab" target="_blank"> Update 基于位置的网络社交平台分析与设计.md </a> - 2024/02/06 13:43:41 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/graduate-design/commit/3380b7fd9170c2d0c994cd5103629eaed6cbebff" target="_blank"> Add files via upload </a> - 2024/02/06 13:38:12 
-
-    
-  * <a href="https://github.com/0xcaffebabe/graduate-design/commit/fad4578357568db4bb749563cee82f184733967a" target="_blank"> Add files via upload </a> - 2024/02/06 13:36:51 
 
     
 
