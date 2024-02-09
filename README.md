@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4560&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1091%20/%203675&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.49%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4560&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1092%20/%203675&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.5%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/501406695" target="_blank"> 1493.删掉一个元素以后全为 1 的最长子数组 </a> - 2024-02-09 13:35:26 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/501338011" target="_blank"> 791.自定义字符串排序 </a> - 2024-02-08 20:42:49 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/499981099" target="_blank"> 1222.可以攻击国王的皇后 </a> - 2024-02-02 09:20:22 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/499753511" target="_blank"> 2023.连接后等于目标字符串的字符串对 </a> - 2024-02-01 09:14:27 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/e5e2c919ed4d354e7f2ce0d5332ca92e7e34412b" target="_blank"> ➕1493 </a> - 2024/02/09 13:36:41 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/0dc7ebd6d7db785178a050443ef938c20a0e0c0a" target="_blank"> ✏️数据分析 </a> - 2024/02/08 22:22:39 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/graduate-design/commit/e00ff2288f9e4c5b2852e67b6694f692c12ad6ab" target="_blank"> Update 基于位置的网络社交平台分析与设计.md </a> - 2024/02/06 13:43:41 
-
-    
-  * <a href="https://github.com/0xcaffebabe/graduate-design/commit/52938ca4cfd9bd9039f3f04a61e4342cccbf6eec" target="_blank"> Add files via upload </a> - 2024/02/06 13:42:55 
 
     
 
