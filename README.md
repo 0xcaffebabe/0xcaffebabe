@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4534&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1093%20/%203679&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.51%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4534&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1094%20/%203679&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.51%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/501604429" target="_blank"> 2717.半有序排列 </a> - 2024-02-11 13:46:39 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/501528863" target="_blank"> 2549.统计桌面上的不同数字 </a> - 2024-02-10 20:17:02 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/500610513" target="_blank"> 1418.点菜展示表 </a> - 2024-02-05 09:22:50 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/500381122" target="_blank"> 893.特殊等价字符串组 </a> - 2024-02-04 09:21:51 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/b69231530cf9af900c8611dcb721f3b647ba982c" target="_blank"> ➕2717 </a> - 2024/02/11 13:47:15 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/18b8d5f16b69b5ed373c5197a092d12ac1345234" target="_blank"> ✏️数据分析 </a> - 2024/02/10 21:39:17 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/0dc7ebd6d7db785178a050443ef938c20a0e0c0a" target="_blank"> ✏️数据分析 </a> - 2024/02/08 22:22:39 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/1478ec01817332461060b11b365f21385adaffbc" target="_blank"> ➕791 </a> - 2024/02/08 20:43:27 
 
     
 
