@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4525&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1097%20/%203688&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.53%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4525&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1098%20/%203688&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.54%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/503587265" target="_blank"> 1395.统计作战单位数 </a> - 2024-02-21 16:20:28 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/503188390" target="_blank"> 2390.从字符串中移除星号 </a> - 2024-02-20 09:51:24 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/501406695" target="_blank"> 1493.删掉一个元素以后全为 1 的最长子数组 </a> - 2024-02-09 13:35:26 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/501338011" target="_blank"> 791.自定义字符串排序 </a> - 2024-02-08 20:42:49 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/dd8d49409d419280549c81a5817f285266fa8c38" target="_blank"> ➕1395 </a> - 2024/02/21 16:20:42 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/03ecf112bbc77ebde7f8d3b54d923f5a82cff6fc" target="_blank"> ✏查找 </a> - 2024/02/20 19:15:31 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/7ea4c7ffe9e2e74e6295e13d11a63da799d4b6f9" target="_blank"> ✏️数据分析 </a> - 2024/02/18 21:46:48 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/8a706cffcb07aa822ce164ca536ae632c3e7abc8" target="_blank"> ✏️数据分析 </a> - 2024/02/14 21:27:23 
 
     
 
