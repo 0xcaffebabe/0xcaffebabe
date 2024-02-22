@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/3f6b96f5e1d6ebb9f4af4a79c31a60d1da4ea59e" target="_blank"> 🛠优化 latex 渲染 </a> - 2024/02/22 15:50:52 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/31129e7113453bdc123670f04658b145a3927aea" target="_blank"> ✏查找 </a> - 2024/02/21 19:16:03 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/65162e6d98acf09c69638c7bebc1d0fcac6e0537" target="_blank"> 🛠样式优化 </a> - 2024/02/20 16:41:45 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/a46ed50d9dddbacfcd44ba53d867c0c890ddf472" target="_blank"> ➕2390 </a> - 2024/02/20 09:51:48 
 
     
 
