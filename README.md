@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4521&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1098%20/%203688&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.54%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4521&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1099%20/%203688&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.55%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/504035229" target="_blank"> 2914.使二进制字符串变美丽的最少修改次数 </a> - 2024-02-23 09:20:18 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/503587265" target="_blank"> 1395.统计作战单位数 </a> - 2024-02-21 16:20:28 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/501528863" target="_blank"> 2549.统计桌面上的不同数字 </a> - 2024-02-10 20:17:02 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/501406695" target="_blank"> 1493.删掉一个元素以后全为 1 的最长子数组 </a> - 2024-02-09 13:35:26 
 
     
 
@@ -117,6 +117,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/99d82082a967f4510a412bcabb582683695668fd" target="_blank"> 更新模板 </a> - 2024/02/23 09:48:51 
+
+    
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/3ec7dd814d528687033a96a9d3c8a2558c471185" target="_blank"> ➕2914 </a> - 2024/02/23 09:20:31 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/a43c1f5ba155151373c1c4acad9c95803f6ca65a" target="_blank"> 📦算法与数据结构 </a> - 2024/02/22 19:29:07 
 
     
@@ -127,12 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/dd8d49409d419280549c81a5817f285266fa8c38" target="_blank"> ➕1395 </a> - 2024/02/21 16:20:42 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/03ecf112bbc77ebde7f8d3b54d923f5a82cff6fc" target="_blank"> ✏查找 </a> - 2024/02/20 19:15:31 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/dbc98f116cdb5d69b486c9a1b0207b27c11668a6" target="_blank"> ✏面向对象 </a> - 2024/02/20 19:56:50 
 
     
 
