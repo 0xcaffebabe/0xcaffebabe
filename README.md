@@ -32,6 +32,9 @@
 #### 📖 最近博客
 
 
+* <a href="https://0xcaffebabe.github.io/%E5%A4%A7%E6%95%B0%E6%8D%AE/2024/02/11/%E7%BB%AD%E5%8D%95%E8%A1%A87000w%E6%95%B0%E6%8D%AE%E7%9A%84%E4%B8%80%E4%BA%9B%E9%97%AE%E9%A2%98%E5%8F%8A%E6%80%9D%E8%B7%AF.html" target="_blank"> 续单表7000w数据的一些问题及思路 </a> - 2024/02/11 
+
+    
 * <a href="https://0xcaffebabe.github.io/%E5%A4%A7%E6%95%B0%E6%8D%AE/2024/01/14/%E4%B8%80%E4%B8%AA%E5%8D%95%E8%A1%A87000w%E6%95%B0%E6%8D%AE%E5%8D%95%E6%9C%BA%E7%A6%BB%E7%BA%BF%E7%BB%9F%E8%AE%A1%E5%88%86%E6%9E%90%E7%9A%84%E5%86%85%E5%AD%98%E4%BC%98%E5%8C%96%E6%A1%88%E4%BE%8B.html" target="_blank"> 一个单表7000w数据单机离线统计分析的内存优化案例 </a> - 2024/01/14 
 
     
@@ -51,9 +54,6 @@
 
     
 * <a href="https://0xcaffebabe.github.io/java/2022/06/11/%E4%BB%8E%E4%B8%80%E4%B8%AA%E9%9A%8F%E6%9C%BA%E5%87%BA%E7%8E%B0%E7%9A%84%E9%94%99%E8%AF%AF%E5%BC%80%E8%AF%BBMybatis%E6%BA%90%E7%A0%81.html" target="_blank"> 从一个随机出现的错误开读Mybatis源码 </a> - 2022/06/11 
-
-    
-* <a href="https://0xcaffebabe.github.io/%E6%97%A5%E5%B8%B8/2022/04/09/%E6%8A%80%E6%9C%AF%E6%A0%88%E6%97%A0%E5%85%B3doc%E6%96%87%E6%A1%A3%E7%94%9F%E6%88%90%E6%96%B9%E6%A1%88.html" target="_blank"> 技术栈无关doc文档生成方案 </a> - 2022/04/09 
 
         
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/e95a7c3da7cda79930ea495261746c634e7b59cb" target="_blank"> 续单表7000w数据的一些问题及思路 </a> - 2024/02/23 20:17:06 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/dc4a47043c9deb774fe8456ca12a8a512557d9e7" target="_blank"> ✏图 </a> - 2024/02/23 14:48:06 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/a43c1f5ba155151373c1c4acad9c95803f6ca65a" target="_blank"> 📦算法与数据结构 </a> - 2024/02/22 19:29:07 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/3f6b96f5e1d6ebb9f4af4a79c31a60d1da4ea59e" target="_blank"> 🛠优化 latex 渲染 </a> - 2024/02/22 15:50:52 
 
     
 
