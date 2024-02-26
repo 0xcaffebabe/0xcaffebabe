@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-[![0xcaffebabe](https://img.shields.io/static/v1?label=LeetCode%200xcaffebabe&message=4520&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Solved&message=1100%20/%203703&color=success)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://img.shields.io/static/v1?label=Accepted&message=84.51%&color=success)](https://leetcode.cn/u/0xcaffebabe/)
+[![leetcode](https://leetcode-badge.ismy.wang/ranking)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://leetcode-badge.ismy.wang/solved)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://leetcode-badge.ismy.wang/ac)](https://leetcode.cn/u/0xcaffebabe/)
 
 <table border="0">
   <tr border="0">
@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/504742085" target="_blank"> 1529.最少的后缀翻转次数 </a> - 2024-02-26 09:18:57 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/504035229" target="_blank"> 2914.使二进制字符串变美丽的最少修改次数 </a> - 2024-02-23 09:20:18 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/501604429" target="_blank"> 2717.半有序排列 </a> - 2024-02-11 13:46:39 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/501528863" target="_blank"> 2549.统计桌面上的不同数字 </a> - 2024-02-10 20:17:02 
 
     
 
@@ -117,6 +117,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/0xcaffebabe/commit/1199da99e41e34a136ef13ba1a4ad43d6b998e56" target="_blank"> Update template.md </a> - 2024/02/26 09:25:50 
+
+    
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/15627ef193427deb8b8f6ad6a8d914da19164804" target="_blank"> ➕1529 </a> - 2024/02/26 09:19:18 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/71184b17702ac44ff781b189c1542f74a07d7b05" target="_blank"> ➕方法论 </a> - 2024/02/25 20:11:18 
 
     
@@ -127,12 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/6cadacd85f899a958294f14d642dfce098d4361f" target="_blank"> ✏字符串 </a> - 2024/02/23 17:34:36 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/99d82082a967f4510a412bcabb582683695668fd" target="_blank"> 更新模板 </a> - 2024/02/23 09:48:51 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/3ec7dd814d528687033a96a9d3c8a2558c471185" target="_blank"> ➕2914 </a> - 2024/02/23 09:20:31 
 
     
 
