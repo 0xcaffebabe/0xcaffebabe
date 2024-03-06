@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/508178558" target="_blank"> 2917.找出数组中的 K-or 值 </a> - 2024-03-06 09:29:18 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/507717645" target="_blank"> 2368.受限条件下可到达节点的数目 </a> - 2024-03-05 09:16:55 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/503587265" target="_blank"> 1395.统计作战单位数 </a> - 2024-02-21 16:20:28 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/503188390" target="_blank"> 2390.从字符串中移除星号 </a> - 2024-02-20 09:51:24 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/52b7e80e511d095eecb2794becae4e1b2abc9e1b" target="_blank"> ➕2917 </a> - 2024/03/06 09:29:39 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/8f9e10b4889ef382f9556d7898c1a175490291df" target="_blank"> ✏内存 </a> - 2024/03/05 20:06:31 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/99b3c5cbeaa75dc349453feebc7dc5d3ff62db8b" target="_blank"> ✏操作系统 </a> - 2024/03/01 18:59:54 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/136fe197449b769f36be81d9fd30f3fd4115aabd" target="_blank"> ✏链接 </a> - 2024/03/01 19:51:24 
 
     
 
