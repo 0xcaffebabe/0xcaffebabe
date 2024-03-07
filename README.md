@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/508630050" target="_blank"> 2575.找出字符串的可整除数组 </a> - 2024-03-07 09:28:43 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/508178558" target="_blank"> 2917.找出数组中的 K-or 值 </a> - 2024-03-06 09:29:18 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/504035229" target="_blank"> 2914.使二进制字符串变美丽的最少修改次数 </a> - 2024-02-23 09:20:18 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/503587265" target="_blank"> 1395.统计作战单位数 </a> - 2024-02-21 16:20:28 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/4afaea4baee7eb9ea2eb64e16d3d9f7489cb0c86" target="_blank"> ➕2575 </a> - 2024/03/07 09:28:56 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/52b7e80e511d095eecb2794becae4e1b2abc9e1b" target="_blank"> ➕2917 </a> - 2024/03/06 09:29:39 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/c017b000df59591a6d4a6345a0a50c7e8dafe4e4" target="_blank"> ✏内存管理 </a> - 2024/03/04 20:00:20 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/99b3c5cbeaa75dc349453feebc7dc5d3ff62db8b" target="_blank"> ✏操作系统 </a> - 2024/03/01 18:59:54 
 
     
 
