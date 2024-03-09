@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/509477885" target="_blank"> 1530.好叶子节点对的数量 </a> - 2024-03-09 10:12:17 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/508630050" target="_blank"> 2575.找出字符串的可整除数组 </a> - 2024-03-07 09:28:43 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/504742085" target="_blank"> 1529.最少的后缀翻转次数 </a> - 2024-02-26 09:18:57 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/504035229" target="_blank"> 2914.使二进制字符串变美丽的最少修改次数 </a> - 2024-02-23 09:20:18 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/86a83c607078581966a36528a8b0a9dd4c5c3bec" target="_blank"> ➕1530 </a> - 2024/03/09 10:12:36 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/231481cb2b425bc06ad170361a01ac20c4319da2" target="_blank"> ✏k8s </a> - 2024/03/08 20:14:02 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/52b7e80e511d095eecb2794becae4e1b2abc9e1b" target="_blank"> ➕2917 </a> - 2024/03/06 09:29:39 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/8f9e10b4889ef382f9556d7898c1a175490291df" target="_blank"> ✏内存 </a> - 2024/03/05 20:06:31 
 
     
 
