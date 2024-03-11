@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/510246774" target="_blank"> LCR 152.验证二叉搜索树的后序遍历序列 </a> - 2024-03-11 09:45:28 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/509477885" target="_blank"> 1530.好叶子节点对的数量 </a> - 2024-03-09 10:12:17 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/505849166" target="_blank"> LCP 62.交通枢纽 </a> - 2024-02-29 10:11:58 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/504742085" target="_blank"> 1529.最少的后缀翻转次数 </a> - 2024-02-26 09:18:57 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/bc069dab27445430a403b44bfd92d85b5e2e1d69" target="_blank"> ➕152 </a> - 2024/03/11 09:45:44 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/1908b97a3d7d04ddb1c5d9499ec77b9fcc2e462d" target="_blank"> ✏k8s </a> - 2024/03/09 15:55:32 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/bdca4f9b5eda90cddd3fca3de7789732339e98db" target="_blank"> ✏内存 </a> - 2024/03/06 19:37:23 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/4afaea4baee7eb9ea2eb64e16d3d9f7489cb0c86" target="_blank"> ➕2575 </a> - 2024/03/07 09:28:56 
 
     
 
