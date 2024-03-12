@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/510684197" target="_blank"> 2869.收集元素的最少操作次数 </a> - 2024-03-12 09:19:04 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/510246774" target="_blank"> LCR 152.验证二叉搜索树的后序遍历序列 </a> - 2024-03-11 09:45:28 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/506217607" target="_blank"> 2924.找到冠军 II </a> - 2024-03-01 09:35:01 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/505849166" target="_blank"> LCP 62.交通枢纽 </a> - 2024-02-29 10:11:58 
 
     
 
@@ -117,6 +117,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/0ee783386b386490ef2db5aedbee8dc22f65b957" target="_blank"> ➕2869 </a> - 2024/03/12 09:19:18 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/1210ea8a06dc8a66c57206993d7763a5cfcc6984" target="_blank"> ✏k8s </a> - 2024/03/11 19:44:53 
 
     
@@ -130,9 +133,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/231481cb2b425bc06ad170361a01ac20c4319da2" target="_blank"> ✏k8s </a> - 2024/03/08 20:14:02 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/dccd2fb3946bf2797a63da6f122854483ebb779d" target="_blank"> ✏容器化 & k8s </a> - 2024/03/07 20:07:34 
 
     
 
