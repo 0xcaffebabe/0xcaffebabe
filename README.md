@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/512122152" target="_blank"> 3034.匹配模式数组的子数组数目 I </a> - 2024-03-15 10:34:10 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/511642022" target="_blank"> 2789.合并后数组中的最大元素 </a> - 2024-03-14 09:40:54 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/508630050" target="_blank"> 2575.找出字符串的可整除数组 </a> - 2024-03-07 09:28:43 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/508178558" target="_blank"> 2917.找出数组中的 K-or 值 </a> - 2024-03-06 09:29:18 
 
     
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/22eacbc538ccc906c28b59eda6c230b0ac1345dd" target="_blank"> ➕3034 </a> - 2024/03/15 10:34:22 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/ae3461309852c8bf76e2db070586ed92dfa72281" target="_blank"> ✏k8s </a> - 2024/03/14 14:59:51 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/9d5f9a7b4329c918a73a015d865adc4602d2665f" target="_blank"> ➕2789 </a> - 2024/03/14 09:41:08 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/13bcc23ee0e52466a751df6f2785f2bb7100cb95" target="_blank"> ➕数据架构 </a> - 2024/03/13 20:09:20 
 
     
 
