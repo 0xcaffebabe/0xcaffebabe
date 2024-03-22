@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/515109494" target="_blank"> 2471.逐层排序二叉树所需的最少操作数目 </a> - 2024-03-22 09:25:50 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/514654835" target="_blank"> 1372.二叉树中的最长交错路径 </a> - 2024-03-21 09:17:10 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/511164791" target="_blank"> 面试题 04.01.节点间通路 </a> - 2024-03-13 09:22:15 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/510684197" target="_blank"> 2869.收集元素的最少操作次数 </a> - 2024-03-12 09:19:04 
 
     
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/f22e7c282d295dab3c3574553137803bb50e9a87" target="_blank"> ➕2471 </a> - 2024/03/22 09:26:05 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/d5c0aa6eadac2e53bacd73205dd89ba17c5ed2f8" target="_blank"> ✏Web安全 </a> - 2024/03/21 19:45:57 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/74b2705cc704b64a6f39a0b427a9fbf0d3167e5b" target="_blank"> ✏Web安全 </a> - 2024/03/19 20:06:39 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/f70bbf2b2fda7fe4095d2956af13175633ad509d" target="_blank"> ➕3016 </a> - 2024/03/19 09:54:18 
 
     
 
