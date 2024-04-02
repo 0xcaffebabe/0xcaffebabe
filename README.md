@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/519294289" target="_blank"> 2673.使二叉树所有路径值相等的最小代价 </a> - 2024-04-02 09:56:35 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/518904724" target="_blank"> 1462.课程表 IV </a> - 2024-04-01 09:28:57 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/516672285" target="_blank"> 2642.设计可以求最短路径的图类 </a> - 2024-03-26 10:24:35 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/516233053" target="_blank"> 2050.并行课程 III </a> - 2024-03-25 09:56:10 
 
     
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/3a8652d3e817f1f4f6dd5b1c6b5be830ede98060" target="_blank"> ➕2673 </a> - 2024/04/02 09:56:48 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/94ec5a58663fe6de89d5018fde98983b68b9e117" target="_blank"> ✏数据架构 </a> - 2024/04/01 19:56:05 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/91c53d82468470aa27878b951a924adbbae3882d" target="_blank"> ➕2908 </a> - 2024/03/29 09:15:29 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/d8216282ebbb8e43b80515c384d20c22a0936e86" target="_blank"> ✏图算法 </a> - 2024/03/28 09:58:20 
 
     
 
