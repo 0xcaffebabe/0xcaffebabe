@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/519671787" target="_blank"> 2476.二叉搜索树最近节点查询 </a> - 2024-04-03 09:51:18 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/519294289" target="_blank"> 2673.使二叉树所有路径值相等的最小代价 </a> - 2024-04-02 09:56:35 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/517086966" target="_blank"> 2685.统计完全连通分量的数量 </a> - 2024-03-27 09:42:09 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/516672285" target="_blank"> 2642.设计可以求最短路径的图类 </a> - 2024-03-26 10:24:35 
 
     
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/c8264696018cb8c192fb1ec93478e985a25a2312" target="_blank"> ➕2476 </a> - 2024/04/03 09:57:39 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/b5ca237b4d2ce050f4dd0918af4cb0be969b0b02" target="_blank"> ✏数据库 </a> - 2024/04/02 18:43:36 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/94ec5a58663fe6de89d5018fde98983b68b9e117" target="_blank"> ✏数据架构 </a> - 2024/04/01 19:56:05 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/bd786c5795cc94e0f8a9d7bfc031bbae2e90df57" target="_blank"> ➕1462 </a> - 2024/04/01 09:29:12 
 
     
 
