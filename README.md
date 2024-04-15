@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/523624552" target="_blank"> 3079.求出加密整数的和 </a> - 2024-04-15 09:27:21 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/522725096" target="_blank"> 1268.搜索推荐系统 </a> - 2024-04-12 09:20:42 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/520789801" target="_blank"> 1753.移除石子的最大得分 </a> - 2024-04-07 09:22:07 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/519671787" target="_blank"> 2476.二叉搜索树最近节点查询 </a> - 2024-04-03 09:51:18 
 
     
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/6bca34baf037da5892b95e53c54f5a4e511f8173" target="_blank"> ➕3079 </a> - 2024/04/15 09:27:37 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/0684442f4b8d70f20fd43a749a744f01009b9bea" target="_blank"> ➕1268 </a> - 2024/04/12 09:21:14 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/6c16ec5ed1234c978961782fba3898f93a2f9401" target="_blank"> ➕714 </a> - 2024/04/10 09:44:32 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/46e94c13defd9742f30c98bc7642ebecb305b58e" target="_blank"> ✏dubbo </a> - 2024/04/09 19:29:25 
 
     
 
