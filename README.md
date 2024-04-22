@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/525852719" target="_blank"> 2932.找出强数对的最大异或值 I </a> - 2024-04-22 09:09:17 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/525040841" target="_blank"> 1829.每个查询的最大异或值 </a> - 2024-04-19 09:26:18 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/522725096" target="_blank"> 1268.搜索推荐系统 </a> - 2024-04-12 09:20:42 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/522374819" target="_blank"> 1233.删除子文件夹 </a> - 2024-04-11 09:21:58 
 
     
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/34eeea327f112735e871679a35390a10366a418b" target="_blank"> ➕2932 </a> - 2024/04/22 09:09:33 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/3e9ed31a4c6569892778cc5784ced472a085f8c8" target="_blank"> ✏C </a> - 2024/04/19 19:39:23 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/d7f2dd995e6558e0f25f74291f6523b09f4b4420" target="_blank"> ✏DevOps </a> - 2024/04/17 19:19:17 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/3aaa22140b04b80f2b53fa1aa8a6808c52ba3367" target="_blank"> ✏C </a> - 2024/04/17 19:46:39 
 
     
 
