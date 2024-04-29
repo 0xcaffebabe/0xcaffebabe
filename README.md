@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/527999569" target="_blank"> 1807.替换字符串中的括号内容 </a> - 2024-04-29 09:29:07 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/527709169" target="_blank"> 1017.负二进制转换 </a> - 2024-04-28 09:29:25 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/525852719" target="_blank"> 2932.找出强数对的最大异或值 I </a> - 2024-04-22 09:09:17 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/525040841" target="_blank"> 1829.每个查询的最大异或值 </a> - 2024-04-19 09:26:18 
 
     
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/f7583cd82cc3305a26019099cea9298aea092c76" target="_blank"> ➕1807 </a> - 2024/04/29 09:31:20 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/ef76e4794c5bb774cd1a8bbc44beaf54b9bfe4fc" target="_blank"> ✏spark </a> - 2024/04/28 20:05:08 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/3764220237845b4c6e29e9ce31fa643d5cf938f1" target="_blank"> spark </a> - 2024/04/25 20:15:03 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/b2a605d4c6379080d5b8abf3acd4e302a9e4cfce" target="_blank"> ➕1743 </a> - 2024/04/25 10:21:34 
 
     
 
