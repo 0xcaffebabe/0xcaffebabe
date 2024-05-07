@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/529715339" target="_blank"> 1600.王位继承顺序 </a> - 2024-05-07 09:23:09 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/527999569" target="_blank"> 1807.替换字符串中的括号内容 </a> - 2024-04-29 09:29:07 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/526202379" target="_blank"> 2848.与车相交的点 </a> - 2024-04-23 09:17:40 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/525852719" target="_blank"> 2932.找出强数对的最大异或值 I </a> - 2024-04-22 09:09:17 
 
     
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/fdcdde061651e2976770cbe18fa79323998266e0" target="_blank"> ➕1600 </a> - 2024/05/07 09:23:23 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/fbdf6e37a9c00347c3c82b284e1419930584c7d3" target="_blank"> ✏spark </a> - 2024/05/06 20:06:54 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/92236119d34ceedcd56c504973ca68b8f6d438a1" target="_blank"> ✏spark </a> - 2024/04/26 17:04:55 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/193c9529d517465d985684b71ae86e00813d9bb4" target="_blank"> ➕1146 </a> - 2024/04/26 09:55:51 
 
     
 
