@@ -64,6 +64,12 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/530633757" target="_blank"> 60.排列序列 </a> - 2024-05-10 09:40:06 
+
+    
+  * <a href="https://leetcode.cn/submissions/detail/530629834" target="_blank"> 31.下一个排列 </a> - 2024-05-10 09:25:14 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/530625748" target="_blank"> 3131.找出与数组相加的整数 I </a> - 2024-05-10 09:07:43 
 
     
@@ -77,12 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/527999569" target="_blank"> 1807.替换字符串中的括号内容 </a> - 2024-04-29 09:29:07 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/527709169" target="_blank"> 1017.负二进制转换 </a> - 2024-04-28 09:29:25 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/527202840" target="_blank"> 1146.快照数组 </a> - 2024-04-26 09:55:39 
 
     
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/bc44fac8664701fdfc4bb89974f401d30b7afad0" target="_blank"> ➕60 </a> - 2024/05/10 09:40:22 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/cff14f53e0150bff4db3fd4661d4df4115283fee" target="_blank"> ➕3131 </a> - 2024/05/10 09:07:56 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/342b3a9656f03ba003a99a832182d0260f81143b" target="_blank"> ➕3110 </a> - 2024/05/08 09:14:26 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/52e3328d041fe6b68039542079eb48b0d9de8eb9" target="_blank"> ✏spark </a> - 2024/05/07 20:17:22 
 
     
 
