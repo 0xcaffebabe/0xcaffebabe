@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/530904083" target="_blank"> 1310.子数组异或查询 </a> - 2024-05-11 09:35:23 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/530633757" target="_blank"> 60.排列序列 </a> - 2024-05-10 09:40:06 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/529715339" target="_blank"> 1600.王位继承顺序 </a> - 2024-05-07 09:23:09 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/527999569" target="_blank"> 1807.替换字符串中的括号内容 </a> - 2024-04-29 09:29:07 
 
     
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/073188a298bfee3d1095bba047172bb427e83a36" target="_blank"> ➕1310 </a> - 2024/05/11 09:37:22 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/bc44fac8664701fdfc4bb89974f401d30b7afad0" target="_blank"> ➕60 </a> - 2024/05/10 09:40:22 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/946b2ef6d65324e46c6508fd1c37a5f1d2c1c727" target="_blank"> ✏spark </a> - 2024/05/08 19:55:22 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/342b3a9656f03ba003a99a832182d0260f81143b" target="_blank"> ➕3110 </a> - 2024/05/08 09:14:26 
 
     
 
