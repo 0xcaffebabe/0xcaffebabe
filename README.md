@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/531706166" target="_blank"> 2244.完成所有任务需要的最少轮数 </a> - 2024-05-14 09:21:29 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/530904083" target="_blank"> 1310.子数组异或查询 </a> - 2024-05-11 09:35:23 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/530011991" target="_blank"> 3110.字符串的分数 </a> - 2024-05-08 09:14:13 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/529715339" target="_blank"> 1600.王位继承顺序 </a> - 2024-05-07 09:23:09 
 
     
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/9160f21c5989622c68e1572e46be5cef5fc2cc35" target="_blank"> ➕2244 </a> - 2024/05/14 09:21:41 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/073188a298bfee3d1095bba047172bb427e83a36" target="_blank"> ➕1310 </a> - 2024/05/11 09:37:22 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/c572550a29687fe5c3d3c66b928c3ada16cfd6fa" target="_blank"> ➕2105 </a> - 2024/05/09 09:50:46 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/946b2ef6d65324e46c6508fd1c37a5f1d2c1c727" target="_blank"> ✏spark </a> - 2024/05/08 19:55:22 
 
     
 
