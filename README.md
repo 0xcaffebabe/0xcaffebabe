@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/533799189" target="_blank"> 2225.找出输掉零场或一场比赛的玩家 </a> - 2024-05-22 09:24:03 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/533498532" target="_blank"> 1277.统计全为 1 的正方形子矩阵 </a> - 2024-05-21 09:29:36 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/530904083" target="_blank"> 1310.子数组异或查询 </a> - 2024-05-11 09:35:23 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/530633757" target="_blank"> 60.排列序列 </a> - 2024-05-10 09:40:06 
 
     
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/7b6ad29715170c8f143270a9cde46a310e74e59d" target="_blank"> ➕2225 </a> - 2024/05/22 09:24:19 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/91d2d14972b919a3a485894cde55b66651af5373" target="_blank"> ➕1277 </a> - 2024/05/21 09:29:53 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/9160f21c5989622c68e1572e46be5cef5fc2cc35" target="_blank"> ➕2244 </a> - 2024/05/14 09:21:41 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/073188a298bfee3d1095bba047172bb427e83a36" target="_blank"> ➕1310 </a> - 2024/05/11 09:37:22 
 
     
 
