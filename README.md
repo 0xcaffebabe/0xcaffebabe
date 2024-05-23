@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/534087415" target="_blank"> 2192.有向无环图中一个节点的所有祖先 </a> - 2024-05-23 09:44:20 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/534079543" target="_blank"> 3028.边界上的蚂蚁 </a> - 2024-05-23 09:05:53 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/532290496" target="_blank"> 621.任务调度器 </a> - 2024-05-16 09:43:39 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/531706166" target="_blank"> 2244.完成所有任务需要的最少轮数 </a> - 2024-05-14 09:21:29 
 
     
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/32073818c4a10e6608b9a6471639c3a8a19187a1" target="_blank"> ➕2192 </a> - 2024/05/23 09:44:39 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/df39d94279b941e0eeb05c48cf186b31c85436c0" target="_blank"> ➕3028 </a> - 2024/05/23 09:06:05 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/f593cc254383f84153974581926b006519c436e3" target="_blank"> ➕17 </a> - 2024/05/20 09:17:09 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/1e10c36d966ff91b09a276bb5ef4f1263d5b7907" target="_blank"> ➕3146 </a> - 2024/05/16 09:49:39 
 
     
 
