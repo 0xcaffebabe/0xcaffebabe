@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/534079543" target="_blank"> 3028.边界上的蚂蚁 </a> - 2024-05-23 09:05:53 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/533799189" target="_blank"> 2225.找出输掉零场或一场比赛的玩家 </a> - 2024-05-22 09:24:03 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/531706166" target="_blank"> 2244.完成所有任务需要的最少轮数 </a> - 2024-05-14 09:21:29 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/530904083" target="_blank"> 1310.子数组异或查询 </a> - 2024-05-11 09:35:23 
 
     
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/df39d94279b941e0eeb05c48cf186b31c85436c0" target="_blank"> ➕3028 </a> - 2024/05/23 09:06:05 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/5029a8fabae199960d1c50ddaf3de9737a8bf027" target="_blank"> Update all non-major dependencie... </a> - 2024/05/22 01:47:17 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/1e10c36d966ff91b09a276bb5ef4f1263d5b7907" target="_blank"> ➕3146 </a> - 2024/05/16 09:49:39 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/b80f9856122015d5cfb875375d892e6386f58b4e" target="_blank"> ➕621 </a> - 2024/05/16 09:43:51 
 
     
 
