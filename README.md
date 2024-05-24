@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/534362301" target="_blank"> 990.等式方程的可满足性 </a> - 2024-05-24 09:52:09 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/534087415" target="_blank"> 2192.有向无环图中一个节点的所有祖先 </a> - 2024-05-23 09:44:20 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/532292096" target="_blank"> 3146.两个字符串的排列差 </a> - 2024-05-16 09:49:28 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/532290496" target="_blank"> 621.任务调度器 </a> - 2024-05-16 09:43:39 
 
     
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/6d12542a4c9923e8b580b8bc78741315a14beb36" target="_blank"> ➕990 </a> - 2024/05/24 09:52:14 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/32073818c4a10e6608b9a6471639c3a8a19187a1" target="_blank"> ➕2192 </a> - 2024/05/23 09:44:39 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/91d2d14972b919a3a485894cde55b66651af5373" target="_blank"> ➕1277 </a> - 2024/05/21 09:29:53 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/f593cc254383f84153974581926b006519c436e3" target="_blank"> ➕17 </a> - 2024/05/20 09:17:09 
 
     
 
