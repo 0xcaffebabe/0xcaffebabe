@@ -64,6 +64,12 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/535308575" target="_blank"> 2527.查询数组异或美丽值 </a> - 2024-05-28 09:23:03 
+
+    
+  * <a href="https://leetcode.cn/submissions/detail/535306747" target="_blank"> 面试题 01.07.旋转矩阵 </a> - 2024-05-28 09:14:48 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/534362301" target="_blank"> 990.等式方程的可满足性 </a> - 2024-05-24 09:52:09 
 
     
@@ -77,12 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/533498532" target="_blank"> 1277.统计全为 1 的正方形子矩阵 </a> - 2024-05-21 09:29:36 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/533229354" target="_blank"> 面试题 17.11.单词距离 </a> - 2024-05-20 09:16:52 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/532292096" target="_blank"> 3146.两个字符串的排列差 </a> - 2024-05-16 09:49:28 
 
     
 
@@ -116,6 +116,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/2037b90028c42cb398342135a4729731218a3c74" target="_blank"> ➕2527 </a> - 2024/05/28 09:23:14 
+
+    
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/1f422dbb677e530fb5655dc4ab8197795439beee" target="_blank"> ➕07 </a> - 2024/05/28 09:15:03 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/6d12542a4c9923e8b580b8bc78741315a14beb36" target="_blank"> ➕990 </a> - 2024/05/24 09:52:14 
 
     
@@ -126,12 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/5029a8fabae199960d1c50ddaf3de9737a8bf027" target="_blank"> Update all non-major dependencie... </a> - 2024/05/22 01:47:17 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/7b6ad29715170c8f143270a9cde46a310e74e59d" target="_blank"> ➕2225 </a> - 2024/05/22 09:24:19 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/91d2d14972b919a3a485894cde55b66651af5373" target="_blank"> ➕1277 </a> - 2024/05/21 09:29:53 
 
     
 
