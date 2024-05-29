@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/535584747" target="_blank"> 2981.找出出现至少三次的最长特殊子字符串 I </a> - 2024-05-29 09:19:42 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/535309623" target="_blank"> 2177.找到和为给定整数的三个连续整数 </a> - 2024-05-28 09:27:31 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/534079543" target="_blank"> 3028.边界上的蚂蚁 </a> - 2024-05-23 09:05:53 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/533799189" target="_blank"> 2225.找出输掉零场或一场比赛的玩家 </a> - 2024-05-22 09:24:03 
 
     
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/744ddbcd14b12e06477eadbc752d3584bfbda75b" target="_blank"> ➕2981 </a> - 2024/05/29 09:19:59 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/86620b7aeaf14cd9f9f392c4fc8ee5a3f9be003c" target="_blank"> ✏监控 </a> - 2024/05/28 19:53:40 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/6d12542a4c9923e8b580b8bc78741315a14beb36" target="_blank"> ➕990 </a> - 2024/05/24 09:52:14 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/32073818c4a10e6608b9a6471639c3a8a19187a1" target="_blank"> ➕2192 </a> - 2024/05/23 09:44:39 
 
     
 
