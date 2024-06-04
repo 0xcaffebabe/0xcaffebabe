@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/537060113" target="_blank"> 1387.将整数按权重排序 </a> - 2024-06-04 09:34:57 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/536789933" target="_blank"> 1414.和为 K 的最少斐波那契数字数目 </a> - 2024-06-03 09:38:19 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/535309623" target="_blank"> 2177.找到和为给定整数的三个连续整数 </a> - 2024-05-28 09:27:31 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/535308575" target="_blank"> 2527.查询数组异或美丽值 </a> - 2024-05-28 09:23:03 
 
     
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/077639e033a27c2237436a9581b807664cab32c6" target="_blank"> ➕1387 </a> - 2024/06/04 09:35:15 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/74288bd89e29775b9fc4220ee149a19b4c09272e" target="_blank"> ➕任务调度系统 </a> - 2024/06/03 19:23:36 
 
     
@@ -129,11 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/40fb534f37b1cc3c6465840fc717d421a998f958" target="_blank"> ➕3159 </a> - 2024/05/31 09:04:43 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/aa7e86d81918c8dbc641c71316f3c21505826c61" target="_blank"> Bump ejs from 3.1.9 to 3.1.10
-
-B... </a> - 2024/05/30 11:42:00 
 
     
 
