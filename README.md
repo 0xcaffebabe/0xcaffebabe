@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/537562593" target="_blank"> 2938.区分黑球与白球 </a> - 2024-06-06 09:10:20 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/537313233" target="_blank"> 1905.统计子岛屿 </a> - 2024-06-05 09:25:28 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/535893099" target="_blank"> 2982.找出出现至少三次的最长特殊子字符串 II </a> - 2024-05-30 09:31:07 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/535584747" target="_blank"> 2981.找出出现至少三次的最长特殊子字符串 I </a> - 2024-05-29 09:19:42 
 
     
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/5bc4c62ba7e559d380b1df9c2c0c99506dd17ccf" target="_blank"> ➕2938 </a> - 2024/06/06 09:10:34 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/7c6ef9e57ea5c46ce3933e394560d07213d85163" target="_blank"> ✏并发 </a> - 2024/06/05 14:47:56 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/4ed0383969a0ebfe4f97deda960eaf522b00dfc6" target="_blank"> ➕1905 </a> - 2024/06/05 09:25:58 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/077639e033a27c2237436a9581b807664cab32c6" target="_blank"> ➕1387 </a> - 2024/06/04 09:35:15 
 
     
 
