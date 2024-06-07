@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/537812892" target="_blank"> 3038.相同分数的最大操作数目 I </a> - 2024-06-07 09:20:07 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/537562593" target="_blank"> 2938.区分黑球与白球 </a> - 2024-06-06 09:10:20 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/536139054" target="_blank"> 3159.查询数组中元素的出现位置 </a> - 2024-05-31 09:04:28 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/535893099" target="_blank"> 2982.找出出现至少三次的最长特殊子字符串 II </a> - 2024-05-30 09:31:07 
 
     
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/aa98828b55feea2b7d832dec6d459f87f2da2836" target="_blank"> ➕3038 </a> - 2024/06/07 09:20:20 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/661a1a11c646045a73053da8f52ded393ee588a1" target="_blank"> ✏类加载机制 </a> - 2024/06/06 13:33:23 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/691dc7a05c78b6f64162f2138915ae6a41d45304" target="_blank"> 📦数据管理 </a> - 2024/06/05 19:47:18 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/cf230ae0d6bcb0a7e42779e8affc48e6a0452617" target="_blank"> ✏应用层 </a> - 2024/06/04 16:51:20 
 
     
 
