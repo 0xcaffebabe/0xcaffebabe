@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/538833382" target="_blank"> 2375.根据模式串构造最小数字 </a> - 2024-06-12 09:21:34 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/538589716" target="_blank"> 面试题 08.08.有重复字符串的排列组合 </a> - 2024-06-11 09:41:41 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/536789933" target="_blank"> 1414.和为 K 的最少斐波那契数字数目 </a> - 2024-06-03 09:38:19 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/536142567" target="_blank"> 2279.装满石头的背包的最大数量 </a> - 2024-05-31 09:16:04 
 
     
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/d038835aa139e3bff5778b5f15d2723746acd9b0" target="_blank"> ➕2375 </a> - 2024/06/12 09:21:50 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/bcb8dc2159d46fd78b675f9b34b9de56e331e661" target="_blank"> ➕数据存储 </a> - 2024/06/11 18:35:47 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/73c5aa52aae75df6b029c35992649a51797cac80" target="_blank"> ✏数据工程 </a> - 2024/06/07 16:52:43 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/aa98828b55feea2b7d832dec6d459f87f2da2836" target="_blank"> ➕3038 </a> - 2024/06/07 09:20:20 
 
     
 
