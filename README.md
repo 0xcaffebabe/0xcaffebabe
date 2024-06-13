@@ -97,12 +97,12 @@
 #### 📝 计划
 
 - [进行中的书单](https://github.com/users/0xcaffebabe/projects/4)
+  - Streaming System
 
 
 - [后端学习计划](https://github.com/users/0xcaffebabe/projects/1)
-  - 数据仓库
   - 信息安全
-  - 数据技术
+  - 数据工程
 
 
 - [其他学习计划](https://github.com/users/0xcaffebabe/projects/3)
