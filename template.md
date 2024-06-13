@@ -51,13 +51,13 @@ ${recent_ac}
 
 #### 📝 计划
 
-- [进行中的书单](https://github.com/users/0xcaffebabe/projects/4)
+- [进行中的书单](https://github.com/users/0xcaffebabe/projects/9)
 ${book_list}
 
-- [后端学习计划](https://github.com/users/0xcaffebabe/projects/1)
+- [后端学习计划](https://github.com/users/0xcaffebabe/projects/10)
 ${backend_task}
 
-- [其他学习计划](https://github.com/users/0xcaffebabe/projects/3)
+- [其他学习计划](https://github.com/users/0xcaffebabe/projects/11)
 ${other_task}
 
 <td>

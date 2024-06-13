@@ -97,13 +97,29 @@ def fetch_recent_blog():
     count = count + 1
   return html
 
-def fetch_form_github_cards(url):
+def check_is_needed_content(obj, columnId):
+  values = obj['memexProjectColumnValues']
+  for i in values:
+    if i['memexProjectColumnId'] == 'Status' and 'value' in i and i['value']['id'] == columnId:
+      return True
+  return False
+
+def get_column_title(obj):
+  values = obj['memexProjectColumnValues']
+  for i in values:
+    if i['memexProjectColumnId'] == 'Title' and 'value' in i:
+      return i['value']['title']['raw']
+  return ''
+
+def fetch_form_github_cards(url, columnId):
   text = httpGet(url)
   soup = BeautifulSoup(text,features="html.parser")
-  taskList = soup.select('.js-task-list-container')
+  taskData = soup.select('#memex-items-data')[0].text
+  taskList = json.loads(taskData)
   html = ""
   for i in taskList:
-    html += "  - " + i.p.text + "\n"
+    if check_is_needed_content(i, columnId):
+      html += "  - " + get_column_title(i) + "\n"
   return html
 
 def fetch_commits():
@@ -152,13 +168,13 @@ def fetch_commits():
     
 
 def fetch_inprogrss_book_list():
-  return fetch_form_github_cards('https://github.com/users/0xcaffebabe/projects/4/columns/9526532/cards')
+  return fetch_form_github_cards('https://github.com/users/0xcaffebabe/projects/9/views/1', '09c784ef')
 
 def fetch_inprogrss_backend_task():
-  return fetch_form_github_cards('https://github.com/users/0xcaffebabe/projects/1/columns/9443827/cards')
+  return fetch_form_github_cards('https://github.com/users/0xcaffebabe/projects/10/views/1', 'ad3c33cf')
 
 def fetch_inprogress_other_task():
-  return fetch_form_github_cards('https://github.com/users/0xcaffebabe/projects/3/columns/9526508/cards')
+  return fetch_form_github_cards('https://github.com/users/0xcaffebabe/projects/11/views/1', '1cb647ed')
 
 def fetch_commit_datetime(commit_url):
   text = httpGet(commit_url)

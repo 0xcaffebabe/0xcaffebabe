@@ -64,25 +64,25 @@
 #### 🔋最近AC
 
 
-  * <a href="https://leetcode.cn/submissions/detail/539091317" target="_blank"> 2806.取整购买后的账户余额 </a> - 2024-06-13 09:30:22 
+  * <a href="https://leetcode.cn/submissions/detail/539091317" target="_blank"> 2806.取整购买后的账户余额 </a> - 2024-06-13 17:30:22 
 
     
-  * <a href="https://leetcode.cn/submissions/detail/538833382" target="_blank"> 2375.根据模式串构造最小数字 </a> - 2024-06-12 09:21:34 
+  * <a href="https://leetcode.cn/submissions/detail/538833382" target="_blank"> 2375.根据模式串构造最小数字 </a> - 2024-06-12 17:21:34 
 
     
-  * <a href="https://leetcode.cn/submissions/detail/538589716" target="_blank"> 面试题 08.08.有重复字符串的排列组合 </a> - 2024-06-11 09:41:41 
+  * <a href="https://leetcode.cn/submissions/detail/538589716" target="_blank"> 面试题 08.08.有重复字符串的排列组合 </a> - 2024-06-11 17:41:41 
 
     
-  * <a href="https://leetcode.cn/submissions/detail/537812892" target="_blank"> 3038.相同分数的最大操作数目 I </a> - 2024-06-07 09:20:07 
+  * <a href="https://leetcode.cn/submissions/detail/537812892" target="_blank"> 3038.相同分数的最大操作数目 I </a> - 2024-06-07 17:20:07 
 
     
-  * <a href="https://leetcode.cn/submissions/detail/537562593" target="_blank"> 2938.区分黑球与白球 </a> - 2024-06-06 09:10:20 
+  * <a href="https://leetcode.cn/submissions/detail/537562593" target="_blank"> 2938.区分黑球与白球 </a> - 2024-06-06 17:10:20 
 
     
-  * <a href="https://leetcode.cn/submissions/detail/537313233" target="_blank"> 1905.统计子岛屿 </a> - 2024-06-05 09:25:28 
+  * <a href="https://leetcode.cn/submissions/detail/537313233" target="_blank"> 1905.统计子岛屿 </a> - 2024-06-05 17:25:28 
 
     
-  * <a href="https://leetcode.cn/submissions/detail/537060113" target="_blank"> 1387.将整数按权重排序 </a> - 2024-06-04 09:34:57 
+  * <a href="https://leetcode.cn/submissions/detail/537060113" target="_blank"> 1387.将整数按权重排序 </a> - 2024-06-04 17:34:57 
 
     
 
@@ -96,16 +96,16 @@
 
 #### 📝 计划
 
-- [进行中的书单](https://github.com/users/0xcaffebabe/projects/4)
+- [进行中的书单](https://github.com/users/0xcaffebabe/projects/9)
   - Streaming System
 
 
-- [后端学习计划](https://github.com/users/0xcaffebabe/projects/1)
+- [后端学习计划](https://github.com/users/0xcaffebabe/projects/10)
   - 信息安全
   - 数据工程
 
 
-- [其他学习计划](https://github.com/users/0xcaffebabe/projects/3)
+- [其他学习计划](https://github.com/users/0xcaffebabe/projects/11)
   - 人生管理系统
   - kotlin
   - swift/swiftui
