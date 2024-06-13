@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/539091317" target="_blank"> 2806.取整购买后的账户余额 </a> - 2024-06-13 09:30:22 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/538833382" target="_blank"> 2375.根据模式串构造最小数字 </a> - 2024-06-12 09:21:34 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/537060113" target="_blank"> 1387.将整数按权重排序 </a> - 2024-06-04 09:34:57 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/536789933" target="_blank"> 1414.和为 K 的最少斐波那契数字数目 </a> - 2024-06-03 09:38:19 
 
     
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/8fa06ed0700e7edd042c942f2af01cecc3a828d4" target="_blank"> ➕2806 </a> - 2024/06/13 09:30:36 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/b5657fde32ae6d7136781e7a2d22a545350dedbb" target="_blank"> ✏数据工程 </a> - 2024/06/12 19:45:05 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/f5aa424814588a62b807ed94a039c469ee57947a" target="_blank"> ✏README </a> - 2024/06/11 19:49:28 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/55e9ac75bca932dc517ca934e847caa696b1d7f3" target="_blank"> ➕08 </a> - 2024/06/11 09:41:56 
 
     
 
