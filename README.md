@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/541575911" target="_blank"> 982.按位与为零的三元组 </a> - 2024-06-24 09:11:24 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/540968355" target="_blank"> LCP 61.气温变化趋势 </a> - 2024-06-21 09:14:56 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/539981422" target="_blank"> 面试题 16.25.LRU 缓存 </a> - 2024-06-17 09:46:31 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/539352995" target="_blank"> 526.优美的排列 </a> - 2024-06-14 09:36:47 
 
     
 
@@ -116,6 +116,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/e56dc02e49b73e20a32c9db4b471cdd024d351ef" target="_blank"> ➕982 </a> - 2024/06/24 09:11:40 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/9005876db7ed5b95e243b1bb24d0243c9cde8427" target="_blank"> ✏数据处理 </a> - 2024/06/21 14:29:36 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/fd56683dc09afd7fa6d7eefeaf945c8869e70bd4" target="_blank"> ➕61 </a> - 2024/06/21 09:15:10 
 
     
@@ -126,12 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/348fc1c8237121fb2ea67c4e604555251e0bef38" target="_blank"> ✏流处理 </a> - 2024/06/19 14:45:14 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/04cdae4a71b3208a6b6add72773b0b7e54348f5d" target="_blank"> 📦特征工程 </a> - 2024/06/19 19:38:53 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/33d25191656c053af08c9f5425abae41bc8a29a2" target="_blank"> Update all non-major dependencie... </a> - 2024/06/18 15:52:39 
 
     
 
