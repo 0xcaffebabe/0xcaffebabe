@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/c4807e47f80f2e8dcba557746b89624c09a27fd1" target="_blank"> 使用机器学习实现文档推荐与标签预测 </a> - 2024/06/24 22:13:52 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/17d9a9cfd5f093762857622df2cac4cfd26bebd7" target="_blank"> ✏数据处理 </a> - 2024/06/24 20:03:06 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/1748c3a4f9b0745fff0ccbf06c6b99f76a5c6b19" target="_blank"> ✏数据处理 </a> - 2024/06/20 20:06:54 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/16a4d0964c626b0571f2d916554eaac80d1cebf9" target="_blank"> ➕2748 </a> - 2024/06/20 09:18:51 
 
     
 
