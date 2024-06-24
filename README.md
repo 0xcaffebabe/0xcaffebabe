@@ -32,6 +32,9 @@
 #### 📖 最近博客
 
 
+* <a href="https://0xcaffebabe.github.io/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/2024/06/24/%E4%BD%BF%E7%94%A8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E7%8E%B0%E6%96%87%E6%A1%A3%E6%8E%A8%E8%8D%90%E4%B8%8E%E6%A0%87%E7%AD%BE%E9%A2%84%E6%B5%8B.html" target="_blank"> 使用机器学习实现文档推荐与标签预测 </a> - 2024/06/24 
+
+    
 * <a href="https://0xcaffebabe.github.io/%E5%A4%A7%E6%95%B0%E6%8D%AE/2024/02/11/%E7%BB%AD%E5%8D%95%E8%A1%A87000w%E6%95%B0%E6%8D%AE%E7%9A%84%E4%B8%80%E4%BA%9B%E9%97%AE%E9%A2%98%E5%8F%8A%E6%80%9D%E8%B7%AF.html" target="_blank"> 续单表7000w数据的一些问题及思路 </a> - 2024/02/11 
 
     
@@ -51,9 +54,6 @@
 
     
 * <a href="https://0xcaffebabe.github.io/jvm/2022/07/23/%E4%B8%BA%E4%BD%95Class.getMethods%E7%BB%93%E6%9E%9C%E6%97%A0%E5%BA%8F.html" target="_blank"> 为何Class.getMethods结果无序 </a> - 2022/07/23 
-
-    
-* <a href="https://0xcaffebabe.github.io/java/2022/06/11/%E4%BB%8E%E4%B8%80%E4%B8%AA%E9%9A%8F%E6%9C%BA%E5%87%BA%E7%8E%B0%E7%9A%84%E9%94%99%E8%AF%AF%E5%BC%80%E8%AF%BBMybatis%E6%BA%90%E7%A0%81.html" target="_blank"> 从一个随机出现的错误开读Mybatis源码 </a> - 2022/06/11 
 
         
 
