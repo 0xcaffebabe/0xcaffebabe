@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/541818448" target="_blank"> 1170.比较字符串最小字母出现频次 </a> - 2024-06-25 09:57:47 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/541575911" target="_blank"> 982.按位与为零的三元组 </a> - 2024-06-24 09:11:24 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/540246128" target="_blank"> 3168.候诊室中的最少椅子数 </a> - 2024-06-18 09:44:48 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/539981422" target="_blank"> 面试题 16.25.LRU 缓存 </a> - 2024-06-17 09:46:31 
 
     
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/7574287dd273d2fe9f1651b02f8843d37fc08e07" target="_blank"> ➕1170 </a> - 2024/06/25 09:57:59 
+
+    
   * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/c4807e47f80f2e8dcba557746b89624c09a27fd1" target="_blank"> 使用机器学习实现文档推荐与标签预测 </a> - 2024/06/24 22:13:52 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/fd56683dc09afd7fa6d7eefeaf945c8869e70bd4" target="_blank"> ➕61 </a> - 2024/06/21 09:15:10 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/1748c3a4f9b0745fff0ccbf06c6b99f76a5c6b19" target="_blank"> ✏数据处理 </a> - 2024/06/20 20:06:54 
 
     
 
