@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/542284016" target="_blank"> 2734.执行子串操作后的字典序最小字符串 </a> - 2024-06-27 09:15:17 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/542057790" target="_blank"> 2316.统计无向图中无法互相到达点对数 </a> - 2024-06-26 09:46:05 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/540514856" target="_blank"> 1106.解析布尔表达式 </a> - 2024-06-19 09:55:19 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/540507672" target="_blank"> 面试题 03.04.化栈为队 </a> - 2024-06-19 09:25:38 
 
     
 
