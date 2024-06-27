@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/7467cfa9a8172bed69ad30777d618836016f90ef" target="_blank"> 🛠去除自建 ES 搜索功能 </a> - 2024/06/27 11:47:16 
+
+    
   * <a href="https://github.com/0xcaffebabe/my-weather-app/commit/edcc93705f56a76dcfe8b867951eeb3c902e3b41" target="_blank"> 替换地理位置接口 </a> - 2024/06/27 09:49:27 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/my-weather-app/commit/07d07b6bb4a9f700661cae42a567a382171dacf5" target="_blank"> 解决大量请求接口问题 </a> - 2024/06/26 10:54:59 
-
-    
-  * <a href="https://github.com/0xcaffebabe/my-weather-app/commit/39c04994a35c93c4bfd8202362bb3ceef0358313" target="_blank"> 消除编译警告 </a> - 2024/06/26 10:07:52 
 
     
 
