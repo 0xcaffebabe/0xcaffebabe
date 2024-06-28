@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/542519135" target="_blank"> 面试题 17.14.最小K个数 </a> - 2024-06-28 09:18:58 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/542284016" target="_blank"> 2734.执行子串操作后的字典序最小字符串 </a> - 2024-06-27 09:15:17 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/540739047" target="_blank"> 2748.美丽下标对的数目 </a> - 2024-06-20 09:18:28 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/540514856" target="_blank"> 1106.解析布尔表达式 </a> - 2024-06-19 09:55:19 
 
     
 
