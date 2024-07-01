@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/543130727" target="_blank"> 3195.包含所有 1 的最小矩形面积 I </a> - 2024-07-01 09:19:36 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/542519135" target="_blank"> 面试题 17.14.最小K个数 </a> - 2024-06-28 09:18:58 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/540968355" target="_blank"> LCP 61.气温变化趋势 </a> - 2024-06-21 09:14:56 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/540739047" target="_blank"> 2748.美丽下标对的数目 </a> - 2024-06-20 09:18:28 
 
     
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/090bd3d8ba7f16824b66344809efedaba8f39e86" target="_blank"> ➕3195 </a> - 2024/07/01 09:19:47 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/7762aedd8e85f2fce9fc318ca3feab1a6b86f7c7" target="_blank"> ➕17 </a> - 2024/06/28 09:19:10 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/2135d3c89abb1d1cf5eed266d94affda08bb86f8" target="_blank"> ➕2734 </a> - 2024/06/27 09:15:59 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/4adfafeaae47661ac9b4d3d1666a7333359095ef" target="_blank"> ✏数据网格 </a> - 2024/06/26 19:53:33 
 
     
 
