@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/543377103" target="_blank"> 3115.质数的最大距离 </a> - 2024-07-02 09:03:59 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/543130727" target="_blank"> 3195.包含所有 1 的最小矩形面积 I </a> - 2024-07-01 09:19:36 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/541575911" target="_blank"> 982.按位与为零的三元组 </a> - 2024-06-24 09:11:24 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/540968355" target="_blank"> LCP 61.气温变化趋势 </a> - 2024-06-21 09:14:56 
 
     
 
