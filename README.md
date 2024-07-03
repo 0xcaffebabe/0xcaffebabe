@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/543645649" target="_blank"> 3192.使二进制数组全部等于 1 的最少操作次数 II </a> - 2024-07-03 09:08:00 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/543377103" target="_blank"> 3115.质数的最大距离 </a> - 2024-07-02 09:03:59 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/541818448" target="_blank"> 1170.比较字符串最小字母出现频次 </a> - 2024-06-25 09:57:47 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/541575911" target="_blank"> 982.按位与为零的三元组 </a> - 2024-06-24 09:11:24 
 
     
 
