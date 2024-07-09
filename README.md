@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/545115224" target="_blank"> 面试题 10.11.峰与谷 </a> - 2024-07-09 09:23:58 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/544844582" target="_blank"> 面试题 16.19.水域大小 </a> - 2024-07-08 09:49:16 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/542519135" target="_blank"> 面试题 17.14.最小K个数 </a> - 2024-06-28 09:18:58 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/542284016" target="_blank"> 2734.执行子串操作后的字典序最小字符串 </a> - 2024-06-27 09:15:17 
 
     
 
