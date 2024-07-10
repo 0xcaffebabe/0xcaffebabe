@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/545394545" target="_blank"> 2840.判断通过操作能否让字符串相等 II </a> - 2024-07-10 09:05:11 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/545115224" target="_blank"> 面试题 10.11.峰与谷 </a> - 2024-07-09 09:23:58 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/543130727" target="_blank"> 3195.包含所有 1 的最小矩形面积 I </a> - 2024-07-01 09:19:36 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/542519135" target="_blank"> 面试题 17.14.最小K个数 </a> - 2024-06-28 09:18:58 
 
     
 
