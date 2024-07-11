@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/545667625" target="_blank"> 1306.跳跃游戏 III </a> - 2024-07-11 09:06:55 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/545394545" target="_blank"> 2840.判断通过操作能否让字符串相等 II </a> - 2024-07-10 09:05:11 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/543377103" target="_blank"> 3115.质数的最大距离 </a> - 2024-07-02 09:03:59 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/543130727" target="_blank"> 3195.包含所有 1 的最小矩形面积 I </a> - 2024-07-01 09:19:36 
 
     
 
