@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/545949073" target="_blank"> 面试题 16.10.生存人数 </a> - 2024-07-12 09:27:42 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/545667625" target="_blank"> 1306.跳跃游戏 III </a> - 2024-07-11 09:06:55 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/543645649" target="_blank"> 3192.使二进制数组全部等于 1 的最少操作次数 II </a> - 2024-07-03 09:08:00 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/543377103" target="_blank"> 3115.质数的最大距离 </a> - 2024-07-02 09:03:59 
 
     
 
