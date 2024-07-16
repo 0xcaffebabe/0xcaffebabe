@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/546967360" target="_blank"> 1797.设计一个验证系统 </a> - 2024-07-16 09:14:33 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/546678304" target="_blank"> 721.账户合并 </a> - 2024-07-15 09:26:27 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/544844582" target="_blank"> 面试题 16.19.水域大小 </a> - 2024-07-08 09:49:16 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/543910683" target="_blank"> 3191.使二进制数组全部等于 1 的最少操作次数 I </a> - 2024-07-04 08:49:12 
 
     
 
