@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/547274674" target="_blank"> 1749.任意子数组和的绝对值的最大值 </a> - 2024-07-17 09:15:02 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/546967360" target="_blank"> 1797.设计一个验证系统 </a> - 2024-07-16 09:14:33 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/545115224" target="_blank"> 面试题 10.11.峰与谷 </a> - 2024-07-09 09:23:58 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/544844582" target="_blank"> 面试题 16.19.水域大小 </a> - 2024-07-08 09:49:16 
 
     
 
