@@ -116,6 +116,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/06cfd00bffe6d7d4c91c3aad727c982645d3aeea" target="_blank"> ✏ES </a> - 2024/07/17 15:54:07 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/e97158f5a4b3aa3d04bed6b8e37cd93874a60439" target="_blank"> ✏Python </a> - 2024/07/17 20:12:15 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/fc1341b9bbcaefc5a83eb0fd1f33ab35ef7351f9" target="_blank"> ➕1749.任意子数组和的绝对值的最大值.java </a> - 2024/07/17 09:15:43 
 
     
@@ -126,12 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/4348ec3af08d030d85adbf53dff5e1a39043e105" target="_blank"> 🛠接入 LLM </a> - 2024/07/15 18:17:49 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/ac234bba02bc68370df820b93da954dcf8604472" target="_blank"> ➕721.账户合并.java </a> - 2024/07/15 09:26:39 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/b6e57d76d75e5af300cb0d5c25744fe0d8b8a104" target="_blank"> ✏前端监控 </a> - 2024/07/12 15:34:07 
 
     
 
