@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/547866037" target="_blank"> 2486.追加字符以获得子序列 </a> - 2024-07-19 09:12:58 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/547584217" target="_blank"> 3211.生成不含相邻零的二进制字符串 </a> - 2024-07-18 09:12:57 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/545667625" target="_blank"> 1306.跳跃游戏 III </a> - 2024-07-11 09:06:55 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/545394545" target="_blank"> 2840.判断通过操作能否让字符串相等 II </a> - 2024-07-10 09:05:11 
 
     
 
