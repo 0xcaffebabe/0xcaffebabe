@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/549193821" target="_blank"> 1447.最简分数 </a> - 2024-07-24 09:09:33 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/548610250" target="_blank"> 1286.字母组合迭代器 </a> - 2024-07-22 09:50:22 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/546678304" target="_blank"> 721.账户合并 </a> - 2024-07-15 09:26:27 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/545949073" target="_blank"> 面试题 16.10.生存人数 </a> - 2024-07-12 09:27:42 
 
     
 
@@ -116,6 +116,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/7d6016c9237f30becb2dbc69f44a43b698d3091a" target="_blank"> ➕1447.最简分数.java </a> - 2024/07/24 09:09:47 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/789f80c0f40246b61f7b4eb724f8283b8493d225" target="_blank"> ✏React </a> - 2024/07/23 19:43:44 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/59bdf8c85ded6fc745e46a158e9973090ac28b8c" target="_blank"> ✏React </a> - 2024/07/22 20:12:51 
 
     
@@ -126,12 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/0425415f0eeb82cb5c36220a10f8439da5ae1524" target="_blank"> ➕2486.追加字符以获得子序列.java </a> - 2024/07/19 09:13:13 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/5682e36e33ede1bd4670180530fc41c631b4f35a" target="_blank"> ➕3211.生成不含相邻零的二进制字符串.java </a> - 2024/07/18 09:14:35 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/06cfd00bffe6d7d4c91c3aad727c982645d3aeea" target="_blank"> ✏ES </a> - 2024/07/17 15:54:07 
 
     
 
