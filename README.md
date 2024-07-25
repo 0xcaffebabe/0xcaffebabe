@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/549497223" target="_blank"> 2536.子矩阵元素加 1 </a> - 2024-07-25 09:26:46 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/549193821" target="_blank"> 1447.最简分数 </a> - 2024-07-24 09:09:33 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/546967360" target="_blank"> 1797.设计一个验证系统 </a> - 2024-07-16 09:14:33 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/546678304" target="_blank"> 721.账户合并 </a> - 2024-07-15 09:26:27 
 
     
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/e76b2f037c2d33d2a24a26ae3d2359b402a985ba" target="_blank"> ➕2536.子矩阵元素加 1.java </a> - 2024/07/25 09:27:00 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/74a47834d1d247c36f08f50d35eded1084393b1d" target="_blank"> ✏React </a> - 2024/07/24 19:38:29 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/bbf034e20a60f145b6190dca1b44788ade1e8846" target="_blank"> ✏Python </a> - 2024/07/22 14:36:31 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/9b5e760520e9fc47cd427901c0538310212e7fbe" target="_blank"> ➕1286.字母组合迭代器.java </a> - 2024/07/22 09:50:48 
 
     
 
