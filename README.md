@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/549785237" target="_blank"> 1006.笨阶乘 </a> - 2024-07-26 09:06:21 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/549497223" target="_blank"> 2536.子矩阵元素加 1 </a> - 2024-07-25 09:26:46 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/547274674" target="_blank"> 1749.任意子数组和的绝对值的最大值 </a> - 2024-07-17 09:15:02 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/546967360" target="_blank"> 1797.设计一个验证系统 </a> - 2024-07-16 09:14:33 
 
     
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/cf4aaf87610e4fa9747349dc333848674a19478d" target="_blank"> ➕1006.笨阶乘.java </a> - 2024/07/26 09:06:35 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/b36d276c7677e2e4247db981d5e0c81e3c282027" target="_blank"> ✏分布式 </a> - 2024/07/25 20:04:30 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/789f80c0f40246b61f7b4eb724f8283b8493d225" target="_blank"> ✏React </a> - 2024/07/23 19:43:44 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/59bdf8c85ded6fc745e46a158e9973090ac28b8c" target="_blank"> ✏React </a> - 2024/07/22 20:12:51 
 
     
 
