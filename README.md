@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/550871502" target="_blank"> 2961.双模幂运算 </a> - 2024-07-30 09:10:49 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/549785237" target="_blank"> 1006.笨阶乘 </a> - 2024-07-26 09:06:21 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/547584217" target="_blank"> 3211.生成不含相邻零的二进制字符串 </a> - 2024-07-18 09:12:57 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/547274674" target="_blank"> 1749.任意子数组和的绝对值的最大值 </a> - 2024-07-17 09:15:02 
 
     
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/4c7406f36a7e4f1f9becfcb5953249443e15b79e" target="_blank"> ➕2961.双模幂运算.py </a> - 2024/07/30 09:11:19 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/7ec38398a8550648031b84713613cc582d8e3e3c" target="_blank"> ✏分布式 </a> - 2024/07/29 20:00:44 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/74a47834d1d247c36f08f50d35eded1084393b1d" target="_blank"> ✏React </a> - 2024/07/24 19:38:29 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/7d6016c9237f30becb2dbc69f44a43b698d3091a" target="_blank"> ➕1447.最简分数.java </a> - 2024/07/24 09:09:47 
 
     
 
