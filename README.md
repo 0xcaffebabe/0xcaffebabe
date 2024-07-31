@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/my-weather-app/commit/50c9e403e7ff60c4c1ee29e7a5bb5f808bd989ea" target="_blank"> 优化 </a> - 2024/07/31 17:31:16 
+
+    
   * <a href="https://github.com/0xcaffebabe/my-weather-app/commit/7c751baaee205be4a2a1207fa334c9c3cbed11b6" target="_blank"> 优化 </a> - 2024/07/31 16:36:08 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/my-weather-app/commit/6e68ce83e0bf44b892eb8a9011736e59d5ef3b79" target="_blank"> Update test_build.yml </a> - 2024/07/31 15:44:57 
-
-    
-  * <a href="https://github.com/0xcaffebabe/my-weather-app/commit/6bb8cd1918189a4137fb593604420ea883e013b9" target="_blank"> Add renovate.json </a> - 2024/07/31 11:45:01 
 
     
 
