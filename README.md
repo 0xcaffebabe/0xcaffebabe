@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/551478690" target="_blank"> LCP 40.心算挑战 </a> - 2024-08-01 09:23:38 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/551180089" target="_blank"> 3111.覆盖所有点的最少矩形数目 </a> - 2024-07-31 09:07:00 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/548610250" target="_blank"> 1286.字母组合迭代器 </a> - 2024-07-22 09:50:22 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/547866037" target="_blank"> 2486.追加字符以获得子序列 </a> - 2024-07-19 09:12:58 
 
     
 
@@ -116,6 +116,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/my-weather-app/commit/62102b0940f2fa6c80733432ad96ecf430c65737" target="_blank"> 固定版本号 </a> - 2024/08/01 09:30:22 
+
+    
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/a8c596661716ad90e93212d1f0e29668dd2363ac" target="_blank"> ➕LCP 40.心算挑战.java </a> - 2024/08/01 09:23:55 
+
+    
   * <a href="https://github.com/0xcaffebabe/my-weather-app/commit/8031aa583068c76c103892e7de5dd58f3f55bdcd" target="_blank"> 优化 </a> - 2024/07/31 19:43:43 
 
     
@@ -126,12 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/my-weather-app/commit/7c751baaee205be4a2a1207fa334c9c3cbed11b6" target="_blank"> 优化 </a> - 2024/07/31 16:36:08 
-
-    
-  * <a href="https://github.com/0xcaffebabe/my-weather-app/commit/d2e502502aa59c9a9625d6e99fd5a0253b895235" target="_blank"> 优化 </a> - 2024/07/31 16:25:59 
-
-    
-  * <a href="https://github.com/0xcaffebabe/my-weather-app/commit/cb0aae07ffb3c53e89b971b4cced23c9c10b8fe6" target="_blank"> 优化 </a> - 2024/07/31 16:24:05 
 
     
 
