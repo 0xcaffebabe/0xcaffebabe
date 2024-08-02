@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/551783576" target="_blank"> 3128.直角三角形 </a> - 2024-08-02 09:28:18 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/551478690" target="_blank"> LCP 40.心算挑战 </a> - 2024-08-01 09:23:38 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/549193821" target="_blank"> 1447.最简分数 </a> - 2024-07-24 09:09:33 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/548610250" target="_blank"> 1286.字母组合迭代器 </a> - 2024-07-22 09:50:22 
 
     
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/4a78c94ff69b7217e6f14a359c044bca26c46c6f" target="_blank"> ➕3128.直角三角形.java </a> - 2024/08/02 09:28:34 
+
+    
   * <a href="https://github.com/0xcaffebabe/my-weather-app/commit/39dc776c3ec3ae91717c08c8668afc2227ae8922" target="_blank"> 优化 </a> - 2024/08/01 19:00:43 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/my-weather-app/commit/62102b0940f2fa6c80733432ad96ecf430c65737" target="_blank"> 固定版本号 </a> - 2024/08/01 09:30:22 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/a8c596661716ad90e93212d1f0e29668dd2363ac" target="_blank"> ➕LCP 40.心算挑战.java </a> - 2024/08/01 09:23:55 
 
     
 
