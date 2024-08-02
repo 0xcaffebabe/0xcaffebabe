@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/my-weather-app/commit/9003d767fac79b09f8afc04e341ec96407b70b74" target="_blank"> Update all non-major dependencie... </a> - 2024/08/02 00:41:40 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/4a78c94ff69b7217e6f14a359c044bca26c46c6f" target="_blank"> ➕3128.直角三角形.java </a> - 2024/08/02 09:28:34 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/my-weather-app/commit/7daa3b73d55dbf49bd5d6a4d029f8ab6bb3f3283" target="_blank"> Update workbox monorepo to v7 </a> - 2024/08/01 09:32:04 
-
-    
-  * <a href="https://github.com/0xcaffebabe/my-weather-app/commit/62102b0940f2fa6c80733432ad96ecf430c65737" target="_blank"> 固定版本号 </a> - 2024/08/01 09:30:22 
 
     
 
