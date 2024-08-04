@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/my-weather-app/commit/be2838d1c08f99e99687844fc2e41512a1a01bff" target="_blank"> 优化定位刷新 </a> - 2024/08/04 10:31:02 
+
+    
   * <a href="https://github.com/0xcaffebabe/my-weather-app/commit/42b295839e18eacb795f3209354b6a096fe4a4d3" target="_blank"> 及时更新背景色 </a> - 2024/08/02 17:42:30 
 
     
@@ -131,9 +134,6 @@
   * <a href="https://github.com/0xcaffebabe/my-weather-app/commit/7c5568b06c00b40df107067eab3286e541fbcfbf" target="_blank"> Revert "优化"
 
 This reverts commit 683faa4c45e7405dd10ea8fdb89b060dd79a6645. </a> - 2024/08/02 15:09:16 
-
-    
-  * <a href="https://github.com/0xcaffebabe/my-weather-app/commit/683faa4c45e7405dd10ea8fdb89b060dd79a6645" target="_blank"> 优化 </a> - 2024/08/02 15:01:49 
 
     
 
