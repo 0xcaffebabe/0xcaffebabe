@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/552560742" target="_blank"> 3223.操作后字符串的最短长度 </a> - 2024-08-05 09:22:49 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/551783576" target="_blank"> 3128.直角三角形 </a> - 2024-08-02 09:28:18 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/549497223" target="_blank"> 2536.子矩阵元素加 1 </a> - 2024-07-25 09:26:46 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/549193821" target="_blank"> 1447.最简分数 </a> - 2024-07-24 09:09:33 
 
     
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/a74d9847d04f51d7edf7cae56fdc3e93ca25a064" target="_blank"> ➕3223.操作后字符串的最短长度.java </a> - 2024/08/05 09:23:08 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/85c867fa1bff5caa612b8d80349e6a64ce8062d0" target="_blank"> ✏️机器学习 </a> - 2024/08/04 17:33:29 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/my-weather-app/commit/888361cf6f1eb664924620eeb8b12215a1692a34" target="_blank"> 优化 </a> - 2024/08/02 16:40:44 
-
-    
-  * <a href="https://github.com/0xcaffebabe/my-weather-app/commit/88d5fef9fe65708a4f8e94b7e199433fc5767869" target="_blank"> 删除未使用的导入 </a> - 2024/08/02 15:12:51 
 
     
 
