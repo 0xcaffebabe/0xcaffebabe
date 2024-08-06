@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/552868853" target="_blank"> 3100.换水问题 II </a> - 2024-08-06 09:35:07 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/552560742" target="_blank"> 3223.操作后字符串的最短长度 </a> - 2024-08-05 09:22:49 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/549785237" target="_blank"> 1006.笨阶乘 </a> - 2024-07-26 09:06:21 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/549497223" target="_blank"> 2536.子矩阵元素加 1 </a> - 2024-07-25 09:26:46 
 
     
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/da32ba12b8bebfa52380282970eca79cef75cff8" target="_blank"> ➕3100.换水问题 II.java </a> - 2024/08/06 09:35:17 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/afa69aaaebfad46982092579e044460729e56061" target="_blank"> ✏分布式数据库 </a> - 2024/08/05 20:05:16 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/my-weather-app/commit/42b295839e18eacb795f3209354b6a096fe4a4d3" target="_blank"> 及时更新背景色 </a> - 2024/08/02 17:42:30 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/dd7659e473caa3c1d5547156dfe4caf28c267034" target="_blank"> ✏检索技术 </a> - 2024/08/02 17:13:55 
 
     
 
