@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/b0feadaa57bf1c2553f3429462af93b7c466af60" target="_blank"> ✏检索技术 </a> - 2024/08/06 19:57:37 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/da32ba12b8bebfa52380282970eca79cef75cff8" target="_blank"> ➕3100.换水问题 II.java </a> - 2024/08/06 09:35:17 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/my-weather-app/commit/be2838d1c08f99e99687844fc2e41512a1a01bff" target="_blank"> 优化定位刷新 </a> - 2024/08/04 10:31:02 
-
-    
-  * <a href="https://github.com/0xcaffebabe/my-weather-app/commit/42b295839e18eacb795f3209354b6a096fe4a4d3" target="_blank"> 及时更新背景色 </a> - 2024/08/02 17:42:30 
 
     
 
