@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/553197488" target="_blank"> 2870.使数组为空的最少操作次数 </a> - 2024-08-07 10:49:00 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/552868853" target="_blank"> 3100.换水问题 II </a> - 2024-08-06 09:35:07 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/550871502" target="_blank"> 2961.双模幂运算 </a> - 2024-07-30 09:10:49 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/549785237" target="_blank"> 1006.笨阶乘 </a> - 2024-07-26 09:06:21 
 
     
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/fa67aeb35cc62ec8903fddef722034e540fcf4ba" target="_blank"> ➕2870.使数组为空的最少操作次数.java </a> - 2024/08/07 10:49:13 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/b0feadaa57bf1c2553f3429462af93b7c466af60" target="_blank"> ✏检索技术 </a> - 2024/08/06 19:57:37 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/85c867fa1bff5caa612b8d80349e6a64ce8062d0" target="_blank"> ✏️机器学习 </a> - 2024/08/04 17:33:29 
-
-    
-  * <a href="https://github.com/0xcaffebabe/my-weather-app/commit/be2838d1c08f99e99687844fc2e41512a1a01bff" target="_blank"> 优化定位刷新 </a> - 2024/08/04 10:31:02 
 
     
 
