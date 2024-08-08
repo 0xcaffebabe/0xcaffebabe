@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/553468536" target="_blank"> 1318.或运算的最小翻转次数 </a> - 2024-08-08 09:15:26 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/553197488" target="_blank"> 2870.使数组为空的最少操作次数 </a> - 2024-08-07 10:49:00 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/551180089" target="_blank"> 3111.覆盖所有点的最少矩形数目 </a> - 2024-07-31 09:07:00 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/550871502" target="_blank"> 2961.双模幂运算 </a> - 2024-07-30 09:10:49 
 
     
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/c992105398f1883c0512eed6a409f1a823dd6a8c" target="_blank"> ➕1318.或运算的最小翻转次数.java </a> - 2024/08/08 09:15:41 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/fc3f4dde42fa5f5be70b6c6ebdfb98626b74e2e3" target="_blank"> ✏C++ </a> - 2024/08/07 19:57:53 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/da32ba12b8bebfa52380282970eca79cef75cff8" target="_blank"> ➕3100.换水问题 II.java </a> - 2024/08/06 09:35:17 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/afa69aaaebfad46982092579e044460729e56061" target="_blank"> ✏分布式数据库 </a> - 2024/08/05 20:05:16 
 
     
 
