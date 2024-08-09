@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/553797376" target="_blank"> 68.文本左右对齐 </a> - 2024-08-09 10:34:14 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/553468536" target="_blank"> 1318.或运算的最小翻转次数 </a> - 2024-08-08 09:15:26 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/551478690" target="_blank"> LCP 40.心算挑战 </a> - 2024-08-01 09:23:38 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/551180089" target="_blank"> 3111.覆盖所有点的最少矩形数目 </a> - 2024-07-31 09:07:00 
 
     
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/ef345e064e3b5fa7587506bd5432d808d9369c18" target="_blank"> ➕68.文本左右对齐.java </a> - 2024/08/09 10:34:33 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/15ac8557095b73cc4c1249f4df25914bec5bad0d" target="_blank"> ✏C++ </a> - 2024/08/08 20:04:56 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/fa67aeb35cc62ec8903fddef722034e540fcf4ba" target="_blank"> ➕2870.使数组为空的最少操作次数.java </a> - 2024/08/07 10:49:13 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/b0feadaa57bf1c2553f3429462af93b7c466af60" target="_blank"> ✏检索技术 </a> - 2024/08/06 19:57:37 
 
     
 
