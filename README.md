@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/554829421" target="_blank"> 3151.特殊数组 I </a> - 2024-08-13 09:03:08 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/553797376" target="_blank"> 68.文本左右对齐 </a> - 2024-08-09 10:34:14 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/551783576" target="_blank"> 3128.直角三角形 </a> - 2024-08-02 09:28:18 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/551478690" target="_blank"> LCP 40.心算挑战 </a> - 2024-08-01 09:23:38 
 
     
 
