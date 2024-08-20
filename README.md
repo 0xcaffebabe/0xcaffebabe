@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/photo/commit/d83a6a94ac8ae85038b15335a7df3df9cc204371" target="_blank"> update 2024-08-20 12:49:35 </a> - 2024/08/20 20:49:35 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/171b748c93abe91c05d86553e084602ceebc2450" target="_blank"> ✏OKR </a> - 2024/08/20 20:02:59 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/c920733484b2ad5669cda9225702a081c987aa1c" target="_blank"> ✏检索技术 </a> - 2024/08/20 14:46:36 
-
-    
-  * <a href="https://github.com/0xcaffebabe/photo/commit/80a4800015d87edaf10dba0d0fda9b8ca4e20c4f" target="_blank"> 优化 </a> - 2024/08/20 11:27:58 
 
     
 
