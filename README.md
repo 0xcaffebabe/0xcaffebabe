@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/photo/commit/418805140dbe7133ff31225d1b39b4df3101ae24" target="_blank"> 新增分页功能 </a> - 2024/08/21 19:57:47 
+
+    
   * <a href="https://github.com/0xcaffebabe/photo/commit/d83a6a94ac8ae85038b15335a7df3df9cc204371" target="_blank"> update 2024-08-20 12:49:35 </a> - 2024/08/20 20:49:35 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/ad7e8aac2f224e2f6fc7eea4957bca07379e27f6" target="_blank"> 🛠修复导图点击传送失效 </a> - 2024/08/20 16:18:58 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/c920733484b2ad5669cda9225702a081c987aa1c" target="_blank"> ✏检索技术 </a> - 2024/08/20 14:46:36 
 
     
 
