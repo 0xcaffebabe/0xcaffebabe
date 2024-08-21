@@ -116,6 +116,15 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/photo/commit/9a5e7d4877a599d3107655fd6212438a25db76e9" target="_blank"> update 2024-08-21 12:52:22 </a> - 2024/08/21 20:52:22 
+
+    
+  * <a href="https://github.com/0xcaffebabe/photo/commit/69cd5f8cdafebfaa36024197b7ac7d2de2461642" target="_blank"> update 2024-08-21 12:47:43 </a> - 2024/08/21 20:47:43 
+
+    
+  * <a href="https://github.com/0xcaffebabe/photo/commit/6a8937252b881df82e027ff1379e399df3437751" target="_blank"> update 2024-08-21 12:47:12 </a> - 2024/08/21 20:47:12 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/3d6a322d4a3d31cf8db7eac3ebb18811b3d0686a" target="_blank"> ✏OKR </a> - 2024/08/21 20:03:35 
 
     
@@ -123,15 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/photo/commit/d83a6a94ac8ae85038b15335a7df3df9cc204371" target="_blank"> update 2024-08-20 12:49:35 </a> - 2024/08/20 20:49:35 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/171b748c93abe91c05d86553e084602ceebc2450" target="_blank"> ✏OKR </a> - 2024/08/20 20:02:59 
-
-    
-  * <a href="https://github.com/0xcaffebabe/photo/commit/fc28f76fc48a74a46507d9868b7cbf5f5e7e5404" target="_blank"> 优化首页模板 </a> - 2024/08/20 18:28:12 
-
-    
-  * <a href="https://github.com/0xcaffebabe/photo/commit/4cefa91de6b1b7665842ffb70843c75910436b79" target="_blank"> 优化脚本 </a> - 2024/08/20 18:20:51 
 
     
 
