@@ -116,6 +116,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/photo/commit/3da73e5517dfdc6e37c8e9cb50a0f82fc5e4d73d" target="_blank"> update 2024-08-22 13:50:51 </a> - 2024/08/22 21:50:51 
+
+    
+  * <a href="https://github.com/0xcaffebabe/photo/commit/1c54ae3068dff21d68859d1edee93f2f3fd05e92" target="_blank"> update 2024-08-22 13:49:15 </a> - 2024/08/22 21:49:15 
+
+    
   * <a href="https://github.com/0xcaffebabe/photo/commit/0f6ff2fa93048363633f6032000d110871ce6ad5" target="_blank"> 新增上传脚本 </a> - 2024/08/22 09:58:32 
 
     
@@ -126,12 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/photo/commit/6a8937252b881df82e027ff1379e399df3437751" target="_blank"> update 2024-08-21 12:47:12 </a> - 2024/08/21 20:47:12 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/3d6a322d4a3d31cf8db7eac3ebb18811b3d0686a" target="_blank"> ✏OKR </a> - 2024/08/21 20:03:35 
-
-    
-  * <a href="https://github.com/0xcaffebabe/photo/commit/418805140dbe7133ff31225d1b39b4df3101ae24" target="_blank"> 新增分页功能 </a> - 2024/08/21 19:57:47 
 
     
 
