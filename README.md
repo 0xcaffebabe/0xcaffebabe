@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/photo/commit/b791b6dedb5f163bd19c6b23f02661e34fd1b782" target="_blank"> update 2024-08-26 14:39:37 </a> - 2024/08/26 22:39:37 
+
+    
   * <a href="https://github.com/0xcaffebabe/photo/commit/edbddb6a8d054fc1dccd537da001d583a607f854" target="_blank"> update 2024-08-26 13:50:40 </a> - 2024/08/26 21:50:40 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/photo/commit/1c54ae3068dff21d68859d1edee93f2f3fd05e92" target="_blank"> update 2024-08-22 13:49:15 </a> - 2024/08/22 21:49:15 
-
-    
-  * <a href="https://github.com/0xcaffebabe/photo/commit/0f6ff2fa93048363633f6032000d110871ce6ad5" target="_blank"> 新增上传脚本 </a> - 2024/08/22 09:58:32 
 
     
 
