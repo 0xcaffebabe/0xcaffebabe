@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/559466084" target="_blank"> 3142.判断矩阵是否满足条件 </a> - 2024-08-29 09:08:32 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/558550697" target="_blank"> 3239.最少翻转次数使二进制矩阵回文 I </a> - 2024-08-26 09:33:41 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/552868853" target="_blank"> 3100.换水问题 II </a> - 2024-08-06 09:35:07 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/552560742" target="_blank"> 3223.操作后字符串的最短长度 </a> - 2024-08-05 09:22:49 
 
     
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/bd6c2e86ee69c71be37dfa8099bc18befeb6283f" target="_blank"> ➕3142.判断矩阵是否满足条件.java </a> - 2024/08/29 09:08:45 
+
+    
   * <a href="https://github.com/0xcaffebabe/photo/commit/f69532c8f1ebb57d5a7c12d3c9f8ac2243437324" target="_blank"> update 2024-08-28 14:21:53 </a> - 2024/08/28 22:21:53 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/photo/commit/b791b6dedb5f163bd19c6b23f02661e34fd1b782" target="_blank"> update 2024-08-26 14:39:37 </a> - 2024/08/26 22:39:37 
-
-    
-  * <a href="https://github.com/0xcaffebabe/photo/commit/edbddb6a8d054fc1dccd537da001d583a607f854" target="_blank"> update 2024-08-26 13:50:40 </a> - 2024/08/26 21:50:40 
 
     
 
