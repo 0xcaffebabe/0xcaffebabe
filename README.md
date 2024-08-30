@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/559767056" target="_blank"> 3153.所有数对中数位不同之和 </a> - 2024-08-30 09:17:48 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/559466084" target="_blank"> 3142.判断矩阵是否满足条件 </a> - 2024-08-29 09:08:32 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/553197488" target="_blank"> 2870.使数组为空的最少操作次数 </a> - 2024-08-07 10:49:00 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/552868853" target="_blank"> 3100.换水问题 II </a> - 2024-08-06 09:35:07 
 
     
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/9f41743f37dd03130f757dea486bae620edaf5b9" target="_blank"> ➕3153.所有数对中数位不同之和.java </a> - 2024/08/30 09:18:06 
+
+    
   * <a href="https://github.com/0xcaffebabe/photo/commit/8462ceb8c316629142a2f3a04e04c01321567acd" target="_blank"> Delete baidu_verify_codeva-kFSCtxhuQN.html </a> - 2024/08/29 16:42:37 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/photo/commit/f69532c8f1ebb57d5a7c12d3c9f8ac2243437324" target="_blank"> update 2024-08-28 14:21:53 </a> - 2024/08/28 22:21:53 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/6c22e5bbff176dc1fb35424a932b6b81d83018df" target="_blank"> ✏并发工具类 </a> - 2024/08/28 19:28:47 
 
     
 
