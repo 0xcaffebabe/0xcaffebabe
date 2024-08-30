@@ -64,7 +64,7 @@
 #### 🔋最近AC
 
 
-  * <a href="https://leetcode.cn/submissions/detail/559767056" target="_blank"> 3153.所有数对中数位不同之和 </a> - 2024-08-30 09:17:48 
+  * <a href="https://leetcode.cn/submissions/detail/559767056" target="_blank"> 3153.所有数对中数位差之和 </a> - 2024-08-30 09:17:48 
 
     
   * <a href="https://leetcode.cn/submissions/detail/559466084" target="_blank"> 3142.判断矩阵是否满足条件 </a> - 2024-08-29 09:08:32 
