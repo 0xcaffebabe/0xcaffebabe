@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/560583417" target="_blank"> 2024.考试的最大困扰度 </a> - 2024-09-02 09:23:02 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/559767056" target="_blank"> 3153.所有数对中数位差之和 </a> - 2024-08-30 09:17:48 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/553468536" target="_blank"> 1318.或运算的最小翻转次数 </a> - 2024-08-08 09:15:26 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/553197488" target="_blank"> 2870.使数组为空的最少操作次数 </a> - 2024-08-07 10:49:00 
 
     
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/18bdd2c2372e058f1c142ddd252f70a4951e77e0" target="_blank"> ➕2024.考试的最大困扰度.java </a> - 2024/09/02 09:23:19 
+
+    
   * <a href="https://github.com/0xcaffebabe/photo/commit/3440b7f1cc1e393c1b3c855d36829c7b855c7da2" target="_blank"> update 2024-09-01 09:03:40 </a> - 2024/09/01 17:03:40 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/ab93edfbbbb4006a6817611be2ec2f49c53b702c" target="_blank"> Update all non-major dependencie... </a> - 2024/08/29 04:36:40 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/bd6c2e86ee69c71be37dfa8099bc18befeb6283f" target="_blank"> ➕3142.判断矩阵是否满足条件.java </a> - 2024/08/29 09:08:45 
 
     
 
