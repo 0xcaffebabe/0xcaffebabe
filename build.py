@@ -132,7 +132,7 @@ def fetch_commits():
     if item['type'] != 'PushEvent' : continue
     commitList = item['payload']['commits']
     if len(commitList) == 1:
-      msg = commitList[0]['message']
+      msg = commitList[0]['message'].split('\n')[0]
       if msg == 'update' or 'Deploy to GitHub pages' in msg or 'Merge pull request' in msg or 'Merge branch' in msg or 'Update dependency' in msg: continue
       time = fetch_commit_datetime(commitList[0]['url'])
       repo = item['repo']['name']
@@ -140,7 +140,7 @@ def fetch_commits():
       recentCommits.append({'msg': msg, 'time': time, 'repo': repo, 'sha': sha})
     else:
       for commit in commitList:
-        msg = commit['message']
+        msg = commit['message'].split('\n')[0]
         if msg == 'update' or 'Deploy to GitHub pages' in msg or 'Merge pull request' in msg or 'Merge branch' in msg or 'Update dependency' in msg: break
         if (len(msg) >= 32):
           msg = msg[:32] + "..."
