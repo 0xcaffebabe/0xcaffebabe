@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/photo/commit/f605810cd79dea1704b10ca2ef13928f6062f93a" target="_blank"> update 2024-09-24 14:02:20 </a> - 2024/09/24 22:02:20 
+
+    
   * <a href="https://github.com/0xcaffebabe/photo/commit/e86217c00ea066d4edfc20396fa4f95131e1aafc" target="_blank"> update 2024-09-19 14:24:58 </a> - 2024/09/19 22:24:58 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/0xcaffebabe/commit/4ee14ce22d22d6a0f8883e2a6602a960e8076367" target="_blank"> 优化提交信息截取 </a> - 2024/09/12 09:00:09 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/94d46998574465d0498fa7d82cec759d0ee55857" target="_blank"> 重构和更新运维和DevOps文档结构 </a> - 2024/09/11 18:57:55 
 
     
 
