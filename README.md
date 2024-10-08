@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/bb10f4f5a73c43a89840f30a762cf4998b6e506a" target="_blank"> Update all non-major dependencie... </a> - 2024/10/04 00:44:08 
+
+    
   * <a href="https://github.com/0xcaffebabe/my-weather-app/commit/e1317445b00569946e099471217afbd031de5a15" target="_blank"> Update all non-major dependencie... </a> - 2024/09/28 02:44:40 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/9aa5ce76e81b2d7730618af1e4c824fe8a9268f5" target="_blank"> 文档添加DevOps平台建设阶段及平台化实现详情 </a> - 2024/09/13 20:25:19 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/bd26e761df7822710c794e016d36945aaa944eeb" target="_blank"> 文档更新：DevOps和架构相关文档内容修订 </a> - 2024/09/12 18:52:16 
 
     
 
