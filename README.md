@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/572034025" target="_blank"> 3158.求出出现两次数字的 XOR 值 </a> - 2024-10-12 11:27:29 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/568153588" target="_blank"> 3271.哈希分割字符串 </a> - 2024-09-26 09:58:04 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/554829421" target="_blank"> 3151.特殊数组 I </a> - 2024-08-13 09:03:08 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/553797376" target="_blank"> 68.文本左右对齐 </a> - 2024-08-09 10:34:14 
 
     
 
