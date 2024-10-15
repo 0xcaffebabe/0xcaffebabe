@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/722bd7e86dd804327424487679646d5e24b1c088" target="_blank"> 升级Node.js版本至22.x并更新相关依赖 </a> - 2024/10/15 13:58:15 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/de9acf0c3869bdb4570fe261e8aa761051e2e3d6" target="_blank"> Bump braces from 3.0.2 to 3.0.3 </a> - 2024/08/29 16:07:46 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/photo/commit/9d5f4687f299220741e7dad91cf4e486f20b6d5e" target="_blank"> update 2024-10-09 14:35:32 </a> - 2024/10/09 22:35:32 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/16ffe0a2bd767953e3ea48b0b8e1764547bb82e5" target="_blank"> ✏ 2B 产品 </a> - 2024/10/09 20:01:39 
 
     
 
