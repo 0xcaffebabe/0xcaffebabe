@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/de9acf0c3869bdb4570fe261e8aa761051e2e3d6" target="_blank"> Bump braces from 3.0.2 to 3.0.3 </a> - 2024/08/29 16:07:46 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/fe8bfbc8235efc162a5af7f53434c9a362098b6e" target="_blank"> ➕3158.求出出现两次数字的 XOR 值.java </a> - 2024/10/12 11:27:45 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/16ffe0a2bd767953e3ea48b0b8e1764547bb82e5" target="_blank"> ✏ 2B 产品 </a> - 2024/10/09 20:01:39 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/bb10f4f5a73c43a89840f30a762cf4998b6e506a" target="_blank"> Update all non-major dependencie... </a> - 2024/10/04 00:44:08 
 
     
 
