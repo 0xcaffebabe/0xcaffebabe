@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/6d9451fba4758bb34a0d781d9766523efeef57e2" target="_blank"> ✏数据治理 </a> - 2024/10/15 19:52:57 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/722bd7e86dd804327424487679646d5e24b1c088" target="_blank"> 升级Node.js版本至22.x并更新相关依赖 </a> - 2024/10/15 13:58:15 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/9d406f87798e53498a76052db82e1bf09eb48e61" target="_blank"> ✏2B产品 </a> - 2024/10/10 20:01:10 
-
-    
-  * <a href="https://github.com/0xcaffebabe/photo/commit/9d5f4687f299220741e7dad91cf4e486f20b6d5e" target="_blank"> update 2024-10-09 14:35:32 </a> - 2024/10/09 22:35:32 
 
     
 
