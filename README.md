@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/573127029" target="_blank"> 3194.最小元素和最大元素的最小平均值 </a> - 2024-10-16 09:11:51 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/572034025" target="_blank"> 3158.求出出现两次数字的 XOR 值 </a> - 2024-10-12 11:27:29 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/558550697" target="_blank"> 3239.最少翻转次数使二进制矩阵回文 I </a> - 2024-08-26 09:33:41 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/554829421" target="_blank"> 3151.特殊数组 I </a> - 2024-08-13 09:03:08 
 
     
 
