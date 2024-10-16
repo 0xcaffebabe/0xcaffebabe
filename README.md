@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/0f658834603a67b4f99fd1d1f7d1974f4ca27b2f" target="_blank"> ➕3194.最小元素和最大元素的最小平均值.java </a> - 2024/10/16 09:12:09 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/6d9451fba4758bb34a0d781d9766523efeef57e2" target="_blank"> ✏数据治理 </a> - 2024/10/15 19:52:57 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/00a85b716da7a103dcc175d0b5998f44e37a65da" target="_blank"> ✏2B产品 </a> - 2024/10/12 11:17:08 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/9d406f87798e53498a76052db82e1bf09eb48e61" target="_blank"> ✏2B产品 </a> - 2024/10/10 20:01:10 
 
     
 
