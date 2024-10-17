@@ -64,6 +64,12 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/573421696" target="_blank"> LCR 168.丑数 </a> - 2024-10-17 09:08:33 
+
+    
+  * <a href="https://leetcode.cn/submissions/detail/573421595" target="_blank"> 264.丑数 II </a> - 2024-10-17 09:07:53 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/573127029" target="_blank"> 3194.最小元素和最大元素的最小平均值 </a> - 2024-10-16 09:11:51 
 
     
@@ -77,12 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/559767056" target="_blank"> 3153.所有数对中数位差之和 </a> - 2024-08-30 09:17:48 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/559466084" target="_blank"> 3142.判断矩阵是否满足条件 </a> - 2024-08-29 09:08:32 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/558550697" target="_blank"> 3239.最少翻转次数使二进制矩阵回文 I </a> - 2024-08-26 09:33:41 
 
     
 
