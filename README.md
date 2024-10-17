@@ -116,6 +116,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/f4ae3f2135c94d2a9db6da912dc56d55668dde9e" target="_blank"> ➕LCR 168.丑数.java </a> - 2024/10/17 09:08:47 
+
+    
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/631dc4a46b81e066ad50e45259ba3bc2372901aa" target="_blank"> ➕264.丑数 II.java </a> - 2024/10/17 09:08:08 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/0f658834603a67b4f99fd1d1f7d1974f4ca27b2f" target="_blank"> ➕3194.最小元素和最大元素的最小平均值.java </a> - 2024/10/16 09:12:09 
 
     
@@ -126,12 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/de9acf0c3869bdb4570fe261e8aa761051e2e3d6" target="_blank"> Bump braces from 3.0.2 to 3.0.3 </a> - 2024/08/29 16:07:46 
-
-    
-  * <a href="https://github.com/0xcaffebabe/leetcode/commit/fe8bfbc8235efc162a5af7f53434c9a362098b6e" target="_blank"> ➕3158.求出出现两次数字的 XOR 值.java </a> - 2024/10/12 11:27:45 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/00a85b716da7a103dcc175d0b5998f44e37a65da" target="_blank"> ✏2B产品 </a> - 2024/10/12 11:17:08 
 
     
 
