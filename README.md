@@ -64,6 +64,12 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/573689715" target="_blank"> LCR 092.将字符串翻转到单调递增 </a> - 2024-10-18 09:22:07 
+
+    
+  * <a href="https://leetcode.cn/submissions/detail/573687119" target="_blank"> LCR 005.最大单词长度乘积 </a> - 2024-10-18 09:07:15 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/573421696" target="_blank"> LCR 168.丑数 </a> - 2024-10-17 09:08:33 
 
     
@@ -77,12 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/568153588" target="_blank"> 3271.哈希分割字符串 </a> - 2024-09-26 09:58:04 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/560583417" target="_blank"> 2024.考试的最大困扰度 </a> - 2024-09-02 09:23:02 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/559767056" target="_blank"> 3153.所有数对中数位差之和 </a> - 2024-08-30 09:17:48 
 
     
 
@@ -116,6 +116,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/photo/commit/4f37ea90b77afad2823b3bd0ee20746577806859" target="_blank"> update 2024-10-17 14:23:32 </a> - 2024/10/17 22:23:32 
+
+    
+  * <a href="https://github.com/0xcaffebabe/photo/commit/3793156346bf7bfc5aec2faa2f3cf011491cec01" target="_blank"> update 2024-10-17 14:12:24 </a> - 2024/10/17 22:12:24 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/f4ae3f2135c94d2a9db6da912dc56d55668dde9e" target="_blank"> ➕LCR 168.丑数.java </a> - 2024/10/17 09:08:47 
 
     
@@ -126,12 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/6d9451fba4758bb34a0d781d9766523efeef57e2" target="_blank"> ✏数据治理 </a> - 2024/10/15 19:52:57 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/722bd7e86dd804327424487679646d5e24b1c088" target="_blank"> 升级Node.js版本至22.x并更新相关依赖 </a> - 2024/10/15 13:58:15 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/de9acf0c3869bdb4570fe261e8aa761051e2e3d6" target="_blank"> Bump braces from 3.0.2 to 3.0.3 </a> - 2024/08/29 16:07:46 
 
     
 
