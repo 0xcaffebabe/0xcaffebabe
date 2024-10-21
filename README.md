@@ -97,7 +97,7 @@
 #### 📝 计划
 
 - [进行中的书单](https://github.com/users/0xcaffebabe/projects/9)
-  - 华为数据之道
+  - 凤凰项目
 
 
 - [后端学习计划](https://github.com/users/0xcaffebabe/projects/10)
