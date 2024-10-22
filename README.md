@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/574682467" target="_blank"> 3184.构成整天的下标对数目 I </a> - 2024-10-22 09:08:44 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/574512065" target="_blank"> LCR 166.珠宝的最高价值 </a> - 2024-10-21 16:35:10 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/573421595" target="_blank"> 264.丑数 II </a> - 2024-10-17 09:07:53 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/573127029" target="_blank"> 3194.最小元素和最大元素的最小平均值 </a> - 2024-10-16 09:11:51 
 
     
 
