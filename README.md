@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/c593c03abf7fcd9ed602d080259050db0ae0a075" target="_blank"> 🛠左侧菜单懒加载 </a> - 2024/10/22 16:13:41 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/1183e7484c5e35af78afc50e034eb1b6dd575ae8" target="_blank"> 🛠 图片加载添加 lazy 属性 </a> - 2024/10/22 15:28:27 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/83a49b2ef7d76913e067520154defe76a923b953" target="_blank"> ➕LCR 177.撞色搭配.java </a> - 2024/10/21 15:35:44 
-
-    
-  * <a href="https://github.com/0xcaffebabe/my-weather-app/commit/ae842cfa9f3ff15177b6547f8838a3c50866dae8" target="_blank"> 新增风速展示 </a> - 2024/10/20 21:35:41 
 
     
 
