@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/a551d051619867158bb04eeaa366fa6e7a0f13d1" target="_blank"> 📦架构模式 </a> - 2024/10/24 19:49:57 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/cbb8551f65cb9094f3ddda94b6e2094ab7b028b8" target="_blank"> 📦更新基本数据类型和浮点数表示的图片 </a> - 2024/10/24 14:25:32 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/c82270e216b7c9c2bfb48bedee3f0ab5a088ae80" target="_blank"> 🛠消除开发时警告 </a> - 2024/10/22 16:40:03 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/c593c03abf7fcd9ed602d080259050db0ae0a075" target="_blank"> 🛠左侧菜单懒加载 </a> - 2024/10/22 16:13:41 
 
     
 
