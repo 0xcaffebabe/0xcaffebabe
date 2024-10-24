@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/cbb8551f65cb9094f3ddda94b6e2094ab7b028b8" target="_blank"> 📦更新基本数据类型和浮点数表示的图片 </a> - 2024/10/24 14:25:32 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/d327a059b29858cd0410f52e83863e9a4ca96dec" target="_blank"> ➕3175.找到连续赢 K 场比赛的第一位玩家.java </a> - 2024/10/24 09:15:11 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/c593c03abf7fcd9ed602d080259050db0ae0a075" target="_blank"> 🛠左侧菜单懒加载 </a> - 2024/10/22 16:13:41 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/1183e7484c5e35af78afc50e034eb1b6dd575ae8" target="_blank"> 🛠 图片加载添加 lazy 属性 </a> - 2024/10/22 15:28:27 
 
     
 
