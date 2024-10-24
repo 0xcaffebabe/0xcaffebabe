@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/575270275" target="_blank"> 3175.找到连续赢 K 场比赛的第一位玩家 </a> - 2024-10-24 09:14:55 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/574989010" target="_blank"> 3185.构成整天的下标对数目 II </a> - 2024-10-23 09:35:41 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/573687119" target="_blank"> LCR 005.最大单词长度乘积 </a> - 2024-10-18 09:07:15 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/573421696" target="_blank"> LCR 168.丑数 </a> - 2024-10-17 09:08:33 
 
     
 
