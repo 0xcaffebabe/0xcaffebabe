@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/photo/commit/936622108176c315eb01d6032c6b98d606e88cb1" target="_blank"> update 2024-10-27 13:54:33 </a> - 2024/10/27 21:54:33 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/b2dd0d78d8f20dabd638f1be79493e522d76a68e" target="_blank"> 🛠移除阅读历史功能 </a> - 2024/10/25 17:21:05 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/f389c2a4562b274a77f123dbf786793dcef98006" target="_blank"> 🛠优化渲染逻辑 </a> - 2024/10/25 16:37:37 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/7a4552433037b568c78fb856bbb5268f027deae4" target="_blank"> 📦架构模式 </a> - 2024/10/25 11:43:52 
 
     
 
