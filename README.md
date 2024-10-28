@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/c07e0aaff908d0bb90e55e2e6591f8e98cd62e4f" target="_blank"> 🛠知识趋势移除世界地图组件并优化数据展示 </a> - 2024/10/28 16:54:12 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/e57ac61caa16d85eb4fd83a320063806496f89ac" target="_blank"> 🛠移除移动端文档页面中的关键词查找功能 </a> - 2024/10/28 16:27:47 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/b2dd0d78d8f20dabd638f1be79493e522d76a68e" target="_blank"> 🛠移除阅读历史功能 </a> - 2024/10/25 17:21:05 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/2f7a2fc06aa6b2a28aba642cd1589086366aec70" target="_blank"> 🛠更新站点名称为"知识体系" </a> - 2024/10/25 17:07:00 
 
     
 
