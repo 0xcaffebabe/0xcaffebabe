@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/e57ac61caa16d85eb4fd83a320063806496f89ac" target="_blank"> 🛠移除移动端文档页面中的关键词查找功能 </a> - 2024/10/28 16:27:47 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/9127827f5801b52267f6d0ffe0e1d6c3c6fca8f4" target="_blank"> 🛠移除 PPT 和关键词查找功能 </a> - 2024/10/28 16:12:21 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/2f7a2fc06aa6b2a28aba642cd1589086366aec70" target="_blank"> 🛠更新站点名称为"知识体系" </a> - 2024/10/25 17:07:00 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/80871853f539c4ebb4f20749202a6230acff7a85" target="_blank"> 🛠移除无用组件和 API 接口 </a> - 2024/10/25 17:01:10 
 
     
 
