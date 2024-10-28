@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/576222133" target="_blank"> 3324.出现在屏幕上的字符串序列 </a> - 2024-10-28 09:35:53 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/575270275" target="_blank"> 3175.找到连续赢 K 场比赛的第一位玩家 </a> - 2024-10-24 09:14:55 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/573689715" target="_blank"> LCR 092.将字符串翻转到单调递增 </a> - 2024-10-18 09:22:07 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/573687119" target="_blank"> LCR 005.最大单词长度乘积 </a> - 2024-10-18 09:07:15 
 
     
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/2b48aefe4b91e7196712ab0d0ff8edf6c738dc57" target="_blank"> ➕3324.出现在屏幕上的字符串序列.java </a> - 2024/10/28 09:36:13 
+
+    
   * <a href="https://github.com/0xcaffebabe/photo/commit/936622108176c315eb01d6032c6b98d606e88cb1" target="_blank"> update 2024-10-27 13:54:33 </a> - 2024/10/27 21:54:33 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/71d5abcac611739cd540a331053058ccd12d2f64" target="_blank"> 🛠重构 DocService 中的 Markdown 渲染逻辑 </a> - 2024/10/25 15:22:24 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/f389c2a4562b274a77f123dbf786793dcef98006" target="_blank"> 🛠优化渲染逻辑 </a> - 2024/10/25 16:37:37 
 
     
 
