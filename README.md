@@ -116,6 +116,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/635dc3287fba4b140a383f8a4c87d100381b33f4" target="_blank"> 🛠LLM 默认填充模板 </a> - 2024/10/29 18:10:23 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/856e6af1292f932ba80284075abca173b4edba00" target="_blank"> 🛠为大型语言模型添加重新生成按钮 </a> - 2024/10/29 18:12:09 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/1a0175d0e796065ab39c98ebe32a7fa5d65f572f" target="_blank"> 🛠优化移动端文档页面交互 </a> - 2024/10/29 15:17:14 
 
     
@@ -126,12 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/77b2360d37fb1ad605cb54cce9574a51dc399ee8" target="_blank"> ➕1884.鸡蛋掉落-两枚鸡蛋.java </a> - 2024/10/29 09:26:48 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/c07e0aaff908d0bb90e55e2e6591f8e98cd62e4f" target="_blank"> 🛠知识趋势移除世界地图组件并优化数据展示 </a> - 2024/10/28 16:54:12 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/e57ac61caa16d85eb4fd83a320063806496f89ac" target="_blank"> 🛠移除移动端文档页面中的关键词查找功能 </a> - 2024/10/28 16:27:47 
 
     
 
