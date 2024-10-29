@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/77b2360d37fb1ad605cb54cce9574a51dc399ee8" target="_blank"> ➕1884.鸡蛋掉落-两枚鸡蛋.java </a> - 2024/10/29 09:26:48 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/c07e0aaff908d0bb90e55e2e6591f8e98cd62e4f" target="_blank"> 🛠知识趋势移除世界地图组件并优化数据展示 </a> - 2024/10/28 16:54:12 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/photo/commit/936622108176c315eb01d6032c6b98d606e88cb1" target="_blank"> update 2024-10-27 13:54:33 </a> - 2024/10/27 21:54:33 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/b2dd0d78d8f20dabd638f1be79493e522d76a68e" target="_blank"> 🛠移除阅读历史功能 </a> - 2024/10/25 17:21:05 
 
     
 
