@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/1a0175d0e796065ab39c98ebe32a7fa5d65f572f" target="_blank"> 🛠优化移动端文档页面交互 </a> - 2024/10/29 15:17:14 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/667346cce2ce42692df7c06e99e0e04922eb257e" target="_blank"> 🛠移除未使用的 query-string 依赖 </a> - 2024/10/29 10:56:24 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/e57ac61caa16d85eb4fd83a320063806496f89ac" target="_blank"> 🛠移除移动端文档页面中的关键词查找功能 </a> - 2024/10/28 16:27:47 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/9127827f5801b52267f6d0ffe0e1d6c3c6fca8f4" target="_blank"> 🛠移除 PPT 和关键词查找功能 </a> - 2024/10/28 16:12:21 
 
     
 
