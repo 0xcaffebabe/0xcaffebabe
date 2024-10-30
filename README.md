@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/576762176" target="_blank"> 3216.交换后字典序最小的字符串 </a> - 2024-10-30 09:10:34 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/576495497" target="_blank"> 1884.鸡蛋掉落-两枚鸡蛋 </a> - 2024-10-29 09:26:34 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/574512065" target="_blank"> LCR 166.珠宝的最高价值 </a> - 2024-10-21 16:35:10 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/574482158" target="_blank"> LCR 177.撞色搭配 </a> - 2024-10-21 15:35:32 
 
     
 
