@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/6e63c806afa77826e76680d1842ec02d8225ff7a" target="_blank"> 🛠添加标签预测功能并更新模型列表 </a> - 2024/10/31 14:43:29 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/a020d88509d225566a0f345c9b96d2aba9c5c5ef" target="_blank"> 🛠优化文档侧边栏样式 </a> - 2024/10/31 13:38:44 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/cd76e3385d1a5810f9140b9e84c6abb63d50de6f" target="_blank"> 🛠不使用 element-plus 的表格组件 </a> - 2024/10/30 16:00:54 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/288be873e326eb908e64c711906b9b5ca3b8d7b1" target="_blank">  🛠移除 lodash-es 依赖 </a> - 2024/10/30 15:08:44 
 
     
 
