@@ -32,6 +32,9 @@
 #### 📖 最近博客
 
 
+* <a href="https://0xcaffebabe.github.io/%E4%BA%A7%E5%93%81/2024/10/27/%E7%AB%99%E5%9C%A8%E7%94%A8%E6%88%B7%E8%A7%86%E8%A7%92%E7%9A%84%E8%AE%BE%E8%AE%A1%E5%8F%8D%E6%80%9D.html" target="_blank"> 站在用户视角的设计反思 </a> - 2024/10/27 
+
+    
 * <a href="https://0xcaffebabe.github.io/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/2024/06/24/%E4%BD%BF%E7%94%A8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E7%8E%B0%E6%96%87%E6%A1%A3%E6%8E%A8%E8%8D%90%E4%B8%8E%E6%A0%87%E7%AD%BE%E9%A2%84%E6%B5%8B.html" target="_blank"> 使用机器学习实现文档推荐与标签预测 </a> - 2024/06/24 
 
     
@@ -51,9 +54,6 @@
 
     
 * <a href="https://0xcaffebabe.github.io/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/2022/12/27/%E8%B4%A3%E4%BB%BB%E9%93%BE%E6%A8%A1%E5%BC%8F%E5%9C%A8%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%E7%9A%84%E5%AE%9E%E8%B7%B5%E4%B8%8E%E6%80%9D%E8%80%83.html" target="_blank"> 责任链模式在数据处理的实践与思考 </a> - 2022/12/27 
-
-    
-* <a href="https://0xcaffebabe.github.io/jvm/2022/07/23/%E4%B8%BA%E4%BD%95Class.getMethods%E7%BB%93%E6%9E%9C%E6%97%A0%E5%BA%8F.html" target="_blank"> 为何Class.getMethods结果无序 </a> - 2022/07/23 
 
         
 
