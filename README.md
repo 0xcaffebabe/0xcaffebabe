@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/my-weather-app/commit/d5fdd5c64e130d7f86c626b55fb660a53b867dfb" target="_blank"> feat(util): 完善风速等级转换逻辑 </a> - 2024/10/31 09:22:22 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/dde1db7e72f290b1d30491b94b1a75c1ff6dd35e" target="_blank"> 🛠移除 @types/diff 依赖 </a> - 2024/10/30 16:07:10 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/635dc3287fba4b140a383f8a4c87d100381b33f4" target="_blank"> 🛠LLM 默认填充模板 </a> - 2024/10/29 18:10:23 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/856e6af1292f932ba80284075abca173b4edba00" target="_blank"> 🛠为大型语言模型添加重新生成按钮 </a> - 2024/10/29 18:12:09 
 
     
 
