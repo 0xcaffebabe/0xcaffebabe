@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/fcdfa88925abb04f4934648d60fb639fb06b7637" target="_blank"> ❌ 移除 Idea 和 NPM 相关文档 </a> - 2024/10/31 15:02:59 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/6e63c806afa77826e76680d1842ec02d8225ff7a" target="_blank"> 🛠添加标签预测功能并更新模型列表 </a> - 2024/10/31 14:43:29 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/dde1db7e72f290b1d30491b94b1a75c1ff6dd35e" target="_blank"> 🛠移除 @types/diff 依赖 </a> - 2024/10/30 16:07:10 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/cd76e3385d1a5810f9140b9e84c6abb63d50de6f" target="_blank"> 🛠不使用 element-plus 的表格组件 </a> - 2024/10/30 16:00:54 
 
     
 
