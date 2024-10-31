@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/my-weather-app/commit/138be86e32b9895063bd388a84b4b4db1172cdb8" target="_blank"> style(view): 优化今日天气组件的风向和风速显示 </a> - 2024/10/31 17:34:32 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/fcdfa88925abb04f4934648d60fb639fb06b7637" target="_blank"> ❌ 移除 Idea 和 NPM 相关文档 </a> - 2024/10/31 15:02:59 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/my-weather-app/commit/d5fdd5c64e130d7f86c626b55fb660a53b867dfb" target="_blank"> feat(util): 完善风速等级转换逻辑 </a> - 2024/10/31 09:22:22 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/dde1db7e72f290b1d30491b94b1a75c1ff6dd35e" target="_blank"> 🛠移除 @types/diff 依赖 </a> - 2024/10/30 16:07:10 
 
     
 
