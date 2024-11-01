@@ -116,22 +116,22 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/fb3602ed798085a0d2f38d148cbdbc88f779f4c6" target="_blank"> ✏服务发现 </a> - 2024/11/01 16:33:29 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/d6d8169017b2a6c7c92cf539292416ea344e0b41" target="_blank"> ✏更新虚拟机迁移 </a> - 2024/11/01 16:01:02 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/76c604c05aba160eddcb9dd5345c257b2ecf07e7" target="_blank"> ✏网关 </a> - 2024/11/01 16:02:53 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/d750e9939e6abfcaa34112c712226ca925917d05" target="_blank"> 🛠移除使用 JsDelivr 代理请求数据的逻辑 </a> - 2024/11/01 16:07:07 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/2fc9ff75c7600534899393e997a408b38cbad636" target="_blank"> ✏更新正则表达式 </a> - 2024/11/01 15:59:26 
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/d2eb61245751cb817f17c86e612cf86d9ca02867" target="_blank"> ➕3259.超级饮料的最大强化能量.java </a> - 2024/11/01 11:02:14 
-
-    
-  * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/6d6c703bde527bb8b4488435f5e8baaa0cae06ed" target="_blank"> 站在用户视角的设计反思 </a> - 2024/10/31 20:27:46 
-
-    
-  * <a href="https://github.com/0xcaffebabe/my-weather-app/commit/138be86e32b9895063bd388a84b4b4db1172cdb8" target="_blank"> style(view): 优化今日天气组件的风向和风速显示 </a> - 2024/10/31 17:34:32 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/fcdfa88925abb04f4934648d60fb639fb06b7637" target="_blank"> ❌ 移除 Idea 和 NPM 相关文档 </a> - 2024/10/31 15:02:59 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/6e63c806afa77826e76680d1842ec02d8225ff7a" target="_blank"> 🛠添加标签预测功能并更新模型列表 </a> - 2024/10/31 14:43:29 
 
     
 
