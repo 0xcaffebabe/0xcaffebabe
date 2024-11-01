@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/577335251" target="_blank"> 3259.超级饮料的最大强化能量 </a> - 2024-11-01 11:01:55 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/577057848" target="_blank"> 3285.找到稳定山的下标 </a> - 2024-10-31 09:28:44 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/574989010" target="_blank"> 3185.构成整天的下标对数目 II </a> - 2024-10-23 09:35:41 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/574682467" target="_blank"> 3184.构成整天的下标对数目 I </a> - 2024-10-22 09:08:44 
 
     
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/6d6c703bde527bb8b4488435f5e8baaa0cae06ed" target="_blank"> 站在用户视角的设计反思 </a> - 2024/10/31 20:27:46 
+
+    
   * <a href="https://github.com/0xcaffebabe/my-weather-app/commit/138be86e32b9895063bd388a84b4b4db1172cdb8" target="_blank"> style(view): 优化今日天气组件的风向和风速显示 </a> - 2024/10/31 17:34:32 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/6c8556a8ad55ef8cfb11c6e4cde9595a4deaecba" target="_blank"> ➕3285.找到稳定山的下标.java </a> - 2024/10/31 09:29:03 
-
-    
-  * <a href="https://github.com/0xcaffebabe/my-weather-app/commit/d5fdd5c64e130d7f86c626b55fb660a53b867dfb" target="_blank"> feat(util): 完善风速等级转换逻辑 </a> - 2024/10/31 09:22:22 
 
     
 
