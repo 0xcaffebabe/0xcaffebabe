@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/photo/commit/6841708f99616476602f20b553fcecee5eb266ae" target="_blank"> update 2024-11-01 14:59:46 </a> - 2024/11/01 22:59:47 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/0f26bd0cb7ba25c89ec28aa1dd76c356ca3a1ccf" target="_blank"> ✏线程 API 之间的关系图 </a> - 2024/11/01 17:09:50 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/76c604c05aba160eddcb9dd5345c257b2ecf07e7" target="_blank"> ✏网关 </a> - 2024/11/01 16:02:53 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/d750e9939e6abfcaa34112c712226ca925917d05" target="_blank"> 🛠移除使用 JsDelivr 代理请求数据的逻辑 </a> - 2024/11/01 16:07:07 
 
     
 
