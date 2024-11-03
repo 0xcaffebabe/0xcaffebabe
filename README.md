@@ -32,6 +32,9 @@
 #### 📖 最近博客
 
 
+* <a href="https://0xcaffebabe.github.io/%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF/2024/11/03/%E8%B0%88%E8%B0%88%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%97%B6%E4%BB%A3%E4%B8%8B%E7%9A%84%E4%B8%AA%E4%BA%BA%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86.html" target="_blank"> 谈谈大模型时代下的个人知识管理 </a> - 2024/11/03 
+
+    
 * <a href="https://0xcaffebabe.github.io/%E4%BA%A7%E5%93%81/2024/10/27/%E7%AB%99%E5%9C%A8%E7%94%A8%E6%88%B7%E8%A7%86%E8%A7%92%E7%9A%84%E8%AE%BE%E8%AE%A1%E5%8F%8D%E6%80%9D.html" target="_blank"> 站在用户视角的设计反思 </a> - 2024/10/27 
 
     
@@ -51,9 +54,6 @@
 
     
 * <a href="https://0xcaffebabe.github.io/%E4%BA%BA%E7%94%9F/2023/03/26/%E6%88%91%E7%9A%842022%E6%80%BB%E7%BB%93.html" target="_blank"> 我的2022总结 </a> - 2023/03/26 
-
-    
-* <a href="https://0xcaffebabe.github.io/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/2022/12/27/%E8%B4%A3%E4%BB%BB%E9%93%BE%E6%A8%A1%E5%BC%8F%E5%9C%A8%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%E7%9A%84%E5%AE%9E%E8%B7%B5%E4%B8%8E%E6%80%9D%E8%80%83.html" target="_blank"> 责任链模式在数据处理的实践与思考 </a> - 2022/12/27 
 
         
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/6d3fb21bab4929cb7c91dc406e57cc12d44d64ef" target="_blank"> 谈谈大模型时代下的个人知识管理 </a> - 2024/11/03 22:00:26 
+
+    
   * <a href="https://github.com/0xcaffebabe/photo/commit/6841708f99616476602f20b553fcecee5eb266ae" target="_blank"> update 2024-11-01 14:59:46 </a> - 2024/11/01 22:59:47 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/d6d8169017b2a6c7c92cf539292416ea344e0b41" target="_blank"> ✏更新虚拟机迁移 </a> - 2024/11/01 16:01:02 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/76c604c05aba160eddcb9dd5345c257b2ecf07e7" target="_blank"> ✏网关 </a> - 2024/11/01 16:02:53 
 
     
 
