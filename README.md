@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/584126ba9fea29d2aa988a3535c4c94f441ddf32" target="_blank"> ✏持续集成 </a> - 2024/11/15 17:01:29 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/89b764974d3615ee504a0fdcf3a7ccb57db38add" target="_blank"> 📦测试 </a> - 2024/11/15 16:35:06 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/5c5e65cc7dae2c91971a72f7a73dc3877be1a59c" target="_blank"> 📦计算机系统 </a> - 2024/11/14 19:15:00 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/ada70dc25cbecbc90a16ef8d80d8dbe99e348414" target="_blank"> 📦操作系统 </a> - 2024/11/14 14:48:33 
 
     
 
