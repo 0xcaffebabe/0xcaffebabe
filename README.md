@@ -116,6 +116,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/de7fc529ef5744108380126f7cdeaa6a45e0bb8c" target="_blank"> 📦JVM 字节码 </a> - 2024/11/18 19:42:07 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/201e7c6adf786d5853c16ec4f716fe7ac66750ef" target="_blank"> 📦JVM 垃圾回收 </a> - 2024/11/18 19:24:29 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/1aaa980dac5a310bb3a42d28c6d7e4ef54b9d2d0" target="_blank"> 📦JVM 内存结构 </a> - 2024/11/18 18:25:45 
 
     
@@ -126,12 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/photo/commit/71849fe0996d4b22f024be9e3004f8508e8c53e4" target="_blank"> update 2024-11-17 15:00:40 </a> - 2024/11/17 23:00:40 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/584126ba9fea29d2aa988a3535c4c94f441ddf32" target="_blank"> ✏持续集成 </a> - 2024/11/15 17:01:29 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/89b764974d3615ee504a0fdcf3a7ccb57db38add" target="_blank"> 📦测试 </a> - 2024/11/15 16:35:06 
 
     
 
