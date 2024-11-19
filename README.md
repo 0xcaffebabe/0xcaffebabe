@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/c70770d86f8e3129c88f6602f63dd0c42e17bbf1" target="_blank"> 📦JVM 编译与优化 </a> - 2024/11/19 10:32:03 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/abdd40c22713c0d17f0fd84a9382f242b0ed5d0f" target="_blank"> Update all non-major dependencie... </a> - 2024/11/19 09:15:51 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/1aaa980dac5a310bb3a42d28c6d7e4ef54b9d2d0" target="_blank"> 📦JVM 内存结构 </a> - 2024/11/18 18:25:45 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/2b21c6566aa4db8dff3d81003dea531cbe044061" target="_blank"> 📦Java 高级 </a> - 2024/11/18 16:40:55 
 
     
 
