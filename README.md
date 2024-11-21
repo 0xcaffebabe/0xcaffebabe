@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/a1a2e13f9d33f87c0b9111848cc8572f865ff631" target="_blank"> 📦分布式 </a> - 2024/11/21 15:31:50 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/b3ebd6a3b3a2c6f5d3f87797c69894201fd65991" target="_blank"> 📦检索技术 </a> - 2024/11/21 09:48:16 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/955524f9775b97e250675e61652f914ad8337055" target="_blank"> 📦Kafka </a> - 2024/11/20 16:12:20 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/b64df2e87e14f86576fb82cc7b57e6b452aba69c" target="_blank"> 📦Redis </a> - 2024/11/20 14:24:23 
 
     
 
