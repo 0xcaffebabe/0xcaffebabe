@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/79be8db296f67ce74a4a59bfad4f9cbf3e2e6b59" target="_blank"> 📦微服务测试 </a> - 2024/11/22 15:53:28 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/a28d217a6122f8f7c8a9254f8b2c0e32dccf9f6f" target="_blank"> 📦服务治理 </a> - 2024/11/22 14:18:29 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/0xcaffebabe/commit/7b2b5cece5bd71c20bd0f41031d34ed70da5ccee" target="_blank"> Add renovate.json </a> - 2022/01/06 18:54:39 
-
-    
-  * <a href="https://github.com/0xcaffebabe/0xcaffebabe/commit/ba20e2ad6367acc6212faad32e7f7bfb90a48b05" target="_blank"> Updated README </a> - 2022/01/06 18:55:05 
 
     
 
