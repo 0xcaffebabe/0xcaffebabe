@@ -1,11 +1,30 @@
 
 ## Overview
 
-由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:2022-01-06 10:55:05_
 
-[![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59)
+[![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=0xcaffebabe&layout=compact&langs_count=12)
+
+[![leetcode](https://leetcode-badge.ismy.wang/ranking)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://leetcode-badge.ismy.wang/solved)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://leetcode-badge.ismy.wang/ac)](https://leetcode.cn/u/0xcaffebabe/)
+
+<table border="0">
+  <tr border="0">
+
+  <td valign="top" width="60%">
+
+  ![](https://github-readme-stats.vercel.app/api/wakatime?username=0xcaffebabe&layout=compact&langs_count=12&theme=dark&range=all_time)
+
+  </td>
+
+  <td valign="top" width="40%">
+
+  ![](https://raw.githubusercontent.com/0xcaffebabe/github-stats/master/generated/overview.svg)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0xcaffebabe&theme=github_dark&utcOffset=8)
+
+  </td>
+  </tr>
+
+</table>
 
 <table>
 
@@ -15,28 +34,28 @@
 #### 📖 最近博客
 
 
-* <a href="https://0xcaffebabe.github.io/%E7%AE%97%E6%B3%95/2020/11/09/%E8%B0%88%E8%B0%88%E9%80%92%E5%BD%92%E4%B8%8E%E6%A0%91.html" target="_blank"> 谈谈递归与树 </a> - 2020/11/09 
+* <a href="https://0xcaffebabe.github.io/%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF/2024/11/03/%E8%B0%88%E8%B0%88%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%97%B6%E4%BB%A3%E4%B8%8B%E7%9A%84%E4%B8%AA%E4%BA%BA%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86.html" target="_blank"> 谈谈大模型时代下的个人知识管理 </a> - 2024/11/03 
 
     
-* <a href="https://0xcaffebabe.github.io/%E7%AE%97%E6%B3%95/2020/09/18/%E8%B0%88%E8%B0%88bitmap%E7%9A%84%E4%BD%BF%E7%94%A8.html" target="_blank"> 谈谈bitmap的使用 </a> - 2020/09/18 
+* <a href="https://0xcaffebabe.github.io/%E4%BA%A7%E5%93%81/2024/10/27/%E7%AB%99%E5%9C%A8%E7%94%A8%E6%88%B7%E8%A7%86%E8%A7%92%E7%9A%84%E8%AE%BE%E8%AE%A1%E5%8F%8D%E6%80%9D.html" target="_blank"> 站在用户视角的设计反思 </a> - 2024/10/27 
 
     
-* <a href="https://0xcaffebabe.github.io/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/2020/09/11/%E6%A1%A5%E6%8E%A5%E6%A8%A1%E5%BC%8F%E7%9A%84%E5%AE%9E%E9%99%85%E4%BD%BF%E7%94%A8.html" target="_blank"> 桥接模式的实际使用 </a> - 2020/09/11 
+* <a href="https://0xcaffebabe.github.io/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/2024/06/24/%E4%BD%BF%E7%94%A8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E7%8E%B0%E6%96%87%E6%A1%A3%E6%8E%A8%E8%8D%90%E4%B8%8E%E6%A0%87%E7%AD%BE%E9%A2%84%E6%B5%8B.html" target="_blank"> 使用机器学习实现文档推荐与标签预测 </a> - 2024/06/24 
 
     
-* <a href="https://0xcaffebabe.github.io/java/2020/04/16/JAVA%E5%AE%9E%E7%8E%B0%E8%8A%82%E6%B5%81%E9%98%80.html" target="_blank"> java实现节流阀 </a> - 2020/04/16 
+* <a href="https://0xcaffebabe.github.io/%E5%A4%A7%E6%95%B0%E6%8D%AE/2024/02/11/%E7%BB%AD%E5%8D%95%E8%A1%A87000w%E6%95%B0%E6%8D%AE%E7%9A%84%E4%B8%80%E4%BA%9B%E9%97%AE%E9%A2%98%E5%8F%8A%E6%80%9D%E8%B7%AF.html" target="_blank"> 续单表7000w数据的一些问题及思路 </a> - 2024/02/11 
 
     
-* <a href="https://0xcaffebabe.github.io/%E6%97%A5%E5%B8%B8/2020/04/16/%E8%B0%83%E8%AF%95%E4%B8%80%E4%B8%AAwsl2+java%E5%BC%95%E5%8F%91%E7%9A%84bug.html" target="_blank"> 调试一个wsl2+java引发的bug </a> - 2020/04/16 
+* <a href="https://0xcaffebabe.github.io/%E5%A4%A7%E6%95%B0%E6%8D%AE/2024/01/14/%E4%B8%80%E4%B8%AA%E5%8D%95%E8%A1%A87000w%E6%95%B0%E6%8D%AE%E5%8D%95%E6%9C%BA%E7%A6%BB%E7%BA%BF%E7%BB%9F%E8%AE%A1%E5%88%86%E6%9E%90%E7%9A%84%E5%86%85%E5%AD%98%E4%BC%98%E5%8C%96%E6%A1%88%E4%BE%8B.html" target="_blank"> 一个单表7000w数据单机离线统计分析的内存优化案例 </a> - 2024/01/14 
 
     
-* <a href="https://0xcaffebabe.github.io/spring/2019/11/04/Spring-%E5%9B%9B-%E4%BA%8B%E5%8A%A1%E7%AE%A1%E7%90%86.html" target="_blank"> Spring(四):事务管理 </a> - 2019/11/04 
+* <a href="https://0xcaffebabe.github.io/%E4%BA%BA%E7%94%9F/2024/01/07/%E6%88%91%E7%9A%842023%E6%80%BB%E7%BB%93.html" target="_blank"> 我的2023总结 </a> - 2024/01/07 
 
     
-* <a href="https://0xcaffebabe.github.io/spring/2019/10/28/Spring(%E4%B8%89)-AOP.html" target="_blank"> Spring(三):AOP </a> - 2019/10/28 
+* <a href="https://0xcaffebabe.github.io/%E4%BA%BA%E7%94%9F/2023/10/03/%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83,%E5%86%99%E5%9C%A8%E5%B7%A5%E4%BD%9C%E4%B8%89%E5%91%A8%E5%B9%B4%E4%B9%8B%E9%99%85.html" target="_blank"> 一些思考,写在工作三周年之际 </a> - 2023/10/03 
 
     
-* <a href="https://0xcaffebabe.github.io/spring/2019/10/21/Spring(%E4%BA%8C)-Bean%E7%9A%84%E8%A3%85%E9%85%8D.html" target="_blank"> Spring(二):Bean的装配 </a> - 2019/10/21 
+* <a href="https://0xcaffebabe.github.io/%E4%BA%BA%E7%94%9F/2023/03/26/%E6%88%91%E7%9A%842022%E6%80%BB%E7%BB%93.html" target="_blank"> 我的2022总结 </a> - 2023/03/26 
 
         
 
@@ -44,7 +63,30 @@
 
 <td valign="top" width="50%">
 
-![](https://raw.githubusercontent.com/0xcaffebabe/github-stats/master/generated/overview.svg)
+#### 🔋最近AC
+
+
+  * <a href="https://leetcode.cn/submissions/detail/577335251" target="_blank"> 3259.超级饮料的最大强化能量 </a> - 2024-11-01 11:01:55 
+
+    
+  * <a href="https://leetcode.cn/submissions/detail/577057848" target="_blank"> 3285.找到稳定山的下标 </a> - 2024-10-31 09:28:44 
+
+    
+  * <a href="https://leetcode.cn/submissions/detail/576762176" target="_blank"> 3216.交换后字典序最小的字符串 </a> - 2024-10-30 09:10:34 
+
+    
+  * <a href="https://leetcode.cn/submissions/detail/576495497" target="_blank"> 1884.鸡蛋掉落-两枚鸡蛋 </a> - 2024-10-29 09:26:34 
+
+    
+  * <a href="https://leetcode.cn/submissions/detail/576222133" target="_blank"> 3324.出现在屏幕上的字符串序列 </a> - 2024-10-28 09:35:53 
+
+    
+  * <a href="https://leetcode.cn/submissions/detail/575270275" target="_blank"> 3175.找到连续赢 K 场比赛的第一位玩家 </a> - 2024-10-24 09:14:55 
+
+    
+  * <a href="https://leetcode.cn/submissions/detail/574989010" target="_blank"> 3185.构成整天的下标对数目 II </a> - 2024-10-23 09:35:41 
+
+    
 
 </td>
 
@@ -56,20 +98,19 @@
 
 #### 📝 计划
 
-- [进行中的书单](https://github.com/users/0xcaffebabe/projects/4)
-  - system-design-primer
-  - 代码大全
-  - 高性能mysql
+- [进行中的书单](https://github.com/users/0xcaffebabe/projects/9)
+  - 程序员的底层思维
 
 
-- [后端学习计划](https://github.com/users/0xcaffebabe/projects/1)
-  - shiro
-  - spring security
-  - hadoop
+- [后端学习计划](https://github.com/users/0xcaffebabe/projects/10)
+  - 信息安全
+  - 数据工程
 
 
-- [其他学习计划](https://github.com/users/0xcaffebabe/projects/3)
-  - vue3
+- [其他学习计划](https://github.com/users/0xcaffebabe/projects/11)
+  - 人生管理系统
+  - kotlin
+  - swift/swiftui
 
 
 <td>
@@ -77,22 +118,24 @@
 #### 🌴最近提交
 
 
-  * <a href="https://github.com/0xcaffebabe/note/commit/08cf16e262522f9018f9d2ba9f6ab24e8aa7193f" target="_blank"> Deploy to GitHub pages </a> - 2022/01/06 18:12:45 
+
+  * <a href="https://github.com/0xcaffebabe/note/commit/819b8838c0173819d23b03b67f4f6e9aa22123f0" target="_blank"> 📦高并发 </a> - 2024/11/21 17:01:26 
 
     
-  * <a href="https://github.com/0xcaffebabe/note/commit/bdf2868657a572a80c031f2bb5cb6daeaf8276a1" target="_blank"> Add renovate.json </a> - 2022/01/06 18:10:39 
+  * <a href="https://github.com/0xcaffebabe/note/commit/e7132c877958d8ef876adaf72dbd67f194dae46d" target="_blank"> 📦可用性 </a> - 2024/11/21 16:12:26 
 
     
-  * <a href="https://github.com/0xcaffebabe/note/commit/1729179e71bb399d6e0ceac09d996d8a103d5bcf" target="_blank"> Merge pull request #155 from 0xc... </a> - 2022/01/06 18:10:39 
+  * <a href="https://github.com/0xcaffebabe/note/commit/9ef3316bfb402eb1995ebd52f90bec6971ac1aca" target="_blank"> 📦扩展性 </a> - 2024/11/21 15:39:18 
 
     
-  * <a href="https://github.com/0xcaffebabe/note/commit/7a613166e0b0aced137ea9ba286a0d25cbb50f79" target="_blank"> Deploy to GitHub pages </a> - 2022/01/06 18:10:39 
+  * <a href="https://github.com/0xcaffebabe/note/commit/a1a2e13f9d33f87c0b9111848cc8572f865ff631" target="_blank"> 📦分布式 </a> - 2024/11/21 15:31:50 
 
     
-  * <a href="https://github.com/0xcaffebabe/note/commit/fe91bc80bd0eebb7d57ccbd6d789ec299819d4f5" target="_blank"> 🛠️依赖打包优化 </a> - 2022/01/06 18:08:10 
+  * <a href="https://github.com/0xcaffebabe/note/commit/b3ebd6a3b3a2c6f5d3f87797c69894201fd65991" target="_blank"> 📦检索技术 </a> - 2024/11/21 09:48:16 
 
     
-  * <a href="https://github.com/0xcaffebabe/note/commit/bd6bcd67d03c7f308a920ef894c8c6ff0be8d982" target="_blank"> 🛠️PPT页支持图片浏览 </a> - 2022/01/06 18:08:10 
+  * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/ab073a92c63fc28dc64ef3a19459812d3576cfe3" target="_blank"> 删除公众号二维码 </a> - 2024/11/20 20:07:16 
+
 
     
 
@@ -101,3 +144,4 @@
 </tr>
 
 </table>
+

@@ -1,11 +1,28 @@
 
 ## Overview
 
-由[Github OverView](https://github.com/0xcaffebabe/0xcaffebabe)自动生成 _生成时间:${gen_time}_
+[![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
 
-[![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59)
+[![leetcode](https://leetcode-badge.ismy.wang/ranking)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://leetcode-badge.ismy.wang/solved)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://leetcode-badge.ismy.wang/ac)](https://leetcode.cn/u/0xcaffebabe/)
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=0xcaffebabe&layout=compact&langs_count=12)
+<table border="0">
+  <tr border="0">
+
+  <td valign="top" width="60%">
+
+  ![](https://github-readme-stats.vercel.app/api/wakatime?username=0xcaffebabe&layout=compact&langs_count=12&theme=dark&range=all_time)
+
+  </td>
+
+  <td valign="top" width="40%">
+
+  ![](https://raw.githubusercontent.com/0xcaffebabe/github-stats/master/generated/overview.svg)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0xcaffebabe&theme=github_dark&utcOffset=8)
+
+  </td>
+  </tr>
+
+</table>
 
 <table>
 
@@ -20,7 +37,9 @@ ${recent_blogs}
 
 <td valign="top" width="50%">
 
-![](https://raw.githubusercontent.com/0xcaffebabe/github-stats/master/generated/overview.svg)
+#### 🔋最近AC
+
+${recent_ac}
 
 </td>
 
@@ -32,13 +51,13 @@ ${recent_blogs}
 
 #### 📝 计划
 
-- [进行中的书单](https://github.com/users/0xcaffebabe/projects/4)
+- [进行中的书单](https://github.com/users/0xcaffebabe/projects/9)
 ${book_list}
 
-- [后端学习计划](https://github.com/users/0xcaffebabe/projects/1)
+- [后端学习计划](https://github.com/users/0xcaffebabe/projects/10)
 ${backend_task}
 
-- [其他学习计划](https://github.com/users/0xcaffebabe/projects/3)
+- [其他学习计划](https://github.com/users/0xcaffebabe/projects/11)
 ${other_task}
 
 <td>
@@ -52,3 +71,4 @@ ${commits}
 </tr>
 
 </table>
+

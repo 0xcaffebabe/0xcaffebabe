@@ -4,7 +4,7 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron:  '30 12 */1 * *'
+    - cron:  '0/10 * * * *'
 
 jobs:
   build:
@@ -29,7 +29,7 @@ jobs:
     - name: Commit and push if changed
       run: |-
         git diff
-        git config --global user.email "715711877@qq.com"
+        git config --global user.email "0xcaffebabe-bot"
         git config --global user.name "0xcaffebabe-bot"
         git pull
         git add -A
