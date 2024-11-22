@@ -1,9 +1,7 @@
 
 ## Overview
 
-
 [![wakatime](https://wakatime.com/badge/user/78591c59-95d5-4479-b2fc-988c35f31d59.svg)](https://wakatime.com/@78591c59-95d5-4479-b2fc-988c35f31d59) ![](https://gpvc.arturio.dev/0xcaffebabe)
-
 
 [![leetcode](https://leetcode-badge.ismy.wang/ranking)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://leetcode-badge.ismy.wang/solved)](https://leetcode.cn/u/0xcaffebabe/) [![leetcode](https://leetcode-badge.ismy.wang/ac)](https://leetcode.cn/u/0xcaffebabe/)
 
@@ -118,7 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/340d03e0ac71d5d14daa022cce236600abece443" target="_blank"> 📦性能相关 </a> - 2024/11/21 19:08:00 
 
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/819b8838c0173819d23b03b67f4f6e9aa22123f0" target="_blank"> 📦高并发 </a> - 2024/11/21 17:01:26 
 
     
@@ -132,10 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/b3ebd6a3b3a2c6f5d3f87797c69894201fd65991" target="_blank"> 📦检索技术 </a> - 2024/11/21 09:48:16 
-
-    
-  * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/ab073a92c63fc28dc64ef3a19459812d3576cfe3" target="_blank"> 删除公众号二维码 </a> - 2024/11/20 20:07:16 
-
 
     
 
