@@ -32,6 +32,9 @@
 #### 📖 最近博客
 
 
+* <a href="https://0xcaffebabe.github.io/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/2024/11/23/%E8%BD%AF%E4%BB%B6%E6%80%A7%E8%83%BD%E9%97%AE%E9%A2%98%E6%8E%92%E6%9F%A5%E6%96%B9%E6%B3%95%E4%B8%8E%E6%80%9D%E8%B7%AF.html" target="_blank"> 软件性能问题排查方法与思路 </a> - 2024/11/23 
+
+    
 * <a href="https://0xcaffebabe.github.io/%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF/2024/11/03/%E8%B0%88%E8%B0%88%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%97%B6%E4%BB%A3%E4%B8%8B%E7%9A%84%E4%B8%AA%E4%BA%BA%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86.html" target="_blank"> 谈谈大模型时代下的个人知识管理 </a> - 2024/11/03 
 
     
@@ -51,9 +54,6 @@
 
     
 * <a href="https://0xcaffebabe.github.io/%E4%BA%BA%E7%94%9F/2023/10/03/%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83,%E5%86%99%E5%9C%A8%E5%B7%A5%E4%BD%9C%E4%B8%89%E5%91%A8%E5%B9%B4%E4%B9%8B%E9%99%85.html" target="_blank"> 一些思考,写在工作三周年之际 </a> - 2023/10/03 
-
-    
-* <a href="https://0xcaffebabe.github.io/%E4%BA%BA%E7%94%9F/2023/03/26/%E6%88%91%E7%9A%842022%E6%80%BB%E7%BB%93.html" target="_blank"> 我的2022总结 </a> - 2023/03/26 
 
         
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/1a00b9c4f46764deaa4221f838d6094ff16be938" target="_blank"> 软件性能问题排查方法与思路 </a> - 2024/11/24 22:33:20 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/ca39b7f6d17be76d43f19cd7b533d5976cf00ee0" target="_blank"> 📦微服务安全 </a> - 2024/11/22 16:07:50 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/c73adf1561b5dc9412f163b8b546d08fba8cd07b" target="_blank"> 📦网关 </a> - 2024/11/22 10:28:56 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/200aa0a73291a296032cf358327b73c387f0662f" target="_blank"> 📦伸缩性 </a> - 2024/11/22 10:11:46 
 
     
 
