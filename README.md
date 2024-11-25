@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/984b0cab1bfa9822163a0947a83e9fea875c581a" target="_blank"> 📦微服务 </a> - 2024/11/25 14:06:28 
+
+    
   * <a href="https://github.com/0xcaffebabe/0xcaffebabe/commit/b0267c1b1aa564401712b7b777a062d4d3c0f39f" target="_blank"> Update actions/setup-python acti... </a> - 2024/11/22 09:05:21 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/79be8db296f67ce74a4a59bfad4f9cbf3e2e6b59" target="_blank"> 📦微服务测试 </a> - 2024/11/22 15:53:28 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/a28d217a6122f8f7c8a9254f8b2c0e32dccf9f6f" target="_blank"> 📦服务治理 </a> - 2024/11/22 14:18:29 
 
     
 
