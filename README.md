@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/photo/commit/1d22fa042da21cec7778b9afc7b9020a4cc100dc" target="_blank"> update 2024-11-25 15:07:10 </a> - 2024/11/25 23:07:10 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/a51a7e8a5f0ef7f72dd93989c6e0d0d7b4a32664" target="_blank"> ✏数据分析 </a> - 2024/11/25 19:21:55 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/0xcaffebabe/commit/426b957380dd85696aa091dfb533aefa193eeb26" target="_blank"> Update actions/checkout action t... </a> - 2024/11/22 09:05:18 
-
-    
-  * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/1a00b9c4f46764deaa4221f838d6094ff16be938" target="_blank"> 软件性能问题排查方法与思路 </a> - 2024/11/24 22:33:20 
 
     
 
