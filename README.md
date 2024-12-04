@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/4062d3668ce503f77c8033fb739d35c5f502e5f2" target="_blank"> 📦查询优化 </a> - 2024/12/04 19:02:28 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/2d01fab1545f4de55e4a5d59d8bf454fec49237f" target="_blank"> [ImgBot] Optimize images </a> - 2024/12/04 14:12:13 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/a7cc776062bfce0aa6766c816123b1b0f9c7cc4b" target="_blank"> 改名 </a> - 2024/12/04 11:48:56 
-
-    
-  * <a href="https://github.com/0xcaffebabe/photo/commit/5cfb0ada6ed3555a76ad97d9ac434770c5c00e58" target="_blank"> update 2024-12-03 14:33:55 </a> - 2024/12/03 22:33:55 
 
     
 
