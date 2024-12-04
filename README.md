@@ -116,6 +116,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/3169a8f399d48453e9a04652f50a4f7351b6586d" target="_blank"> 一个大量短连接导致FTP传输中断的案例 </a> - 2024/12/04 11:46:51 
+
+    
+  * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/a7cc776062bfce0aa6766c816123b1b0f9c7cc4b" target="_blank"> 改名 </a> - 2024/12/04 11:48:56 
+
+    
   * <a href="https://github.com/0xcaffebabe/photo/commit/5cfb0ada6ed3555a76ad97d9ac434770c5c00e58" target="_blank"> update 2024-12-03 14:33:55 </a> - 2024/12/03 22:33:55 
 
     
@@ -126,12 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/120847197a4799fd4df9146d1579b956be153cae" target="_blank"> 📦计算机系统 </a> - 2024/12/02 19:28:47 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/8292a24663309b67f7b0431ae6d532b5eee79b2e" target="_blank"> 📦处理器体系结构 </a> - 2024/12/02 16:11:02 
-
-    
-  * <a href="https://github.com/0xcaffebabe/my-weather-app/commit/2771d793cf9627fa1a2e0ccd0ebb6adf3bb5a95e" target="_blank"> chore(deps): update dependency @... </a> - 2024/11/28 19:00:34 
 
     
 
