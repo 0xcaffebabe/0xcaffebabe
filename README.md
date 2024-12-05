@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/89aa42e54f81d81c21b473c561c62f9143075db7" target="_blank"> 📦MySQL </a> - 2024/12/05 15:14:41 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/d44cd8fd0c5ab3a19a6a77d8f0035dfe6695428c" target="_blank"> 📦索引 </a> - 2024/12/04 19:58:48 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/262127ddc0425c660ba0f55e831d34c17a293368" target="_blank"> 📦运输层 </a> - 2024/12/04 13:59:33 
-
-    
-  * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/3169a8f399d48453e9a04652f50a4f7351b6586d" target="_blank"> 一个大量短连接导致FTP传输中断的案例 </a> - 2024/12/04 11:46:51 
 
     
 
