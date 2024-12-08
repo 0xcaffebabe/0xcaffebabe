@@ -32,6 +32,9 @@
 #### 📖 最近博客
 
 
+* <a href="https://0xcaffebabe.github.io/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/2024/12/08/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E7%9A%84%E4%B8%80%E8%88%AC%E6%80%9D%E8%B7%AF.html" target="_blank"> 性能优化的一般思路 </a> - 2024/12/08 
+
+    
 * <a href="https://0xcaffebabe.github.io/%E7%BD%91%E7%BB%9C/2024/12/04/%E4%B8%80%E4%B8%AA%E5%A4%A7%E9%87%8F%E7%9F%AD%E8%BF%9E%E6%8E%A5%E5%AF%BC%E8%87%B4FTP%E8%BF%9E%E6%8E%A5%E5%85%B3%E9%97%AD%E7%9A%84%E6%A1%88%E4%BE%8B.html" target="_blank"> 一个大量短连接导致FTP连接关闭的案例 </a> - 2024/12/04 
 
     
@@ -51,9 +54,6 @@
 
     
 * <a href="https://0xcaffebabe.github.io/%E5%A4%A7%E6%95%B0%E6%8D%AE/2024/01/14/%E4%B8%80%E4%B8%AA%E5%8D%95%E8%A1%A87000w%E6%95%B0%E6%8D%AE%E5%8D%95%E6%9C%BA%E7%A6%BB%E7%BA%BF%E7%BB%9F%E8%AE%A1%E5%88%86%E6%9E%90%E7%9A%84%E5%86%85%E5%AD%98%E4%BC%98%E5%8C%96%E6%A1%88%E4%BE%8B.html" target="_blank"> 一个单表7000w数据单机离线统计分析的内存优化案例 </a> - 2024/01/14 
-
-    
-* <a href="https://0xcaffebabe.github.io/%E4%BA%BA%E7%94%9F/2024/01/07/%E6%88%91%E7%9A%842023%E6%80%BB%E7%BB%93.html" target="_blank"> 我的2023总结 </a> - 2024/01/07 
 
         
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/fed311631227ddc9de65916ddfc6fc334fde7ad4" target="_blank"> 性能优化的一般思路 </a> - 2024/12/08 12:32:05 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/b13cf16105193338696bd157bdde7eaf582d9681" target="_blank"> docs(mysql): 优化 MySQL Online DDL 部分的文档内容 </a> - 2024/12/06 17:24:50 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/051df0c7e8591e0c1c6bade9e6deefb9b0610528" target="_blank"> 📦MySQL </a> - 2024/12/05 19:17:39 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/89aa42e54f81d81c21b473c561c62f9143075db7" target="_blank"> 📦MySQL </a> - 2024/12/05 15:14:41 
 
     
 
