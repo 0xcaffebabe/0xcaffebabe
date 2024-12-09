@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/30bb663fdecba0166d9764b871b047a646fa24c8" target="_blank"> 🛠更新 llama 模型版本 </a> - 2024/12/09 16:06:46 
+
+    
   * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/fed311631227ddc9de65916ddfc6fc334fde7ad4" target="_blank"> 性能优化的一般思路 </a> - 2024/12/08 12:32:05 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/cdb32aeb50df56756186dd19009e666922259dd0" target="_blank"> 📦MySQL </a> - 2024/12/05 20:15:06 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/051df0c7e8591e0c1c6bade9e6deefb9b0610528" target="_blank"> 📦MySQL </a> - 2024/12/05 19:17:39 
 
     
 
