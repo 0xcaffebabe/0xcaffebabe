@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/3618b40d42ed38ca8bb10eb028e27a8bc7d6686c" target="_blank"> 📦消息队列 </a> - 2024/12/12 19:27:38 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/ca3af5acbeaa15aae7f53bc25b5ddbd91517dce5" target="_blank"> 🛠优化文档目录滚动逻辑 </a> - 2024/12/12 15:41:38 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/5c96cf53bb2f2ca8359f5fab16cf12f5ef224bbc" target="_blank"> 📦MySQL </a> - 2024/12/11 19:59:57 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/30bb663fdecba0166d9764b871b047a646fa24c8" target="_blank"> 🛠更新 llama 模型版本 </a> - 2024/12/09 16:06:46 
 
     
 
