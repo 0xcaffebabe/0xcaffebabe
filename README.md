@@ -116,6 +116,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/ca3af5acbeaa15aae7f53bc25b5ddbd91517dce5" target="_blank"> 🛠优化文档目录滚动逻辑 </a> - 2024/12/12 15:41:38 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/66407710d313aeb1e52ad6fed225af78dac822b1" target="_blank"> 🛠优化文档目录高亮逻辑 </a> - 2024/12/12 15:42:14 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/28b974130d8b4a8ae778d39e061492a9ceeaf871" target="_blank"> 📦ES </a> - 2024/12/12 15:26:38 
 
     
@@ -126,12 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/30bb663fdecba0166d9764b871b047a646fa24c8" target="_blank"> 🛠更新 llama 模型版本 </a> - 2024/12/09 16:06:46 
-
-    
-  * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/fed311631227ddc9de65916ddfc6fc334fde7ad4" target="_blank"> 性能优化的一般思路 </a> - 2024/12/08 12:32:05 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/b13cf16105193338696bd157bdde7eaf582d9681" target="_blank"> docs(mysql): 优化 MySQL Online DDL 部分的文档内容 </a> - 2024/12/06 17:24:50 
 
     
 
