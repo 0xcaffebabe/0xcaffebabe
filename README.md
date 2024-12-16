@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/61d91e611dc55e7d92017abf8196d274cc12ca80" target="_blank"> 📦Redis </a> - 2024/12/16 19:56:39 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/b7cd0bde2cba1bd9f67d355790849ff5a761e434" target="_blank"> 🛠配置 Workbox globPatterns </a> - 2024/12/16 11:38:28 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/ca3af5acbeaa15aae7f53bc25b5ddbd91517dce5" target="_blank"> 🛠优化文档目录滚动逻辑 </a> - 2024/12/12 15:41:38 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/66407710d313aeb1e52ad6fed225af78dac822b1" target="_blank"> 🛠优化文档目录高亮逻辑 </a> - 2024/12/12 15:42:14 
 
     
 
