@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/d2fbdc0783bb9ab2f8cdafa9f79470e4dc87b1d2" target="_blank"> 📦MySQL优化 </a> - 2024/12/17 16:46:57 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/61b90f666ece70535bb2cb2331de3aeb843482ee" target="_blank"> 📦机器学习 </a> - 2024/12/17 16:37:03 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/669ee24fcbc7d1f943da5f42d773e29c2990942d" target="_blank"> 📦Kafka </a> - 2024/12/13 15:26:31 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/3618b40d42ed38ca8bb10eb028e27a8bc7d6686c" target="_blank"> 📦消息队列 </a> - 2024/12/12 19:27:38 
 
     
 
