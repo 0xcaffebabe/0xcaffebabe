@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/e31397c57f070cb93528cd5b1e2bc035fa94d032" target="_blank"> 📦架构模式 </a> - 2024/12/27 13:54:07 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/d5caf8b2476efc59ebdda6fdf50cbf462b453cc9" target="_blank"> 🛠移除链接 popover 功能 </a> - 2024/12/20 15:37:49 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/61b90f666ece70535bb2cb2331de3aeb843482ee" target="_blank"> 📦机器学习 </a> - 2024/12/17 16:37:03 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/61d91e611dc55e7d92017abf8196d274cc12ca80" target="_blank"> 📦Redis </a> - 2024/12/16 19:56:39 
 
     
 
