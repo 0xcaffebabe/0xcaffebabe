@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/9fab22d65fc3acc5f78ac8cc2b31d80cd98db9b8" target="_blank"> 📦垃圾回收 </a> - 2025/01/02 13:38:48 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/ea9109746bc43e320441a94e7a4866b66d6cb339" target="_blank"> 📦Kafka </a> - 2024/12/31 15:36:59 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/e31397c57f070cb93528cd5b1e2bc035fa94d032" target="_blank"> 📦架构模式 </a> - 2024/12/27 13:54:07 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/d5caf8b2476efc59ebdda6fdf50cbf462b453cc9" target="_blank"> 🛠移除链接 popover 功能 </a> - 2024/12/20 15:37:49 
 
     
 
