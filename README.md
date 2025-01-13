@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/4732c339293308b9d484462a0aa6994c52a237c9" target="_blank"> 📦JVM 内存结构 </a> - 2025/01/13 13:37:42 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/af2a157d31d56b9bb7dcc117287b71e768c56085" target="_blank"> 📦操作系统 </a> - 2025/01/09 15:55:23 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/f8df2a18d12c9eff191001b7188954e8f3483587" target="_blank"> 📦事务 </a> - 2024/12/27 15:45:13 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/8e44eb9e91045fdf99bd5e881d4a3a70c77abc65" target="_blank"> 📦索引 </a> - 2024/12/27 14:59:30 
 
     
 
