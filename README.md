@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/d869502d1ad1fa3c489dbbeb626e448faa753d23" target="_blank"> 🛠升级 vite 工具链 </a> - 2025/01/16 15:38:48 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/dc6cb2becd843dee01d233c1454b2633a2fae4c3" target="_blank"> 📦JVM synchronized 的实现机制说明 </a> - 2025/01/16 15:07:32 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/af2a157d31d56b9bb7dcc117287b71e768c56085" target="_blank"> 📦操作系统 </a> - 2025/01/09 15:55:23 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/9fab22d65fc3acc5f78ac8cc2b31d80cd98db9b8" target="_blank"> 📦垃圾回收 </a> - 2025/01/02 13:38:48 
 
     
 
