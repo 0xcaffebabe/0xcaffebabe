@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/dc6cb2becd843dee01d233c1454b2633a2fae4c3" target="_blank"> 📦JVM synchronized 的实现机制说明 </a> - 2025/01/16 15:07:32 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/dbfd2dc5511ec5c93010f4c10f607ffb6a1b1d0a" target="_blank"> [ImgBot] Optimize images </a> - 2025/01/16 12:34:34 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/9fab22d65fc3acc5f78ac8cc2b31d80cd98db9b8" target="_blank"> 📦垃圾回收 </a> - 2025/01/02 13:38:48 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/ea9109746bc43e320441a94e7a4866b66d6cb339" target="_blank"> 📦Kafka </a> - 2024/12/31 15:36:59 
 
     
 
