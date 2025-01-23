@@ -64,6 +64,12 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/594905275" target="_blank"> 3248.矩阵中的蛇 </a> - 2025-01-23 10:54:09 
+
+    
+  * <a href="https://leetcode.cn/submissions/detail/594901512" target="_blank"> 3280.将日期转换为二进制表示 </a> - 2025-01-23 10:38:01 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/577335251" target="_blank"> 3259.超级饮料的最大强化能量 </a> - 2024-11-01 11:01:55 
 
     
@@ -77,12 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/576222133" target="_blank"> 3324.出现在屏幕上的字符串序列 </a> - 2024-10-28 09:35:53 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/575270275" target="_blank"> 3175.找到连续赢 K 场比赛的第一位玩家 </a> - 2024-10-24 09:14:55 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/574989010" target="_blank"> 3185.构成整天的下标对数目 II </a> - 2024-10-23 09:35:41 
 
     
 
