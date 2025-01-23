@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/leetcode/commit/1b67c6d82f83eb5f0a3c07ba7f9e0c2c9c95b3b7" target="_blank"> ➕3248.矩阵中的蛇.java </a> - 2025/01/23 10:54:27 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/e238296caf739b1c2da9b4efd86db583703e9aab" target="_blank"> ➕3280.将日期转换为二进制表示.java </a> - 2025/01/23 10:38:23 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/d869502d1ad1fa3c489dbbeb626e448faa753d23" target="_blank"> 🛠升级 vite 工具链 </a> - 2025/01/16 15:38:48 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/dc6cb2becd843dee01d233c1454b2633a2fae4c3" target="_blank"> 📦JVM synchronized 的实现机制说明 </a> - 2025/01/16 15:07:32 
 
     
 
