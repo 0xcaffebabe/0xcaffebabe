@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/91190619bea25589cd2b12197728a8336237b7a7" target="_blank"> 📦数据分析 </a> - 2025/01/23 16:06:25 
+
+    
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/1b67c6d82f83eb5f0a3c07ba7f9e0c2c9c95b3b7" target="_blank"> ➕3248.矩阵中的蛇.java </a> - 2025/01/23 10:54:27 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/f8fb634955098a1869a0b7bb27f62150b321ab61" target="_blank"> Bump katex from 0.16.11 to 0.16.... </a> - 2025/01/18 05:37:40 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/d869502d1ad1fa3c489dbbeb626e448faa753d23" target="_blank"> 🛠升级 vite 工具链 </a> - 2025/01/16 15:38:48 
 
     
 
