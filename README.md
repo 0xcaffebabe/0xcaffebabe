@@ -32,6 +32,9 @@
 #### 📖 最近博客
 
 
+* <a href="https://0xcaffebabe.github.io/%E4%BA%BA%E7%94%9F/2025/01/29/2024%E6%80%BB%E7%BB%93-%E5%B8%B8%E6%83%B3%E4%B8%80%E4%BA%8C-%E4%B8%8D%E6%80%9D%E5%85%AB%E4%B9%9D.html" target="_blank"> 2024总结：常想一二，不思八九 </a> - 2025/01/29 
+
+    
 * <a href="https://0xcaffebabe.github.io/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/2024/12/08/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E7%9A%84%E4%B8%80%E8%88%AC%E6%80%9D%E8%B7%AF.html" target="_blank"> 性能优化的一般思路 </a> - 2024/12/08 
 
     
@@ -51,9 +54,6 @@
 
     
 * <a href="https://0xcaffebabe.github.io/%E5%A4%A7%E6%95%B0%E6%8D%AE/2024/02/11/%E7%BB%AD%E5%8D%95%E8%A1%A87000w%E6%95%B0%E6%8D%AE%E7%9A%84%E4%B8%80%E4%BA%9B%E9%97%AE%E9%A2%98%E5%8F%8A%E6%80%9D%E8%B7%AF.html" target="_blank"> 续单表7000w数据的一些问题及思路 </a> - 2024/02/11 
-
-    
-* <a href="https://0xcaffebabe.github.io/%E5%A4%A7%E6%95%B0%E6%8D%AE/2024/01/14/%E4%B8%80%E4%B8%AA%E5%8D%95%E8%A1%A87000w%E6%95%B0%E6%8D%AE%E5%8D%95%E6%9C%BA%E7%A6%BB%E7%BA%BF%E7%BB%9F%E8%AE%A1%E5%88%86%E6%9E%90%E7%9A%84%E5%86%85%E5%AD%98%E4%BC%98%E5%8C%96%E6%A1%88%E4%BE%8B.html" target="_blank"> 一个单表7000w数据单机离线统计分析的内存优化案例 </a> - 2024/01/14 
 
         
 
