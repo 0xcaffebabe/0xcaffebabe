@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/c31c6fbcb41020c641ee16bdadb305e7f51ffd8a" target="_blank"> 2024总结：常想一二，不思八九 </a> - 2025/01/29 17:27:42 
+
+    
   * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/3459a1ec13d665f2ce9f10ac88f9e543738bae6a" target="_blank"> 更新关于我页面的内容 </a> - 2025/01/27 22:22:27 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/22009c282223fdc16460358255d369a90b12bd3f" target="_blank"> 🛠移除统计页面中的三维热力图组件 </a> - 2025/01/22 16:56:39 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/e3a4b5e6a59b7c67da8951c72430e6e9e3695515" target="_blank"> 🛠修复链接列表失效 </a> - 2025/01/20 13:49:42 
 
     
 
