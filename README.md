@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/0ccd2180056715ecaf0062b52276ec0c28e21448" target="_blank"> 更新个人位置信息 </a> - 2025/02/16 11:28:13 
+
+    
   * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/c31c6fbcb41020c641ee16bdadb305e7f51ffd8a" target="_blank"> 2024总结：常想一二，不思八九 </a> - 2025/01/29 17:27:42 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/leetcode/commit/e238296caf739b1c2da9b4efd86db583703e9aab" target="_blank"> ➕3280.将日期转换为二进制表示.java </a> - 2025/01/23 10:38:23 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/22009c282223fdc16460358255d369a90b12bd3f" target="_blank"> 🛠移除统计页面中的三维热力图组件 </a> - 2025/01/22 16:56:39 
 
     
 
