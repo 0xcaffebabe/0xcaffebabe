@@ -122,9 +122,6 @@
   * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/c31c6fbcb41020c641ee16bdadb305e7f51ffd8a" target="_blank"> 2024总结：常想一二，不思八九 </a> - 2025/01/29 17:27:42 
 
     
-  * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/3459a1ec13d665f2ce9f10ac88f9e543738bae6a" target="_blank"> 更新关于我页面的内容 </a> - 2025/01/27 22:22:27 
-
-    
 
 </td>
 
