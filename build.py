@@ -114,7 +114,7 @@ def get_column_title(obj):
 def fetch_form_github_cards(url, columnId):
   text = httpGet(url)
   soup = BeautifulSoup(text,features="html.parser")
-  taskData = soup.select('#memex-items-data')[0].text
+  taskData = soup.select('#memex-paginated-items-data')[0].text
   taskList = json.loads(taskData)
   html = ""
   for i in taskList:
