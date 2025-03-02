@@ -97,7 +97,7 @@
 #### 📝 计划
 
 - [进行中的书单](https://github.com/users/0xcaffebabe/projects/9)
-  - 真需求
+  - 能力陷阱
 
 
 - [后端学习计划](https://github.com/users/0xcaffebabe/projects/10)
@@ -116,10 +116,19 @@
 #### 🌴最近提交
 
 
-  * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/0ccd2180056715ecaf0062b52276ec0c28e21448" target="_blank"> 更新个人位置信息 </a> - 2025/02/16 11:28:13 
+  * <a href="https://github.com/0xcaffebabe/0xcaffebabe/commit/a5d75d0847fa109bcc1f6084f4a2fa99ee484f35" target="_blank"> Update build.py </a> - 2025/03/02 21:56:04 
 
     
-  * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/c31c6fbcb41020c641ee16bdadb305e7f51ffd8a" target="_blank"> 2024总结：常想一二，不思八九 </a> - 2025/01/29 17:27:42 
+  * <a href="https://github.com/0xcaffebabe/0xcaffebabe/commit/bb3ccfca3a210a3eea9a544da9b4575f42d4286e" target="_blank"> Update build.py </a> - 2025/03/02 21:42:03 
+
+    
+  * <a href="https://github.com/0xcaffebabe/my-weather-app/commit/8ad966cb41b6ef2af970b25648daf99c3af5813d" target="_blank"> refactor(service): 优化 LocationService 中的地址获取逻辑 </a> - 2025/03/01 10:49:33 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/68c1399efee4abc9589d1b47142360692c45d7f8" target="_blank"> Bump vite from 6.0.7 to 6.0.11 </a> - 2025/01/22 04:57:09 
+
+    
+  * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/0ccd2180056715ecaf0062b52276ec0c28e21448" target="_blank"> 更新个人位置信息 </a> - 2025/02/16 11:28:13 
 
     
 
