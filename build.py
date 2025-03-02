@@ -111,15 +111,19 @@ def get_column_title(obj):
       return i['value']['title']['raw']
   return ''
 
-def fetch_form_github_cards(url, columnId):
+def fetch_form_github_cards(url, id):
   text = httpGet(url)
   soup = BeautifulSoup(text,features="html.parser")
   taskData = soup.select('#memex-paginated-items-data')[0].text
-  taskList = json.loads(taskData)
+  arr = json.loads(taskData)['groupedItems']
+  taskList = []
+  for i in arr:
+    if i['groupId'] == id:
+      taskList = i['nodes']
   html = ""
   for i in taskList:
-    if check_is_needed_content(i, columnId):
-      html += "  - " + get_column_title(i) + "\n"
+    #if check_is_needed_content(i, columnId):
+    html += "  - " + get_column_title(i) + "\n"
   return html
 
 def fetch_commits():
@@ -168,13 +172,13 @@ def fetch_commits():
     
 
 def fetch_inprogrss_book_list():
-  return fetch_form_github_cards('https://github.com/users/0xcaffebabe/projects/9/views/1', '09c784ef')
+  return fetch_form_github_cards('https://github.com/users/0xcaffebabe/projects/9/views/1', 'Y3Vyc29yOnYyOpLOBudxJ6tJbiBwcm9ncmVzcw==')
 
 def fetch_inprogrss_backend_task():
-  return fetch_form_github_cards('https://github.com/users/0xcaffebabe/projects/10/views/1', 'ad3c33cf')
+  return fetch_form_github_cards('https://github.com/users/0xcaffebabe/projects/10/views/1', 'Y3Vyc29yOnYyOpLOBudxXqtJbiBwcm9ncmVzcw==')
 
 def fetch_inprogress_other_task():
-  return fetch_form_github_cards('https://github.com/users/0xcaffebabe/projects/11/views/1', '1cb647ed')
+  return fetch_form_github_cards('https://github.com/users/0xcaffebabe/projects/11/views/1', 'Y3Vyc29yOnYyOpLOBudxsqtJbiBwcm9ncmVzcw==')
 
 def fetch_commit_datetime(commit_url):
   text = httpGet(commit_url)
