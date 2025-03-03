@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/dc9705758ef98d2b84d866798e5f167e4a9f6dc8" target="_blank"> ⚒️ 更新模型名称和默认选项 </a> - 2025/03/03 18:23:40 
+
+    
   * <a href="https://github.com/0xcaffebabe/0xcaffebabe/commit/a5d75d0847fa109bcc1f6084f4a2fa99ee484f35" target="_blank"> Update build.py </a> - 2025/03/02 21:56:04 
 
     
