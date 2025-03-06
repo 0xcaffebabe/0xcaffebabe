@@ -106,6 +106,9 @@
 
 
 - [其他学习计划](https://github.com/users/0xcaffebabe/projects/11)
+  - 人生管理系统
+  - kotlin
+  - swift/swiftui
 
 
 <td>
