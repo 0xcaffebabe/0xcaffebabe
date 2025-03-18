@@ -131,9 +131,6 @@
   * <a href="https://github.com/0xcaffebabe/note/commit/68c1399efee4abc9589d1b47142360692c45d7f8" target="_blank"> Bump vite from 6.0.7 to 6.0.11 </a> - 2025/01/22 04:57:09 
 
     
-  * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/0ccd2180056715ecaf0062b52276ec0c28e21448" target="_blank"> 更新个人位置信息 </a> - 2025/02/16 11:28:13 
-
-    
 
 </td>
 
