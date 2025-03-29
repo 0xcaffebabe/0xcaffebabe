@@ -131,9 +131,6 @@
   * <a href="https://github.com/0xcaffebabe/my-weather-app/commit/8ad966cb41b6ef2af970b25648daf99c3af5813d" target="_blank"> refactor(service): 优化 LocationService 中的地址获取逻辑 </a> - 2025/03/01 10:49:33 
 
     
-  * <a href="https://github.com/0xcaffebabe/note/commit/68c1399efee4abc9589d1b47142360692c45d7f8" target="_blank"> Bump vite from 6.0.7 to 6.0.11 </a> - 2025/01/22 04:57:09 
-
-    
 
 </td>
 
