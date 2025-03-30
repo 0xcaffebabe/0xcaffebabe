@@ -32,6 +32,9 @@
 #### 📖 最近博客
 
 
+* <a href="https://0xcaffebabe.github.io/%E7%A8%B3%E5%AE%9A%E6%80%A7/2025/03/29/%E7%A8%B3%E5%AE%9A%E6%80%A7%E6%B2%BB%E7%90%86%E6%97%A5%E5%BF%97-%E4%B8%80-%E5%88%9D%E9%9D%A2%E9%A3%8E%E6%9A%B4.html" target="_blank"> 稳定性治理日志（一）：初面风暴 </a> - 2025/03/29 
+
+    
 * <a href="https://0xcaffebabe.github.io/%E4%BA%BA%E7%94%9F/2025/01/29/2024%E6%80%BB%E7%BB%93-%E5%B8%B8%E6%83%B3%E4%B8%80%E4%BA%8C-%E4%B8%8D%E6%80%9D%E5%85%AB%E4%B9%9D.html" target="_blank"> 2024总结：常想一二，不思八九 </a> - 2025/01/29 
 
     
@@ -51,9 +54,6 @@
 
     
 * <a href="https://0xcaffebabe.github.io/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/2024/06/24/%E4%BD%BF%E7%94%A8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E7%8E%B0%E6%96%87%E6%A1%A3%E6%8E%A8%E8%8D%90%E4%B8%8E%E6%A0%87%E7%AD%BE%E9%A2%84%E6%B5%8B.html" target="_blank"> 使用机器学习实现文档推荐与标签预测 </a> - 2024/06/24 
-
-    
-* <a href="https://0xcaffebabe.github.io/%E5%A4%A7%E6%95%B0%E6%8D%AE/2024/02/11/%E7%BB%AD%E5%8D%95%E8%A1%A87000w%E6%95%B0%E6%8D%AE%E7%9A%84%E4%B8%80%E4%BA%9B%E9%97%AE%E9%A2%98%E5%8F%8A%E6%80%9D%E8%B7%AF.html" target="_blank"> 续单表7000w数据的一些问题及思路 </a> - 2024/02/11 
 
         
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/5e1083667ad38ce309c7bc0d721a8d205755f334" target="_blank"> story(稳定性): 初面风暴 —— 稳定性治理日志（一） </a> - 2025/03/30 20:52:17 
+
+    
   * <a href="https://github.com/0xcaffebabe/photo/commit/e34b09d26e889f514f74234d0e54a054a4e428bf" target="_blank"> update 2025-03-30 09:41:09 </a> - 2025/03/30 17:41:09 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/0xcaffebabe/commit/bb3ccfca3a210a3eea9a544da9b4575f42d4286e" target="_blank"> Update build.py </a> - 2025/03/02 21:42:03 
-
-    
-  * <a href="https://github.com/0xcaffebabe/my-weather-app/commit/8ad966cb41b6ef2af970b25648daf99c3af5813d" target="_blank"> refactor(service): 优化 LocationService 中的地址获取逻辑 </a> - 2025/03/01 10:49:33 
 
     
 
