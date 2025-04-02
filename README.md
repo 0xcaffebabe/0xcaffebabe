@@ -125,9 +125,6 @@
   * <a href="https://github.com/0xcaffebabe/note/commit/c6de366c68e2eb663c52f008fd3b826ea4513b14" target="_blank"> Bump vite from 6.0.11 to 6.2.3 </a> - 2025/03/25 23:11:05 
 
     
-  * <a href="https://github.com/0xcaffebabe/note/commit/dc9705758ef98d2b84d866798e5f167e4a9f6dc8" target="_blank"> ⚒️ 更新模型名称和默认选项 </a> - 2025/03/03 18:23:40 
-
-    
 
 </td>
 
