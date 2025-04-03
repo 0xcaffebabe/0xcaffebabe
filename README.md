@@ -101,8 +101,6 @@
 
 
 - [后端学习计划](https://github.com/users/0xcaffebabe/projects/10)
-  - 信息安全
-  - 数据工程
 
 
 - [其他学习计划](https://github.com/users/0xcaffebabe/projects/11)
