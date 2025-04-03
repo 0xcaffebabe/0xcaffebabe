@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/my-weather-app/commit/1025fb0c483b1f7fbc7d08c74b9e802f2e89fe86" target="_blank"> refactor(util): update default location coordinates </a> - 2025/04/02 21:32:38 
+
+    
   * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/5e1083667ad38ce309c7bc0d721a8d205755f334" target="_blank"> story(稳定性): 初面风暴 —— 稳定性治理日志（一） </a> - 2025/03/30 20:52:17 
 
     
