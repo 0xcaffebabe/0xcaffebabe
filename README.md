@@ -32,6 +32,9 @@
 #### 📖 最近博客
 
 
+* <a href="https://0xcaffebabe.github.io/%E7%A8%B3%E5%AE%9A%E6%80%A7/2025/04/09/%E7%A8%B3%E5%AE%9A%E6%80%A7%E6%B2%BB%E7%90%86%E6%97%A5%E5%BF%97-%E4%BA%8C-%E5%A4%8D%E7%9B%98%E4%BC%9A%E4%B8%8A.html" target="_blank"> 稳定性治理日志（二）：复盘会上 </a> - 2025/04/09 
+
+    
 * <a href="https://0xcaffebabe.github.io/%E7%A8%B3%E5%AE%9A%E6%80%A7/2025/03/29/%E7%A8%B3%E5%AE%9A%E6%80%A7%E6%B2%BB%E7%90%86%E6%97%A5%E5%BF%97-%E4%B8%80-%E5%88%9D%E9%9D%A2%E9%A3%8E%E6%9A%B4.html" target="_blank"> 稳定性治理日志（一）：初面风暴 </a> - 2025/03/29 
 
     
@@ -51,9 +54,6 @@
 
     
 * <a href="https://0xcaffebabe.github.io/%E4%BA%A7%E5%93%81/2024/10/27/%E7%AB%99%E5%9C%A8%E7%94%A8%E6%88%B7%E8%A7%86%E8%A7%92%E7%9A%84%E8%AE%BE%E8%AE%A1%E5%8F%8D%E6%80%9D.html" target="_blank"> 站在用户视角的设计反思 </a> - 2024/10/27 
-
-    
-* <a href="https://0xcaffebabe.github.io/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/2024/06/24/%E4%BD%BF%E7%94%A8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E7%8E%B0%E6%96%87%E6%A1%A3%E6%8E%A8%E8%8D%90%E4%B8%8E%E6%A0%87%E7%AD%BE%E9%A2%84%E6%B5%8B.html" target="_blank"> 使用机器学习实现文档推荐与标签预测 </a> - 2024/06/24 
 
         
 
@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/a8736788b35e1adea14f966419c84cbfddabc241" target="_blank"> docs(stability): 添加稳定性治理日志（二）：复盘会上 </a> - 2025/04/21 21:25:27 
+
+    
   * <a href="https://github.com/0xcaffebabe/my-weather-app/commit/1025fb0c483b1f7fbc7d08c74b9e802f2e89fe86" target="_blank"> refactor(util): update default location coordinates </a> - 2025/04/02 21:32:38 
 
     
