@@ -32,6 +32,9 @@
 #### 📖 最近博客
 
 
+* <a href="https://0xcaffebabe.github.io/%E7%A8%B3%E5%AE%9A%E6%80%A7/2025/04/19/%E7%A8%B3%E5%AE%9A%E6%80%A7%E6%B2%BB%E7%90%86%E6%97%A5%E5%BF%97-%E4%B8%89-%E4%B8%80%E4%B8%AA%E9%9C%80%E6%B1%82.html" target="_blank"> 稳定性治理日志（三）：一个需求 </a> - 2025/04/19 
+
+    
 * <a href="https://0xcaffebabe.github.io/%E7%A8%B3%E5%AE%9A%E6%80%A7/2025/04/09/%E7%A8%B3%E5%AE%9A%E6%80%A7%E6%B2%BB%E7%90%86%E6%97%A5%E5%BF%97-%E4%BA%8C-%E5%A4%8D%E7%9B%98%E4%BC%9A%E4%B8%8A.html" target="_blank"> 稳定性治理日志（二）：复盘会上 </a> - 2025/04/09 
 
     
@@ -51,9 +54,6 @@
 
     
 * <a href="https://0xcaffebabe.github.io/%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF/2024/11/03/%E8%B0%88%E8%B0%88%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%97%B6%E4%BB%A3%E4%B8%8B%E7%9A%84%E4%B8%AA%E4%BA%BA%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86.html" target="_blank"> 谈谈大模型时代下的个人知识管理 </a> - 2024/11/03 
-
-    
-* <a href="https://0xcaffebabe.github.io/%E4%BA%A7%E5%93%81/2024/10/27/%E7%AB%99%E5%9C%A8%E7%94%A8%E6%88%B7%E8%A7%86%E8%A7%92%E7%9A%84%E8%AE%BE%E8%AE%A1%E5%8F%8D%E6%80%9D.html" target="_blank"> 站在用户视角的设计反思 </a> - 2024/10/27 
 
         
 
