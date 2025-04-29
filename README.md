@@ -128,9 +128,6 @@
   * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/5e1083667ad38ce309c7bc0d721a8d205755f334" target="_blank"> story(稳定性): 初面风暴 —— 稳定性治理日志（一） </a> - 2025/03/30 20:52:17 
 
     
-  * <a href="https://github.com/0xcaffebabe/photo/commit/e34b09d26e889f514f74234d0e54a054a4e428bf" target="_blank"> update 2025-03-30 09:41:09 </a> - 2025/03/30 17:41:09 
-
-    
 
 </td>
 
