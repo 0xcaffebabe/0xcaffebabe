@@ -32,6 +32,9 @@
 #### 📖 最近博客
 
 
+* <a href="https://0xcaffebabe.github.io/%E7%A8%B3%E5%AE%9A%E6%80%A7/2025/04/29/%E7%A8%B3%E5%AE%9A%E6%80%A7%E6%B2%BB%E7%90%86%E6%97%A5%E5%BF%97-%E5%9B%9B-%E7%9F%AD%E6%B2%BB%E9%95%BF%E5%BF%A7.html" target="_blank"> 稳定性治理日志（四）：短治长忧 </a> - 2025/04/29 
+
+    
 * <a href="https://0xcaffebabe.github.io/%E7%A8%B3%E5%AE%9A%E6%80%A7/2025/04/19/%E7%A8%B3%E5%AE%9A%E6%80%A7%E6%B2%BB%E7%90%86%E6%97%A5%E5%BF%97-%E4%B8%89-%E4%B8%80%E4%B8%AA%E9%9C%80%E6%B1%82.html" target="_blank"> 稳定性治理日志（三）：一个需求 </a> - 2025/04/19 
 
     
@@ -51,9 +54,6 @@
 
     
 * <a href="https://0xcaffebabe.github.io/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/2024/11/23/%E8%BD%AF%E4%BB%B6%E6%80%A7%E8%83%BD%E9%97%AE%E9%A2%98%E6%8E%92%E6%9F%A5%E6%96%B9%E6%B3%95%E4%B8%8E%E6%80%9D%E8%B7%AF.html" target="_blank"> 软件性能问题排查方法与思路 </a> - 2024/11/23 
-
-    
-* <a href="https://0xcaffebabe.github.io/%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF/2024/11/03/%E8%B0%88%E8%B0%88%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%97%B6%E4%BB%A3%E4%B8%8B%E7%9A%84%E4%B8%AA%E4%BA%BA%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86.html" target="_blank"> 谈谈大模型时代下的个人知识管理 </a> - 2024/11/03 
 
         
 
@@ -97,6 +97,7 @@
 #### 📝 计划
 
 - [进行中的书单](https://github.com/users/0xcaffebabe/projects/9)
+  - 能力陷阱
 
 
 - [后端学习计划](https://github.com/users/0xcaffebabe/projects/10)
