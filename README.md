@@ -125,9 +125,6 @@
   * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/a8736788b35e1adea14f966419c84cbfddabc241" target="_blank"> docs(stability): 添加稳定性治理日志（二）：复盘会上 </a> - 2025/04/21 21:25:27 
 
     
-  * <a href="https://github.com/0xcaffebabe/my-weather-app/commit/1025fb0c483b1f7fbc7d08c74b9e802f2e89fe86" target="_blank"> refactor(util): update default location coordinates </a> - 2025/04/02 21:32:38 
-
-    
 
 </td>
 
