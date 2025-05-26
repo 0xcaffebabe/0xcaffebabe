@@ -125,9 +125,6 @@
   * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/a51e1f2fdddae03f570de2956f0849afe2b0cfef" target="_blank"> docs(stability): publish new blog post on stability governance </a> - 2025/04/29 22:09:10 
 
     
-  * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/c869a0f2a50c070dce8a7e1311c602235b54844e" target="_blank"> feat(blog): add post on stability governance </a> - 2025/04/25 23:55:07 
-
-    
 
 </td>
 
