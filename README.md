@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/0aeefdda8caa4c3b5014c9205971ff4573acdcd7" target="_blank"> Bump vite from 6.2.3 to 6.3.4 </a> - 2025/05/01 02:53:05 
+
+    
   * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/99eb79f6cbcfce5d0526fdf5d29a77cff4724de8" target="_blank"> docs(stability): add log of stability governance (5) </a> - 2025/05/29 22:57:31 
 
     
