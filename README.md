@@ -32,6 +32,9 @@
 #### 📖 最近博客
 
 
+* <a href="https://0xcaffebabe.github.io/%E7%A8%B3%E5%AE%9A%E6%80%A7/2025/06/09/%E7%A8%B3%E5%AE%9A%E6%80%A7%E6%B2%BB%E7%90%86%E6%97%A5%E5%BF%97-%E5%85%AD-%E6%BA%BA%E4%BA%8E%E6%B5%85%E6%B9%BE.html" target="_blank"> 稳定性治理日志（六）：溺于浅湾 </a> - 2025/06/09 
+
+    
 * <a href="https://0xcaffebabe.github.io/%E7%A8%B3%E5%AE%9A%E6%80%A7/2025/05/29/%E7%A8%B3%E5%AE%9A%E6%80%A7%E6%B2%BB%E7%90%86%E6%97%A5%E5%BF%97-%E4%BA%94-%E5%A4%9C%E5%8D%8A%E6%83%8A%E9%AD%82.html" target="_blank"> 稳定性治理日志（五）：夜航双盲 </a> - 2025/05/29 
 
     
@@ -51,9 +54,6 @@
 
     
 * <a href="https://0xcaffebabe.github.io/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/2024/12/08/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E7%9A%84%E4%B8%80%E8%88%AC%E6%80%9D%E8%B7%AF.html" target="_blank"> 性能优化的一般思路 </a> - 2024/12/08 
-
-    
-* <a href="https://0xcaffebabe.github.io/%E7%BD%91%E7%BB%9C/2024/12/04/%E4%B8%80%E4%B8%AA%E5%A4%A7%E9%87%8F%E7%9F%AD%E8%BF%9E%E6%8E%A5%E5%AF%BC%E8%87%B4FTP%E8%BF%9E%E6%8E%A5%E5%85%B3%E9%97%AD%E7%9A%84%E6%A1%88%E4%BE%8B.html" target="_blank"> 一个大量短连接导致FTP连接关闭的案例 </a> - 2024/12/04 
 
         
 
