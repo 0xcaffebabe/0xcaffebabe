@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/d412316ce7ae2c55413f26039b184eceafbbcc18" target="_blank"> feat(stability): add new blog post "Stability Governance Log (6): Drowned in Shallow Bay" </a> - 2025/06/10 22:10:44 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/0aeefdda8caa4c3b5014c9205971ff4573acdcd7" target="_blank"> Bump vite from 6.2.3 to 6.3.4 </a> - 2025/05/01 02:53:05 
 
     
