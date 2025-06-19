@@ -32,6 +32,9 @@
 #### 📖 最近博客
 
 
+* <a href="https://0xcaffebabe.github.io/%E7%A8%B3%E5%AE%9A%E6%80%A7/2025/06/19/%E7%A8%B3%E5%AE%9A%E6%80%A7%E6%B2%BB%E7%90%86%E6%97%A5%E5%BF%97-%E4%B8%83-%E5%BC%95%E6%93%8E%E4%BD%8E%E9%B8%A3%E6%97%B6.html" target="_blank"> 稳定性治理日志（七）：引擎低鸣时 </a> - 2025/06/19 
+
+    
 * <a href="https://0xcaffebabe.github.io/%E7%A8%B3%E5%AE%9A%E6%80%A7/2025/06/09/%E7%A8%B3%E5%AE%9A%E6%80%A7%E6%B2%BB%E7%90%86%E6%97%A5%E5%BF%97-%E5%85%AD-%E6%BA%BA%E4%BA%8E%E6%B5%85%E6%B9%BE.html" target="_blank"> 稳定性治理日志（六）：溺于浅湾 </a> - 2025/06/09 
 
     
@@ -51,9 +54,6 @@
 
     
 * <a href="https://0xcaffebabe.github.io/%E4%BA%BA%E7%94%9F/2025/01/29/2024%E6%80%BB%E7%BB%93-%E5%B8%B8%E6%83%B3%E4%B8%80%E4%BA%8C-%E4%B8%8D%E6%80%9D%E5%85%AB%E4%B9%9D.html" target="_blank"> 2024总结：常想一二，不思八九 </a> - 2025/01/29 
-
-    
-* <a href="https://0xcaffebabe.github.io/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/2024/12/08/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E7%9A%84%E4%B8%80%E8%88%AC%E6%80%9D%E8%B7%AF.html" target="_blank"> 性能优化的一般思路 </a> - 2024/12/08 
 
         
 
