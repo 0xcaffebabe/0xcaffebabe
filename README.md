@@ -131,9 +131,6 @@
   * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/1a5be5157e72e195340539a4e6eddb2692e17881" target="_blank"> docs(stability): add images to stability governance logs </a> - 2025/05/25 17:30:49 
 
     
-  * <a href="https://github.com/0xcaffebabe/photo/commit/2baf98965f2232a03bf85b63dc1bafc12e33e7ae" target="_blank"> update 2025-05-24 14:37:18 </a> - 2025/05/24 22:37:18 
-
-    
 
 </td>
 
