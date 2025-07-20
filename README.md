@@ -122,9 +122,6 @@
   * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/3e0618f1879d234de067607d50893c3b799e3da3" target="_blank"> feat(stability): add post on stability governance log </a> - 2025/07/02 22:03:55 
 
     
-  * <a href="https://github.com/0xcaffebabe/0xcaffebabe.github.io/commit/24a0c5e4f65554885e2d23fde0af554d9388b2ca" target="_blank"> feat(stability): add new blog post "Stability Governance Log (7): When the Engine Whispers" </a> - 2025/06/19 23:11:10 
-
-    
 
 </td>
 
