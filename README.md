@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/651201976" target="_blank"> 180.连续出现的数字 </a> - 2025-08-08 23:22:39 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/651196672" target="_blank"> 178.分数排名 </a> - 2025-08-08 22:59:15 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/577335251" target="_blank"> 3259.超级饮料的最大强化能量 </a> - 2024-11-01 11:01:55 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/577057848" target="_blank"> 3285.找到稳定山的下标 </a> - 2024-10-31 09:28:44 
 
     
 
