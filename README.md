@@ -64,6 +64,9 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/651194150" target="_blank"> 177.第N高的薪水 </a> - 2025-08-08 22:48:50 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/594905275" target="_blank"> 3248.矩阵中的蛇 </a> - 2025-01-23 10:54:09 
 
     
@@ -80,9 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/576495497" target="_blank"> 1884.鸡蛋掉落-两枚鸡蛋 </a> - 2024-10-29 09:26:34 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/576222133" target="_blank"> 3324.出现在屏幕上的字符串序列 </a> - 2024-10-28 09:35:53 
 
     
 
