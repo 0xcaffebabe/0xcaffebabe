@@ -64,6 +64,12 @@
 #### 🔋最近AC
 
 
+  * <a href="https://leetcode.cn/submissions/detail/651196672" target="_blank"> 178.分数排名 </a> - 2025-08-08 22:59:15 
+
+    
+  * <a href="https://leetcode.cn/submissions/detail/651195560" target="_blank"> 176.第二高的薪水 </a> - 2025-08-08 22:54:49 
+
+    
   * <a href="https://leetcode.cn/submissions/detail/651194150" target="_blank"> 177.第N高的薪水 </a> - 2025-08-08 22:48:50 
 
     
@@ -77,12 +83,6 @@
 
     
   * <a href="https://leetcode.cn/submissions/detail/577057848" target="_blank"> 3285.找到稳定山的下标 </a> - 2024-10-31 09:28:44 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/576762176" target="_blank"> 3216.交换后字典序最小的字符串 </a> - 2024-10-30 09:10:34 
-
-    
-  * <a href="https://leetcode.cn/submissions/detail/576495497" target="_blank"> 1884.鸡蛋掉落-两枚鸡蛋 </a> - 2024-10-29 09:26:34 
 
     
 
