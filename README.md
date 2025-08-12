@@ -97,6 +97,7 @@
 #### 📝 计划
 
 - [进行中的书单](https://github.com/users/0xcaffebabe/projects/9)
+  - 能力陷阱
 
 
 - [后端学习计划](https://github.com/users/0xcaffebabe/projects/10)
@@ -105,6 +106,9 @@
 
 
 - [其他学习计划](https://github.com/users/0xcaffebabe/projects/11)
+  - 人生管理系统
+  - kotlin
+  - swift/swiftui
 
 
 <td>
