@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/e432bd3b11bac2375e1fb89430f70e1fcbdf9e77" target="_blank"> docs(architecture): update architecture patterns documentation </a> - 2025/09/10 16:04:53 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/a0f11756d731d062a5159c3cff04b9679f832eb3" target="_blank"> docs: remove unnecessary section break in ad-engine documentation </a> - 2025/09/10 15:24:01 
 
     
