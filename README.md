@@ -116,6 +116,15 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/6d83db99d0a484262cfc07d6781a4f2c376cec35" target="_blank"> docs(doc): 更新SUMMARY.md并移除uniapp相关文档 </a> - 2025/09/11 15:55:41 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/05b205ba98b676a56ec98b16ae46c3176265b5ee" target="_blank"> refactor(MobileToolBox, MobileDocPage): 移除知识趋势功能 </a> - 2025/09/11 15:53:21 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/e8dc2aa963bcb617ec2ce0ca1ea3a1b998f59f41" target="_blank"> refactor(doc): 移除知识趋势相关功能 </a> - 2025/09/11 15:46:57 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/e432bd3b11bac2375e1fb89430f70e1fcbdf9e77" target="_blank"> docs(architecture): update architecture patterns documentation </a> - 2025/09/10 16:04:53 
 
     
@@ -123,12 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/0178b86e98d677e952a0ebbe39a67563b5b93ee2" target="_blank"> fix(deps): update dependency mar... </a> - 2025/09/08 16:36:45 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/51c04b6ba92d820396af950626637596e2766b0c" target="_blank"> fix(deps): update all non-major ... </a> - 2025/09/05 20:34:11 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/601f4bf064a753bb0557aa0352a40cbcdb60ecd4" target="_blank"> Bump esbuild and tsx </a> - 2025/04/22 16:26:14 
 
     
 
