@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/52524872ec50e5524da61418e97a79e4070b9ae4" target="_blank"> docs: 更新 MQTT 相关文档 </a> - 2025/09/12 16:48:25 
+
+    
   * <a href="https://github.com/0xcaffebabe/photo/commit/79f60faa694e372e71d2d3426b1bf85b20eafaec" target="_blank"> update 2025-09-11 14:19:47 </a> - 2025/09/11 22:19:47 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/e432bd3b11bac2375e1fb89430f70e1fcbdf9e77" target="_blank"> docs(architecture): update architecture patterns documentation </a> - 2025/09/10 16:04:53 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/a0f11756d731d062a5159c3cff04b9679f832eb3" target="_blank"> docs: remove unnecessary section break in ad-engine documentation </a> - 2025/09/10 15:24:01 
 
     
 
