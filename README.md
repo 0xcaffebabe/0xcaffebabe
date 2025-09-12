@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/photo/commit/79f60faa694e372e71d2d3426b1bf85b20eafaec" target="_blank"> update 2025-09-11 14:19:47 </a> - 2025/09/11 22:19:47 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/6d83db99d0a484262cfc07d6781a4f2c376cec35" target="_blank"> docs(doc): 更新SUMMARY.md并移除uniapp相关文档 </a> - 2025/09/11 15:55:41 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/a0f11756d731d062a5159c3cff04b9679f832eb3" target="_blank"> docs: remove unnecessary section break in ad-engine documentation </a> - 2025/09/10 15:24:01 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/0178b86e98d677e952a0ebbe39a67563b5b93ee2" target="_blank"> fix(deps): update dependency mar... </a> - 2025/09/08 16:36:45 
 
     
 
