@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/b1ec0c618fb1d708b8956d11cf49d8e0107a1196" target="_blank"> docs(服务治理): 更新服务治理功能列表 </a> - 2025/09/17 17:29:30 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/24c9a8892927f2908f9b7abfde4e6df3cc002e17" target="_blank"> docs: 移除 Freemarker 相关文档 </a> - 2025/09/16 17:05:56 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/300a1aae427f65044c174d457bb6df4fb90f29ad" target="_blank"> docs: 移除 SVN 相关文档 </a> - 2025/09/15 17:35:27 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/d4d65d613721964d91ff31029fbb1beda1ddffb5" target="_blank"> docs: 移除 jQuery 相关文档 </a> - 2025/09/15 17:31:32 
 
     
 
