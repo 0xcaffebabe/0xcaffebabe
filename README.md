@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/e74f250a846a4d21abe64a045544b721d1605fb1" target="_blank"> docs: 用 Mermaid 重绘 git flow 图 </a> - 2025/09/17 17:51:04 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/b1ec0c618fb1d708b8956d11cf49d8e0107a1196" target="_blank"> docs(服务治理): 更新服务治理功能列表 </a> - 2025/09/17 17:29:30 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/fdafe27424faed87c11f8d640f86545c482e8bc5" target="_blank"> docs: 移除 ActiveMQ 相关文档 </a> - 2025/09/15 17:45:32 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/300a1aae427f65044c174d457bb6df4fb90f29ad" target="_blank"> docs: 移除 SVN 相关文档 </a> - 2025/09/15 17:35:27 
 
     
 
