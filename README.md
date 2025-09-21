@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/7ffb853124caa34bb32c085bc8d23dfe9d3ddeb1" target="_blank"> docs(software engineering): 重构结构化设计文档内容 </a> - 2025/09/21 13:55:19 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/e74f250a846a4d21abe64a045544b721d1605fb1" target="_blank"> docs: 用 Mermaid 重绘 git flow 图 </a> - 2025/09/17 17:51:04 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/3bf7592bfa9ab996a0083e970d818eec3e37d218" target="_blank"> docs: 移除 markdown 写作指南 </a> - 2025/09/15 18:07:30 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/fdafe27424faed87c11f8d640f86545c482e8bc5" target="_blank"> docs: 移除 ActiveMQ 相关文档 </a> - 2025/09/15 17:45:32 
 
     
 
