@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/44fc90fa0f22040d171dbf83cd6f2fd8c020444a" target="_blank"> docs(mindmap): 统一思维导图根节点格式 </a> - 2025/09/21 14:03:43 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/7ffb853124caa34bb32c085bc8d23dfe9d3ddeb1" target="_blank"> docs(software engineering): 重构结构化设计文档内容 </a> - 2025/09/21 13:55:19 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/a93c2eba4ab12322425558b7d47d2cebc1dd5aec" target="_blank"> docs: 更新运算律内容 </a> - 2025/09/16 16:38:28 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/3bf7592bfa9ab996a0083e970d818eec3e37d218" target="_blank"> docs: 移除 markdown 写作指南 </a> - 2025/09/15 18:07:30 
 
     
 
