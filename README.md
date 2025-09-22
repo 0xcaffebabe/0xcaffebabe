@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/9d7d438c4d9407362d777a5fabfa9dcd89979a80" target="_blank"> docs(summary): 更新产品章节结构，新增产品战略文档链接 </a> - 2025/09/22 09:33:56 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/4d10bc3591db14dc96896311e7529b79792091f7" target="_blank"> fix(deps): update all non-major ... </a> - 2025/09/19 13:28:27 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/b1ec0c618fb1d708b8956d11cf49d8e0107a1196" target="_blank"> docs(服务治理): 更新服务治理功能列表 </a> - 2025/09/17 17:29:30 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/24c9a8892927f2908f9b7abfde4e6df3cc002e17" target="_blank"> docs: 移除 Freemarker 相关文档 </a> - 2025/09/16 17:05:56 
 
     
 
