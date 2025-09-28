@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/0bd8c61df15146950f682cdf4a9e4e198c60f2aa" target="_blank"> docs(database): 添加 PostgreSQL 文档链接 </a> - 2025/09/28 18:13:46 
+
+    
   * <a href="https://github.com/0xcaffebabe/photo/commit/6d9ceb26db5a1678be176a6da7406e19eb3121b4" target="_blank"> update 2025-09-27 07:25:15 </a> - 2025/09/27 15:25:15 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/44fc90fa0f22040d171dbf83cd6f2fd8c020444a" target="_blank"> docs(mindmap): 统一思维导图根节点格式 </a> - 2025/09/21 14:03:43 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/7ffb853124caa34bb32c085bc8d23dfe9d3ddeb1" target="_blank"> docs(software engineering): 重构结构化设计文档内容 </a> - 2025/09/21 13:55:19 
 
     
 
