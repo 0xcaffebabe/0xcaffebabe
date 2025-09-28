@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/cost-calculator/commit/dc358a8d2beaaab591bbc64db5ab1bb1f6eec39f" target="_blank"> Create CNAME </a> - 2025/09/28 21:25:12 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/0bd8c61df15146950f682cdf4a9e4e198c60f2aa" target="_blank"> docs(database): 添加 PostgreSQL 文档链接 </a> - 2025/09/28 18:13:46 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/4d10bc3591db14dc96896311e7529b79792091f7" target="_blank"> fix(deps): update all non-major ... </a> - 2025/09/19 13:28:27 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/44fc90fa0f22040d171dbf83cd6f2fd8c020444a" target="_blank"> docs(mindmap): 统一思维导图根节点格式 </a> - 2025/09/21 14:03:43 
 
     
 
