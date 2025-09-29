@@ -116,6 +116,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/6f6c9a6211c914837047ab0c7b349c56a6904c09" target="_blank"> docs(software design): 完善防错设计文档内容 </a> - 2025/09/29 10:54:41 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/50182f3488b72233f917b233cbf1a817c28e586c" target="_blank"> docs(SUMMARY): 更新目录结构，新增防错设计和用户体验设计相关内容 </a> - 2025/09/29 10:44:37 
+
+    
   * <a href="https://github.com/0xcaffebabe/cost-calculator/commit/dc358a8d2beaaab591bbc64db5ab1bb1f6eec39f" target="_blank"> Create CNAME </a> - 2025/09/28 21:25:12 
 
     
@@ -126,12 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/9ce270a7cefe8f5c526e130bf360dfcd6ef01017" target="_blank"> docs(network-security): 删除过时的CAS架构图 </a> - 2025/09/22 14:03:02 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/9d7d438c4d9407362d777a5fabfa9dcd89979a80" target="_blank"> docs(summary): 更新产品章节结构，新增产品战略文档链接 </a> - 2025/09/22 09:33:56 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/4d10bc3591db14dc96896311e7529b79792091f7" target="_blank"> fix(deps): update all non-major ... </a> - 2025/09/19 13:28:27 
 
     
 
