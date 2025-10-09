@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/6b61eb12e7b289f0925bec237bf6c66ad82e60b1" target="_blank"> docs(tech-decision): 完善技术选型文档结构与内容 </a> - 2025/10/09 11:25:45 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/6f3308699658ec58f0e131809d026b4ca1d7b249" target="_blank"> docs(软件工程): 添加技术选型文档并调整目录结构 </a> - 2025/10/09 11:10:36 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/50182f3488b72233f917b233cbf1a817c28e586c" target="_blank"> docs(SUMMARY): 更新目录结构，新增防错设计和用户体验设计相关内容 </a> - 2025/09/29 10:44:37 
-
-    
-  * <a href="https://github.com/0xcaffebabe/cost-calculator/commit/dc358a8d2beaaab591bbc64db5ab1bb1f6eec39f" target="_blank"> Create CNAME </a> - 2025/09/28 21:25:12 
 
     
 
