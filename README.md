@@ -116,6 +116,12 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/6f3308699658ec58f0e131809d026b4ca1d7b249" target="_blank"> docs(软件工程): 添加技术选型文档并调整目录结构 </a> - 2025/10/09 11:10:36 
+
+    
+  * <a href="https://github.com/0xcaffebabe/note/commit/e0bfd8bb38d0aa259e18f6edfe9b9530ef6b5ff5" target="_blank"> docs: 删除区块链相关文档和图片 </a> - 2025/10/09 11:02:58 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/e5d81f716660710e734e94c299902fd8893f02e0" target="_blank"> docs(middleware): 删除FastDFS和文件服务器相关文档 </a> - 2025/09/29 18:26:02 
 
     
@@ -126,12 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/cost-calculator/commit/dc358a8d2beaaab591bbc64db5ab1bb1f6eec39f" target="_blank"> Create CNAME </a> - 2025/09/28 21:25:12 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/0bd8c61df15146950f682cdf4a9e4e198c60f2aa" target="_blank"> docs(database): 添加 PostgreSQL 文档链接 </a> - 2025/09/28 18:13:46 
-
-    
-  * <a href="https://github.com/0xcaffebabe/photo/commit/6d9ceb26db5a1678be176a6da7406e19eb3121b4" target="_blank"> update 2025-09-27 07:25:15 </a> - 2025/09/27 15:25:15 
 
     
 
