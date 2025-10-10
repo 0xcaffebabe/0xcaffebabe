@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/d2573f2b252e3889ba87f64de47ac1b0d9d84454" target="_blank"> style(markdown-v1): 移除h1和h2标题的底部边框样式 </a> - 2025/10/10 11:18:47 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/6b61eb12e7b289f0925bec237bf6c66ad82e60b1" target="_blank"> docs(tech-decision): 完善技术选型文档结构与内容 </a> - 2025/10/09 11:25:45 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/6f6c9a6211c914837047ab0c7b349c56a6904c09" target="_blank"> docs(software design): 完善防错设计文档内容 </a> - 2025/09/29 10:54:41 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/50182f3488b72233f917b233cbf1a817c28e586c" target="_blank"> docs(SUMMARY): 更新目录结构，新增防错设计和用户体验设计相关内容 </a> - 2025/09/29 10:44:37 
 
     
 
