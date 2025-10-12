@@ -97,7 +97,7 @@
 #### 📝 计划
 
 - [进行中的书单](https://github.com/users/0xcaffebabe/projects/9)
-  - 能力陷阱
+  - 反脆弱
 
 
 - [后端学习计划](https://github.com/users/0xcaffebabe/projects/10)
