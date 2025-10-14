@@ -116,6 +116,9 @@
 #### 🌴最近提交
 
 
+  * <a href="https://github.com/0xcaffebabe/note/commit/f5ba86aff97fdc58bbbb947c737522e5b27ce46d" target="_blank"> docs(software-quality): 重构质量工程文档内容与结构 </a> - 2025/10/14 19:27:58 
+
+    
   * <a href="https://github.com/0xcaffebabe/note/commit/80fd16f23c7276e561712c36015b53cf6857c39c" target="_blank"> docs(security): 更新安全生产文档结构与内容 </a> - 2025/10/14 17:39:02 
 
     
@@ -129,9 +132,6 @@
 
     
   * <a href="https://github.com/0xcaffebabe/note/commit/e0bfd8bb38d0aa259e18f6edfe9b9530ef6b5ff5" target="_blank"> docs: 删除区块链相关文档和图片 </a> - 2025/10/09 11:02:58 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/e5d81f716660710e734e94c299902fd8893f02e0" target="_blank"> docs(middleware): 删除FastDFS和文件服务器相关文档 </a> - 2025/09/29 18:26:02 
 
     
 
