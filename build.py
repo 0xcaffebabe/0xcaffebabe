@@ -127,48 +127,7 @@ def fetch_form_github_cards(url, id):
   return html
 
 def fetch_commits():
-  text = httpGet('https://api.github.com/users/0xcaffebabe/events/public')
-  data = json.loads(text)
-  ret = ''
-  i = 0
-  recentCommits = []
-  for item in data:
-    if item['type'] != 'PushEvent' : continue
-    commitList = item['payload']['commits']
-    if len(commitList) == 1:
-      msg = commitList[0]['message'].split('\n')[0]
-      if msg == 'update' or 'Deploy to GitHub pages' in msg or 'Merge pull request' in msg or 'Merge branch' in msg or 'Update dependency' in msg: continue
-      time = fetch_commit_datetime(commitList[0]['url'])
-      repo = item['repo']['name']
-      sha = commitList[0]['sha']
-      recentCommits.append({'msg': msg, 'time': time, 'repo': repo, 'sha': sha})
-    else:
-      for commit in commitList:
-        msg = commit['message'].split('\n')[0]
-        if msg == 'update' or 'Deploy to GitHub pages' in msg or 'Merge pull request' in msg or 'Merge branch' in msg or 'Update dependency' in msg: break
-        if (len(msg) >= 32):
-          msg = msg[:32] + "..."
-        time = fetch_commit_datetime(commit['url'])
-        repo = item['repo']['name']
-        sha = commit['sha']
-        recentCommits.append({'msg': msg, 'time': time, 'repo': repo, 'sha': sha})
-
-  for item in recentCommits:
-    if i >= 6 : break
-    str = """
-  * <a href="${link}" target="_blank"> ${title} </a> - ${date} \n
-    """
-
-    UTC_FORMAT = "%Y-%m-%dT%H:%M:%SZ"
-    utc_time = datetime.datetime.strptime(item['time'], UTC_FORMAT)
-    item['time'] = utc_time + datetime.timedelta(hours=8)
-
-    str = str.replace('${link}', 'https://github.com/' + item['repo'] + '/commit/' + item['sha'])
-    str = str.replace('${title}', item['msg'])
-    str = str.replace('${date}', item['time'].strftime('%Y/%m/%d %H:%M:%S'))
-    ret += str
-    i += 1
-  return ret
+  return ''
     
 
 def fetch_inprogrss_book_list():
