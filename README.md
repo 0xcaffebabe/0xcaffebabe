@@ -116,24 +116,6 @@
 #### 🌴最近提交
 
 
-  * <a href="https://github.com/0xcaffebabe/cost-calculator/commit/d4d99dee3f020eb70d2231d1e05cf8d50556c287" target="_blank"> feat(script): 实现基于实际天数的每日成本计算 </a> - 2025/10/15 21:38:08 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/f5ba86aff97fdc58bbbb947c737522e5b27ce46d" target="_blank"> docs(software-quality): 重构质量工程文档内容与结构 </a> - 2025/10/14 19:27:58 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/80fd16f23c7276e561712c36015b53cf6857c39c" target="_blank"> docs(security): 更新安全生产文档结构与内容 </a> - 2025/10/14 17:39:02 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/d2573f2b252e3889ba87f64de47ac1b0d9d84454" target="_blank"> style(markdown-v1): 移除h1和h2标题的底部边框样式 </a> - 2025/10/10 11:18:47 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/6b61eb12e7b289f0925bec237bf6c66ad82e60b1" target="_blank"> docs(tech-decision): 完善技术选型文档结构与内容 </a> - 2025/10/09 11:25:45 
-
-    
-  * <a href="https://github.com/0xcaffebabe/note/commit/6f3308699658ec58f0e131809d026b4ca1d7b249" target="_blank"> docs(软件工程): 添加技术选型文档并调整目录结构 </a> - 2025/10/09 11:10:36 
-
-    
 
 </td>
 
