@@ -32,6 +32,9 @@
 #### 📖 最近博客
 
 
+* <a href="https://0xcaffebabe.github.io/%E4%BA%BA%E7%94%9F/2026/02/17/2025%E6%80%BB%E7%BB%93-%E5%8F%8D%E8%84%86%E5%BC%B1-%E8%87%AA%E6%B4%BD.html" target="_blank"> 2025总结：反脆弱、自洽 </a> - 2026/02/17 
+
+    
 * <a href="https://0xcaffebabe.github.io/%E7%A8%B3%E5%AE%9A%E6%80%A7/2025/06/29/%E7%A8%B3%E5%AE%9A%E6%80%A7%E6%B2%BB%E7%90%86%E6%97%A5%E5%BF%97-%E5%85%AB-21%E4%BA%BF%E6%AC%A1%E5%BF%83%E8%B7%B3%E4%B9%8B%E5%90%8E.html" target="_blank"> 稳定性治理日志（八）：21亿次心跳之后 </a> - 2025/06/29 
 
     
@@ -51,9 +54,6 @@
 
     
 * <a href="https://0xcaffebabe.github.io/%E7%A8%B3%E5%AE%9A%E6%80%A7/2025/04/09/%E7%A8%B3%E5%AE%9A%E6%80%A7%E6%B2%BB%E7%90%86%E6%97%A5%E5%BF%97-%E4%BA%8C-%E5%A4%8D%E7%9B%98%E4%BC%9A%E4%B8%8A.html" target="_blank"> 稳定性治理日志（二）：复盘会上 </a> - 2025/04/09 
-
-    
-* <a href="https://0xcaffebabe.github.io/%E7%A8%B3%E5%AE%9A%E6%80%A7/2025/03/29/%E7%A8%B3%E5%AE%9A%E6%80%A7%E6%B2%BB%E7%90%86%E6%97%A5%E5%BF%97-%E4%B8%80-%E5%88%9D%E9%9D%A2%E9%A3%8E%E6%9A%B4.html" target="_blank"> 稳定性治理日志（一）：初面风暴 </a> - 2025/03/29 
 
         
 
