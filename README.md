@@ -97,18 +97,12 @@
 #### 📝 计划
 
 - [进行中的书单](https://github.com/users/0xcaffebabe/projects/9)
-  - 反脆弱
 
 
 - [后端学习计划](https://github.com/users/0xcaffebabe/projects/10)
-  - 信息安全
-  - 数据工程
 
 
 - [其他学习计划](https://github.com/users/0xcaffebabe/projects/11)
-  - 人生管理系统
-  - kotlin
-  - swift/swiftui
 
 
 <td>
